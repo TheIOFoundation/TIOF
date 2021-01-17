@@ -1,9 +1,9 @@
 ---
 name: "[PROD] Implement Infrastructure Service"
 about: Create a request for a service.
-title: ''
-labels: "⚙ Team: Infrastructure, \U0001F4A7 Priority: Medium, Module: ADM, \U0001F6A7
-  Stage: Not Ready, Project: TIOF"
+title: "[PROD] Implement: "
+labels: "Module: ADM, Project: TIOF, ⚙ Team: Infrastructure, \U0001F4A7 Priority:
+  Medium, \U0001F6A7 Stage: Not Ready"
 assignees: ''
 
 ---
