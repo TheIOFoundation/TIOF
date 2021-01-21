@@ -2,9 +2,9 @@
 name: "[ADM] Operations on Grants (Stream 2)"
 about: Describe this issue template's purpose here.
 title: "[ADM] "
-labels: "\U0001F52E Team: Management, \U0001F4A7 Priority: Medium, Module: ADM, \U0001F50B
-  Team: RA, \U0001F6A7 Stage: Not Ready, Project: TIOF, \U0001F4F0 Stream: Grant,
-  \U0001F5C3 Need: Procedure"
+labels: "Module: ADM, Project: TIOF, \U0001F4A7 Priority: Medium, \U0001F4F0 Stream:
+  Grant, \U0001F50B Team: RA, \U0001F52E Team: Management, \U0001F5C3 Need: Procedure,
+  \U0001F6A7 Stage: Not Ready"
 assignees: ''
 
 ---
