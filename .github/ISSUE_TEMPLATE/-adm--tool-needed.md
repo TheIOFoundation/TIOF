@@ -2,13 +2,14 @@
 name: "[ADM] Tool needed"
 about: Describe a tool/platform that TIOF needs to identify.
 title: "[ADM] Looking for:"
-labels: "⚙ Team: Infrastructure, \U0001F4A7 Priority: Medium, \U0001F6E0 Need: Tool,
-  \U0001F6A7 Stage: Not Ready, Project: TIOF"
+labels: "Project: TIOF, ⚙ Team: Infrastructure, \U0001F4A7 Priority: Medium, \U0001F6A7
+  Stage: Not Ready, \U0001F6E0 Need: Tool"
 assignees: ''
 
 ---
 
-![logo](https://user-images.githubusercontent.com/9198668/85232285-68543380-b430-11ea-8353-1aafb79baf78.png) 
+<a id="top"></a>
+![logo](https://user-images.githubusercontent.com/9198668/103214045-6c668e00-494a-11eb-94bb-4246857b8380.png)
 
 # INSTRUCTIONS
 - Fill up this template (be as accurate as possible)
