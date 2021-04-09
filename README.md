@@ -4,14 +4,16 @@
 
 
 
-Welcome to The IO Fondation's GitHub repository.
+Welcome to [The IO Foundation](https://TIOF.Click/TIOFWeb)'s GitHub repository.
 
-
-
-This space is currently a work in progress.
-
+As part of its organization strategy, The IO Foundation treats its own internal functioning as another project.
 
 This public repository will allow you to:
 - Monitor the progress of TIOF's advocacy. 
-- Understand TIOF's needs (and maybe support the advocacy)
+- Understand TIOF's needs (and maybe support the organization and its advocacy)
+
+
+Please note that this space is currently a work in progress and is scheduled to be released sometime in the first semester of 2021.
+
+
 
