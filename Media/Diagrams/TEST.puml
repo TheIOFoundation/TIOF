@@ -1,0 +1,4 @@
+osa_desktop(GSuite, "GSuite", "SAAS", "Google")
+osa_desktop(GSuiteAdmin, "GSuite Admin", "SAAS", "Google")
+osa_laptop(Salesforce, "Salesforce", "SAAS", "Salesforce")
+osa_iPhone(Github, "Github", "SAAS", "Microsoft")
