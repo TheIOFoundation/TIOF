@@ -1,0 +1,3 @@
+- name: "type: blocker"
+  color: "3498DB"
+  description: "A blocker for the release."
