@@ -1,3 +1,19 @@
+Description: >
+  This comment
+  is too long
+  sfsfsfs
+  sdfsdf
+
+
+
+
 - name: "type: blocker"
   color: "3498DB"
   description: "A blocker for the release."
+  
+  
+  # Channels
+  
+  - name: "type: blocker CHANNEL"
+  color: "3498DB"
+  description: "A blocker for the release CHANNELED."
