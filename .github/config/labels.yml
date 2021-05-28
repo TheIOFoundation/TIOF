@@ -12,8 +12,8 @@ Description: >
   description: "A blocker for the release."
   
   
-  # Channels
+# Channels
   
-  - name: "type: blocker CHANNEL"
+- name: "type: blocker CHANNEL"
   color: "3498DB"
   description: "A blocker for the release CHANNELED."
