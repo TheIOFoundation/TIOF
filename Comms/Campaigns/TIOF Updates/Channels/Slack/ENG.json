@@ -4,21 +4,14 @@
 			"type": "header",
 			"text": {
 				"type": "plain_text",
-				"text": ":tiof: Announcement  "
-			}
-		},
-		{
-			"type": "header",
-			"text": {
-				"type": "plain_text",
-				"text": ":tiof: Update  "
+				"text": ":tiof: Update OR Announcement "
 			}
 		},
 		{
 			"type": "context",
 			"elements": [
 				{
-					"text": "*21th September, 2021*  |  General Announcement",
+					"text": " Date: <%DATE%>  \n Project Lockdown / BHR in Tech / TechUp / Crowdshape / DCDR / TechUp",
 					"type": "mrkdwn"
 				}
 			]
@@ -30,68 +23,36 @@
 			"type": "section",
 			"text": {
 				"type": "mrkdwn",
-				"text": "🛠 |   *INTERNAL TOOLS*  | 🛠 "
+				"text": "🛠  *INTERNAL TOOL* "
 			}
 		},
 		{
 			"type": "section",
 			"text": {
 				"type": "mrkdwn",
-				"text": "*CALIPIO* \n This tool allows you to capture your screen combining Scree + Webcam + Mic. You do not need to install anything, it works right from your browser. Keep your recordings organized and share them with your team or with external people. \n\n `Find Calipio on your Basaas >> Content Creation.` \n\n *For those of you interested, please leave your username on the thread.*"
+				"text": "*Tool Name* \n Description of *what* the tool is and *how* it will be used  / *why* it will be useful. \n\n `Where the tool can be found.` \n\n *Call to action*"
 			},
 			"accessory": {
 				"type": "image",
-				"image_url": "https://www.saashub.com/images/app/service_logos/165/ccw7kc3qtn5r/large.png?1608734596",
-				"alt_text": "cute cat"
-			}
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "section",
-			"text": {
-				"type": "mrkdwn",
-				"text": ":loudspeaker: |  *MEDIA RELEASE*  | :loudspeaker: "
+				"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/White_Square.svg/788px-White_Square.svg.png",
+				"alt_text": "Icon of Tool"
 			}
 		},
 		{
 			"type": "section",
 			"text": {
 				"type": "mrkdwn",
-				"text": "*Interview in Digital News Asia* \n DNA has released an <https://www.digitalnewsasia.com/digital-economy/problem-digital-rights-we-are-still-30-years-past|interview about Jean>. \n\n Check it out!"
-			},
-			"accessory": {
-				"type": "image",
-				"image_url": "https://pbs.twimg.com/profile_images/2556892728/aguigpa7f4tm1zrworjs_400x400.jpeg",
-				"alt_text": "cute cat"
-			}
-		},
-		{
-			"type": "divider"
-		},
-		{
-			"type": "section",
-			"text": {
-				"type": "mrkdwn",
-				"text": ":calendar: |   *UPCOMING EVENTS*  | :calendar: "
-			}
-		},
-		{
-			"type": "section",
-			"text": {
-				"type": "mrkdwn",
-				"text": "`03-06 October 2021`  *United Nations World Data Forum 2021* "
+				"text": "Register for an account: "
 			},
 			"accessory": {
 				"type": "button",
 				"text": {
 					"type": "plain_text",
-					"text": "🎫 RSVP here",
+					"text": "🖋️ Click Here",
 					"emoji": true
 				},
 				"value": "click_me_123",
-				"url": "https://whova.com/portal/registration/unwdf_202110/",
+				"url": "https://www.google.com/",
 				"action_id": "button-action"
 			}
 		},
@@ -99,12 +60,18 @@
 			"type": "section",
 			"text": {
 				"type": "mrkdwn",
-				"text": "The UN World Data Forum 2021, hosted by the Federal Statistical Office of Switzerland, will take place from 3 to 6 October 2021 in Bern, Switzerland in a hybrid format. See full programme <https://whova.com/embedded/event/unwdf_202110/?utc_source=ems |here>."
+				"text": "View the instructions manual:"
 			},
 			"accessory": {
-				"type": "image",
-				"image_url": "https://d1keuthy5s86c8.cloudfront.net/static/ems/upload/img/a9af79dee14baccf9f01eeb47c9f3a02.png",
-				"alt_text": "cute cat"
+				"type": "button",
+				"text": {
+					"type": "plain_text",
+					"text": " 📚 Click Here",
+					"emoji": true
+				},
+				"value": "click_me_123",
+				"url": "https://www.google.com/",
+				"action_id": "button-action"
 			}
 		},
 		{
@@ -114,22 +81,203 @@
 			"type": "section",
 			"text": {
 				"type": "mrkdwn",
-				"text": " :loud_sound:  *IMPORTANT ANNOUNCEMENTS*  :loud_sound:"
+				"text": "📰 *MEDIA RELEASE* "
 			}
 		},
 		{
 			"type": "section",
 			"text": {
 				"type": "mrkdwn",
-				"text": ":fire: *BASAAS* is changing the way they deliver their service: for a number of reasons they are dropping the desktop version and concentrating on a <https://chrome.google.com/webstore/detail/basaas-extension/dfnefpadkibojlglpobnjbphlaojobfg?hl=en | browser extension>. \n The experience is quite similar and we are working with them to make it as productive as possible. \n We urge you to start installing the extension before they desktop app is deprecated. We may be running a training session on this. Please don't hesitate to reach out with questions.",
-				"verbatim": false
+				"text": "*What the feature is* \n *Organization* has released <https://www.google.com/| hyperlinked description of the feature (who was featured)>. \n\n Check it out at the hyperlink above!"
+			},
+			"accessory": {
+				"type": "image",
+				"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/White_Square.svg/788px-White_Square.svg.png",
+				"alt_text": "organization's logo or other relevant image"
 			}
 		},
 		{
 			"type": "section",
 			"text": {
 				"type": "mrkdwn",
-				"text": ":mailbox_with_mail: We have started to deploy email filters in our unified public email (<mailto://Contact@TheIOFoundation | Contact@TheIOFoundation>). You may have observed some *Email Notification* messages in certain channels. These are emails that are forwarded from Contact@ that should be of interest of the members of those channels. \n You will find things such as events or updates of products we use across the organization."
+				"text": "Call to action: invitation to participate in a discussion thread"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": " 📅  *UPCOMING EVENT*  "
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "*Name of the event*"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "`Date of Event, Platform`  "
+			},
+			"accessory": {
+				"type": "button",
+				"text": {
+					"type": "plain_text",
+					"text": "🎫 Click here",
+					"emoji": true
+				},
+				"value": "click_me_123",
+				"url": "https://www.google.com/",
+				"action_id": "button-action"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "Description of *what* the event is and *why* people should attend. *Who* to contact if you have questions."
+			},
+			"accessory": {
+				"type": "image",
+				"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/White_Square.svg/788px-White_Square.svg.png",
+				"alt_text": "event logo or relevant image"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": " 📣 *IMPORTANT ANNOUNCEMENTS* "
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "*What* the announcement is, *why* it is significant, and the."
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "*Call to Action*"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "TEXT FOR THE CALL TO ACTION."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": " 😊 *SHOUTOUT* "
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "*Who* is being acknowledged and *why* we are celebrating their work. Don't forget to tag the indiviudal(s) involved."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": " ❓ *SEEKING FEEDBACK* "
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "*What* we are looking for, *how* people can contribute. \n `Please share your thoughts by *Due Date*`"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "Submit your feedback"
+			},
+			"accessory": {
+				"type": "button",
+				"text": {
+					"type": "plain_text",
+					"text": "🧾 Click Here",
+					"emoji": true
+				},
+				"value": "click_me_123",
+				"url": "https://www.google.com/",
+				"action_id": "button-action"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": " 🏙️  *EXTERNAL OPPORTUNITY*  "
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "`Date of Event, Platform`  *Name of the event*"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "Description of *what* the event is and *why* people should attend. *Link* to PLD. *Who* to contact if you have questions (the organizer).\n \n _Disclaimer: This event is not officially associated with The IO Foundation or Project Lockdown in any way._"
+			},
+			"accessory": {
+				"type": "image",
+				"image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/White_Square.svg/788px-White_Square.svg.png",
+				"alt_text": "event logo or relevant image"
+			}
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "Link for registration:"
+			},
+			"accessory": {
+				"type": "button",
+				"text": {
+					"type": "plain_text",
+					"text": "🎫 Click Here",
+					"emoji": true
+				},
+				"value": "click_me_123",
+				"url": "https://www.google.com/",
+				"action_id": "button-action"
 			}
 		},
 		{
@@ -140,7 +288,7 @@
 			"elements": [
 				{
 					"type": "mrkdwn",
-					"text": ":pushpin: Do you have something to include in the newsletter? *Contact us so we can work on it*."
+					"text": ":pushpin: Do you have something to include in the announcements? *Please contact us so we can work on it*."
 				}
 			]
 		}
