@@ -1,7 +1,12 @@
 # Table of contents
 
-* [Readme](README.md)
+* [Policies](README.md)
   * [💯 Code of Conduct](readme/PolicyCoC.md)
+  * [Anti harassment & Anti bullying](readme/anti-harassment-and-anti-bullying.md)
+  * [Anti corruption & Anti bribery](readme/anti-corruption-and-anti-bribery.md)
+  * [Equal Opportunities](readme/equal-opportunities.md)
+  * [Sickness Absence](readme/sickness-absence.md)
+  * [Transparency & Accountability](readme/transparency-and-accountability.md)
 
 ## Group 2
 
