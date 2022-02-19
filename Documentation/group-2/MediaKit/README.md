@@ -1,49 +1,6 @@
 # Media Kit
 
-
-
 ![](http://tiof.click/TIOFWikiHeader)
-
-## Table of Contents
-
-<details>
-
-<summary>Expand / Collapse</summary>
-
-&#x20;
-
-1. Introduction
-   * Definitions
-   * About this document
-   * Scope
-2. Concepts
-   * Name
-   * Mission & Vision
-   * Values
-   * The advocacy
-   * DCDR Principles
-   * TIOF Members
-3. Contents
-   * Descriptions
-   * Logos
-   * Fonts (Typeface)
-   * Color palette
-   * QR Codes
-   * \#Tags
-4. Official Channels
-   * Official Website
-   * Summary of links
-   * URL Shorteners
-   * Email
-   * Internal Communications
-   * Initiatives' Repositories
-   * Social Media
-   * Events
-   * Donations & Crowdfunding
-   * Human Resources
-5. TIOF Initiatives
-
-</details>
 
 ## Introduction
 
