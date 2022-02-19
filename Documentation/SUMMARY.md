@@ -11,7 +11,7 @@
 ***
 
 * [Page 3](page-3/README.md)
-  * [Page 4](page-3/page-4.md)
+  * [Code of Conduct](page-3/page-4.md)
 
 ## Group 1
 
