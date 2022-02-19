@@ -1,6 +1,9 @@
-# Media Kit
+---
+cover: http://tiof.click/TIOFWikiHeader
+coverY: 0
+---
 
-![](http://tiof.click/TIOFWikiHeader)
+# Media Kit
 
 ## Introduction
 
