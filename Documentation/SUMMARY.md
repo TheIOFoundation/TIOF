@@ -2,7 +2,7 @@
 
 * [Hey Big Tech! declaration](README.md)
 * [Join us](join-us.md)
-* [Page 2](page-2.md)
+* [Donate](donate.md)
 * [Policies](<README (1).md>)
   * [💯 Code of Conduct](readme/PolicyCoC.md)
   * [Anti harassment & Anti bullying](readme/anti-harassment-and-anti-bullying.md)
