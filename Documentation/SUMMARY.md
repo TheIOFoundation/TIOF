@@ -1,7 +1,7 @@
 # Table of contents
 
 * [About The IO Foundation](README.md)
-* [Page 2](page-2.md)
+* [Business Plan](business-plan.md)
 * [Hey Big Tech! declaration](hey-big-tech-declaration.md)
 * [Join us](join-us.md)
 * [Donate](donate.md)
