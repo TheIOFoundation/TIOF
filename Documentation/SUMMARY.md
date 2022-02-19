@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Readme](README.md)
+  * [Code of Conduct](readme/page-4.md)
 
 ## Group 2
 
@@ -10,8 +11,7 @@
 
 ***
 
-* [Page 3](page-3/README.md)
-  * [Code of Conduct](page-3/page-4.md)
+* [Page 3](page-3.md)
 
 ## Group 1
 
