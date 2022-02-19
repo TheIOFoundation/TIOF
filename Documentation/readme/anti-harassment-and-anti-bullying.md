@@ -8,15 +8,13 @@
 
 <details>
 
-<summary>Expand / Collapse</summary>
+<summary>Expand / Collapse </summary>
 
-&#x20;
-
-1. Introduction
-   * Definitions
-   * About this document
-   * Scope
-2. Policy details
+1. [Introduction](anti-harassment-and-anti-bullying.md#introduction)
+   * [Definitions](anti-harassment-and-anti-bullying.md#definitions)
+   * [About this document](anti-harassment-and-anti-bullying.md#about-this-document)
+   * [Scope](anti-harassment-and-anti-bullying.md#scope)
+2. [Policy details](anti-harassment-and-anti-bullying.md#policy-details)
    * Anti harassment and Anti bullying statement
    * What is harassment?
    * What is bullying
