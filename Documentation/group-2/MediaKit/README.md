@@ -2,7 +2,7 @@
 
 
 
-![logo](http://tiof.click/TIOFWikiHeader)
+![](http://tiof.click/TIOFWikiHeader)
 
 ## Table of Contents
 
