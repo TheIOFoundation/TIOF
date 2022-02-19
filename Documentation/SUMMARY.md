@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Readme](README.md)
-  * [Code of Conduct](readme/page-4.md)
+  * [💯 Code of Conduct](readme/PolicyCoC.md)
 
 ## Group 2
 
