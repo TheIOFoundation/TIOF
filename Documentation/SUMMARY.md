@@ -8,10 +8,11 @@
   * [Sickness Absence](readme/sickness-absence.md)
   * [Transparency & Accountability](readme/transparency-and-accountability.md)
 
-## Group 2
+## Comms
 
-* [Media Kit](group-2/MediaKit/README.md)
-  * [Page 5](group-2/MediaKit/page-5/README.md)
+* [Media Kit](comms/media-kit/README.md)
+  * [Official Channels](comms/media-kit/official-channels.md)
+  * [Tags](comms/media-kit/Tags/README.md)
     * [afsafsaf](https://tiof.click/HeyBigTech)
 
 ***
