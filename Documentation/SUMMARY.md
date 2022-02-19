@@ -10,8 +10,8 @@
 
 ## Group 2
 
-* [Page 2](group-2/page-2/README.md)
-  * [Page 5](group-2/page-2/page-5/README.md)
+* [Media Kit](group-2/MediaKit/README.md)
+  * [Page 5](group-2/MediaKit/page-5/README.md)
     * [afsafsaf](https://tiof.click/HeyBigTech)
 
 ***
