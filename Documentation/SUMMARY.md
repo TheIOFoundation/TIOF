@@ -1,15 +1,15 @@
 # Table of contents
 
-* [About The IO Foundation](README.md)
+* [👍 About The IO Foundation](README.md)
   * [Business Plan](business-plan.md)
 * [Advocacy](advocacy.md)
   * [Theory of Change](theory-of-change.md)
   * [Quick Monitor](advocacy/quick-monitor.md)
   * [Roadmap](advocacy/roadmap.md)
-* [Hey Big Tech! declaration](hey-big-tech-declaration.md)
-* [Join us](join-us.md)
-* [Donate](donate.md)
-* [Acknowledgments](acknowledgments.md)
+* [👍 Hey Big Tech! declaration](hey-big-tech-declaration.md)
+* [🚧 Join us](join-us.md)
+* [🚧 Donate](donate.md)
+* [🚧 Acknowledgments](acknowledgments.md)
 
 ## Institutional
 
@@ -20,8 +20,8 @@
     * [Boards](institutional/structures/organizational-chart/boards.md)
     * [Teams](institutional/structures/organizational-chart/teams.md)
 * [Policies](institutional/Policies/README.md)
-  * [Dhatham House Rule](institutional/Policies/dhatham-house-rule.md)
-  * [💯 Code of Conduct](institutional/Policies/PolicyCoC.md)
+  * [👍 Dhatham House Rule](institutional/Policies/dhatham-house-rule.md)
+  * [👍 Code of Conduct](institutional/Policies/PolicyCoC.md)
   * [Anti corruption & Anti bribery](institutional/Policies/anti-corruption-and-anti-bribery.md)
   * [Anti harassment & Anti bullying](institutional/Policies/anti-harassment-and-anti-bullying.md)
   * [Equal Opportunities](institutional/Policies/equal-opportunities.md)

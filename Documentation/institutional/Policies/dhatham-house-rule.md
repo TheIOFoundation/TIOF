@@ -1,4 +1,4 @@
-# Dhatham House Rule
+# 👍 Dhatham House Rule
 
 The DHATHAM v0.5 House Rule, which is an evolution from the [CHATHAM House Rule](https://dothe.click/Ext5) in response to the new digital realities, stipulates:
 

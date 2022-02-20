@@ -1,2 +1,16 @@
-# Donate
+# 🚧 Donate
+
+Donation Policy
+
+###
+
+### Fiat
+
+
+
+### Cryptocurrencies
+
+
+
+
 
