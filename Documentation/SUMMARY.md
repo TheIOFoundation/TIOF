@@ -65,7 +65,7 @@
   * [Official Channels](comms/media-kit/official-channels.md)
   * [Tags](comms/media-kit/Tags/README.md)
     * [afsafsaf](https://tiof.click/HeyBigTech)
-* [Terminology](comms/terminology.md)
+  * [Terminology](comms/media-kit/terminology.md)
 * [Media Archive](comms/media-archive.md)
 
 ## Infrastructure
