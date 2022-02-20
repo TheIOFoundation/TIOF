@@ -6,3 +6,12 @@ coverY: 0
 # Policies
 
 This is the file I created myself.
+
+
+
+
+
+## Summary of Policies
+
+
+
