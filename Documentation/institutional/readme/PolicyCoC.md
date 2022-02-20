@@ -109,7 +109,7 @@ TIOF leaders will follow these Community Impact Guidelines in determining the co
 
 ### Attributions
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at [https://www.contributor-covenant.org/version/2/0/code\_of\_conduct.html](https://www.contributor-covenant.org/version/2/0/code\_of\_conduct.html).
+This Code of Conduct is adapted from the [Contributor Covenant](https://dothe.click/Ext3), [version 2.0](https://dothe.click/Ext4).
 
 Other sources of inspiration are:
 
