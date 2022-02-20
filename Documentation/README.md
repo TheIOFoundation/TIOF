@@ -1,18 +1,14 @@
 # 👍 About The IO Foundation
 
-The IO Foundation (TIOF) is a for-impact NGO advocating for [Data-Centric Digital Rights (DCDR)](https://tiof.click/DCDRAdvocacy) to establish a more solid approach from a technical standards perspective into digital spaces and to raise awareness on the critical role of programmers as the Next Generation of Rights defenders.
+## The organization
 
+The IO Foundation (TIOF) is a global for-impact NGO born from a fundamental concern about the state of technology in the world and advocating for [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy).
 
+As societies become inevitably digital, _their architects and builders need to embrace their fundamental role as the Next Generation of Rights defenders_.
 
-The IO Foundation (TIOF) is a global for-impact NGO born from a fundamental concern about the state of technology in the world and advocating for Data-Centric Digital Rights.
+There remains, however, a limited international understanding of the true impact of technology on citizens and their digital twins as data becomes an increasingly powerful economic, political and social force.
 
-As data becomes an increasingly powerful economic, political and social force, _programmers are emerging as the Next Generation of Rights defenders_. There remains, however, a limited international understanding of the impact of technology on citizens and their digital twins.
-
-
-
-Following its vision of _a world where Human Rights and Data-Centric Digital Rights are one and the same_, TIOF aims to raise awareness of the importance of Data-Centric Digital Rights in collaboration with all stakeholders ranging from civil society, programmer communities, bodies of governance and corporate.
-
-, its mission is to promote, _protect and provide solutions for Digital Rights_, thus aiming to bridge technological and humanitarian perspectives.
+TIOF aims to raise awareness of the importance of Data-Centric Digital Rights in collaboration with all stakeholders ranging from civil society, programmer communities, bodies of governance and corporate and work together to achieve the proclamation and adoption of a Universal Declaration of Digital Rights.
 
 
 
@@ -36,3 +32,44 @@ The IO Foundation delivers its mission through the observance of the following v
 
 > **Impact:** Our initiatives are designed and implemented only to serve the broader advocacy and to help, step by step, generate practical outcomes that make technology better and safer transparently for citizens.
 
+
+
+## The initiatives
+
+The IO Foundation delivers its mission through the implementation of a number of initiatives.
+
+### Data-Centric Digital Rights
+
+Developing the actions, research and infrastructure to sustain the DCDR advocacy.
+
+Get involved
+
+### BHR in Tech
+
+Supporting the adoption and implementation of the United Nations' Guiding Principles in Business and Human Rights in the Tech sector.
+
+Get involved
+
+### Crowdshape
+
+A platform to support technologists wanting to make and impact and support the growth of the Tech NGO ecosystem.
+
+Get involved
+
+### TechUp
+
+A collaborative space uniting capacity building and social participation to build better and safer digital societies.
+
+Get involved
+
+### Project Lockdown
+
+A civic tech, interactive platform providing an overview of the state of Human and Digital Rights around the globe.
+
+Get involved
+
+### Universal Declaration of Digital Rights
+
+A multi-stakeholder initiative promoted by The IO Foundation to obtain the proclamation of a Universal Declaration of Digital Rights.
+
+Get involved
