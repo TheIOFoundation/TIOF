@@ -46,7 +46,6 @@
   * [Staff](institutional/handbooks/staff.md)
   * [Human Resources](institutional/handbooks/human-resources.md)
   * [Initiatives](institutional/handbooks/initiatives.md)
-  * [Terminology](institutional/handbooks/terminology.md)
   * [Tags](institutional/handbooks/tags.md)
   * [Finance](institutional/handbooks/finance.md)
 * [Annual Reports](institutional/annual-reports/README.md)
@@ -66,6 +65,7 @@
   * [Official Channels](comms/media-kit/official-channels.md)
   * [Tags](comms/media-kit/Tags/README.md)
     * [afsafsaf](https://tiof.click/HeyBigTech)
+* [Terminology](comms/terminology.md)
 * [Media Archive](comms/media-archive.md)
 
 ## Infrastructure

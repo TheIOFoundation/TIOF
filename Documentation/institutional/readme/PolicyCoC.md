@@ -8,9 +8,10 @@
 
 ### Scope
 
-This Code of Conduct applies to:
+This Code of Conduct applies to: TIOF Members | TIOF Contributors
 
-* All \[TIOF Members] (https://github.com/TheIOFoundation/TIOF/wiki/Terminology#member)
+* All \[TIOF Members] #member)
+* All \[TIOF Contributors]
 
 This Code of Conduct applies within all TIOF spaces, including (although not limited to) management activities, project contributions or events, and also applies when an individual is officially representing the broader community in public spaces. Examples of representing our community include (although not limited to) using an official e-mail address, posting via an official social media account or acting as an appointed representative at an event (online or offline).
 
