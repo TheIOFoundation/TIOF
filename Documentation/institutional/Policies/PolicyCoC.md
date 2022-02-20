@@ -2,7 +2,7 @@
 
 
 
-![logo](https://user-images.githubusercontent.com/9198668/103223358-02a5ae80-4961-11eb-9a78-c6ebc20d7691.png)
+![](https://user-images.githubusercontent.com/9198668/103223358-02a5ae80-4961-11eb-9a78-c6ebc20d7691.png)
 
 ***
 
@@ -25,7 +25,7 @@ We as members and contributors, pledge to make the participation in our communit
 
 By participating in this activity, we pledge to act and interact in ways that contribute to an open, welcoming and healthy community.
 
-We likewise pledge to strive to achieve TIOF's [mission](https://github.com/TheIOFoundation/TIOF/wiki#mission) and [vision](https://github.com/TheIOFoundation/TIOF/wiki#vision) by embracing its [values](https://github.com/TheIOFoundation/TIOF/wiki#values), which will inform our decisions at all times. Finally, we will be observant of the [Dhatham House Rule](http://tiof.click/Dhatam) in all of our digital interactions.
+We likewise pledge to strive to achieve TIOF's [mission](https://tiof.click/TIOFMission) and [vision](https://tiof.click/TIOFVision) by embracing its [values](https://tiof.click/TIOFValues), which will inform our decisions at all times. Finally, we will be observant of the [Dhatham House Rule](https://tiof.click/Dhatham) in all of our digital interactions.
 
 ### The Organization's Pledge
 
@@ -64,7 +64,7 @@ Examples of unacceptable behavior include:
 * Public or private harassment
 *   Publishing others' private information, such as (although not limited to) a physical or email address, without their explicit permission.
 
-    > Please refer the [Dhatham House Rule](http://tiof.click/Dhatam).
+    > Please refer the [Dhatham House Rule](https://tiof.click/Dhatham).
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ### Enforcement Responsibilities
