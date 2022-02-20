@@ -42,16 +42,51 @@
     * [afsafsaf](https://tiof.click/HeyBigTech)
 * [Media Archive](comms/media-archive.md)
 
-## Packages
+## Infrastructure
 
-* [Page 7](packages/page-7.md)
+* [Basic Needs](infrastructure/basic-needs.md)
 
 ***
 
 * [Page 3](page-3.md)
 * [Page 4](page-4.md)
 
-## Handbooks
+## Imports
 
-* [Page 1](group-1/page-1.md)
-* [Page 5](handbooks/page-5.md)
+* [Page 1](imports/page-1.md)
+* [Page 5](imports/page-5.md)
+* [Call To Actions](imports/call-to-actions.md)
+* [Creative Commons Malaysia Chapter](imports/creative-commons-malaysia-chapter.md)
+* [Handbook: Banking](imports/handbook-banking.md)
+* [Handbook: Comms](imports/handbook-comms.md)
+* [Handbook: Devs](imports/handbook-devs.md)
+* [Handbook: Finance](imports/handbook-finance.md)
+* [Handbook: Human Resources](imports/handbook-human-resources.md)
+* [Handbook: Initiatives](imports/handbook-initiatives.md)
+* [Handbook: Organization Identity](imports/handbook-organization-identity.md)
+* [Handbook: Procurement](imports/handbook-procurement.md)
+* [Handbook: Staff](imports/handbook-staff.md)
+* [Handbook: Tags](imports/handbook-tags.md)
+* [Handbook: Terminology](imports/handbook-terminology.md)
+* [Handbooks](imports/handbooks.md)
+* [Hey Big Tech! declaration](imports/hey-big-tech-declaration.md)
+* [Home](imports/home.md)
+* [Creative Commons Malaysia Chapter](imports/creative-commons-malaysia-chapter-1.md)
+* [Hey Big Tech! declaration](imports/hey-big-tech-declaration-1.md)
+* [Infrastructure: Calendar.com](imports/infrastructure-calendar.com.md)
+* [Infrastructure: Custom Fields](imports/infrastructure-custom-fields.md)
+* [Infrastructure: Encharge.io](imports/infrastructure-encharge.io.md)
+* [Infrastructure: Funnels](imports/infrastructure-funnels.md)
+* [Infrastructure: Github](imports/infrastructure-github.md)
+* [Infrastructure: Google Calendar](imports/infrastructure-google-calendar.md)
+* [Infrastructure: LinkedIn](imports/infrastructure-linkedin.md)
+* [Infrastructure: QPage](imports/infrastructure-qpage.md)
+* [Infrastructure: Salesforce](imports/infrastructure-salesforce.md)
+* [Infrastructure: Slack](imports/infrastructure-slack.md)
+* [Media Kit](imports/media-kit.md)
+* [Policies](imports/policies.md)
+* [Policy: Children Protection](imports/policy-children-protection.md)
+* [Policy: Data & Privacy](imports/policy-data-and-privacy.md)
+* [Policy: Data Protection](imports/policy-data-protection.md)
+* [Policy: Donations](imports/policy-donations.md)
+* [Policy: Health and Safety](imports/policy-health-and-safety.md)
