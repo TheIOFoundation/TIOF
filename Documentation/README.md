@@ -42,7 +42,7 @@ The IO Foundation delivers its mission through the implementation of a number of
 
 Developing the actions, research and infrastructure to sustain the DCDR advocacy.
 
-Get involved
+[Get involved](https://tiof.click/DCDRDocs)
 
 ### BHR in Tech
 
@@ -60,16 +60,16 @@ Get involved
 
 A collaborative space uniting capacity building and social participation to build better and safer digital societies.
 
-Get involved
+[Get involved](https://tiof.click/TUDocs)
 
 ### Project Lockdown
 
 A civic tech, interactive platform providing an overview of the state of Human and Digital Rights around the globe.
 
-Get involved
+[Get involved](https://tiof.click/PLDDocs)
 
 ### Universal Declaration of Digital Rights
 
 A multi-stakeholder initiative promoted by The IO Foundation to obtain the proclamation of a Universal Declaration of Digital Rights.
 
-Get involved
+[Get involved](https://tiof.click/UDDRDocs)
