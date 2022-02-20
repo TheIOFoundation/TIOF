@@ -1,4 +1,4 @@
-# Policy: Whistleblowing
+# Whistleblowing
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 
@@ -74,7 +74,11 @@ Back to top
 
 ### Whistleblowing statement
 
-The IO Foundation is committed to conducting its advocacy and all of its business in an honest and ethical manner and we expect all Members and Contributors to maintain high standards. Any suspected wrongdoing should be reported as soon as possible and will be investigated with the outmost confidentiality.
+The IO Foundation is committed to conducting its advocacy and all of its business in an honest and Rights & Obligations manner and we expect all Members and Contributors to maintain high standards. Any suspected wrongdoing should be reported as soon as possible and will be investigated with the outmost confidentiality.
+
+Please remember that presumption of innocence applies to everyone.
+
+
 
 Back to top
 

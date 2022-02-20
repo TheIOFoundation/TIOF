@@ -1,4 +1,4 @@
-# TBC: Quick Monitor
+# Quick Monitor
 
 Project Lockdown:
 

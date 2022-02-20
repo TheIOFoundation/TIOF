@@ -1,4 +1,4 @@
-# Policy: Remuneration
+# Remuneration
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 
