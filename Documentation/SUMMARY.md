@@ -7,6 +7,7 @@
   * [Quick Monitor](advocacy/quick-monitor.md)
   * [Roadmap](advocacy/roadmap.md)
 * [👍 Hey Big Tech! declaration](hey-big-tech-declaration.md)
+* [NextGen Rights Defenders](nextgen-rights-defenders.md)
 * [🚧 Join us](join-us.md)
 * [🚧 Donate](donate.md)
 * [🚧 Acknowledgments](acknowledgments.md)
