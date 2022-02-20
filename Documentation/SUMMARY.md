@@ -5,7 +5,7 @@
 * [🚧 Advocacy](advocacy.md)
   * [🚧 Theory of Change](theory-of-change.md)
   * [🚧 Quick Monitor](advocacy/quick-monitor.md)
-  * [Roadmap](advocacy/roadmap.md)
+  * [🚧 Roadmap](advocacy/roadmap.md)
 * [👍 Hey Big Tech! declaration](hey-big-tech-declaration.md)
 * [🚧 NextGen Rights Defenders](nextgen-rights-defenders.md)
 * [🚧 Join us](join-us.md)
