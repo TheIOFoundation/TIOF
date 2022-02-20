@@ -113,4 +113,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 Other sources of inspiration are:
 
-* [Suggested pledge for business owners](https://dothe.click/Ext2) by [Andrew Doyle](https://tiof.click/Ext1)
+* [Suggested pledge for business owners](https://dothe.click/Ext2) by [Andrew Doyle](https://dothe.click/Ext1)
