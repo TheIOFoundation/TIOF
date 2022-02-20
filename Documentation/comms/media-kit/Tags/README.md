@@ -1,2 +1,22 @@
-# Page 5
+# Tags
+
+
+
+
+
+RightsTech
+
+
+
+Global Tags
+
+Storage of Tags
+
+
+
+Post Assist
+
+
+
+
 
