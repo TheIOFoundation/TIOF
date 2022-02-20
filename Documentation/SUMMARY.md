@@ -58,7 +58,6 @@
   * [2023](institutional/annual-reports/2023.md)
 * [DCDR Principles](https://tiof.click/Principles)
 * [Partners](institutional/partners.md)
-* [Page 1](institutional/page-1.md)
 * [Registrations & Certifications](institutional/registrations-and-certifications.md)
 
 ## Comms
