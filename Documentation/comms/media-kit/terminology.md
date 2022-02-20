@@ -105,19 +105,6 @@ Ex GPD.
 
 ### Engagement Document
 
-### Spaces
-
-Any location, physical or virtual, in which TIOF advances its advocacy and implements its initiatives.
-
-Examples of spaces:
-
-* TIOF's offices
-* Event venues
-* Event online platforms
-* Official TIOF channels
-
-###
-
 ### Media Channel
 
 A list of Channels & their usage per Team can be found here: @@@

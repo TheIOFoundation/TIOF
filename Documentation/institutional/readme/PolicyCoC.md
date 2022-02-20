@@ -109,7 +109,8 @@ TIOF leaders will follow these Community Impact Guidelines in determining the co
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at [https://www.contributor-covenant.org/version/2/0/code\_of\_conduct.html](https://www.contributor-covenant.org/version/2/0/code\_of\_conduct.html).
 
-Other sources of inspiration are: \
-\- Suggested pledge for business owners by Andrew Doyle https://twitter.com/andrewdoyle\_com/status/1303991339009400832?lang=en
+Other sources of inspiration are:
+
+* Suggested pledge for business owners by Andrew Doyle https://twitter.com/andrewdoyle\_com/status/1303991339009400832?lang=en
 
 This document employs terms related to the [DCDR Advocacy](http://tiof.click/Advocacy) that can be found in the [TIOF terminology](http://tiof.click/Terminology).
