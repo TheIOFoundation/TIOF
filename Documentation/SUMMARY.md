@@ -58,6 +58,7 @@
   * [2023](institutional/annual-reports/2023.md)
 * [DCDR Principles](https://tiof.click/Principles)
 * [Partners](institutional/partners.md)
+* [Page 1](institutional/page-1.md)
 * [Registrations & Certifications](institutional/registrations-and-certifications.md)
 
 ## Comms
@@ -68,6 +69,11 @@
     * [afsafsaf](https://tiof.click/HeyBigTech)
   * [Terminology](comms/media-kit/terminology.md)
 * [Media Archive](comms/media-archive.md)
+
+## Codefield
+
+* [Publications](codefield/publications.md)
+* [Podcast](codefield/podcast.md)
 
 ## Infrastructure
 
