@@ -67,9 +67,9 @@ A unique identifier that allows an emitter A to send a message to a receptor B u
 * Mobile number
 * Physical address
 
-### Member
+### Members
 
-Any person officially involved in the implementation of projects under The IO Foundation. This includes from staff to volunteers.
+Any person officially involved in the implementation of initiatives under The IO Foundation. This includes from staff to volunteers.
 
 #### Personal characteristic dimension (PCD)
 
