@@ -10,7 +10,7 @@
 
 ## Institutional
 
-* [Structures](institutional/structures/README.md)
+* [Structures](institutional/page-6.md)
   * [TIOF Network](institutional/structures/tiof-network.md)
   * [Organizational Taxonomy](institutional/structures/organizational-taxonomy.md)
   * [Organizational Chart](institutional/structures/organizational-chart/README.md)
@@ -31,7 +31,7 @@
   * [2021](institutional/annual-reports/2021.md)
   * [2022](institutional/annual-reports/2022.md)
   * [2023](institutional/annual-reports/2023.md)
-* [Page 6](institutional/page-6.md)
+* [Page 6](<institutional/page-6 (1).md>)
 * [DCDR Principles](https://tiof.click/Principles)
 
 ## Comms
