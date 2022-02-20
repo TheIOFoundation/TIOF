@@ -6,6 +6,8 @@
 
 ***
 
+This document employs terms related to the [DCDR Advocacy](https://tiof.click/DCDRAdvocacy) that can be found in the [TIOF terminology](https://tiof.click/TIOFTerminology/).
+
 ### Scope
 
 This Code of Conduct applies to:
@@ -111,6 +113,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 Other sources of inspiration are:
 
-* Suggested pledge for business owners by Andrew Doyle https://twitter.com/andrewdoyle\_com/status/1303991339009400832?lang=en
-
-This document employs terms related to the [DCDR Advocacy](http://tiof.click/Advocacy) that can be found in the [TIOF terminology](http://tiof.click/Terminology).
+* [Suggested pledge for business owners](https://dothe.click/Ext2) by [Andrew Doyle](https://tiof.click/Ext1)
