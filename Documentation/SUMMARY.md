@@ -84,3 +84,7 @@
     * [QPage](infrastructure/tiof-implementation/page-3/qpage.md)
   * [Channels](infrastructure/tiof-implementation/channels/README.md)
     * [LinkedIn](infrastructure/tiof-implementation/channels/linkedin.md)
+
+## Dirty
+
+* [BPMN Cawemo](dirty/bpmn-cawemo.md)
