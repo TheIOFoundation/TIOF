@@ -7,6 +7,7 @@
 * [Hey Big Tech! declaration](hey-big-tech-declaration.md)
 * [Join us](join-us.md)
 * [Donate](donate.md)
+* [Acknowledgments](acknowledgments.md)
 
 ## Institutional
 
@@ -33,6 +34,7 @@
   * [2023](institutional/annual-reports/2023.md)
 * [Page 6](<institutional/page-6 (1).md>)
 * [DCDR Principles](https://tiof.click/Principles)
+* [Partners](institutional/partners.md)
 
 ## Comms
 
