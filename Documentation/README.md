@@ -48,13 +48,13 @@ Developing the actions, research and infrastructure to sustain the DCDR advocacy
 
 Supporting the adoption and implementation of the United Nations' Guiding Principles in Business and Human Rights in the Tech sector.
 
-Get involved
+[Get involved](https://tiof.click/BiTDocs)
 
 ### Crowdshape
 
 A platform to support technologists wanting to make and impact and support the growth of the Tech NGO ecosystem.
 
-Get involved
+[Get involved](https://tiof.click/CSDocs)
 
 ### TechUp
 
