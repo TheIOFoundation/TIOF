@@ -94,6 +94,7 @@
     * [QPage](infrastructure/tiof-implementation/page-3/qpage.md)
   * [Channels](infrastructure/tiof-implementation/channels/README.md)
     * [Trafft](infrastructure/tiof-implementation/channels/trafft.md)
+    * [Email signature](infrastructure/tiof-implementation/channels/email-signature.md)
     * [Typebot](infrastructure/tiof-implementation/channels/typebot.md)
     * [LinkedIn](infrastructure/tiof-implementation/channels/linkedin.md)
 
