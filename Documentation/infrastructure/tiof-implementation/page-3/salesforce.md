@@ -1,4 +1,4 @@
-# Infrastructure: Salesforce
+# Salesforce
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 
@@ -59,3 +59,11 @@ Account --> MappedContact: Account represented by Mapped Contact. Account --> Pr
 footer The IO Foundation
 
 @enduml
+
+
+
+### Tricks
+
+Break up Salesforce Record Detail into Tabs | Salesforce Lightning Page Layouts\
+[https://www.youtube.com/watch?v=pmjP6HZDEes](https://www.youtube.com/watch?v=pmjP6HZDEes)
+
