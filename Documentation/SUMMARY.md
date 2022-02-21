@@ -49,6 +49,7 @@
   * [🚧 Human Resources](institutional/handbooks/human-resources.md)
   * [🚧 Initiatives](institutional/handbooks/initiatives.md)
   * [🚧 Tags](institutional/handbooks/tags.md)
+  * [🚧 Information lifecycle](institutional/handbooks/information-lifecycle.md)
   * [🚧 Finance](institutional/handbooks/finance.md)
 * [🚧 Annual Reports](institutional/annual-reports/README.md)
   * [🚧 2018](institutional/annual-reports/2018.md)

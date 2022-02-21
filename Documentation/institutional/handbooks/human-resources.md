@@ -80,3 +80,28 @@ Interview When: Team: Applicant:
 Offer When: Team: Applicant:
 
 Hired When: Team: Applicant:
+
+
+
+
+
+### Lifecycle
+
+#### Steps
+
+![](<../../.gitbook/assets/image (1).png>)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
