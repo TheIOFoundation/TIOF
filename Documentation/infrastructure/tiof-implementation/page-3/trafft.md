@@ -43,6 +43,20 @@ Link to new user
 
 
 
+
+
+### Custom fields
+
+Create necessary custom fields
+
+Associate them with the corresponding Services
+
+
+
+
+
+
+
 Test & Verify
 
 
