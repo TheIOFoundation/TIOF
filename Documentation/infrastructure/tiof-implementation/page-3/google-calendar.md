@@ -28,7 +28,7 @@ Enable the Holidays that could be relevant for TIOF:
 
 {% embed url="https://www.businessinsider.com.au/how-to-add-holidays-to-google-calendar-2020-1" %}
 
-
+{% embed url="https://karenapp.io/books/gc/google-calendar-and-other-ocassions/how-to-add-observance-days-in-google-calendar" %}
 
 
 
