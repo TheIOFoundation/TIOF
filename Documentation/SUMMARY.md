@@ -87,6 +87,7 @@
   * [Custom Fields](infrastructure/tiof-implementation/custom-fields.md)
   * [Apps](infrastructure/tiof-implementation/page-3/README.md)
     * [Calendar.com](infrastructure/tiof-implementation/page-3/calendar.com.md)
+    * [Trafft](infrastructure/tiof-implementation/page-3/trafft.md)
     * [Encharge.io](infrastructure/tiof-implementation/page-3/encharge.io.md)
     * [Github](infrastructure/tiof-implementation/page-3/github.md)
     * [Slack](infrastructure/tiof-implementation/page-3/slack.md)
