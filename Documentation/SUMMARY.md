@@ -38,6 +38,7 @@
   * [🚧 Whistleblowing](institutional/Policies/whistleblowing.md)
   * [🚧 Remuneration](institutional/Policies/remuneration.md)
   * [🚧 Media](institutional/Policies/media.md)
+  * [Filenaming](institutional/Policies/filenaming.md)
   * [🚧 Security](institutional/Policies/security.md)
 * [🚧 Handbooks](institutional/handbooks.md)
   * [🚧 Banking](institutional/handbooks/banking.md)
