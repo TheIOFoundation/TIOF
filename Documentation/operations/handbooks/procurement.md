@@ -1,4 +1,4 @@
-# 🚧 Procurement
+# Procurement
 
 \[COVER PAGE]
 

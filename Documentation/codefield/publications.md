@@ -1,2 +1,2 @@
-# 🚧 Publications
+# Publications
 

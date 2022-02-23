@@ -1,2 +1,2 @@
-# 🚧 Structures
+# Structures
 

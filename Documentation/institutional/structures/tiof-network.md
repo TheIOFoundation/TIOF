@@ -1,2 +1,2 @@
-# 🚧 TIOF Network
+# TIOF Network
 

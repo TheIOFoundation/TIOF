@@ -1,4 +1,4 @@
-# 🚧 Sickness Absence
+# Sickness Absence
 
 
 

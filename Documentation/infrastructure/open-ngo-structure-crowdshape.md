@@ -1,4 +1,4 @@
-# 🚧 Open NGO structure (CrowdShape)
+# Open NGO structure (CrowdShape)
 
 
 

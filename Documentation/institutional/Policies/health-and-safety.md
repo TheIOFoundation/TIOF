@@ -1,4 +1,4 @@
-# 🚧 Health and Safety
+# Health and Safety
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 

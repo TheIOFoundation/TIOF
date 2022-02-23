@@ -1,4 +1,4 @@
-# 🚧 Anti harassment & Anti bullying
+# Anti harassment & Anti bullying
 
 
 

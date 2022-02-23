@@ -1,4 +1,4 @@
-# 🚧 Human Resources
+# Human Resources
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 

@@ -1,2 +1,2 @@
-# 🚧 Business Plan
+# Business Plan
 

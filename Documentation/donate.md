@@ -1,4 +1,4 @@
-# 🚧 Donate
+# Donate
 
 Donation Policy
 

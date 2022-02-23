@@ -1,2 +1,2 @@
-# 🚧 Partners
+# Partners
 

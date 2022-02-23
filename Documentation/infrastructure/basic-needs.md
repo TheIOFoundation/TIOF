@@ -1,4 +1,4 @@
-# 🚧 Basic Needs
+# Basic Needs
 
 
 

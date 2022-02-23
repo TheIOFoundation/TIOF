@@ -1,4 +1,4 @@
-# 🚧 Data & Privacy
+# Data & Privacy
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 

@@ -1,4 +1,4 @@
-# 🚧 Equal Opportunities
+# Equal Opportunities
 
 
 

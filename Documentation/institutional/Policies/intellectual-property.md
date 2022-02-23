@@ -1,4 +1,4 @@
-# 🚧 Intellectual Property
+# Intellectual Property
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 

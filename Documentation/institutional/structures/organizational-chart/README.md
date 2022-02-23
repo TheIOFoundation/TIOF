@@ -1,2 +1,2 @@
-# 🚧 Organizational Chart
+# Organizational Chart
 

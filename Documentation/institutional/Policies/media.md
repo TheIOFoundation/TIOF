@@ -1,4 +1,4 @@
-# 🚧 Media
+# Media
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 

@@ -1,4 +1,4 @@
-# 🚧 Devs
+# Devs
 
 ## TIOF general Dev Guidelines
 

@@ -1,2 +1,2 @@
-# 🚧 Official Channels
+# Official Channels
 

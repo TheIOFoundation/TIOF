@@ -1,4 +1,4 @@
-# 🚧 Information lifecycle
+# Information lifecycle
 
 
 

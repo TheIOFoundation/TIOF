@@ -1,4 +1,4 @@
-# 👍 About The IO Foundation
+# About The IO Foundation
 
 ## The organization
 

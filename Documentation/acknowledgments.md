@@ -1,2 +1,2 @@
-# 🚧 Acknowledgments
+# Acknowledgments
 

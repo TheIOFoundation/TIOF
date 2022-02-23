@@ -3,7 +3,7 @@ cover: http://tiof.click/TIOFWikiHeader
 coverY: 0
 ---
 
-# 🚧 Media Kit
+# Media Kit
 
 ## ![](<../../.gitbook/assets/Icons-01 (2).png>)![](<../../.gitbook/assets/Heartbeat-white-01 (1).png>)
 

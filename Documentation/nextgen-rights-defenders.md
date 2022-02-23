@@ -1,4 +1,4 @@
-# 🚧 NextGen Rights Defenders
+# NextGen Rights Defenders
 
 
 

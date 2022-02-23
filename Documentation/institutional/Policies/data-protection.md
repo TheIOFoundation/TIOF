@@ -1,4 +1,4 @@
-# 🚧 Data Protection
+# Data Protection
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 

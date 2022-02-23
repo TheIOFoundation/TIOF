@@ -1,4 +1,4 @@
-# 🚧 Anti corruption & Anti bribery
+# Anti corruption & Anti bribery
 
 
 

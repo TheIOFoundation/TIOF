@@ -1,4 +1,4 @@
-# 🚧 Registrations & Certifications
+# Registrations & Certifications
 
 
 

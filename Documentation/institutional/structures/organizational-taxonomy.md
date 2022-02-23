@@ -1,2 +1,2 @@
-# 🚧 Organizational Taxonomy
+# Organizational Taxonomy
 
