@@ -8,7 +8,7 @@ As societies become inevitably digital, _their architects and builders need to e
 
 There remains, however, a limited international understanding of the true impact of technology on citizens and their digital twins as data becomes an increasingly powerful economic, political and social force.
 
-TIOF aims to raise awareness of the importance of [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) in collaboration with all stakeholders ranging from civil society, programmer communities, bodies of governance and corporate and work together to achieve the proclamation and adoption of a Universal Declaration of Digital Rights.
+TIOF aims to raise awareness of the importance of [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) in collaboration with all stakeholders ranging from civil society, programmer communities, bodies of governance and corporate and work together to achieve the proclamation and adoption of a [Universal Declaration of Digital Rights](https://tiof.click/UDDRWeb).
 
 
 
