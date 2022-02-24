@@ -31,7 +31,7 @@
   * [Children Protection](institutional/Policies/children-protection.md)
   * [Data & Privacy](institutional/Policies/data-and-privacy.md)
   * [Data Protection](institutional/Policies/data-protection.md)
-  * [Funding](institutional/Policies/donations.md)
+  * [Funding](institutional/policies/funding.md)
   * [Health and Safety](institutional/Policies/health-and-safety.md)
   * [ICT Systems](institutional/Policies/ict-systems.md)
   * [Intellectual Property](institutional/Policies/intellectual-property.md)
