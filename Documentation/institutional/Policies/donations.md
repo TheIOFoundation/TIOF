@@ -1,4 +1,4 @@
-# Donations
+# Funding
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 
@@ -31,6 +31,20 @@
    * Monitoring
 
 </details>
+
+## The funding streams
+
+
+
+## Funding
+
+## Donations
+
+## Crowdfunding
+
+## Matchmaking
+
+##
 
 ## Introduction
 
