@@ -57,6 +57,7 @@
   * [Official Channels](comms/media-kit/official-channels.md)
   * [Tags](comms/media-kit/Tags/README.md)
     * [afsafsaf](https://tiof.click/HeyBigTech)
+  * [Style book](comms/media-kit/style-book.md)
   * [Terminology](comms/media-kit/terminology.md)
 * [Media Archive](comms/media-archive.md)
 
