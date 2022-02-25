@@ -10,63 +10,6 @@
 
 ## The IO Foundation
 
-### Human Rights (HR) advocacy
-
-The advocacy bringing forward the observance of the Human Rights that are conferred to people.
-
-### Physical Harm (PH)
-
-### Physical Harmful Action (PHA)
-
-### Physical Harmful Outcome (PHO)
-
-### Human Rights (HR)
-
-Human Rights: Always use “Human Rights” and not “human rights”.
-
-### Data-Centric Digital Rights (DCDR) advocacy
-
-The advocacy bringing forward the observance of the Digital Rights to be applied over data to protect it from its undue usage or extinction.
-
-### Digital Harm (DH)
-
-Any algorithmic action that may bring closer the extinction of a given data point.
-
-### Digital Harmful Action (DHA)
-
-Any algorithmic decision that will result in the occurrence of a Digital Harm.
-
-### Digital Harmful Outcome (DHO)
-
-The resulting damaging outcome, be it over the Representational Entity or its Source Entity, that will result in Digital or Physical Harm.
-
-### Digital Right (DR)
-
-An algorithmic action that proactively prevents the occurrence of a Digital Harm on a given data point.
-
-Digital Rights: Always use “Digital Rights” and not “digital rights”.
-
-### Harm
-
-Any harm applied, be it Physical (PH) or Digital (DH).
-
-### Harmful Action
-
-Any harmful action, be it Physical (PHA) or Digital (DHA).
-
-### Harmful Outcome
-
-Any harmful outcome, be it Physical (PHO) or Digital (DHO).
-
-### Endpoint ID
-
-A unique identifier that allows an emitter A to send a message to a receptor B unequivocally. Examples:
-
-* Email address
-* Telegram username
-* Mobile number
-* Physical address
-
 ### Members
 
 Any person officially involved in the implementation of initiatives under The IO Foundation. This includes from staff to volunteers.
