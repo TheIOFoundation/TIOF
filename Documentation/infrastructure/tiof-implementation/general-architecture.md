@@ -1,4 +1,4 @@
-# Infrastructure: Funnels
+# General Architecture
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 

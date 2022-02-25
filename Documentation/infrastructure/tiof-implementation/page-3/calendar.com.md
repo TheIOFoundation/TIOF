@@ -1,4 +1,4 @@
-# Infrastructure: Slack
+# Calendar.com
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 
@@ -6,8 +6,7 @@
 
 ## Usage
 
-* Communications between Members
-* Community
+* Booking of meetings
 
 ## Information
 

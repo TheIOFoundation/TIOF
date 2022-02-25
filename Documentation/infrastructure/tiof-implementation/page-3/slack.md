@@ -1,4 +1,4 @@
-# Infrastructure: Encharge.io
+# Slack
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 
@@ -6,17 +6,10 @@
 
 ## Usage
 
-Email automation.
+* Communications between Members
+* Community
 
 ## Information
-
-### App Name
-
-### Logo
-
-### Description
-
-###
 
 ## Object Model
 

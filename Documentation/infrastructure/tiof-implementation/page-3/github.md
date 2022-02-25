@@ -1,4 +1,4 @@
-# Infrastructure: LinkedIn
+# Github
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 
@@ -6,9 +6,13 @@
 
 ## Usage
 
-Organization promotion and Media Channel.
+* Store repositories for all TIOF Projects
+* Project Management Back End
+* Code Management
 
 ## Information
+
+See also: Github Sponsors
 
 ## Object Model
 

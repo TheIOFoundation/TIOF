@@ -1,4 +1,4 @@
-# Infrastructure: Calendar.com
+# LinkedIn
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 
@@ -6,7 +6,7 @@
 
 ## Usage
 
-* Booking of meetings
+Organization promotion and Media Channel.
 
 ## Information
 
