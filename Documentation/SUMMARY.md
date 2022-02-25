@@ -14,6 +14,7 @@
 
 ## Institutional
 
+* [Terminology](institutional/terminology.md)
 * [Structures](institutional/page-6.md)
   * [TIOF Network](institutional/structures/tiof-network.md)
   * [Organizational Taxonomy](institutional/structures/organizational-taxonomy.md)
@@ -59,7 +60,6 @@
     * [afsafsaf](https://tiof.click/HeyBigTech)
   * [Style book](comms/media-kit/style-book.md)
   * [DCDR Terminology](comms/media-kit/dcdr-terminology.md)
-  * [Terminology](comms/media-kit/terminology.md)
 * [Media Archive](comms/media-archive.md)
 
 ## Operations
