@@ -1,15 +1,5 @@
 # \[TIOF] Institutional \[I] Organization Data v1.5
 
-### Mission <a href="#_jual0z99ijyd" id="_jual0z99ijyd"></a>
-
-To promote, protect and provide solutions for Digital Rights.
-
-Mnemonic: PPP
-
-### Vision <a href="#_z5lojyy527ai" id="_z5lojyy527ai"></a>
-
-A world where Human Rights and Digital Rights are one and the same.
-
 #### Quick descriptions <a href="#_goxk7l8j9329" id="_goxk7l8j9329"></a>
 
 * The IO Foundation (TIOF) is a nonprofit organization dedicated to promote, protect and provide solutions for Digital Rights.
@@ -80,23 +70,13 @@ Legal Name
 Mittetulundusühing The IO Foundation
 
 \
-Registry code
 
-80549272
-
-The date of the first entry:
-
-17.04.2018
-
-Legal form
-
-Non-profit association
 
 Salesforce:
 
 "oid" value="00D1r000001o7Zk"
 
-An organization dedicated to oversee, protect and enforce Digital Rights.
+
 
 Introduction:
 
