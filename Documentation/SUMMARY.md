@@ -58,6 +58,7 @@
   * [Tags](comms/media-kit/Tags/README.md)
     * [afsafsaf](https://tiof.click/HeyBigTech)
   * [Style book](comms/media-kit/style-book.md)
+  * [DCDR Terminology](comms/media-kit/dcdr-terminology.md)
   * [Terminology](comms/media-kit/terminology.md)
 * [Media Archive](comms/media-archive.md)
 
@@ -124,4 +125,5 @@
 
 ## Dirty
 
-* [BPMN Cawemo](dirty/bpmn-cawemo.md)
+* [Page 2](dirty/page-2.md)
+* [\[TIOF\] Institutional \[I\] Organization Data v1.5](dirty/tiof-institutional-i-organization-data-v1.5.md)
