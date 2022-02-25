@@ -103,6 +103,7 @@
 
 ## Infrastructure
 
+* [Maintaining this documentation](infrastructure/maintaining-this-documentation.md)
 * [Basic Needs](infrastructure/basic-needs.md)
 * [Open NGO structure (CrowdShape)](infrastructure/open-ngo-structure-crowdshape.md)
 * [TIOF Implementation](infrastructure/tiof-implementation/README.md)
