@@ -1,12 +1,8 @@
 # 👌 Code of Conduct
 
-
-
-![](https://user-images.githubusercontent.com/9198668/103223358-02a5ae80-4961-11eb-9a78-c6ebc20d7691.png)
-
-***
-
+{% hint style="info" %}
 This document employs terms related to the [DCDR Advocacy](https://tiof.click/DCDRAdvocacy) that can be found in the [TIOF terminology](https://tiof.click/TIOFTerminology/).
+{% endhint %}
 
 ### Scope
 
