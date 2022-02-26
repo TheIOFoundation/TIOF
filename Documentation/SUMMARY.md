@@ -61,6 +61,7 @@
     * [afsafsaf](https://tiof.click/HeyBigTech)
   * [Style book](comms/media-kit/style-book.md)
   * [DCDR Terminology](comms/media-kit/dcdr-terminology.md)
+* [Campaigns](comms/campaigns.md)
 * [Media Archive](comms/media-archive.md)
 
 ## Operations
