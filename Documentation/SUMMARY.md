@@ -113,14 +113,14 @@
 
 ## Codefield
 
-* [Publications](codefield/publications.md)
-* [Podcast](codefield/podcast.md)
+* [🚧 Publications](codefield/publications.md)
+* [🚧 Podcast](codefield/podcast.md)
 
 ## Infrastructure
 
-* [Maintaining this documentation](infrastructure/maintaining-this-documentation.md)
-* [Basic Needs](infrastructure/basic-needs.md)
-* [Open NGO structure (CrowdShape)](infrastructure/open-ngo-structure-crowdshape.md)
+* [🚧 Maintaining this documentation](infrastructure/maintaining-this-documentation.md)
+* [🚧 Basic Needs](infrastructure/basic-needs.md)
+* [🚧 Open NGO structure (CrowdShape)](infrastructure/open-ngo-structure-crowdshape.md)
 
 ## Dirty
 
