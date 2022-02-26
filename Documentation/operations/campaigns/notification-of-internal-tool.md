@@ -1,6 +1,6 @@
 # Notification of Internal Tool
 
-Channel types
+Channel types: IntCom
 
 Templates
 
