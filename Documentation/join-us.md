@@ -1,4 +1,4 @@
-# Join us
+# 🚧 Join us
 
 ## Moved to Gitbook.
 
