@@ -1,4 +1,4 @@
-# Intellectual Property
+# 🚧 Intellectual Property
 
 ![logo](http://tiof.click/TIOFWikiHeader)
 
@@ -115,6 +115,12 @@ When such option is not possible, TIOF will not engage in said collaboration.
 Exceptions Anything that does not generate materials that are related to the DCDR advocacy.
 
 Back to top
+
+
+
+Credits are to be always made.
+
+
 
 ### Notices and logos
 

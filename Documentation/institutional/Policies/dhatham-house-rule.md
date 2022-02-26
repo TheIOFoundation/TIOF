@@ -1,4 +1,4 @@
-# Dhatham House Rule
+# 👌 Dhatham House Rule
 
 The DHATHAM v0.5 House Rule, which is an evolution from the [CHATHAM House Rule](https://dothe.click/Ext5) in response to the new digital realities, stipulates:
 
@@ -7,8 +7,6 @@ When a digital interaction, or part of thereof, is held under the DHATHAM House 
 {% endhint %}
 
 In other words, be considerate and ask for permission before capturing a digital representation of others or posting about them on social media or any other digital medium.
-
-
 
 ### Participate
 

@@ -1,4 +1,4 @@
-# About The IO Foundation
+# 👌 About The IO Foundation
 
 ## The organization
 
@@ -31,8 +31,6 @@ The IO Foundation delivers its mission through the observance of the following v
 > **Accountability:** We recognize the critical importance of operating under procedures and methodologies that are transparent in order to generate the necessary trust in our [DCDR Principles](https://tiof.click/DCDRPrinciples) and the advocacy at large.
 
 > **Impact:** Our initiatives are designed and implemented only to serve the broader advocacy and to help, step by step, generate practical outcomes that make technology better and safer transparently for citizens.
-
-
 
 ## The initiatives
 
