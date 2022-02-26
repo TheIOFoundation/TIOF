@@ -61,7 +61,6 @@
     * [afsafsaf](https://tiof.click/HeyBigTech)
   * [Style book](comms/media-kit/style-book.md)
   * [DCDR Terminology](comms/media-kit/dcdr-terminology.md)
-* [Campaigns](comms/campaigns.md)
 * [Media Archive](comms/media-archive.md)
 
 ## Operations
@@ -93,6 +92,7 @@
   * [Information lifecycle](operations/handbooks/information-lifecycle.md)
   * [Stock Management](operations/handbooks/stock-management.md)
   * [Finance](operations/handbooks/finance.md)
+* [Campaigns](operations/campaigns.md)
 
 ## Codefield
 
