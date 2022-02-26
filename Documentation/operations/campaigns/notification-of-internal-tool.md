@@ -1,14 +1,8 @@
 # Notification of Internal Tool
 
-Channel types: IntCom
-
-Templates
-
-Request
-
-Playbook
-
-
+{% hint style="warning" %}
+Sharing type: IntCom - ~~PubCom~~ | Template | Request | Playbook
+{% endhint %}
 
 ## Usage
 
