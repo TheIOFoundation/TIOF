@@ -34,7 +34,7 @@ Campaigns are used to inform the network about relevant information or entice a 
 
 ### Defining new Campaigns
 
-If a new type of Campaign is deemed necessary, it can be requested through the Requisition Platform.
+If a new type of Campaign is deemed necessary, it can be requested through the [Requisition Platform](https://tiof.click/TIOFRequisitionService).
 
 Approval and implementation will be discussed primarily during the yearly [Strat Meet](../operations/meetings/strat-meets.md).\
 Should there be any emergency, if can be requested to be discussed during an upcoming [Status Call](../operations/meetings/status-calls.md).
