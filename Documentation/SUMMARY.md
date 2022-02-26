@@ -95,11 +95,18 @@
 * [Campaigns](comms/campaigns.md)
   * [Notification of Internal Tool](operations/campaigns/notification-of-internal-tool.md)
   * [Notification of Media Release](operations/campaigns/notification-of-media-release.md)
-  * [Page 5](operations/campaigns/page-5.md)
-  * [Page 4](operations/campaigns/page-4.md)
-  * [Page 3](operations/campaigns/page-3.md)
-  * [Page 2](operations/campaigns/page-2.md)
-  * [Page 1](operations/campaigns/page-1.md)
+  * [Notification of Upcoming Event](operations/campaigns/notification-of-upcoming-event.md)
+  * [Notification of Important Announcement](operations/campaigns/notification-of-important-announcement.md)
+  * [Notification of Shoutout](operations/campaigns/notification-of-shoutout.md)
+  * [Notification of External Opportunity](operations/campaigns/notification-of-external-opportunity.md)
+  * [Call for Advisers](operations/campaigns/call-for-advisers.md)
+  * [Call for Directors](operations/campaigns/call-for-directors.md)
+  * [Call for Interns](operations/campaigns/call-for-interns.md)
+  * [Call for Employees](operations/campaigns/call-for-employees.md)
+  * [Call for Volunteers](operations/campaigns/call-for-volunteers.md)
+  * [Call for Feedback](operations/campaigns/call-for-feedback.md)
+  * [Call for Donations](operations/campaigns/call-for-donations.md)
+  * [Call for Leads](operations/campaigns/call-for-leads.md)
 
 ## Codefield
 
