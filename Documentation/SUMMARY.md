@@ -92,8 +92,14 @@
   * [Information lifecycle](operations/handbooks/information-lifecycle.md)
   * [Stock Management](operations/handbooks/stock-management.md)
   * [Finance](operations/handbooks/finance.md)
-* [Campaigns](operations/campaigns/README.md)
+* [Campaigns](comms/campaigns.md)
   * [Notification of Internal Tool](operations/campaigns/notification-of-internal-tool.md)
+  * [Notification of Media Release](operations/campaigns/notification-of-media-release.md)
+  * [Page 5](operations/campaigns/page-5.md)
+  * [Page 4](operations/campaigns/page-4.md)
+  * [Page 3](operations/campaigns/page-3.md)
+  * [Page 2](operations/campaigns/page-2.md)
+  * [Page 1](operations/campaigns/page-1.md)
 
 ## Codefield
 
