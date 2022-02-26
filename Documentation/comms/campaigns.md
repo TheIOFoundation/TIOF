@@ -4,7 +4,7 @@ description: >-
   Campaign.
 ---
 
-# Campaigns
+# 🚧 Campaigns
 
 ## About
 
@@ -32,11 +32,17 @@ Campaigns are used to inform the network about relevant information or entice a 
 | \[TIOF] CFD       | Call for Donations                     | Seeking financial an in-kind support.                           |
 | \[TIOF] CFL       | Call for Leads                         | Seeking information on a topic, a connection, etc.              |
 
+### Defining new Campaigns
 
+If a new type of Campaign is deemed necessary, it can be requested through the Requisition Platform.
 
+Approval and implementation will be discussed primarily during the yearly [Strat Meet](../operations/meetings/strat-meets.md).\
+Should there be any emergency, if can be requested to be discussed during an upcoming [Status Call](../operations/meetings/status-calls.md).
 
+Training will be implemented as soon as the Campaign and its materials are ready.&#x20;
 
 ## Campaign Templates
 
+Standardized materials to execute the Campaigns are available in the repository.
 
-
+Follow the instructions in each Campaign's SOP.
