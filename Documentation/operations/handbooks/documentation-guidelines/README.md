@@ -8,13 +8,25 @@
 
 This document provides all the guidance to produce documentation for The IO Foundation and its initiatives.
 
+## The tools
 
+The IO Foundation relies on the following tools to provide its documentation services:
+
+| Type                  | Product  | Usage                                                                         |
+| --------------------- | -------- | ----------------------------------------------------------------------------- |
+| Documentation Manager | Gitbook  | Consolidates all the documentation across all the platforms.                  |
+| Documentation storage | Github   | Stores all the documentation.                                                 |
+| Short URL manager     | Bl.ink   | Provides with reusable shortURL to important documentation pages.             |
+| Playbooks             | Dooly.ai | Provides an easy way to access relevant documentation when taking Notes.      |
+| Assistant             | Typebot  | Provides an interactive interface to assist with tasks described in the page. |
 
 ## Documentation conventions
 
+### Space Structure
 
+A Space, in
 
-### Structure
+### Page Structure
 
 #### The Quickbar
 
