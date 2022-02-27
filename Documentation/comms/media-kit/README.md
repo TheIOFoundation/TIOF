@@ -5,9 +5,9 @@ coverY: 0
 
 # 🚧 Media Kit
 
-## ![](<../../.gitbook/assets/Icons-01 (2).png>)![](<../../.gitbook/assets/Heartbeat-white-01 (1).png>)
-
-##
+{% hint style="info" %}
+**ShortURL | Playbook | Assistant**
+{% endhint %}
 
 ## Introduction
 
