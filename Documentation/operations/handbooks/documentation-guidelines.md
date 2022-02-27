@@ -14,6 +14,19 @@ This document provides all the guidance to produce documentation for The IO Foun
 
 
 
+### Structure
+
+#### The Quickbar
+
+Most pages offer a Quickbar at the top providing with relevant shortcuts to:
+
+* The ShortURL for the page
+* The Playbook linking this page
+
+
+
+
+
 
 
 ### Iconography
