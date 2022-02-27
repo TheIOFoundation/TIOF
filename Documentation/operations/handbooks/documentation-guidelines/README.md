@@ -124,13 +124,22 @@ Please report it.
 
 Indicates in which&#x20;
 
-| Icon                                   | Meaning             |   |
-| -------------------------------------- | ------------------- | - |
-| 🚧                                     | Work In Progress    |   |
-| 👌                                     | Usable              |   |
-| 👍                                     | Ready to publish    |   |
-| :wastebasket:                          | Requesting deletion |   |
-| <p>&#x3C;OTHER><br>(See Page Type)</p> | Published           |   |
+| Icon                                   | Meaning             |                                                                    |
+| -------------------------------------- | ------------------- | ------------------------------------------------------------------ |
+| 🚧                                     | Work In Progress    | <p><br>Pages that are empty will have a notice as shown below.</p> |
+| 👌                                     | Usable              |                                                                    |
+| 👍                                     | Ready to publish    |                                                                    |
+| :wastebasket:                          | Requesting deletion |                                                                    |
+| <p>&#x3C;OTHER><br>(See Page Type)</p> | Published           |                                                                    |
+
+
+
+{% hint style="warning" %}
+**NOTICE**
+
+This documentation page is under construction.\
+Should you want to be notified once it's published, let us know.
+{% endhint %}
 
 #### Page Type
 
@@ -143,8 +152,6 @@ Once a page is Ready, its icon signals the type of information it contains and t
 |        |           |                     |
 | :gear: | Technical | Team Infrastructure |
 |        |           |                     |
-
-
 
 
 
