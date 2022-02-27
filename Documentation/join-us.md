@@ -15,7 +15,15 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 ###
 
-***
+Do you have a talent that you perceive as an asset in the fight for Digital Rights? Get in touch with us and tell us which position you’d like to join.
+
+Do you share our vision? Do you want to participate in our projects? Reach out to TIOF and tell us how would you want to participate.
+
+Do you feel we share the same vision and want to join forces? Together we can work towards protecting people’s Digital Rights. Let’s talk.
+
+
+
+
 
 ## Introduction
 
