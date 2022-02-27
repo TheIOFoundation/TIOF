@@ -122,7 +122,3 @@
 ## Dirty
 
 * [\[TIOF\] Institutional \[I\] Organization Data v1.5](dirty/tiof-institutional-i-organization-data-v1.5.md)
-
-***
-
-* [Page 2](page-2.md)
