@@ -1,5 +1,9 @@
 # 🚧 Documentation Guidelines
 
+{% hint style="info" %}
+****[**ShortURL**](http://tiof.click/TIOFHBDG) **| Playbook**&#x20;
+{% endhint %}
+
 ## About
 
 This document provides all the guidance to produce documentation for The IO Foundation and its initiatives.
