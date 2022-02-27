@@ -12,7 +12,7 @@
     * [🚧 Tags](comms/media-kit/tags.md)
   * [🚧 Terminology](about/readme/terminology.md)
   * [🚧 Frequently Asked Questions](about/readme/frequently-asked-questions.md)
-* [🚧 Initiatives](initiatives.md)
+* [👌 Initiatives](initiatives.md)
 * [🚧 NextGen Rights Defenders](nextgen-rights-defenders.md)
 * [👌 Hey Big Tech! declaration](hey-big-tech-declaration.md)
 * [DCDR Principles](https://tiof.click/Principles)

@@ -4,7 +4,7 @@ description: >-
   Foundation's initiatives.
 ---
 
-# 🚧 Initiatives
+# 👌 Initiatives
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFInitiatives) **| Playbook | Assistant**
@@ -14,7 +14,11 @@ description: >-
 
 The IO Foundation advances its [Data-Centric Digital Rights advocacy](https://tiof.click/DCDRAdvocacy) through the implementation of a number of initiatives.
 
+### Diagram
 
+The following diagram provides an overview on how each of the initiatives support each other to advance TIOF's [Mission](https://tiof.click/TIOFMission) in realizing its [Vision](https://tiof.click/TIOFVision).
+
+{% embed url="https://cawemo.com/share/6f586512-627b-4d70-bdc6-f4a4a9ad6e65" %}
 
 ## [Data-Centric Digital Rights](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/rG4xcNzldvEoKR9FS7Og/ "mention")
 
