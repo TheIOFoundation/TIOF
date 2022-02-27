@@ -56,6 +56,10 @@ In the interest of consistency, The IO Foundation structures its documentation f
     Explaining how to join and collaborate with the Entity.
   * Support Us\
     Explaining how to support the advancement of the Entity.
+  * Acknowledgements\
+    Indicating specific recognitions to notable contributors to this Entity.
+  * Media Archive\
+    Listing the mentions this Entity has had in media over time.&#x20;
 * Institutional\
   Provides all the information relative to organization and guidance for this Entity.
 * Operations\
