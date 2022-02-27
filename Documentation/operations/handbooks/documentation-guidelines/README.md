@@ -32,32 +32,30 @@ The IO Foundation relies on the following tools to provide its documentation ser
 
 ### Space Structure
 
-The IO Foundation structures its documentation through Spaces.
-
-In the benefit of consistency, each Space follows a certain structure:
+In the interest of consistency, The IO Foundation structures its documentation following this structure:
 
 * About\
   Provides all the information needed to understand this Entity and its objectives.
   * Introduction\
     Explaining what this Space is about.
-  * Theory of Change\
-    Explaining what is the identified problem and what is the proposed solution.
-  * Business Plan\
-    Explaining the details on the Business Plan for this Entity.
-  * Status\
-    A quick overview to the current implementation status of this Entity .
-  * Repository\
-    Explaining the structure of the repository hosting this Entity .
-  * Media Kit\
-    Providing all the necessary Comms information for this Entity .
-  * Terminology\
-    Providing definitions for all the specific terms used in this Entity.
-  * Frequently Asked Questions\
-    Answering some of the most common doubts related to this Entity.
-* Join Us\
-  Explaining how to join and collaborate with the Entity.
-* Support Us\
-  Explaining how to support the advancement of the Entity.
+    * Theory of Change\
+      Explaining what is the identified problem and what is the proposed solution.
+    * Business Plan\
+      Explaining the details on the Business Plan for this Entity.
+    * Status\
+      A quick overview to the current implementation status of this Entity .
+    * Repository\
+      Explaining the structure of the repository hosting this Entity .
+    * Media Kit\
+      Providing all the necessary Comms information for this Entity .
+    * Terminology\
+      Providing definitions for all the specific terms used in this Entity.
+    * Frequently Asked Questions\
+      Answering some of the most common doubts related to this Entity.
+  * Join Us\
+    Explaining how to join and collaborate with the Entity.
+  * Support Us\
+    Explaining how to support the advancement of the Entity.
 * Institutional\
   Provides all the information relative to organization and guidance for this Entity.
 * Operations\
