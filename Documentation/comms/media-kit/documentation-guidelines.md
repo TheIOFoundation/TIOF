@@ -1,6 +1,8 @@
-# 🚧 Style book
+# 🚧 Documentation Guidelines
 
+## About
 
+This document provides all the guidance to produce documentation for The IO Foundation and its initiatives.
 
 ## Formatting
 

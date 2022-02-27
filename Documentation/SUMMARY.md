@@ -60,7 +60,7 @@
 * [🚧 Media Kit](comms/media-kit/README.md)
   * [🚧 Official Channels](comms/media-kit/official-channels.md)
   * [🚧 Tags](comms/media-kit/tags.md)
-  * [🚧 Style book](comms/media-kit/style-book.md)
+  * [🚧 Documentation Guidelines](comms/media-kit/documentation-guidelines.md)
   * [🚧 DCDR Terminology](comms/media-kit/dcdr-terminology.md)
 * [🚧 Media Archive](comms/media-archive.md)
 
