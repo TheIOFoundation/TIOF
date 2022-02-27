@@ -32,6 +32,8 @@ Once a page is Ready, its icon signals the type of information it contains and t
 
 |        |           |                     |
 | ------ | --------- | ------------------- |
+|        | Handbook  |                     |
+|        | Policy    |                     |
 |        |           |                     |
 | :gear: | Technical | Team Infrastructure |
 |        |           |                     |
