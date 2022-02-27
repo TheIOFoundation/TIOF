@@ -60,3 +60,40 @@ Advancing the development and adoption of the Universal Declaration of Digital R
 
 
 
+## The initiatives
+
+### Data-Centric Digital Rights
+
+Developing the actions, research and infrastructure to sustain the DCDR advocacy.
+
+[Get involved](https://tiof.click/DCDRDocs)
+
+### BHR in Tech
+
+Supporting the adoption and implementation of the [United Nations' Guiding Principles on Business and Human Rights](https://dothe.click/Ext6) in the Tech sector.
+
+[Get involved](https://tiof.click/BiTDocs)
+
+### Crowdshape
+
+A platform to support technologists wanting to make and impact and support the growth of the Tech NGO ecosystem.
+
+[Get involved](https://tiof.click/CSDocs)
+
+### TechUp
+
+A collaborative space uniting capacity building and social participation to build better and safer digital societies.
+
+[Get involved](https://tiof.click/TUDocs)
+
+### Project Lockdown
+
+A civic tech, interactive platform providing an overview of the state of Human and Digital Rights around the globe.
+
+[Get involved](https://tiof.click/PLDDocs)
+
+### Universal Declaration of Digital Rights
+
+A multi-stakeholder initiative promoted by The IO Foundation to obtain the proclamation of a Universal Declaration of Digital Rights.
+
+[Get involved](https://tiof.click/UDDRDocs)
