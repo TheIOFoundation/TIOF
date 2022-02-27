@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👌 About The IO Foundation](README.md)
-  * [Docs Temp - IGNORE](readme/docs-temp-ignore.md)
+  * [About this documentation](readme/about-this-documentation.md)
   * [🚧 Business Plan](business-plan.md)
 * [🚧 Advocacy](advocacy.md)
   * [🚧 Stakeholders](advocacy/stakeholders.md)
