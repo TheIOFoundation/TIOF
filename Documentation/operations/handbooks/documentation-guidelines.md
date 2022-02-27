@@ -1,7 +1,7 @@
 # 🚧 Documentation Guidelines
 
 {% hint style="info" %}
-****[**ShortURL**](http://tiof.click/TIOFHBDG) **| Playbook**&#x20;
+****[**ShortURL**](https://tiof.click/TIOFHBDG) **| Playbook**&#x20;
 {% endhint %}
 
 ## About
