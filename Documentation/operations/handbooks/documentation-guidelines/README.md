@@ -54,11 +54,17 @@ In the benefit of consistency, each Space follows a certain structure:
     Providing definitions for all the specific terms used in this Entity.
   * Frequently Asked Questions\
     Answering some of the most common doubts related to this Entity.
+* Join Us\
+  Explaining how to join and collaborate with the Entity.
+* Support Us\
+  Explaining how to support the advancement of the Entity.
 * Institutional\
   Provides all the information relative to organization and guidance for this Entity.
 * Operations\
   Provides all the information relative to the implementation of this Entity.
-*
+* CUSTOM\
+  Depending on the needs of the Entity, custom sections will be made available.\
+  An explanation of these will be provided in the Introduction page of the Entity.
 
 {% hint style="info" %}
 Some variations may happen depending on the specific needs of the Entity.
