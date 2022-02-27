@@ -1,4 +1,4 @@
-# 🚧 Documentation Guidelines
+# 📓 🚧 Documentation Guidelines
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFHBDG) **| Playbook | Assistant**
@@ -129,6 +129,7 @@ Indicates in which&#x20;
 | 🚧                                     | Work In Progress    | <p><br>Pages that are empty will have a notice as shown below.</p> |
 | 👌                                     | Usable              |                                                                    |
 | 👍                                     | Ready to publish    |                                                                    |
+| :fire:                                 | Hot topic           | Pages that have recently been created, updated                     |
 | :wastebasket:                          | Requesting deletion |                                                                    |
 | <p>&#x3C;OTHER><br>(See Page Type)</p> | Published           |                                                                    |
 
@@ -145,13 +146,14 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 Once a page is Ready, its icon signals the type of information it contains and the audience it is meant for.
 
-|        |           |                     |
-| ------ | --------- | ------------------- |
-|        | Handbook  |                     |
-|        | Policy    |                     |
-|        |           |                     |
-| :gear: | Technical | Team Infrastructure |
-|        |           |                     |
+| Icon       | Meaning          | Description                                           |
+| ---------- | ---------------- | ----------------------------------------------------- |
+| 🎯         | DCDR Key concept | Contains concepts that are core to the DCDR advocacy. |
+|            | Policy           |                                                       |
+| :notebook: | Handbook         |                                                       |
+| 📢         | Comms            | Contains information relevant for communications.     |
+| :gear:     | Technical        | Contains technical reference information.             |
+|            |                  |                                                       |
 
 
 
