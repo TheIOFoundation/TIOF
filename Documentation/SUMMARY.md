@@ -18,14 +18,13 @@
 * [👌 Hey Big Tech! declaration](hey-big-tech-declaration.md)
 * [DCDR Principles](https://tiof.click/Principles)
 * [🚧 Join us](join-us.md)
-* [🚧 Donate](donate.md)
+* [🚧 Support Us](donate.md)
 * [🚧 Acknowledgments](acknowledgments.md)
 * [🚧 Media Archive](comms/media-archive.md)
 
 ## Stakeholders
 
 * [🚧 Stakeholders](stakeholders/stakeholders.md)
-* [Page 3](stakeholders/page-3.md)
 
 ## Institutional
 
