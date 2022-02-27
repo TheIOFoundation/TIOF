@@ -2,7 +2,7 @@
 
 ## About
 
-* [👌 Introduction](README.md)
+* [🌟 Introduction](README.md)
   * [🚧 Theory of Change](about/readme/theory-of-change.md)
   * [🚧 Business Plan](business-plan.md)
   * [🚧 Status](about/readme/quick-monitor.md)
@@ -11,9 +11,9 @@
     * [🚧 Official Channels](comms/media-kit/official-channels.md)
   * [🚧 Terminology](about/readme/terminology.md)
   * [🚧 Frequently Asked Questions](about/readme/frequently-asked-questions.md)
-* [👌 Initiatives](initiatives.md)
-* [🚧 NextGen Rights Defenders](nextgen-rights-defenders.md)
-* [👌 Hey Big Tech! declaration](hey-big-tech-declaration.md)
+* [⏩ Initiatives](initiatives.md)
+* [⏩ NextGen Rights Defenders](nextgen-rights-defenders.md)
+* [📣 Hey Big Tech! declaration](hey-big-tech-declaration.md)
 * [DCDR Principles](https://tiof.click/Principles)
 * [🚧 Join us](join-us.md)
 * [🚧 Support Us](donate.md)

@@ -1,4 +1,4 @@
-# 👌 Hey Big Tech! declaration
+# 📣 Hey Big Tech! declaration
 
 
 

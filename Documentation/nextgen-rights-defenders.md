@@ -1,12 +1,27 @@
-# 🚧 NextGen Rights Defenders
+# ⏩ NextGen Rights Defenders
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
 {% endhint %}
 
+## Engaging the correct stakeholders
 
+In the efforts to ensure that technology is designed and build in ways that are protective of citizens and their digital twins, the most important actor is largely non-engaged: Technologists.
+
+They are the people tasked to architect and build the technology everyone is so much concerned about and yet they occupy, on a practical level, a marginal space in the whole conversation.
+
+At The IO Foundation, _we recognize technologists, and most importantly programmers, as the Next Generation of Rights Defenders._
 
 {% hint style="info" %}
+**REMARK**
+
+While TIOF recognizes that all technologists play an equally important part in building better and safer digital spaces, we concentrate our efforts towards programmers.
+
+**Why?**\
+****Because any technology always has a last layer of software through which citizens interact with it. Helping programmers accelerates the impact of the DCDR advocacy.
+{% endhint %}
+
+{% hint style="success" %}
 **Want to spread the word?**
 
 Use these these hashtags in your posts:
@@ -16,7 +31,7 @@ Use these these hashtags in your posts:
 \#RightsTech
 {% endhint %}
 
-Challenges
+## Challenges
 
 Technologists face a number of challenges that are stopping them from taking an active role in architecting and building better and safer digital spaces. Until these challenges aren't addressed, they will largely remain external actors and not embrace their role as NextGen Rights Defenders.
 
@@ -37,21 +52,19 @@ TIOF has identified the following challenges:
 
 ### DCDR Principles
 
-While the UDDR is still a work in progress, The IO Foundation has created the DCDR Principles to aact upon Challenge 1 and guide developers to update some of their paradigms and stepping up as NextGen Rights Defenders.
+While the UDDR is still a work in progress, The IO Foundation has created the DCDR Principles to act upon **Challenge 1** and guide developers to update some of their paradigms and stepping up as NextGen Rights Defenders.
 
 See more information in the [Data-Centric Digital Rights](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/rG4xcNzldvEoKR9FS7Og/ "mention") documentation.
 
-### Techup
+### TechUp
 
-Ensuring that DCDR Principles become part of the technologists' toolbox is the objective of TechUp.
+Ensuring that DCDR Principles become part of the technologists' toolbox as well as provide them with a space to bootstrap their own Tech NGOs.
 
 See more information in the [TechUp](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K54SuAkrrbCKMqyze/ "mention") documentation.
 
 ### CrowdShape
 
-This initiative aims at acting upon Challenge 3 by providing tools to quickly and easily bootstrap a Tech NGO. It would also enable some solutions for Challenge 2 by encouraging donations through accountability and transparency by design.
+This initiative aims at acting upon **Challenge 3** by providing tools to quickly and easily bootstrap a Tech NGO. It would also enable some solutions for Challenge 2 by encouraging donations through accountability and transparency by design.
 
 See more information in the [CrowdShape](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/MxkrsyQSraXtP8kYavv2/ "mention") documentation.
-
-
 

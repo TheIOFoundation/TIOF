@@ -4,7 +4,7 @@ description: >-
   Foundation's initiatives.
 ---
 
-# 👌 Initiatives
+# ⏩ Initiatives
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFInitiatives) **| Playbook | Assistant**
