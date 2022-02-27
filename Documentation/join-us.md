@@ -1,9 +1,7 @@
 # 🚧 Join us
 
-***
-
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TIOFJoinUs) **| Playbook | Assistant**
 {% endhint %}
 
 
@@ -16,13 +14,6 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 {% endhint %}
 
 ###
-
-## Table of Contents
-
-1. Introduction
-2. Background perspective
-3. Intended audience X. Labels X. Becoming a Project Member X. External Collaborators X. Teams X. Issues
-4. What next?
 
 ***
 
