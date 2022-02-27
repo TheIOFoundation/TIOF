@@ -280,6 +280,18 @@ Note: Each TIOF initiative has its own set of #Tags. Please refer to the corresp
 
 Back to top
 
+
+
+
+
+
+
+### Global Tags
+
+
+
+### Initiatives' Tags
+
 ## Official Channels
 
 The following are the official, sanctioned, Media Channels for The IO Foundation. Any other Media Channel not listed here is to be considered not affiliated with TIOF and any opinions expressed are not to be associated with TIOF.

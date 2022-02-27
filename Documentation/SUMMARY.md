@@ -9,7 +9,6 @@
   * [🚧 Repository](about/readme/repository.md)
   * [🚧 Media Kit](comms/media-kit/README.md)
     * [🚧 Official Channels](comms/media-kit/official-channels.md)
-    * [🚧 Tags](comms/media-kit/tags.md)
   * [🚧 Terminology](about/readme/terminology.md)
   * [🚧 Frequently Asked Questions](about/readme/frequently-asked-questions.md)
 * [👌 Initiatives](initiatives.md)
