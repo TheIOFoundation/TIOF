@@ -23,7 +23,18 @@ Most pages offer a Quickbar at the top providing with relevant shortcuts to:
 * The ShortURL for the page
 * The Playbook linking this page
 
+#### Shortcut Status
 
+| Shortcut                                                | Status         | Description                                 |
+| ------------------------------------------------------- | -------------- | ------------------------------------------- |
+| [Shortcut](documentation-guidelines.md#shortcut-status) | Active         | This shortcut is ready to be used.          |
+| Shortcut                                                | Inactive       | This shortcut hasn't been configured.       |
+| ~~Shortcut~~                                            | Not applicable | This page does not have this shortcut type. |
+
+{% hint style="info" %}
+When one of the shortcuts is not an active link, the information may be missing.\
+Please report it.
+{% endhint %}
 
 
 
