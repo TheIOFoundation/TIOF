@@ -62,19 +62,28 @@ In the interest of consistency, The IO Foundation structures its documentation f
     Listing the mentions this Entity has had in media over time.&#x20;
 * Institutional\
   Provides all the information relative to organization and guidance for this Entity.
+* Research\
+  Provides all information relative to research undertaken in this Entity.
 * Operations\
   Provides all the information relative to the implementation of this Entity.
 * CUSTOM\
   Depending on the needs of the Entity, custom sections will be made available.\
   An explanation of these will be provided in the Introduction page of the Entity.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Some variations may happen depending on the specific needs of the Entity.
 
 
 
 Equally, each of these sections may have sub-sections according to the specific needs of the Entity.
+
+\
+Please refer to the corresponding Space Structure section on the corresponding Entity.
 {% endhint %}
+
+
+
+
 
 ### Page Structure
 
