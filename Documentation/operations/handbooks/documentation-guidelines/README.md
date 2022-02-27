@@ -1,7 +1,7 @@
 # 🚧 Documentation Guidelines
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFHBDG) **| Playbook**&#x20;
+****[**ShortURL**](https://tiof.click/TIOFHBDG) **| Playbook | Assistant**
 {% endhint %}
 
 ## About
@@ -20,16 +20,23 @@ This document provides all the guidance to produce documentation for The IO Foun
 
 Most pages offer a Quickbar at the top providing with relevant shortcuts to:
 
-* The ShortURL for the page
-* The Playbook linking this page
+* The **ShortURL** for the page
+* The **Playbook** linking this page
+* The Tarian **Assistant** for this page
+
+#### Template
+
+{% hint style="info" %}
+**ShortURL | Playbook | Assistant**
+{% endhint %}
 
 #### Shortcut Status
 
-| Shortcut                                                | Status         | Description                                 |
-| ------------------------------------------------------- | -------------- | ------------------------------------------- |
-| [Shortcut](documentation-guidelines.md#shortcut-status) | Active         | This shortcut is ready to be used.          |
-| Shortcut                                                | Inactive       | This shortcut hasn't been configured.       |
-| ~~Shortcut~~                                            | Not applicable | This page does not have this shortcut type. |
+| Shortcut                       | Status         | Description                                 |
+| ------------------------------ | -------------- | ------------------------------------------- |
+| [Shortcut](./#shortcut-status) | Active         | This shortcut is ready to be used.          |
+| Shortcut                       | Inactive       | This shortcut hasn't been configured.       |
+| ~~Shortcut~~                   | Not applicable | This page does not have this shortcut type. |
 
 {% hint style="info" %}
 When one of the shortcuts is not an active link, the information may be missing.\
