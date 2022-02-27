@@ -69,6 +69,7 @@
   * [📓 🚧 Documentation Guidelines](operations/handbooks/documentation-guidelines/README.md)
     * [Template Repo](operations/handbooks/documentation-guidelines/template-repo.md)
   * [🚧 Banking](operations/handbooks/banking.md)
+  * [🚧 Documenting interactions](operations/handbooks/documenting-interactions.md)
   * [🚧 Comms](operations/handbooks/comms/README.md)
     * [🚧 Communication Types](operations/handbooks/comms/communication-types.md)
   * [🚧 Devs](operations/handbooks/devs.md)
