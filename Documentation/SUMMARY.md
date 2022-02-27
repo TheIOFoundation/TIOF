@@ -2,7 +2,7 @@
 
 ## About
 
-* [👌 About The IO Foundation](README.md)
+* [👌 Introduction](README.md)
   * [🚧 Business Plan](business-plan.md)
 * [🚧 Advocacy](advocacy.md)
   * [🚧 Stakeholders](advocacy/stakeholders.md)

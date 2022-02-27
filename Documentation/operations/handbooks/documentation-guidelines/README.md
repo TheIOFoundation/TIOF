@@ -8,6 +8,14 @@
 
 This document provides all the guidance to produce documentation for The IO Foundation and its initiatives.
 
+{% hint style="warning" %}
+In this documentation, the term Entity refers to either:
+
+* The IO Foundation
+* An organization member of The IO Foundation's Network
+* An initiative run by any of the above
+{% endhint %}
+
 ## The tools
 
 The IO Foundation relies on the following tools to provide its documentation services:
@@ -24,7 +32,41 @@ The IO Foundation relies on the following tools to provide its documentation ser
 
 ### Space Structure
 
-A Space, in
+The IO Foundation structures its documentation through Spaces.
+
+In the benefit of consistency, each Space follows a certain structure:
+
+* About\
+  Provides all the information needed to understand this Entity and its objectives.
+  * Introduction\
+    Explaining what this Space is about.
+  * Theory of Change\
+    Explaining what is the identified problem and what is the proposed solution.
+  * Business Plan\
+    Explaining the details on the Business Plan for this Entity.
+  * Status\
+    A quick overview to the current implementation status of this Entity .
+  * Repository\
+    Explaining the structure of the repository hosting this Entity .
+  * Media Kit\
+    Providing all the necessary Comms information for this Entity .
+  * Terminology\
+    Providing definitions for all the specific terms used in this Entity.
+  * Frequently Asked Questions\
+    Answering some of the most common doubts related to this Entity.
+* Institutional\
+  Provides all the information relative to organization and guidance for this Entity.
+* Operations\
+  Provides all the information relative to the implementation of this Entity.
+*
+
+{% hint style="info" %}
+Some variations may happen depending on the specific needs of the Entity.
+
+
+
+Equally, each of these sections may have sub-sections according to the specific needs of the Entity.
+{% endhint %}
 
 ### Page Structure
 
