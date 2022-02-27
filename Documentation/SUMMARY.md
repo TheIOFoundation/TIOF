@@ -3,12 +3,12 @@
 ## About
 
 * [👌 Introduction](README.md)
+  * [🚧 Theory of Change](about/readme/theory-of-change.md)
   * [🚧 Business Plan](business-plan.md)
-* [🚧 Advocacy](advocacy.md)
-  * [🚧 Stakeholders](advocacy/stakeholders.md)
-  * [🚧 Theory of Change](theory-of-change.md)
-  * [🚧 Quick Monitor](advocacy/quick-monitor.md)
-  * [🚧 Roadmap](advocacy/roadmap.md)
+  * [🚧 Status](about/readme/quick-monitor.md)
+  * [🚧 Repository](about/readme/repository.md)
+  * [🚧 Terminology](about/readme/terminology.md)
+  * [Frequently Asked Questions](about/readme/frequently-asked-questions.md)
 * [Initiatives](initiatives.md)
 * [🚧 NextGen Rights Defenders](nextgen-rights-defenders.md)
 * [👌 Hey Big Tech! declaration](hey-big-tech-declaration.md)
@@ -17,6 +17,11 @@
 * [🚧 Donate](donate.md)
 * [🚧 Acknowledgments](acknowledgments.md)
 * [🚧 Media Archive](comms/media-archive.md)
+
+## Stakeholders
+
+* [🚧 Stakeholders](stakeholders/stakeholders.md)
+* [Page 3](stakeholders/page-3.md)
 
 ## Institutional
 
@@ -120,3 +125,7 @@
 ## Dirty
 
 * [\[TIOF\] Institutional \[I\] Organization Data v1.5](dirty/tiof-institutional-i-organization-data-v1.5.md)
+
+***
+
+* [Page 2](page-2.md)
