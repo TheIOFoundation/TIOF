@@ -20,7 +20,7 @@ The IO Foundation advances its Data-Centric Digital Rights advocacy through the 
 
 Advancing the UN Guiding Principles on Business and Human Rights in the tech sector.
 
-![](<../.gitbook/assets/\[TIOF TU] Comms \[P] LinkedIn - Event Header ENG v1.0.jpg>)
+![](<.gitbook/assets/\[TIOF TU] Comms \[P] LinkedIn - Event Header ENG v1.0.jpg>)
 
 A global community working towards inspiring and equipping technologists in their role as NextGen Rights Defenders.
 

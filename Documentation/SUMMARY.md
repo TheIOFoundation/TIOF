@@ -3,21 +3,20 @@
 ## About
 
 * [👌 About The IO Foundation](README.md)
-  * [About this documentation](about/readme/about-this-documentation.md)
-  * [🚧 Business Plan](about/readme/business-plan.md)
-* [🚧 Advocacy](about/advocacy/README.md)
-  * [🚧 Stakeholders](about/advocacy/stakeholders.md)
-  * [🚧 Theory of Change](about/advocacy/theory-of-change.md)
-  * [🚧 Quick Monitor](about/advocacy/quick-monitor.md)
-  * [🚧 Roadmap](about/advocacy/roadmap.md)
-* [Initiatives](about/initiatives.md)
-* [🚧 NextGen Rights Defenders](about/nextgen-rights-defenders.md)
-* [👌 Hey Big Tech! declaration](about/hey-big-tech-declaration.md)
+  * [🚧 Business Plan](business-plan.md)
+* [🚧 Advocacy](advocacy.md)
+  * [🚧 Stakeholders](advocacy/stakeholders.md)
+  * [🚧 Theory of Change](theory-of-change.md)
+  * [🚧 Quick Monitor](advocacy/quick-monitor.md)
+  * [🚧 Roadmap](advocacy/roadmap.md)
+* [Initiatives](initiatives.md)
+* [🚧 NextGen Rights Defenders](nextgen-rights-defenders.md)
+* [👌 Hey Big Tech! declaration](hey-big-tech-declaration.md)
 * [DCDR Principles](https://tiof.click/Principles)
-* [🚧 Join us](about/join-us.md)
-* [🚧 Donate](about/donate.md)
-* [🚧 Acknowledgments](about/acknowledgments.md)
-* [🚧 Media Archive](about/media-archive.md)
+* [🚧 Join us](join-us.md)
+* [🚧 Donate](donate.md)
+* [🚧 Acknowledgments](acknowledgments.md)
+* [🚧 Media Archive](comms/media-archive.md)
 
 ## Institutional
 
@@ -60,12 +59,10 @@
 
 ## Operations
 
-* [🚧 Maintaining this documentation](operations/maintaining-this-documentation.md)
-* [🚧 Media Kit](operations/media-kit/README.md)
-  * [🚧 Official Channels](operations/media-kit/official-channels.md)
-  * [🚧 Tags](operations/media-kit/tags.md)
-  * [🚧 Documentation Guidelines](operations/media-kit/documentation-guidelines.md)
-  * [🚧 DCDR Terminology](operations/media-kit/dcdr-terminology.md)
+* [🚧 Media Kit](comms/media-kit/README.md)
+  * [🚧 Official Channels](comms/media-kit/official-channels.md)
+  * [🚧 Tags](comms/media-kit/tags.md)
+  * [🚧 DCDR Terminology](comms/media-kit/dcdr-terminology.md)
 * [🚧 Objects](operations/objects/README.md)
   * [🚧 Organization](operations/objects/organization.md)
   * [🚧 Initiative](operations/objects/initiative.md)
@@ -80,6 +77,7 @@
   * [🚧 Community Partner](operations/objects/community-partner.md)
   * [🚧 Speaker](operations/objects/speaker.md)
 * [🚧 Handbooks](operations/handbooks/README.md)
+  * [🚧 Documentation Guidelines](operations/handbooks/documentation-guidelines.md)
   * [🚧 Banking](operations/handbooks/banking.md)
   * [🚧 Comms](operations/handbooks/comms/README.md)
     * [🚧 Communication Types](operations/handbooks/comms/communication-types.md)
@@ -94,8 +92,8 @@
   * [🚧 Stock Management](operations/handbooks/stock-management.md)
   * [🚧 Finance](operations/handbooks/finance.md)
 * [🚧 Codefield](operations/codefield/README.md)
-  * [🚧 Publications](operations/codefield/publications.md)
-  * [🚧 Podcast](operations/codefield/podcast.md)
+  * [🚧 Publications](codefield/publications.md)
+  * [🚧 Podcast](codefield/podcast.md)
 * [🚧 Campaigns](comms/campaigns.md)
   * [👌 Notification of Internal Tool](operations/campaigns/notification-of-internal-tool.md)
   * [🚧 Notification of Media Release](operations/campaigns/notification-of-media-release.md)
@@ -115,8 +113,8 @@
   * [🚧 Strat Meets](operations/meetings/strat-meets.md)
   * [🚧 Status Calls](operations/meetings/status-calls.md)
 * [🚧 Infrastructure](operations/infrastructure/README.md)
-  * [🚧 Basic Needs](operations/infrastructure/basic-needs.md)
-  * [🚧 Open NGO structure (CrowdShape)](operations/infrastructure/open-ngo-structure-crowdshape.md)
+  * [🚧 Basic Needs](infrastructure/basic-needs.md)
+  * [🚧 Open NGO structure (CrowdShape)](infrastructure/open-ngo-structure-crowdshape.md)
 
 ## Dirty
 
