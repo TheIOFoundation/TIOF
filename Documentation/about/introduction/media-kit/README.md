@@ -6,7 +6,7 @@ coverY: 0
 # 🚧 Media Kit
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TIOFMediaKit) **| Playbook | Assistant**
 {% endhint %}
 
 ## Introduction
@@ -30,6 +30,10 @@ You should familiarize yourself with this it and comply with it at all times. An
 
 {% hint style="info" %}
 A document summarizing The IO Foundation's [Branding Guidelines](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/\[TIOF]%20Comms%20\[P]%20Branding%20Guidelines%20ENG%20v1.4.pdf) is also available.
+{% endhint %}
+
+{% hint style="success" %}
+**A full Media Kit set is available for download in** [**TIOF's Media Package**](https://tiof.click/TIOFPackageMedia)**.**
 {% endhint %}
 
 ## Concepts
@@ -117,6 +121,10 @@ You can also check the [TIOF's Organization Chart](https://tiof.click/TIOFOrgCha
 
 The following are the official definitions to be used when describing or referencing The IO Foundation and its DCDR advocacy. A number of variations are provided in an attempt to fit different character limitations.
 
+{% hint style="success" %}
+When describing The IO Foundation, please use these official descriptions.
+{% endhint %}
+
 #### Full version
 
 The IO Foundation (TIOF) is a global for-impact NGO advocating for Data-Centric Digital Rights. Born from a fundamental concern about the state of technology in the world, its mission is to `Promote, protect and provide solutions for Data-Centric Digital Rights`, thus enabling the implementation of better and safer digital societies.
@@ -125,65 +133,38 @@ As data becomes an increasingly powerful economic, political, and social force, 
 
 Following its vision of `A world where Human Rights and Digital Rights are one and the same`, TIOF aims to raise awareness of the importance of Data-Centric Digital Rights in collaboration with all stakeholders ranging from programmers, bodies of governance, civil society and corporate.
 
+#### Mini version&#x20;
+
+The IO Foundation (TIOF) is a global for-impact NGO advocating for Data-Centric Digital Rights to establish a more solid approach to Rights from a technical standards perspective and to raise awareness on the critical role of programmers as the Next Generation of Human and Digital Rights defenders.
+
 #### Micro version
 
-TIOF is a nonprofit advocating for Data-Centric Digital Rights aiming to ensure a more transparent and solid approach to Rights from a technical standards perspective.
+TIOF is a for-impact NGO advocating for Data-Centric Digital Rights aiming to establish a more solid approach to Rights from a technical standards perspective.
 
-#### Mini 2
+#### Nano version
 
-The IO Foundation (TIOF) is a for-impact NGO advocating for Data-Centric Digital Rights to establish a more solid approach from a technical standards perspective and to raise awareness on the critical role of programmers as the next generation of Human and Digital Rights defenders.
-
-Back to top
-
-#### Mini 3
-
-The IO Foundation (TIOF) is a for-impact NGO advocating for Data-Centric Digital Rights (DCDR) to establish a more solid approach from a technical standards perspective and seek to prevent misuse of citizen's data in our digital societies.
-
-Back to top
-
-#### Mini 4
-
-The IO Foundation (TIOF) is a global nonprofit advocating for Data-Centric Digital Rights, born out of a fundamental concern on the future of digital communities, both in their governance and implementation, and the critical role of programmers as digital architects.
-
-Back to top
-
-#### X < 160 characters
-
-The IO Foundation (TIOF) is a for-impact NGO advocating for Data-Centric Digital Rights (DCDR) to establish a more solid approach from a technical standards perspective.
-
-Back to top
-
-#### Micro
-
-The IO Foundation is a nonprofit advocating for Data-Centric Digital Rights (DCDR).
-
-Back to top
+The IO Foundation is a global for-impact NGO advocating for Data-Centric Digital Rights (DCDR).
 
 ### Logos
 
-The following are the official logos of The IO Foundation:
+The following are the official logos for The IO Foundation.
 
-#### Category: Organization
+|                                                            |                                               |                                         |
+| ---------------------------------------------------------- | --------------------------------------------- | --------------------------------------- |
+| <p><strong>TIOF</strong><br><strong>Full Logo</strong></p> | ![](<../../../.gitbook/assets/image (4).png>) |                                         |
+| <p><strong>TIOF</strong><br><strong>Hex Logo</strong></p>  | ![](<../../../.gitbook/assets/image (3).png>) | ![](../../../.gitbook/assets/image.png) |
+| **Format**                                                 | Full Color                                    | White Variant                           |
+| **Usage**                                                  | General use.                                  | Monochromatic or dark backgrounds.      |
 
-| **Name**     | TIOF Full Logo                                                                                                                                                 |                                                                                                                                                                |                                                                                                                                                               |                                                                                                                                                               |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Sample**   | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Logos/\[TIOF]%20Comms%20\[P]%20Full%20Logo%20TIOF%20FC%20T%20HiRes%20ENG%20v1.6.png) | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Logos/\[TIOF]%20Comms%20\[P]%20Full%20Logo%20TIOF%20FC%20T%20HiRes%20ENG%20v1.6.svg) | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Logos/\[TIOF]%20Comms%20\[P]%20Full%20Logo%20TIOF%20W%20T%20HiRes%20ENG%20v1.6.png) | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Logos/\[TIOF]%20Comms%20\[P]%20Full%20Logo%20TIOF%20W%20T%20HiRes%20ENG%20v1.6.svg) |
-| **Format**   | PNG                                                                                                                                                            | SVG                                                                                                                                                            | PNG                                                                                                                                                           | SVG                                                                                                                                                           |
-| **Code**     |                                                                                                                                                                |                                                                                                                                                                |                                                                                                                                                               |                                                                                                                                                               |
-| **Features** | Hi Resolution / Full Color / Transparent Background / English                                                                                                  | Hi Resolution / Full Color / Transparent Background / English                                                                                                  | Hi Resolution / White / Transparent Background / English                                                                                                      | Hi Resolution / White / Transparent Background / English                                                                                                      |
-| **Usage**    |                                                                                                                                                                |                                                                                                                                                                |                                                                                                                                                               |                                                                                                                                                               |
-
-| **Name**     | TIOF Hex Logo                                                                                                                                                 |                                                                                                                                                               |                                                                                                                                                                |                                                                                                                                                              |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Sample**   | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Logos/\[TIOF]%20Comms%20\[P]%20Hex%20Logo%20TIOF%20FC%20T%20HiRes%20XXX%20v1.6.png) | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Logos/\[TIOF]%20Comms%20\[P]%20Hex%20Logo%20TIOF%20FC%20T%20HiRes%20XXX%20v1.6.svg) | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Logos/\[TIOF]%20Comms%20\[P]%20Hex%20Logo%20TIOF%20W%20NoT%20HiRes%20XXX%20v1.6.png) | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Logos/\[TIOF]%20Comms%20\[P]%20Hex%20Logo%20TIOF%20W%20T%20HiRes%20XXX%20v1.6.svg) |
-| **Format**   | PNG                                                                                                                                                           | SVG                                                                                                                                                           | PNG                                                                                                                                                            | SVG                                                                                                                                                          |
-| **Code**     |                                                                                                                                                               |                                                                                                                                                               |                                                                                                                                                                |                                                                                                                                                              |
-| **Features** | Hi Resolution / Full Color / Transparent Background / English                                                                                                 | Hi Resolution / Full Color / Transparent Background / English                                                                                                 | Hi Resolution / White / Transparent Background / English                                                                                                       | Hi Resolution / White / Transparent Background / English                                                                                                     |
-| **Usage**    |                                                                                                                                                               |                                                                                                                                                               |                                                                                                                                                                |                                                                                                                                                              |
-
+{% hint style="info" %}
 For more information, please refer to [TIOF's Branding Guidelines](https://tiof.click/BrandingKit).
+{% endhint %}
 
-Back to top
+{% hint style="success" %}
+**All logos are available for download in** [**TIOF's Media Package**](https://tiof.click/TIOFPackageMedia)**.**
+{% endhint %}
+
+## Concepts
 
 ### Fonts (typeface)
 
