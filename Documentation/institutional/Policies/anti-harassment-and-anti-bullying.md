@@ -32,12 +32,8 @@ This document complements [TIOF's Code of Conduct](https://tiof.click/TIOFPolicy
 {% endhint %}
 
 {% hint style="info" %}
-This document does not form part of any [Engagement Document](https://tiof.click/TIOFTerminology#engagement-document) and we may amend it at any time following the procedures described at TIOF's Articles of Association.
+This document does not form part of any [Engagement Document](https://tiof.click/TIOFTerminology#engagement-document) and we may amend it at any time following the procedures described at [TIOF's Articles of Association](https://tiof.click/TIOFLegalArticlesOfAssociation).
 {% endhint %}
-
-
-
-
 
 ### Scope
 
@@ -52,26 +48,6 @@ This document indirectly applies to:
 The policies set out in this document apply to all [TIOF Members](https://tiof.click/TIOFTerminology#members) unless otherwise indicated. They therefore apply to Members of the Boards ([Directors](https://tiof.click/TIOFTerminology#directors), [Advisers](https://tiof.click/TIOFTerminology#advisers), [Consultants](https://tiof.click/TIOFTerminology#consultants)), [Employees](https://tiof.click/TIOFTerminology#employees), [Volunteers](https://tiof.click/TIOFTerminology#volunteers) and [Interns](https://tiof.click/TIOFTerminology#interns); this is irrespective of their [engagement type](https://tiof.click/TIOFTerminology#engagement-type). They equally apply to all [Contributors](https://tiof.click/TIOFTerminology#contributors) and will be used as part of the selection criteria when engaging with them.
 
 This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#spaces), including (although not limited to) management activities, contributions or events; it and also applies when an individual is officially representing the organization in public spaces. Examples of representing the organization include (although not limited to) using an official e-mail address, posting via any official channel or acting as an appointed representative at an event.
-
-###
-
-###
-
-### Scope
-
-This document directly applies to:
-
-* All [TIOF Members](https://github.com/TheIOFoundation/TIOF/wiki/Terminology#member)
-
-This document indirectly applies to:
-
-* All [TIOF Contributors](https://github.com/TheIOFoundation/TIOF/wiki/Terminology#contributors)
-
-The policies and/or procedures set out in this document apply to all TIOF Members unless otherwise indicated. They therefore apply to Directors, Advisers, Counselors, Staff, Volunteers and Interns; this is irrespective of their part-time, fixed-term or casual status. They equally apply to all [Contributors](https://github.com/TheIOFoundation/TIOF/wiki/Terminology#contributors) and will be used as part of the selection criteria when engaging with them.
-
-This document applies within all TIOF spaces, including (although not limited to) management activities, project contributions or events, and also applies when an individual is officially representing the broader community in public spaces. Examples of representing our community include (although not limited to) using an official e-mail address, posting via an official social media account or acting as an appointed representative at an event (online or offline).
-
-Back to top
 
 ## Policy details
 
