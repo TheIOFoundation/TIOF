@@ -1,9 +1,4 @@
----
-cover: ../../.gitbook/assets/[TIOF] Comms [P] GH Page Banner MidRes ENG v1.0.png
-coverY: 0
----
-
-# 🚧 Policies
+# Applicable legislation
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -17,12 +12,3 @@ coverY: 0
 This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
-
-
-
-
-
-## Summary of Policies
-
-
-

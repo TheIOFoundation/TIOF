@@ -1,8 +1,17 @@
 # 🚧 Terminology
 
-![logo](https://user-images.githubusercontent.com/9198668/103223358-02a5ae80-4961-11eb-9a78-c6ebc20d7691.png)
+{% hint style="info" %}
+**ShortURL | Playbook | Assistant**
+{% endhint %}
 
-***
+
+
+{% hint style="warning" %}
+**NOTICE**
+
+This documentation page is under construction.\
+Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
+{% endhint %}
 
 ## PLEASE NOTE THAT THIS IS A WORK IN PROGRESS DOCUMENT
 
@@ -16,15 +25,17 @@ Any person officially involved in the implementation of initiatives under The IO
 
 #### Personal characteristic dimension (PCD)
 
-#### Staff
+#### Employees
 
-#### volunteer
+#### Volunteers
 
-#### Director
+#### Interns
 
-#### Adviser
+#### Directors
 
-#### Counselor
+#### Advisers
+
+#### Consultants
 
 ### Contributors
 
@@ -43,6 +54,26 @@ Any person officially involved in the implementation of initiatives under The IO
 Ex GPD.
 
 **Media**
+
+****
+
+****
+
+****
+
+### **Engagement type**
+
+#### Full-time
+
+#### Part-time
+
+#### Indefinite
+
+#### Fixed-term
+
+#### Casual status
+
+****
 
 ## Documents, Handbooks and Policies
 

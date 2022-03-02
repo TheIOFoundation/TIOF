@@ -29,6 +29,7 @@
 * [The IO Foundation MTÜ](institutional/the-io-foundation-mtue/README.md)
   * [Memorandum of Association](institutional/the-io-foundation-mtue/memorandum-of-association.md)
   * [Articles of Association](institutional/the-io-foundation-mtue/articles-of-association.md)
+  * [Applicable legislation](institutional/the-io-foundation-mtue/applicable-legislation.md)
 * [🚧 Terminology](institutional/terminology.md)
 * [🚧 Structures](institutional/page-6.md)
   * [🚧 TIOF Network](institutional/structures/tiof-network.md)

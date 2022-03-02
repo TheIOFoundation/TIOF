@@ -5,6 +5,10 @@ description: Version 1.2
 # Articles of Association
 
 {% hint style="info" %}
+**ShortURL | Playbook | Assistant**
+{% endhint %}
+
+{% hint style="info" %}
 These Articles of Association was approved on 08 July 2020.
 {% endhint %}
 
