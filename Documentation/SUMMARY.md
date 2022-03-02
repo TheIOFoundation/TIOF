@@ -5,7 +5,7 @@
 * [🌟 Introduction](README.md)
   * [🚧 Theory of Change](about/introduction/theory-of-change.md)
   * [🚧 Business Plan](about/introduction/business-plan.md)
-  * [🚧 Status](about/introduction/quick-monitor.md)
+  * [🚧 Status](about/introduction/status.md)
   * [🚧 Repository](about/introduction/repository.md)
   * [🚧 Media Kit](about/introduction/media-kit/README.md)
     * [🚧 Official Channels](about/introduction/media-kit/official-channels.md)
@@ -16,7 +16,7 @@
 * [📣 Hey Big Tech! declaration](hey-big-tech-declaration.md)
 * [DCDR Principles](https://tiof.click/Principles)
 * [🚧 Join us](join-us.md)
-* [🚧 Support Us](donate.md)
+* [🚧 Support Us](about/support-us.md)
 * [🚧 Acknowledgments](acknowledgments.md)
 * [🚧 Media Archive](comms/media-archive.md)
 
