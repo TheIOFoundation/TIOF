@@ -287,13 +287,13 @@ The following are the official URL shortener domains used by The IO Foundation.
 
 The following are the official repositories used by The IO Foundation.
 
-| **Type**             | [TIOF Profile on GH](http://tiof.click/TIOFGitHub)                         | [TIOF Repository on GH](http://tiof.click/TIOFRepo)                     |
-| -------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| **Alternative URLs** | None                                                                       | None                                                                    |
-| **Short URL**        | [https://TIOF.Click/TIOFGitHub](https://tiof.click/TIOFGitHub)             | [https://TIOF.Click/TIOFRepo](https://tiof.click/TIOFRepo)              |
-| **Full URL**         | [https://github.com/TheIOFoundation/](https://github.com/TheIOFoundation/) | https://github.com/TheIOFoundation/TIOF                                 |
-| **Content**          | Official profile of TIOF in GitHub                                         | Public repository showcasing TIOF's advocacy work                       |
-| **Usage**            | Consolidation of all GH presence for TIOF                                  | Initiative Management + Community Collaboration + Transparency platform |
+| **Type**             | [TIOF Profile on GH](http://tiof.click/TIOFGitHub)                         | [TIOF Repository on GH](http://tiof.click/TIOFRepo)                                |
+| -------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **Alternative URLs** | None                                                                       | None                                                                               |
+| **Short URL**        | [https://TIOF.Click/TIOFGitHub](https://tiof.click/TIOFGitHub)             | [https://TIOF.Click/TIOFRepo](https://tiof.click/TIOFRepo)                         |
+| **Full URL**         | [https://github.com/TheIOFoundation/](https://github.com/TheIOFoundation/) | [https://github.com/TheIOFoundation/TIOF](https://github.com/TheIOFoundation/TIOF) |
+| **Content**          | Official profile of TIOF in GitHub.                                        | Public repository showcasing TIOF's work.                                          |
+| **Usage**            | Consolidation of all GH presence for TIOF.                                 | Organization Management + Community Collaboration + Transparency platform          |
 
 ### Email
 
@@ -314,40 +314,50 @@ The following are the official public email addresses used by The IO Foundation.
 | --------- | ------------------------------------------------------------------- | --------------------------------------------------------------- |
 | **Usage** | Official communications and inquiries                               | Media related communications and inquiries                      |
 
-###
-
 ### Social Media
 
-The following are the official social media platforms where The IO Foundation has some sort of presence. For a full list of all social media (and other platforms) where The IO Foundation has presence, please refer to the [Summary of Links](https://tiof.click/TIOFAboutUs).
+The following are the official social media platforms where The IO Foundation has some sort of active presence.
 
-> Note: For more information on TIOF's position respective to mainstream social media, please consult our [Media Policy](https://github.com/TheIOFoundation/TIOF/wiki/Media-Policy#about-social-media).
+{% hint style="info" %}
+The IO Foundation, in general, uses social media reluctantly.
 
-| **Platform**  | LinkedIn                                           | Twitter                                                | Facebook                            | Instagram                                 |
-| ------------- | -------------------------------------------------- | ------------------------------------------------------ | ----------------------------------- | ----------------------------------------- |
-| **Short URL** | http://TIOF.Click/TIOFLinkedIn                     | https://TIOF.Click/TIOFTwitter                         | http://tiof.click/TIOFFacebook      | http://tiof.click/TIOFInstagram           |
-| **Full URL**  | https://www.linkedin.com/company/the-io-foundation | https://github.com/TheIOFoundation/TIOF                | https://twitter.com/TheIOFoundation | https://www.facebook.com/TheI0Foundation/ |
-| **Status**    | Active                                             | Active                                                 | Dormant                             | Dormant                                   |
-| **Content**   | Updates on Advocacy + Events                       | PUpdates on Advocacy + Events / Comments not responded | None                                | None                                      |
-| **Usage**     | Postings - Comments not responded                  | Postings - Comments not responded                      | Impersonation protection            | Impersonation protection                  |
+To learn more about TIOF's position on this matter, check our [Hey Big Tech! declaration.](https://tiof.click/HeyBigTech)
+{% endhint %}
 
-Back to top
+| Platform  | Full URL                                                                                                               | ShortURL                                                             |
+| --------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| LinkedIn  | [https://www.linkedin.com/company/the-io-foundation](https://www.linkedin.com/company/the-io-foundation)               | [https://TIOF.Click/TIOFLinkedIn](https://tiof.click/TIOFLinkedIn)   |
+| Twitter   | [https://twitter.com/TheIOFoundation](https://twitter.com/TheIOFoundation)                                             | [https://TIOF.Click/TIOFTwitter](https://tiof.click/TIOFTwitter)     |
+| Facebook  | [https://www.facebook.com/TheI0Foundation/](https://www.facebook.com/TheI0Foundation/)                                 | [https://TIOF.Click/TIOFFacebook](https://tiof.click/TIOFFacebook)   |
+| Instagram | [https://www.instagram.com/theiofoundation/](https://www.instagram.com/theiofoundation/)                               | [https://TIOF.Click/TIOFInstagram](https://tiof.click/TIOFInstagram) |
+| Youtube   | [https://www.youtube.com/channel/UCT\_uLJimWw9TLRPHtAtoPyQ](https://www.youtube.com/channel/UCT\_uLJimWw9TLRPHtAtoPyQ) | [https://TIOF.Click/TIOFYoutube](https://tiof.click/TIOFYoutube)     |
+| Rumble    | [https://rumble.com/c/c-1383496](https://rumble.com/c/c-1383496)                                                       | [https://TIOF.Click/TIOFRumble](https://tiof.click/TIOFRumble)       |
+| GAB       | [https://gab.com/TIOF](https://gab.com/TIOF)                                                                           | [https://TIOF.Click/TIOFGAB](https://tiof.click/TIOFGAB)             |
+| Pinterest | [https://www.pinterest.com/TheIOFoundation/](https://www.pinterest.com/TheIOFoundation/)                               | [https://TIOF.Click/TIOFPinterest](https://tiof.click/TIOFPinterest) |
 
-### Events
+{% hint style="info" %}
+The IO Foundation has profiles in other platforms, sometimes in preparation for its use, sometimes to avoid impersonation.
+{% endhint %}
 
-The following are the official links through which The IO Foundation manages events (organized by TIOF + those it may participate in + recommended):
+### Calendars
 
-| **Platform**  | Events                                                    | Public Calendar                          | Live Events                         | Events RSVP                   |
-| ------------- | --------------------------------------------------------- | ---------------------------------------- | ----------------------------------- | ----------------------------- |
-| **Short URL** | http://TIOF.Click/Events                                  | http://TIOF.Click/EventsCal              | https://TIOF.Click/EventsLive       | https://TIOF.Click/EventsRSVP |
-| **Status**    | Active                                                    | Active                                   | Active                              | Active                        |
-| **Content**   | Events listing                                            | Events calendar                          | Events access                       | TIOF Events RSVP              |
-| **Usage**     | Communicate events from TIOF and those it participates in | Public events calendar that can be added | Access to the current running event | RSVP for TIOF events          |
+The following is the official calendar through which The IO Foundation publishes events:
 
-Back to top
+* organized by TIOF
+* those it may participate in
+* other events that are deemed relevant
+
+| **Platform**  | Google Calendar                                              |
+| ------------- | ------------------------------------------------------------ |
+| **Short URL** | [https://TIOF.Click/EventsCal](https://tiof.click/EventsCal) |
+| **Content**   | Events calendar                                              |
+| **Usage**     | Public events calendar that can be added                     |
 
 ### Donations & Crowdfunding
 
-The following are some of the platforms where The IO Foundation has official presence. A selected list of Goals is made available to invite the broader community to participate and support. For more information, explore TIOF's [CrowdShape](https://github.com/TheIOFoundation/CrowdShape) initiative. \[WIP]
+The following are the official platforms through which The IO Foundation c
+
+has official presence. A selected list of Goals is made available to invite the broader community to participate and support. For more information, explore TIOF's [CrowdShape](https://github.com/TheIOFoundation/CrowdShape) initiative. \[WIP]
 
 For a full list of all crowdfunding platforms where The IO Foundation has presence, please refer to the [Summary of Links](https://tiof.click/TIOFAboutUs).
 
@@ -361,23 +371,32 @@ Currently, The IO Foundation accepts financial donations on both Fiat and Crypto
 | **Content**   | General Donations                   | Goals                                   | Goals                                      | Goals                                   |
 | **Usage**     | Facilitate donations to TIOF global | List Goals for support                  | List Goals for support                     | List Goals for support                  |
 
-Back to top
-
 ### Human Resources
 
-WIP
+The following is the official recruitment platform through which The IO Foundation publishes its open positions.
 
-Back to top
+| **Platform**  | QPage                                                                |
+| ------------- | -------------------------------------------------------------------- |
+| **Full URL**  | [https://Join.TheIOFoundation.org](https://join.theiofoundation.org) |
+| **Short URL** | [https://TIOF.Click/TIOFJoinUs](https://tiof.click/TIOFJoinUs)       |
+| **Content**   | Posting of open positions.                                           |
+
+
+
+
+
+
 
 ## TIOF Initiatives
 
 The following is a list of TIOF's initiatives and a quick link to their corresponding Media Kit.
 
-| UDDR                                                                                                                                                      | TechUp                                                                                                                                                        | Project Lockdown                                                                                                                                                           | BHR in Tech                                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://github.com/TheIOFoundation/UDDR/raw/master/Project%20Identity/Logos/\[TIOF%20UDDR]%20Comms%20\[P]%20Logo%20FC%20NoT%20HiRes%20XXX%20v1.0.png) | ![](https://github.com/TheIOFoundation/TechUp/raw/master/Project%20Identity/Logos/\[TIOF%20TU]%20Comms%20\[P]%20U%20Logo%20FC%20NoT%20HiRes%20XXX%20v1.0.png) | ![](https://github.com/TheIOFoundation/ProjectLockdown/raw/master/Project%20Identity/Logos/\[TIOF%20PLD]%20Comms%20\[P]%20Lock%20Logo%20LM%20NoT%20HiRes%20XXX%20v1.0.png) | ![](https://github.com/TheIOFoundation/BiT/raw/master/Project%20Identity/Logos/\[TIOF%20BiT]%20Comms%20\[P]%20Logo%20FC%20NoT%20HiRes%20XXX%20v1.0.png) |
-| [Media Kit](https://github.com/TheIOFoundation/UDDR/wiki/Media-Kit)                                                                                       | [Media Kit](https://github.com/TheIOFoundation/TechUp/wiki/Media-Kit)                                                                                         | [Media Kit](https://github.com/TheIOFoundation/ProjectLockdown/wiki/Media-Kit)                                                                                             | [Media Kit](https://github.com/TheIOFoundation/BiT/wiki/Media-Kit)                                                                                      |
+|                                                                                          |                  |                                              |
+| ---------------------------------------------------------------------------------------- | ---------------- | -------------------------------------------- |
+|                                                                                          | DCDR             | [Media Kit](https://tiof.click/DCDRMediaKit) |
+| ![](<../../../.gitbook/assets/\[TIOF BiT] Comms \[P] Logo FC T HiRes XXX v1.0.png>)      | BHR in Tech      | [Media Kit](https://tiof.click/BiTMediaKit)  |
+| ![](../../../.gitbook/assets/CrowdShape-01.png)                                          | CrowdShape       | [Media Kit](https://tiof.click/CSMediaKit)   |
+| ![](<../../../.gitbook/assets/\[TIOF PLD] Comms \[P] Lock Logo LM T HiRes XXX v1.0.png>) | Project Lockdown | [Media Kit](https://tiof.click/PLDMediaKit)  |
+| ![](<../../../.gitbook/assets/\[TIOF TU] Comms \[P] U Logo FC T HiRes XXX v1.0.png>)     | TechUp           | [Media Kit](https://tiof.click/TUMediaKit)   |
+| ![](<../../../.gitbook/assets/\[TIOF UDDR] Comms \[P] Logo FC T HiRes XXX v1.0.png>)     | UDDR             | [Media Kit](https://tiof.click/UDDRMediaKit) |
 
-Back to top
-
-***
