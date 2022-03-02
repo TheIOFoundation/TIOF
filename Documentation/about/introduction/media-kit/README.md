@@ -13,35 +13,24 @@ coverY: 0
 
 ### Definitions
 
-This document employs terms related to the [DCDR Advocacy](http://tiof.click/Advocacy) that can be found in the [TIOF terminology](http://tiof.click/Terminology).
+This document employs terms related to TIOF's [DCDR Advocacy](https://tiof.click/DCDRAdvocacy) that can be found in the [TIOF terminology](https://tiof.click/TIOFTerminology) as well as the [DCDR Terminology](https://tiof.click/DCDRTerminology).
 
-Back to top
+For a structure of The IO Foundation, please visit
+
+* The IO Foundation's [Organizational Chart](http://tiof.click/TIOFOrgChart)
+* The IO Foundation's [Organizational Taxonomy](https://tiof.click/OrgTaxonomy)
 
 ### About this document
 
-This document defines all the necessary elements that conform The IO Foundation's Project Identity (Branding Guidelines) and their usage rules on Media Channels, by either TIOF members or external parties. It is a reference document to which all TIOF productions, either for internal or external use, must refer and adhere. You should familiarize yourself with this it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to the corresponding project's Team Comms.
+This document describes all the elements that conform The IO Foundation's organization identity (aka Branding Guidelines) and their usage rules on any generated content, by either [TIOF Members](https://tiof.click/TIOFTerminology#members), [Contributors](https://tiof.click/TIOFTerminology#contributors) or any other third parties.
 
+It is a reference document to which all TIOF productions, either for internal or external use, must refer and adhere.
+
+You should familiarize yourself with this it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to the corresponding Team Comms Manager.
+
+{% hint style="info" %}
 A document summarizing The IO Foundation's [Branding Guidelines](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/\[TIOF]%20Comms%20\[P]%20Branding%20Guidelines%20ENG%20v1.4.pdf) is also available.
-
-This document does not form part of any Engagement Document and we may amend it at any time.
-
-Back to top
-
-### Scope
-
-This document directly applies to:
-
-* All \[TIOF Members] (https://github.com/TheIOFoundation/TIOF/wiki/Terminology#member)
-
-This document indirectly applies to:
-
-* All \[TIOF Contributors] (https://github.com/TheIOFoundation/TIOF/wiki/Terminology#contributors) that may produce any type of content related to The IO Foundation.
-
-The policies and procedures set out in this document apply to all TIOF Members unless otherwise indicated. They therefore apply to anyone involved in the sharing of productions through any official channel, irrespective of their part-time, fixed-term or casual status.
-
-This document applies within all TIOF spaces, including (although not limited to) management activities, project contributions or events, and also applies when an individual is officially representing the broader community in public spaces. Examples of representing our community include (although not limited to) using an official e-mail address, posting via an official social media account or acting as an appointed representative at an event (online or offline).
-
-Back to top
+{% endhint %}
 
 ## Concepts
 
@@ -49,12 +38,20 @@ Back to top
 
 The following forms are authorized when referring to The IO Foundation:
 
-> Please note the capitalization
+{% hint style="warning" %}
+Please note the capitalization
+{% endhint %}
 
 * The IO Foundation
 * TIOF
 
-Back to top
+{% hint style="warning" %}
+**REMARK**
+
+The article "The" is not optional nor it is inseparable from the rest of the name.
+
+~~the IO Foundation~~ / ~~IO Foundation~~
+{% endhint %}
 
 ### Mission & Vision
 
@@ -62,36 +59,33 @@ The following are the official formulations of The IO Foundation's Mission & Vis
 
 > **Mission:** To promote, protect and provide solutions for Data-Centric Digital Rights.
 
-> **Vision:** A world where Human Rights and Digital Rights are one and the same.
-
-Back to top
+> **Vision:** A world where Human Rights and Data-Centric Digital Rights are one and the same.
 
 ### Values
 
 The IO Foundation delivers its mission through the observance of the following values:
 
-> **Community:** Digital Rights is a global endeavor that requires the active participation of everyone, from policy makers to users, businesses and the people who will architect and build digital societies.
+> **Community:** [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) is a global endeavor that requires the active participation of everyone, from policy makers to citizens, businesses and, most importantly technologists as architects and builders our digital societies.
 
-> **Accountability:** We recognize the critical importance of operating under procedures and methodologies that are transparent in order to generate the necessary trust in our DCDR principles and the advocacy at large.
+> **Accountability:** We recognize the critical importance of operating under procedures and methodologies that are transparent in order to generate the necessary trust in our [DCDR Principles](https://tiof.click/DCDRPrinciples) and the advocacy at large.
 
-> **Impact:** Our programs and projects are designed and implemented only to serve the broader advocacy and to help, step by step, generate practical outcomes that make technology better and safer transparently for digital citizens.
-
-Back to top
+> **Impact:** Our [initiatives](https://tiof.click/TIOFInitiatives) are designed and implemented only to serve the broader [DCDR advocacy](https://tiof.click/DCDRAdvocacy) and to help, step by step, generate practical outcomes that make technology better and safer transparently for digital citizens.
 
 ### The advocacy
 
-The IO Foundation's advocacy is labelled as Data-Centric Digital Rights. The following forms are to be used internally in TIOF and highly encouraged when referring to the advocacy:
+The IO Foundation's advocacy is called [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy). The following forms are to be used internally in TIOF and highly encouraged when referring to the advocacy:
 
-> Please note the capitalization
+{% hint style="warning" %}
+Please note the capitalization
+{% endhint %}
 
 * Data-Centric Digital Rights
 * DCDR
 
-Data-Centric Digital Rights advocates to establish the necessary technical standards to transparently implement Digital Rights and enable technologists to create better and safer digital societies by embracing their role as Rights defenders.
+**About the DCDR advocacy**\
+****[Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) advocates to establish the necessary technical standards to transparently protect citizen's digital twins and enable technologists to create better and safer digital societies through embracing their role as NextGen Rights Defenders.
 
-The IO Foundation focuses its efforts towards programmers and in the proclamation of a Universal Declaration of Digital Rights.
-
-Back to top
+The IO Foundation focuses its efforts towards programmers and in the proclamation of a Universal Declaration of Digital Rights (UDDR).
 
 #### Iconography
 
