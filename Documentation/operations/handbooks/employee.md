@@ -1,8 +1,17 @@
-# 🚧 Staff
+# 🚧 Employee
 
-![logo](https://user-images.githubusercontent.com/9198668/103223358-02a5ae80-4961-11eb-9a78-c6ebc20d7691.png)
+{% hint style="info" %}
+**ShortURL | Playbook | Assistant**
+{% endhint %}
 
-***
+
+
+{% hint style="warning" %}
+**NOTICE**
+
+This documentation page is under construction.\
+Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
+{% endhint %}
 
 ## PLEASE NOTE THAT THIS IS A WORK IN PROGRESS DOCUMENT
 

@@ -1,5 +1,18 @@
 # 🚧 Tags
 
+{% hint style="info" %}
+**ShortURL | Playbook | Assistant**
+{% endhint %}
+
+
+
+{% hint style="warning" %}
+**NOTICE**
+
+This documentation page is under construction.\
+Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
+{% endhint %}
+
 ### Existing Tags
 
 https://docs.google.com/spreadsheets/d/1Q4CSDg3Vg-M7I5pENX1pxPDJckT8H0E2Rrxz2QTZb2g/edit#gid=0

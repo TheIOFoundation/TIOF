@@ -1,5 +1,18 @@
 # 🚧 Organization Identity
 
+{% hint style="info" %}
+**ShortURL | Playbook | Assistant**
+{% endhint %}
+
+
+
+{% hint style="warning" %}
+**NOTICE**
+
+This documentation page is under construction.\
+Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
+{% endhint %}
+
 ## Project Identity
 
 This document defines all the necessary elements that conform TIOF's Project Identity at large. It is a reference document to which all TIOF productions, internal and external, need to refer and adhere. For any doubts, please contact Team Comms.
