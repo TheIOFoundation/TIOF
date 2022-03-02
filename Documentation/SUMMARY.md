@@ -43,7 +43,7 @@
   * [👌 Code of Conduct](institutional/Policies/PolicyCoC.md)
   * [Anti corruption & Anti bribery](institutional/Policies/anti-corruption-and-anti-bribery.md)
   * [Anti harassment & Anti bullying](institutional/Policies/anti-harassment-and-anti-bullying.md)
-  * [🚧 Equal Opportunities](institutional/Policies/equal-opportunities.md)
+  * [Equal Opportunities](institutional/Policies/equal-opportunities.md)
   * [🚧 Sickness Absence](institutional/Policies/sickness-absence.md)
   * [🚧 Transparency & Accountability](institutional/Policies/transparency-and-accountability.md)
   * [🚧 Children Protection](institutional/Policies/children-protection.md)

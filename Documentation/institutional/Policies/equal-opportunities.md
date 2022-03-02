@@ -1,4 +1,4 @@
-# 🚧 Equal Opportunities
+# Equal Opportunities
 
 {% hint style="info" %}
 This Policy was approved on 01 March 2022.
