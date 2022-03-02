@@ -27,6 +27,9 @@
 ## Institutional
 
 * [🚧 Terminology](institutional/terminology.md)
+* [The IO Foundation MTÜ](institutional/the-io-foundation-mtue/README.md)
+  * [Memorandum of Association](institutional/the-io-foundation-mtue/memorandum-of-association.md)
+  * [Articles of Association](institutional/the-io-foundation-mtue/articles-of-association.md)
 * [🚧 Structures](institutional/page-6.md)
   * [🚧 TIOF Network](institutional/structures/tiof-network.md)
   * [🚧 Organizational Taxonomy](institutional/structures/organizational-taxonomy.md)
