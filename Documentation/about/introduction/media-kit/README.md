@@ -160,6 +160,8 @@ The following are the official logos for The IO Foundation.
 For more information, please refer to [TIOF's Branding Guidelines](https://tiof.click/BrandingKit).
 {% endhint %}
 
+![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Full Logo TIOF FC T HiRes ENG v1.6.png>)
+
 {% hint style="success" %}
 **All logos are available for download in** [**TIOF's Media Package**](https://tiof.click/TIOFPackageMedia)**.**
 {% endhint %}
