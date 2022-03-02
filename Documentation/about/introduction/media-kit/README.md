@@ -226,127 +226,95 @@ The following are the official QR Codes to link The IO Foundation's online resou
 |                               Hey Big Tech declaration                               |                                   Code of Conduct                                  |                                      Dhatam House Rule                                     |
 
 {% hint style="success" %}
-**All logos are available for download in** [**TIOF's Media Package**](https://tiof.click/TIOFPackageMedia)**.**
+**All QR Codes are available for download in** [**TIOF's Media Package**](https://tiof.click/TIOFPackageMedia)**.**
 {% endhint %}
 
-### Tags
+### #Tags
 
-The following are the official #Tags used by The IO Foundation in all of its Media Channels (as well as internally):
+The following are the official #Tags used by The IO Foundation in all of its Channels.
 
 * \#TIOF
 * \#TheIOFoundation
-* \#DCDR
-* \#DigitalHarms
-* \#DigitalRights
-* \#IamMyData
-* \#EndRemedy
-* \#RightsByDesign
+* \#HeyBigTech
+* \#DhathamHouseRule
 * \#RightsTech
 
-Note: Each TIOF initiative has its own set of #Tags. Please refer to the corresponding initiative's Media Kit for their #Tags list.
-
-Back to top
-
-
-
-
-
-
-
-### Global Tags
-
-
-
-### Initiatives' Tags
+{% hint style="success" %}
+Each [TIOF initiative](https://tiof.click/TIOFInitiatives) has its own set of #Tags.\
+Please refer to the corresponding initiative's Media Kit for their #Tags list.
+{% endhint %}
 
 ## Official Channels
 
-The following are the official, sanctioned, Media Channels for The IO Foundation. Any other Media Channel not listed here is to be considered not affiliated with TIOF and any opinions expressed are not to be associated with TIOF.
+The following are the official, sanctioned, Media Channels used by The IO Foundation for its outreach actions.
+
+{% hint style="danger" %}
+Any other Media Channel not listed here is to be considered not affiliated with TIOF and therefore any opinions expressed are not to be associated with TIOF.
+{% endhint %}
 
 ### Official Website
 
-The following is the official website for The IO Foundation:
+The following is the official website for The IO Foundation and its initiatives.
 
 | **URL**              | [https://TheIOFoundation.org](https://theiofoundation.org)                                                                                      |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Alternative URLs** | [.com](https://theiofoundation.com) [.net](https://theiofoundation.net) [.eu](https://theiofoundation.eu) [.asia](https://theiofoundation.asia) |
-| **Short URL**        | https://TIOF.Click/TIOFWeb                                                                                                                      |
-| **Status**           | Active - Planning for a major overhaul                                                                                                          |
+| **Short URL**        | [https://TIOF.Click/TIOFWeb](https://tiof.click/TIOFWeb)                                                                                        |
 | **Contents**         | Publishing of general information about TIOF and its advocacy + Initiatives Presentation + Publications + Events                                |
 | **Usage**            | Primary reference to The IO Foundation                                                                                                          |
 
-Back to top
+### Official Documentation
 
-### Summary of links
+The following is the official documentation site for The IO Foundation and its initiatives.
 
-The following is the official summary of links page:
-
-| **URL**              | [https://TIOF.Click/TIOFAboutUs](https://tiof.click/TIOFAboutUs)                                                                                          |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Alternative URLs** | None                                                                                                                                                      |
-| **Full URL**         | [https://theiofoundation.start.me/aboutus](https://theiofoundation.start.me/aboutus)                                                                      |
-| **Status**           | Active                                                                                                                                                    |
-| **Contents**         | Collection of principal links of information about The IO Foundation such as advocacy, events, Media Kit, Media Channels and others.                      |
-| **Usage**            | Provide quick access to condensed information in scenarios where quick access to information is relevant. Example: Media quick introduction, Event booths |
-
-Back to top
+| **URL**              | [https://Docs.TheIOFoundation.org](https://docs.theiofoundation.org)                                        |
+| -------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Alternative URLs** | None                                                                                                        |
+| **Short URL**        | [https://TIOF.Click/TIOFDocs](https://tiof.click/TIOFDocs)                                                  |
+| **Contents**         | Publishing of all documentation (policies, handbooks, operations and others) relative to The IO Foundation. |
 
 ### URL Shorteners
 
-The following are the official URL shortener domains used by The IO Foundation:
+The following are the official URL shortener domains used by The IO Foundation.
 
-| **URL**              | [http://TIOF.Click](http://tiof.click)           | [http://DoThe.Click](http://dothe.click)                                   |
+| **URL**              | [https://TIOF.Click](https://tiof.click)         | [https://DoThe.Click](https://dothe.click)                                 |
 | -------------------- | ------------------------------------------------ | -------------------------------------------------------------------------- |
 | **Alternative URLs** | None                                             | None                                                                       |
-| **Short URL**        | None                                             | None                                                                       |
-| **Full URL**         | None                                             | None                                                                       |
-| **Status**           | Active                                           | Active                                                                     |
+| **Short URL**        | N/A                                              | N/A                                                                        |
 | **Usage**            | Shorten URLs related to TIOF and its initiatives | Shorten URLs related to other organizations or projects that TIOF supports |
 
-Back to top
+### Organization's Repositories
+
+The following are the official repositories used by The IO Foundation.
+
+| **Type**             | [TIOF Profile on GH](http://tiof.click/TIOFGitHub)                         | [TIOF Repository on GH](http://tiof.click/TIOFRepo)                     |
+| -------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **Alternative URLs** | None                                                                       | None                                                                    |
+| **Short URL**        | [https://TIOF.Click/TIOFGitHub](https://tiof.click/TIOFGitHub)             | [https://TIOF.Click/TIOFRepo](https://tiof.click/TIOFRepo)              |
+| **Full URL**         | [https://github.com/TheIOFoundation/](https://github.com/TheIOFoundation/) | https://github.com/TheIOFoundation/TIOF                                 |
+| **Content**          | Official profile of TIOF in GitHub                                         | Public repository showcasing TIOF's advocacy work                       |
+| **Usage**            | Consolidation of all GH presence for TIOF                                  | Initiative Management + Community Collaboration + Transparency platform |
 
 ### Email
 
-The following are the official email domains used by The IO Foundation: Note: Only email received from these domains are to be considered originated by TIOF or its members.
+The following are the official email domains used by The IO Foundation.
 
-| **Domains**             | @TheIOFoundation.org                                                     |
-| ----------------------- | ------------------------------------------------------------------------ |
-| **Alternative Domains** | None                                                                     |
-| **Status**              | Active                                                                   |
-| **Usage**               | Official communications from TIOF members both internally and externally |
+{% hint style="danger" %}
+Only email received from these domains are to be considered originated by TIOF or its members.
+{% endhint %}
 
-The following are the official public email domains used by The IO Foundation:
+| **Domains**             | @TheIOFoundation.org                                                      |
+| ----------------------- | ------------------------------------------------------------------------- |
+| **Alternative Domains** | None                                                                      |
+| **Usage**               | Official communications from TIOF Members both internally and externally. |
 
-| **Email**  | [Contact@TheIOFoundation.org](mailto://Contact@TheIOFoundation.org) | [Media@TheIOFoundation.org](mailto://Media@TheIOFoundation.org) |
-| ---------- | ------------------------------------------------------------------- | --------------------------------------------------------------- |
-| **Status** | Active                                                              | Active                                                          |
-| **Usage**  | Official communications and inquiries                               | Media related communications and inquiries                      |
+The following are the official public email addresses used by The IO Foundation.
 
-Back to top
+| **Email** | [Contact@TheIOFoundation.org](mailto://Contact@TheIOFoundation.org) | [Media@TheIOFoundation.org](mailto://Media@TheIOFoundation.org) |
+| --------- | ------------------------------------------------------------------- | --------------------------------------------------------------- |
+| **Usage** | Official communications and inquiries                               | Media related communications and inquiries                      |
 
-### Internal Communications
-
-WIP
-
-* Email
-* Slack
-
-Back to top
-
-### Initiatives' Repositories
-
-The following are the official initiative's repositories used by The IO Foundation:
-
-| **Type**             | [TIOF Profile on GH](http://tiof.click/TIOFGitHub) | [TIOF Repository on GH](http://tiof.click/TIOFRepo)                     |
-| -------------------- | -------------------------------------------------- | ----------------------------------------------------------------------- |
-| **Alternative URLs** | None                                               | None                                                                    |
-| **Short URL**        | http://TIOF.Click/TIOFGitHub                       | http://TIOF.Click/TIOFRepo                                              |
-| **Full URL**         | https://github.com/TheIOFoundation/                | https://github.com/TheIOFoundation/TIOF                                 |
-| **Status**           | Active                                             | WIP                                                                     |
-| **Content**          | Official profile of TIOF in GitHub                 | Public repository showcasing TIOF's advocacy work                       |
-| **Usage**            | Consolidation of all GH presence for TIOF          | Initiative Management + Community Collaboration + Transparency platform |
-
-Back to top
+###
 
 ### Social Media
 
