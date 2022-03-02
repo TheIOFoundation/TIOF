@@ -72,34 +72,47 @@ The following forms of discrimination are prohibited under this Policy and are u
 
 Recruitment, promotion and other selection exercises such as redundancy selection will be conducted **exclusively on the basis of merit and strictly following objective criteria that avoid discrimination.** Shortlisting should be done by more than one person if possible.
 
-Vacancies should generally be advertised in all official [Human Resources Channels](https://github.com/TheIOFoundation/TIOF/wiki/Media-Kit#human-resources). Advertisements should avoid stereotyping or using wording that may discourage particular citizens from applying.
+{% hint style="info" %}
+Vacancies should always be advertised in all official [Human Resources Channels](https://tiof.click/TIOFHBComms#channel-types) and ensure avoid using any wording that may discourage particular citizens from applying.
+{% endhint %}
 
-Applicants should not be asked questions which might suggest an intention to discriminate on grounds of any given personal characteristic dimension. Should the question be unavoidable, it must be done on the grounds of examining options to overcome observed difficulties.
+Applicants should not be asked questions which might suggest an intention to discriminate on the grounds of any given personal characteristic dimension. Should the question be unavoidable, it must be done on the grounds of examining options to overcome observed difficulties.
 
-Applicants should not be asked about health or disability before a position offer is made, except in the very limited circumstances allowed by law: for example, to check that the applicant could perform an intrinsic part of the job (taking account of any reasonable adjustments) or to see if any adjustments might be needed at the interview because of a disability. Where necessary, position offers can be made conditional on a satisfactory medical check.
+Applicants should not be asked about health or disability before a position offer is made, except in the very limited circumstances allowed by law: for example, to check that the applicant could perform an intrinsic part of the position (taking account of any reasonable adjustments) or to see if any adjustments might be needed at the interview because of a disability.
 
+{% hint style="success" %}
+Where necessary, position offers can be made conditional on a satisfactory medical check.
+{% endhint %}
+
+{% hint style="info" %}
 Health or disability questions may be included in equal opportunities monitoring forms, which must not be used for selection or decision-making purposes.
-
-Back to top
+{% endhint %}
 
 ### Disabilities
 
-If you are disabled or become disabled, we encourage you to tell us about your condition so that we can consider what reasonable adjustments or support may be appropriate. In any case, this is not mandatory unless the disability affects your ability to perform your responsibilities as described in your [Engagement Document](https://github.com/TheIOFoundation/TIOF/wiki/Terminology#engagement-document).
+If you are disabled or become disabled, we encourage you to tell us about your condition so that we can consider what reasonable adjustments or support may be appropriate.
 
-Back to top
+In any case, this is not mandatory unless the disability affects your ability to perform your responsibilities as described in your [Engagement Document](https://tiof.click/TIOFTerminology#engagement-document).
 
 ### Part-time and fixed-term work
 
-Part-time and fixed-term Members should be treated the same as comparable full-time or permanent Members and enjoy no less favorable terms and conditions (on a pro-rata basis where appropriate), unless different treatment is (and must be) justified.
-
-Back to top
+Part-time and fixed-term Members should be treated the same as comparable full-time or permanent Members and enjoy no less favorable terms and conditions (on a pro-rata basis where appropriate), unless different treatment is (**and must be**) justified.
 
 ### Breaches of this Policy
 
-We take a strict approach to breaches of this Policy, which will be dealt with in accordance with our [Disciplinary Procedures](http://tiof.click/ProcedureDisciplinary). Serious cases of deliberate discrimination may amount to gross misconduct resulting in dismissal.
+{% hint style="warning" %}
+The IO Foundation takes a strict approach to breaches of this Policy, which will be dealt with in accordance with our [Disciplinary Procedures](https://tiof.click/TIOFHBHR#disciplinary-procedures).
+{% endhint %}
 
-If you believe that you have suffered discrimination you can raise the matter through our [Grievance Procedures](http://tiof.click/ProcedureGrievance) or [Anti-harassment and Bullying Policy](http://tiof.click/TIOFPolicyAHAB). Complaints will be treated in confidence and investigated as appropriate.
+Serious cases of deliberate discrimination may amount to gross misconduct resulting in dismissal.
 
-You must not be victimized or retaliated against for complaining about discrimination. However, making a false allegation deliberately and in bad faith will be treated as misconduct and dealt with under our [Disciplinary Procedure](http://tiof.click/ProcedureDisciplinary) with the same determination as the allegation.
+If you believe that you have suffered discrimination you can raise the matter through our [Grievance Procedures](https://tiof.click/TIOFHBHR#grievance-procedures).
 
-Back to top
+{% hint style="info" %}
+**Complaints will be treated in confidence and investigated as appropriate.**
+{% endhint %}
+
+{% hint style="danger" %}
+**You shall not be retaliated against for complaining about discrimination.**\
+****However, making a false allegation deliberately and in bad faith will be treated as misconduct and dealt with under our [Disciplinary Procedure](https://tiof.click/TIOFHBHR#disciplinary-procedures) with the same determination as the allegation.
+{% endhint %}
