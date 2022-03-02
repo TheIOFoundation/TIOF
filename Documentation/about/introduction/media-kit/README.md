@@ -355,21 +355,27 @@ The following is the official calendar through which The IO Foundation publishes
 
 ### Donations & Crowdfunding
 
-The following are the official platforms through which The IO Foundation c
+The following are the official platforms through which The IO Foundation may receive donations or perform crowdfunding campaigns.
 
-has official presence. A selected list of Goals is made available to invite the broader community to participate and support. For more information, explore TIOF's [CrowdShape](https://github.com/TheIOFoundation/CrowdShape) initiative. \[WIP]
+{% hint style="info" %}
+The IO Foundation accepts financial donations on both Fiat and Crypto currencies.
+{% endhint %}
 
-For a full list of all crowdfunding platforms where The IO Foundation has presence, please refer to the [Summary of Links](https://tiof.click/TIOFAboutUs).
+| **Platform**  | TIOF Donation Page                                                         | GitHub Sponsors                                                                    |
+| ------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **Full URL**  | [https://TheIOFoundation.org/Donate/](https://theiofoundation.org/Donate/) | [https://GitHub.com/TheIOFoundation/TIOF](https://github.com/TheIOFoundation/TIOF) |
+| **Short URL** | [https://TIOF.Click/Donate](https://tiof.click/Donate)                     | [https://TIOF.Click/TIOFGHSponsors](https://tiof.click/TIOFGHSponsors)             |
+| **Usage**     | Direct Donations                                                           | Donation gateway                                                                   |
 
-Currently, The IO Foundation accepts financial donations on both Fiat and Cryptocurrencies.
+| **Platform**  | Open Collective                                                                          | Patreon                                                                            |
+| ------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **Full URL**  | [https://OpenCollective.com/TheIOFoundation](https://opencollective.com/TheIOFoundation) | [https://www.Patreon.com/TheIOFoundation](https://www.patreon.com/TheIOFoundation) |
+| **Short URL** | [https://TIOF.Click/TIOFOpenCollective](https://tiof.click/TIOFOpenCollective)           | [https://TIOF.Click/TIOFPatreon](https://tiof.click/TIOFPatreon)                   |
+| **Usage**     | Donation gateway                                                                         | Donation gateway                                                                   |
 
-| **Platform**  | TIOF Donation Page                  | GitHub Sponsors                         | Open Collective                            | Patreon                                 |
-| ------------- | ----------------------------------- | --------------------------------------- | ------------------------------------------ | --------------------------------------- |
-| **Short URL** | https://TIOF.Click/Donate           | http://TIOF.Click/TIOFGHSponsors        | http://TIOF.Click/TIOFOpenCollective       | http://TIOF.Click/TIOFPatreon           |
-| **Full URL**  | https://TheIOFoundation.org/Donate/ | https://GitHub.com/TheIOFoundation/TIOF | https://OpenCollective.com/TheIOFoundation | https://www.Patreon.com/TheIOFoundation |
-| **Status**    | Active                              | Active                                  | WIP                                        | WIP                                     |
-| **Content**   | General Donations                   | Goals                                   | Goals                                      | Goals                                   |
-| **Usage**     | Facilitate donations to TIOF global | List Goals for support                  | List Goals for support                     | List Goals for support                  |
+{% hint style="danger" %}
+The IO Foundation cautions from providing donations directed to us through any platform not listed here.
+{% endhint %}
 
 ### Human Resources
 
@@ -380,12 +386,6 @@ The following is the official recruitment platform through which The IO Foundati
 | **Full URL**  | [https://Join.TheIOFoundation.org](https://join.theiofoundation.org) |
 | **Short URL** | [https://TIOF.Click/TIOFJoinUs](https://tiof.click/TIOFJoinUs)       |
 | **Content**   | Posting of open positions.                                           |
-
-
-
-
-
-
 
 ## TIOF Initiatives
 
@@ -399,4 +399,3 @@ The following is a list of TIOF's initiatives and a quick link to their correspo
 | ![](<../../../.gitbook/assets/\[TIOF PLD] Comms \[P] Lock Logo LM T HiRes XXX v1.0.png>) | Project Lockdown | [Media Kit](https://tiof.click/PLDMediaKit)  |
 | ![](<../../../.gitbook/assets/\[TIOF TU] Comms \[P] U Logo FC T HiRes XXX v1.0.png>)     | TechUp           | [Media Kit](https://tiof.click/TUMediaKit)   |
 | ![](<../../../.gitbook/assets/\[TIOF UDDR] Comms \[P] Logo FC T HiRes XXX v1.0.png>)     | UDDR             | [Media Kit](https://tiof.click/UDDRMediaKit) |
-
