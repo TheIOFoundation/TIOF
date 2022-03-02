@@ -1,96 +1,76 @@
 # 🚧 Equal Opportunities
 
-
-
-![logo](http://tiof.click/TIOFWikiHeader)
-
-## Table of Contents
-
-<details>
-
-<summary>Expand / Collapse</summary>
-
-&#x20;
-
-1. Introduction
-   * Definitions
-   * About this document
-   * Scope
-2. Policy details
-   * Equal opportunities statement
-   * Discrimination
-   * Recruitment and selection
-   * Disabilities
-   * Breaches of this Policy
-
-</details>
+{% hint style="info" %}
+This Policy was approved on 01 March 2022.
+{% endhint %}
 
 ## Introduction
 
 ### Definitions
 
-This document employs terms related to the [DCDR Advocacy](http://tiof.click/Advocacy) that can be found in the [TIOF terminology](http://tiof.click/Terminology).
+This document employs terms related to the [DCDR Advocacy](https://tiof.click/DCDRAdvocacy) that can be found in the [TIOF terminology](https://tiof.click/TIOFTerminology).
 
 For a structure of The IO Foundation, please visit
 
 * The IO Foundation's [Organizational Chart](http://tiof.click/TIOFOrgChart)
-* The IO Foundation's [Organizational Nomenclature](http://tiof.click/OrgNomenclature)
-
-Back to top
+* The IO Foundation's [Organizational Taxonomy](https://tiof.click/OrgTaxonomy)
 
 ### About this document
 
-This document sets out the position maintained by TIOF in matters of Equality of Opportunities that you will need to be aware of while being a Member for TIOF. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Coordinator.
+This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of **Equality of Opportunities** that you will need to be aware of while being a TIOF Member. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
 
-This policy sets out our approach to equal opportunities and the avoidance of discrimination at work. It applies to all aspects of employment with us, including recruitment, pay and conditions, training, appraisals, promotion, conduct at work, disciplinary and grievance procedures, and termination of employment.
+This Policy sets out TIOF's approach to equal opportunities and the avoidance of discrimination at work. It applies to all aspects of employment with us, including (although not limited to) recruitment, pay and conditions, training, appraisals, promotion, conduct at work, disciplinary and grievance procedures and termination of employment.
 
 Any Member who breaches this Policy will face disciplinary action, which could result in dismissal for gross misconduct. Any non-employee who breaches this Policy may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
 
-This document complements TIOF's [Code of Conduct](http://tiof.click/TIOFPolicyCoC)
+{% hint style="info" %}
+This document complements [TIOF's Code of Conduct](https://tiof.click/TIOFPolicyCoC).
+{% endhint %}
 
-This document does not form part of any [Engagement Document](https://github.com/TheIOFoundation/TIOF/wiki/Terminology#engagement-document) and we may amend it at any time.
-
-Back to top
+{% hint style="info" %}
+This document does not form part of any [Engagement Document](https://tiof.click/TIOFTerminology#engagement-document) and we may amend it at any time following the procedures described at [TIOF's Articles of Association](https://tiof.click/TIOFLegalArticlesOfAssociation).
+{% endhint %}
 
 ### Scope
 
 This document directly applies to:
 
-* All [TIOF Members](https://github.com/TheIOFoundation/TIOF/wiki/Terminology#member)
+* All [TIOF Members](https://tiof.click/TIOFTerminology#members)
 
 This document indirectly applies to:
 
-* All [TIOF Contributors](https://github.com/TheIOFoundation/TIOF/wiki/Terminology#contributors)
+* All [TIOF Contributors](https://tiof.click/TIOFTerminology#contributors)
 
-The policies and/or procedures set out in this document apply to all TIOF Members unless otherwise indicated. They therefore apply to Directors, Advisers, Counselors, Staff, Volunteers and Interns; this is irrespective of their part-time, fixed-term or casual status. They equally apply to all [Contributors](https://github.com/TheIOFoundation/TIOF/wiki/Terminology#contributors) and will be used as part of the selection criteria when engaging with them.
+The policies set out in this document apply to all [TIOF Members](https://tiof.click/TIOFTerminology#members) unless otherwise indicated. They therefore apply to Members of the Boards ([Directors](https://tiof.click/TIOFTerminology#directors), [Advisers](https://tiof.click/TIOFTerminology#advisers), [Consultants](https://tiof.click/TIOFTerminology#consultants)), [Employees](https://tiof.click/TIOFTerminology#employees), [Volunteers](https://tiof.click/TIOFTerminology#volunteers) and [Interns](https://tiof.click/TIOFTerminology#interns); this is irrespective of their [engagement type](https://tiof.click/TIOFTerminology#engagement-type). They equally apply to all [Contributors](https://tiof.click/TIOFTerminology#contributors) and will be used as part of the selection criteria when engaging with them.
 
-This document applies within all TIOF spaces, including (although not limited to) management activities, project contributions or events, and also applies when an individual is officially representing the broader community in public spaces. Examples of representing our community include (although not limited to) using an official e-mail address, posting via an official social media account or acting as an appointed representative at an event (online or offline).
-
-Back to top
+This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#spaces), including (although not limited to) management activities, contributions or events; it and also applies when an individual is officially representing the organization in public spaces. Examples of representing the organization include (although not limited to) using an official e-mail address, posting via any official channel or acting as an appointed representative at an event.
 
 ## Policy details
 
 ### Equal opportunities statement
 
-The IO Foundation is committed to promoting equal opportunities for individuals to become TIOF Members. You and any other applicants, irrespective of the position or type of engagement, will receive equal treatment regardless of any personal characteristic dimension that essentially amplifies differences among people instead of embracing their similarities.
+{% hint style="success" %}
+The IO Foundation is committed to promoting equal opportunities for all individuals to become TIOF Members.
 
-Back to top
+\
+You and any other applicants, irrespective of the position or type of engagement, will receive equal treatment regardless of any personal immutable characteristic dimension that essentially amplifies differences among people instead of embracing their similarities.
+{% endhint %}
 
 ### Discrimination
 
-You must not unlawfully discriminate against or harass other people including current and former employees, job applicants, clients, customers, suppliers and visitors. This applies in the workplace, outside the workplace (when dealing with customers, suppliers or other work-related contacts) and on work-related trips or events, including social events.
+Members must not unlawfully discriminate against or harass other people including current and former TIOF Members or Contributors.
+
+This applies in the workplace, outside the workplace (when dealing with customers, suppliers or other work-related contacts) and on work-related trips or events, including social events.
 
 The following forms of discrimination are prohibited under this Policy and are unlawful:
 
-* Direct discrimination: treating someone less favorably because of a given personal characteristic dimension.
-* Indirect discrimination: a provision, criterion or practice that applies to everyone but adversely affects people with a particular personal characteristic dimension more than others and is not justified.
-* Victimization: treating someone that has complained or has supported someone else's complaint about discrimination or harassment less favorably. Harassment is dealt with further in our [Anti-harassment and Anti-Bullying Policy](http://tiof.click/TIOFPolicyAHAB).
-
-Back to top
+* **Direct discrimination:** treating someone less favorably because of a given personal characteristic dimension.
+* **Indirect discrimination:** a provision, criterion or practice that applies to everyone but adversely affects people with a particular personal characteristic dimension more than others and is not justified.
+* **Retaliation:** treating someone that has complained or has supported someone else's complaint about discrimination or harassment less favorably. Harassment is dealt with further in our [Anti-harassment and Anti-Bullying Policy](https://tiof.click/TIOFPolicyAHAB).
 
 ### Recruitment and selection
 
-Recruitment, promotion and other selection exercises such as redundancy selection will be conducted exclusively on the basis of merit and strictly following objective criteria that avoid discrimination. Shortlisting should be done by more than one person if possible.
+Recruitment, promotion and other selection exercises such as redundancy selection will be conducted **exclusively on the basis of merit and strictly following objective criteria that avoid discrimination.** Shortlisting should be done by more than one person if possible.
 
 Vacancies should generally be advertised in all official [Human Resources Channels](https://github.com/TheIOFoundation/TIOF/wiki/Media-Kit#human-resources). Advertisements should avoid stereotyping or using wording that may discourage particular citizens from applying.
 

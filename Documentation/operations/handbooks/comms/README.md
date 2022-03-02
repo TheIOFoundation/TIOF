@@ -111,3 +111,43 @@ Pass to Dooly Playbooks
 * Create corresponding Media Channel Procedures Wiki page when necessary (@@@See Handbook)
 
 ***
+
+***
+
+***
+
+***
+
+***
+
+## Official Channels
+
+
+
+### Channel Types
+
+#### Internal communications (PubInt)
+
+#### Public communications (PubCom)
+
+HR Communications (HRCom)
+
+| Name     | URL | Usage |
+| -------- | --- | ----- |
+| Facebook |     | Icons |
+|          |     |       |
+|          |     |       |
+
+Iconography:
+
+
+
+
+
+
+
+***
+
+***
+
+***
