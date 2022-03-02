@@ -54,13 +54,6 @@ Statutes of the NGO "The IO Foundation"
 7. The highest body of the association is the general meeting of members in accordance with the law where all members of the association may participate.
 8. When convening a general meeting and adopting resolutions, the law shall apply. The general meeting has a quorum regardless of the number of participants.
 9. One to three members shall be elected to the board of the association for a term of five years.
-10. Upon termination of the activities of the Association, the remaining assets shall be transferred non-profit associations and foundations and religious associations with income tax relief
-
-a similar organization or public to a legal person.
+10. Upon termination of the activities of the Association, the remaining assets shall be transferred non-profit associations and foundations and religious associations with income tax relief a similar organization or public to a legal person.
 
 Adopted on 08.07.2020
-
-
-
-
-
