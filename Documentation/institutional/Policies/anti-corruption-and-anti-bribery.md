@@ -79,19 +79,23 @@ This Policy does not prohibit the giving or accepting of reasonable and appropri
 
 A gift or hospitality will not be appropriate if it is unduly lavish or extravagant, or could be seen as an inducement or reward for any preferential treatment (for example, during contractual negotiations or a tender process). All such tokens of appreciation are to be notified to your corresponding Team Human Resources Coordinator.
 
-Gifts must be of an appropriate type and value depending on the circumstances and taking account of the reason for the gift. Gifts must not include cash or cash equivalent (such as vouchers) and in any case be given in secret. Gifts must be given in our name, not your name.
+Gifts must be of an appropriate type and value depending on the circumstances and taking account of the reason for the gift. Gifts must not include cash or cash equivalent (such as vouchers) and in any case be given in secret.&#x20;
 
-Promotional gifts of low value such as branded stationery may be given to or accepted from existing customers, suppliers and business partners.
+{% hint style="warning" %}
+**Gifts must be given in the organization's name, not your name.**
+{% endhint %}
 
-Back to top
+Promotional gifts of low value such as branded stationery may be given to or accepted from existing contributors, suppliers and partners.
 
 ### Record-keeping
 
-You must declare and keep a written record of all hospitality or gifts given or received. You must also submit all expenses claims relating to hospitality, gifts or payments to third parties in accordance with our [Financial Procedures](http://tiof.click/ProceduresFinancial) and record the reason for expenditure.
+You must declare and keep a written record of all hospitality or gifts given or received. You must also submit all expenses claims relating to hospitality, gifts or payments to third parties in accordance with our [Financial procedures](https://tiof.click/TIOFHBFinance) and record the reason for expenditure.
 
-All accounts, invoices, and other records relating to dealings with third parties including suppliers and customers should be prepared with strict accuracy and completeness. Accounts must not be kept "off-book" to facilitate or conceal improper payments.
+All accounts, invoices and other records relating to dealings with third parties including suppliers and customers should be prepared with strict accuracy and completeness.
 
-Back to top
+{% hint style="warning" %}
+Accounts must not be kept "off-book" to facilitate or conceal improper payments.
+{% endhint %}
 
 ### How to raise a concern
 
