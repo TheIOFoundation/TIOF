@@ -16,17 +16,15 @@ Any person officially involved in the implementation of initiatives under The IO
 
 #### Personal characteristic dimension (PCD)
 
-#### Employees
+#### Staff
 
-#### Volunteers
+#### volunteer
 
-#### Interns
+#### Director
 
-#### Directors
+#### Adviser
 
-#### Advisers
-
-#### Consultants
+#### Counselor
 
 ### Contributors
 
@@ -45,26 +43,6 @@ Any person officially involved in the implementation of initiatives under The IO
 Ex GPD.
 
 **Media**
-
-****
-
-****
-
-****
-
-### **Engagement type**
-
-#### Full-time
-
-#### Part-time
-
-#### Indefinite
-
-#### Fixed-term
-
-#### Casual status
-
-****
 
 ## Documents, Handbooks and Policies
 

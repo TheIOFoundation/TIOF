@@ -1,4 +1,12 @@
+---
+description: Version 1.0
+---
+
 # 🚧 Anti corruption & Anti bribery
+
+{% hint style="info" %}
+This Policy was approved on XX.XX.XXXX.
+{% endhint %}
 
 ## Introduction
 
@@ -13,7 +21,7 @@ For a structure of The IO Foundation, please visit
 
 ### About this document
 
-This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of Anti-corruption and Anti-bribery that you will need to be aware of while being a Member for TIOF. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
+This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of **Anti-corruption and Anti-bribery** that you will need to be aware of while being a TIOF Member. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
 
 Any Member who breaches this Policy will face disciplinary action, which could result in dismissal for gross misconduct. Any non-employee who breaches this Policy may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
 
@@ -31,41 +39,43 @@ This document indirectly applies to:
 
 * All [TIOF Contributors](https://tiof.click/TIOFTerminology#contributors)
 
-The policies set out in this document apply to all [TIOF Members](https://tiof.click/TIOFTerminology#members) unless otherwise indicated. They therefore apply to Members of the Boards ([Directors](https://tiof.click/TIOFTerminology#directors), [Advisers](https://tiof.click/TIOFTerminology#advisers), [Consultants](https://tiof.click/TIOFTerminology#consultants)), [Employees](https://tiof.click/TIOFTerminology#employees), [Volunteers](https://tiof.click/TIOFTerminology#volunteers) and [Interns](https://tiof.click/TIOFTerminology#interns); this is irrespective of their engagement type. They equally apply to all [Contributors](https://tiof.click/TIOFTerminology#contributors) and will be used as part of the selection criteria when engaging with them.
+The policies set out in this document apply to all [TIOF Members](https://tiof.click/TIOFTerminology#members) unless otherwise indicated. They therefore apply to Members of the Boards ([Directors](https://tiof.click/TIOFTerminology#directors), [Advisers](https://tiof.click/TIOFTerminology#advisers), [Consultants](https://tiof.click/TIOFTerminology#consultants)), [Employees](https://tiof.click/TIOFTerminology#employees), [Volunteers](https://tiof.click/TIOFTerminology#volunteers) and [Interns](https://tiof.click/TIOFTerminology#interns); this is irrespective of their [engagement type](https://tiof.click/TIOFTerminology#engagement-type). They equally apply to all [Contributors](https://tiof.click/TIOFTerminology#contributors) and will be used as part of the selection criteria when engaging with them.
 
-This Policy applies within all TIOF spaces, including (although not limited to) management activities, contributions or events; it and also applies when an individual is officially representing the organization in public spaces. Examples of representing the organization include (although not limited to) using an official e-mail address, posting via any official channel or acting as an appointed representative at an event.
-
-Back to top
+This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#spaces), including (although not limited to) management activities, contributions or events; it and also applies when an individual is officially representing the organization in public spaces. Examples of representing the organization include (although not limited to) using an official e-mail address, posting via any official channel or acting as an appointed representative at an event.
 
 ## Policy details
 
 ### Anti corruption and Anti bribery statement
 
-The IO Foundation is committed to conducting its advocacy and all of its business in an honest and ethical manner. We take a zero-tolerance approach to bribery and corruption and are committed to acting professionally, fairly, with integrity and under the observance of the law in all our operations, business dealings and relationships.
-
-Back to top
+{% hint style="success" %}
+The IO Foundation is committed to conducting its advocacy and all of its initiatives in an honest and ethical manner. We take a zero-tolerance approach to bribery and corruption and are committed to acting professionally, transparently, fairly, with integrity and under the observance of the law in our advocacy, operations, financial management and relationships.
+{% endhint %}
 
 ### What is bribery?
 
-"Bribe" means a financial or other inducement or reward for action which is illegal, unethical, a breach of trust or improper in any way. Bribes can take the form of (although not limited to) money, gifts, loans, fees, hospitality, services, discounts, the award of a contract or any other advantage or benefit.
+"_Bribe_" means a financial or other inducement or reward for action which is illegal, unethical, a breach of trust or improper in any way. Bribes can take the form of (although not limited to) money, gifts, loans, fees, hospitality, services, discounts, the award of a contract or any other advantage or benefit.
 
-"Bribery" includes offering, promising, giving, accepting or seeking a _bribe_.
+"_Bribery_" includes offering, promising, giving, accepting or seeking a _bribe_.
 
-All forms of bribery are strictly prohibited. If you are unsure about whether a particular act constitutes bribery, raise it with your corresponding Team Human Resources Coordinator.
+{% hint style="warning" %}
+**All forms of bribery are strictly prohibited.**
+{% endhint %}
+
+If you are unsure about whether a particular act constitutes bribery, raise it with your corresponding Team Human Resources Coordinator.
 
 Specifically, you must not:
 
-* give or offer any payment, gift, hospitality or other benefit in the expectation that a business advantage will be received in return or to reward any business received;
-* accept any offer from a third party that you know or suspect is made with the expectation that we will provide a business advantage for them or anyone else;
+* give or offer any payment, gift, hospitality or other benefit in the expectation that a transaction advantage will be received in return or to reward any support received;
+* accept any offer from a third party that you know or suspect is made with the expectation that we will provide a transaction advantage for them or anyone else;
 * give or offer any payment (sometimes called a facilitation payment) to a government official in any country to facilitate or speed up a routine or necessary procedure.
 
+{% hint style="warning" %}
 You must not threaten or retaliate against another person who has refused to offer or accept a bribe or who has raised concerns about possible bribery or corruption.
-
-Back to top
+{% endhint %}
 
 ### Gifts and hospitality
 
-This Policy does not prohibit the giving or accepting of reasonable and appropriate hospitality for legitimate purposes such as building relationships, maintaining our image or reputation or marketing our products and services.
+This Policy does not prohibit the giving or accepting of reasonable and appropriate hospitality for legitimate purposes such as building relationships, maintaining our image or reputation or marketing our advocacy, initiatives and services.
 
 A gift or hospitality will not be appropriate if it is unduly lavish or extravagant, or could be seen as an inducement or reward for any preferential treatment (for example, during contractual negotiations or a tender process). All such tokens of appreciation are to be notified to your corresponding Team Human Resources Coordinator.
 
