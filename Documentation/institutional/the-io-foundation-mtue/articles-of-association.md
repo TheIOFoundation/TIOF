@@ -12,7 +12,11 @@ These Articles of Association was approved on 08 July 2020.
 TIOF's Articles of Association are in the process of being updated.
 {% endhint %}
 
-## Original version (Estonian)
+## Estonian version&#x20;
+
+{% hint style="info" %}
+This is the original filed and registered version.
+{% endhint %}
 
 MTÜ "The IO Foundation" põhikiri
 
