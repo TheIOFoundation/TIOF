@@ -29,7 +29,15 @@ MTÜ "The IO Foundation" põhikiri
 
 
 
-## English Translation (automatic)
+## English Version
+
+{% hint style="info" %}
+This is an automatically translated version.
+{% endhint %}
+
+
+
+
 
 
 
