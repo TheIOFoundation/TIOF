@@ -82,78 +82,52 @@ Please note the capitalization
 * Data-Centric Digital Rights
 * DCDR
 
-**About the DCDR advocacy**\
-****[Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) advocates to establish the necessary technical standards to transparently protect citizen's digital twins and enable technologists to create better and safer digital societies through embracing their role as NextGen Rights Defenders.
+**About the DCDR advocacy**
 
-The IO Foundation focuses its efforts towards programmers and in the proclamation of a Universal Declaration of Digital Rights (UDDR).
+****[Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) advocates to establish the necessary technical standards to transparently protect citizen's [digital twins](https://tiof.click/DCDRTerminology#digital-twin) and enable technologists to create better and safer digital societies through embracing their role as [NextGen Rights Defenders](https://tiof.click/TIOFNextGen).
+
+The IO Foundation focuses its efforts towards programmers and in the proclamation of a [Universal Declaration of Digital Rights (UDDR)](https://tiof.click/UDDRWeb).
+
+{% hint style="info" %}
+For more information on the DCDR advocacy, please refer to
+
+* [DCDR Website](https://tiof.click/DCDRWeb)
+* [DCDR Documentation](https://tiof.click/DCDRDocs)
+{% endhint %}
 
 #### Iconography
 
 While there is currently no agreed-upon iconography for the Data-Centric Digital Rights, The IO Foundation uses the following assets: **\[WIP]**
 
-Back to top
-
 ### DCDR Principles
 
-The following are the official formulations of 3 Principles that The IO Foundation puts forward to guide technologist in their role as NextGen Rights defenders.
-
-> I Am My Data: _Treat their data as you'd want to be treated._
->
-> ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/TIOF%20Principles/\[TIOF]%20Comms%20\[P]%20Principles%20PI%20T%20XXX%20v1.0.png)
-
-\
-\
-
-
-> End Remedy: _Adopt designs that minimize grievances._
->
-> ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/TIOF%20Principles/\[TIOF]%20Comms%20\[P]%20Principles%20PII%20T%20XXX%20v1.0.png)
-
-\
-\
-
-
-> Rights By Design: _Leave no policy uncoded behind._
->
-> ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/TIOF%20Principles/\[TIOF]%20Comms%20\[P]%20Principles%20PIII%20T%20XXX%20v1.0.png)
-
-\
-\
-
-
-For more information on the DCDR Principles please visit the [DCDR Principles page](https://tiof.click/DCDRPrinciples).
-
-Back to top
+{% hint style="success" %}
+Find all the information on the [DCDR initiative's Media Kit](https://tiof.click/DCDRMediaKit).
+{% endhint %}
 
 ### TIOF Members
 
-The following is the official information about [the Humans](http://tiof.click/Profiles) composing The IO Foundation. For all other relevant information on this subject, please refer to the [Summary of Links](https://tiof.click/TIOFAboutUs).
+The following is the official information about [the Humans](https://tiof.click/TIOFMembers) composing The IO Foundation.
 
-Back to top
+You can also check the [TIOF's Organization Chart](https://tiof.click/TIOFOrgChart).
 
 ## Contents
 
 ### Descriptions
 
-The following are the official definitions to be used when describing or referencing The IO Foundation and its advocacy. A number of variations are provided in an attempt to fit different character limitations.
-
-Back to top
+The following are the official definitions to be used when describing or referencing The IO Foundation and its DCDR advocacy. A number of variations are provided in an attempt to fit different character limitations.
 
 #### Full version
 
-The IO Foundation (TIOF) is a global for-impact NGO advocating for Data-Centric Digital Rights. Born from a fundamental concern about the state of Digital Rights in the world, its mission is to promote, _protect and provide solutions for Digital Rights_, thus aiming to bridge technological and humanitarian perspectives.
+The IO Foundation (TIOF) is a global for-impact NGO advocating for Data-Centric Digital Rights. Born from a fundamental concern about the state of technology in the world, its mission is to `Promote, protect and provide solutions for Data-Centric Digital Rights`, thus enabling the implementation of better and safer digital societies.
 
-As data becomes an increasingly powerful economic, political, and social force, _programmers are emerging as the next generation of Human and Digital Rights defenders_. There remains, however, a limited international understanding of the impact of technology on Human and Digital Rights.
+As data becomes an increasingly powerful economic, political, and social force, _programmers are emerging as the next generation of Human and Digital Rights defenders_.
 
-Following its vision of _a world where Human Rights and Digital Rights are one and the same_, TIOF aims to raise awareness of the importance of Data-Centric Digital Rights in collaboration with all stakeholders ranging from civil society, programmer communities, bodies of governance and corporate.
+Following its vision of `A world where Human Rights and Digital Rights are one and the same`, TIOF aims to raise awareness of the importance of Data-Centric Digital Rights in collaboration with all stakeholders ranging from programmers, bodies of governance, civil society and corporate.
 
-Back to top
+#### Micro version
 
-#### Mini 1
-
-TIOF is a nonprofit advocating for Data-Centric Digital Rights (DCDR) aiming to ensure a more transparent and solid approach to Rights from a technical standards perspective.
-
-Back to top
+TIOF is a nonprofit advocating for Data-Centric Digital Rights aiming to ensure a more transparent and solid approach to Rights from a technical standards perspective.
 
 #### Mini 2
 
