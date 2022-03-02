@@ -5,7 +5,7 @@ description: Version 1.0
 # 🚧 Anti corruption & Anti bribery
 
 {% hint style="info" %}
-This Policy was approved on XX.XX.XXXX.
+This Policy was approved on 01 March 2022.
 {% endhint %}
 
 ## Introduction
@@ -99,10 +99,13 @@ Accounts must not be kept "off-book" to facilitate or conceal improper payments.
 
 ### How to raise a concern
 
-If you are offered a bribe, or are asked to make one, or if you suspect that any bribery, corruption or other breach of this policy has occurred or may occur, you must report it in accordance with our [Whistleblowing Policy](http://tiof.click/PolicyWhisteblowing) as soon as possible.
-
-Back to top
+If you are offered a bribe, or are asked to make one, or if you suspect that any bribery, corruption or other breach of this policy has occurred or may occur, you must report it in accordance with our [Whistleblowing Policy](https://tiof.click/TIOFPolicyWhistleblowing) as soon as possible.
 
 ### Conduct outside of Work
 
-We do not seek to interfere with the personal lives or conduct of our Members. However, some times certain conducts outside of work can interfere with our legitimate advocacy and/or business interests. You are expected to conduct your personal affairs in a manner that doesn't adversely affect the integrity, reputation or credibility of yourself and/or The IO Foundation. Illegal or immoral conduct outside of work by any Member that adversely affects our legitimate advocacy and/or business interests, or other TIOF Member's ability to perform their responsibilities, will not be tolerated.
+We do not seek to interfere with the personal lives or conduct of our Members.\
+However, some times certain conducts outside of work can interfere with our legitimate advocacy and/or initiatives' interests.
+
+You are expected to conduct your personal affairs in a manner that doesn't adversely affect the integrity, reputation or credibility of yourself and/or The IO Foundation.
+
+Illegal or immoral conduct outside of work by any Member that adversely affects our legitimate advocacy and/or business interests, or other TIOF Member's ability to perform their responsibilities, will not be tolerated.
