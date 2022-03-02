@@ -164,80 +164,68 @@ For more information, please refer to [TIOF's Branding Guidelines](https://tiof.
 **All logos are available for download in** [**TIOF's Media Package**](https://tiof.click/TIOFPackageMedia)**.**
 {% endhint %}
 
-## Concepts
-
 ### Fonts (typeface)
 
 The official font for The IO Foundation content is Montserrat.
 
-Note: Only in the event that the official font is not available (and only if), the following fonts can be used as backup:
+{% hint style="warning" %}
+**REMARK**\
+Only in the event that the official font is not available (**and only if**), the following fonts can be used as alternatives and in this order
 
-* Helvetica
-* Arial
+1. Helvetica
+2. Arial
+{% endhint %}
 
+{% hint style="info" %}
 For more information, please refer to [TIOF's Branding Guidelines](https://tiof.click/BrandingKit).
-
-Back to top
+{% endhint %}
 
 ### Color palette
 
 The following are the official colors composing The IO Foundation's color palette**.**
 
-| **Color**  | **Light gray**                                                                                                                                                          | **Dark gray**                                                                                                                                                          | **Orange**                                                                                                                                                        |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Code**   | LG                                                                                                                                                                      | DG                                                                                                                                                                     | O                                                                                                                                                                 |
+|  **Color** |                                                                              **Light gray**                                                                             | **Dark gray**                                                                                                                                                          | **Orange**                                                                                                                                                        |
+| ---------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   **Code** |                                                                                    LG                                                                                   | DG                                                                                                                                                                     | O                                                                                                                                                                 |
 | **Sample** | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/\[TIOF]%20Comms%20\[P]%20Color%20Palette%20-%20Light%20gray%20XXX%20v1.0.png) | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/\[TIOF]%20Comms%20\[P]%20Color%20Palette%20-%20Dark%20gray%20XXX%20v1.0.png) | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/\[TIOF]%20Comms%20\[P]%20Color%20Palette%20-%20Orange%20XXX%20v1.0.png) |
-| **RGB**    | 137, 137, 142                                                                                                                                                           | 78, 80, 86                                                                                                                                                             | 247, 149, 82                                                                                                                                                      |
-| **HSL**    | 240, 2.2, 54.7                                                                                                                                                          | 225, 4.9, 32.2                                                                                                                                                         | 24, 91.2, 64.5                                                                                                                                                    |
-| **Hex**    | #89898E                                                                                                                                                                 | #4E5056                                                                                                                                                                | #F79552                                                                                                                                                           |
+|    **RGB** |                                                                              137, 137, 142                                                                              | 78, 80, 86                                                                                                                                                             | 247, 149, 82                                                                                                                                                      |
+|    **HSL** |                                                                              240, 2.2, 54.7                                                                             | 225, 4.9, 32.2                                                                                                                                                         | 24, 91.2, 64.5                                                                                                                                                    |
+|    **Hex** |                                                                                 #89898E                                                                                 | #4E5056                                                                                                                                                                | #F79552                                                                                                                                                           |
 
-| **Color**  | **Light blue**                                                                                                                                                          | **Dark blue**                                                                                                                                                          |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Code**   | LB                                                                                                                                                                      | DB                                                                                                                                                                     |
+|  **Color** |                                                                              **Light blue**                                                                             | **Dark blue**                                                                                                                                                          |
+| ---------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   **Code** |                                                                                    LB                                                                                   | DB                                                                                                                                                                     |
 | **Sample** | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/\[TIOF]%20Comms%20\[P]%20Color%20Palette%20-%20Light%20blue%20XXX%20v1.0.png) | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/\[TIOF]%20Comms%20\[P]%20Color%20Palette%20-%20Dark%20blue%20XXX%20v1.0.png) |
-| **RGB**    | 102, 181, 197                                                                                                                                                           | 80, 145, 158                                                                                                                                                           |
-| **HSL**    | 190, 45.0, 58.6                                                                                                                                                         | 190, 32.8, 46.7                                                                                                                                                        |
-| **Hex**    | #66B5C5                                                                                                                                                                 | #50919F                                                                                                                                                                |
+|    **RGB** |                                                                              102, 181, 197                                                                              | 80, 145, 158                                                                                                                                                           |
+|    **HSL** |                                                                             190, 45.0, 58.6                                                                             | 190, 32.8, 46.7                                                                                                                                                        |
+|    **Hex** |                                                                                 #66B5C5                                                                                 | #50919F                                                                                                                                                                |
 
-****
+{% hint style="warning" %}
+**Note**\
+****Due to Google Calendar limitations, TIOF's [Public Event Calendar](https://tiof.click/EventsCal) uses their _Graphite_ color coding.
+{% endhint %}
 
-****
-
-****
-
-****
-
-
-
-
-
-| **Color**  | **Light gray**                                                                                                                                                          | **Dark gray**                                                                                                                                                          | **Light blue**                                                                                                                                                          | **Dark blue**                                                                                                                                                          | **Orange**                                                                                                                                                        |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Code**   | LG                                                                                                                                                                      | DG                                                                                                                                                                     | LB                                                                                                                                                                      | DB                                                                                                                                                                     | O                                                                                                                                                                 |
-| **Sample** | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/\[TIOF]%20Comms%20\[P]%20Color%20Palette%20-%20Light%20gray%20XXX%20v1.0.png) | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/\[TIOF]%20Comms%20\[P]%20Color%20Palette%20-%20Dark%20gray%20XXX%20v1.0.png) | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/\[TIOF]%20Comms%20\[P]%20Color%20Palette%20-%20Light%20blue%20XXX%20v1.0.png) | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/\[TIOF]%20Comms%20\[P]%20Color%20Palette%20-%20Dark%20blue%20XXX%20v1.0.png) | ![](https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/\[TIOF]%20Comms%20\[P]%20Color%20Palette%20-%20Orange%20XXX%20v1.0.png) |
-| **RGB**    | 137, 137, 142                                                                                                                                                           | 78, 80, 86                                                                                                                                                             | 102, 181, 197                                                                                                                                                           | 80, 145, 158                                                                                                                                                           | 247, 149, 82                                                                                                                                                      |
-| **HSL**    | 240, 2.2, 54.7                                                                                                                                                          | 225, 4.9, 32.2                                                                                                                                                         | 190, 45.0, 58.6                                                                                                                                                         | 190, 32.8, 46.7                                                                                                                                                        | 24, 91.2, 64.5                                                                                                                                                    |
-| **Hex**    | #89898E                                                                                                                                                                 | #4E5056                                                                                                                                                                | #66B5C5                                                                                                                                                                 | #50919F                                                                                                                                                                | #F79552                                                                                                                                                           |
-
-****
-
-****
-
-****
-
-****
-
-****
-
-**Note:** Due to Google Calendar limitations, the [\[TIOF\] Public Calendar](https://tiof.click/EventsCal) uses their _Graphite_ color coding.
-
+{% hint style="info" %}
 For more information, please refer to [TIOF's Branding Guidelines](https://tiof.click/BrandingKit).
-
-Back to top
+{% endhint %}
 
 ### QR Codes
 
-The following are the official QR Codes to link The IO Foundation's online resources:
+The following are the official QR Codes to link The IO Foundation's online resources.
+
+
+
+|                                                                                      |                                                                                 |                                                                                |
+| :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
+| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] TIOF Website QR Code XXX v2.0.png>) | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Join Us QR Code XXX v1.0.png>) | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Donate QR Code XXX v1.0.png>) |
+|                                     TIOF Website                                     |                                     Join Us                                     |                                     Donate                                     |
+
+|                                                                                      |                                                                                    |                                                                                            |
+| :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
+| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Hey Big Tech QR Code XXX v1.0.png>) | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Policy CoC QR Code XXX v1.0.png>) | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Dhatham House Rule QR Code XXX v1.0.png>) |
+|                               Hey Big Tech declaration                               |                                   Code of Conduct                                  |                                      Dhatam House Rule                                     |
+
+
 
 **\[WTI]**
 
