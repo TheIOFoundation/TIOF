@@ -53,9 +53,9 @@ This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#
 
 ### Anti harassment and Anti bullying statement
 
-The IO Foundation is committed to providing a working environment free from harassment and bullying and ensuring all Members are treated, and treat others, with dignity and respect.
-
-Back to top
+{% hint style="success" %}
+The IO Foundation is committed to providing an advocacy environment free from harassment and bullying and ensuring all Members are treated, and treat others, with dignity and respect.
+{% endhint %}
 
 ### What is harassment?
 
@@ -63,40 +63,43 @@ Harassment is any unwanted physical, verbal or non-verbal conduct that has the p
 
 Harassment also includes treating someone less favorably because they have submitted or refused to submit to such behavior in the past.
 
-Unlawful harassment may involve conduct of a sexual nature (sexual harassment) or may be related to any given personal characteristic dimension.
+Unlawful harassment may involve conduct of a sexual nature (sexual harassment) or may be related to any given personal, immutable characteristic dimension.
 
+{% hint style="warning" %}
 Harassment is unacceptable even if it does not fall within any of these categories.
+{% endhint %}
 
 Harassment may include, for example:
 
 * Unwanted physical conduct or "horseplay", including assault, touching, pinching, pushing, grabbing and intentionally blocking normal movement or interfering with work;
 * unwelcomed sexual advances, suggestive behavior or invitations;
-* offensive e-mails, text messages or social media content;
+* offensive e-mails, text messages or otherwise content;
 * mocking, mimicking or belittling a person's disability;
-* verbal conduct such as discriminatory epithets, derogatory jokes or comments or slurs;
-* visual displays such as derogatory or sexually-oriented posters, photography, cartoons, drawings or gestures.
+* visual displays such as derogatory or sexually-oriented imagery, photography, cartoons, drawings or gestures.
 
-It is important to note that while all complains of this nature will be examined rigorously, TIOF is a firm defender of both the principles of intent and of presumption of innocence and will always proceed with due diligence to investigate and resolve conflict under the framework provided by the Law.
-
-Back to top
+{% hint style="warning" %}
+It is important to note that while all complains of this nature will be examined rigorously, TIOF is a firm defender of both the **principles of intent** and of **presumption of innocence** and will always proceed with due diligence to investigate and resolve conflict under the framework provided by the applicable law.
+{% endhint %}
 
 ### What is bullying?
 
-Bullying is offensive, intimidating, malicious or insulting behavior involving the misuse of power that can make a person feel vulnerable, upset, humiliated, undermined or threatened. Power does not always mean being in a position of authority, but can include both personal strength and the power to coerce through fear or intimidation as well as the ability to reassign resources at will.
+Bullying is **purposely** offensive, intimidating, malicious or insulting behavior involving the misuse of power that can make a person feel vulnerable, upset, humiliated, undermined or threatened. Power does not always mean being in a position of authority, it can include both personal strength and the power to coerce through fear or intimidation as well as the ability to reassign resources at will.
 
-Bullying can take the form of physical, verbal and non-verbal conduct. Bullying may include, by way of example:
+Bullying can take the form of physical, verbal and non-verbal conduct.
+
+Bullying may include, by way of example:
 
 * physical or psychological threats;
 * overbearing and intimidating levels of supervision;
 * inappropriate derogatory remarks about someone's performance.
 
-Legitimate, reasonable and constructive criticism of a worker's performance or behavior, or reasonable instructions given to Members in the course of their employment or responsibilities, will not amount to bullying on their own.
-
-Back to top
+{% hint style="warning" %}
+Legitimate, reasonable and constructive criticism of a Member's performance or behavior, as well as reasonable instructions given to them in the course of their responsibilities, will not amount to bullying on their own.
+{% endhint %}
 
 ### If you are being harassed or bullied
 
-If you are being harassed or bullied, consider whether you feel able to raise the problem informally with the person responsible. You should explain clearly to them that their behavior is not welcome or makes you uncomfortable. If this is too difficult or embarrassing, we encourage you to reach out to your respect Team Human Resources Coordinator, who can and will provide confidential advice and assistance in resolving the issue formally or informally.
+If you are being harassed or bullied, consider whether you feel able to raise the problem informally with the person responsible. You should explain clearly to them that their behavior is not welcome or makes you uncomfortable. If this is too difficult or embarrassing, we encourage you to reach out to your respect Team Human Resources Manager, **who can and will provide** confidential advice and assistance in resolving the issue either formally or informally.
 
 If informal steps are not possible or appropriate, or have not been successful, you should raise the matter formally under our [Grievance Procedures](http://tiof.click/ProcedureGrievance). The complain will be investigated in a timely and confidential manner. The investigation will be conducted by someone with appropriate experience and no prior involvement in the complaint, where possible. Details of the investigation and the names of the person making the complaint and the person accused must only be disclosed on a _need to know_ basis. We will consider whether any steps are necessary to manage any ongoing relationship between you and the person accused during the investigation.
 

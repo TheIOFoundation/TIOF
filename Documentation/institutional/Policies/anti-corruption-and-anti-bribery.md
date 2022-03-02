@@ -30,7 +30,7 @@ This document complements [TIOF's Code of Conduct](https://tiof.click/TIOFPolicy
 {% endhint %}
 
 {% hint style="info" %}
-This document does not form part of any [Engagement Document](https://tiof.click/TIOFTerminology#engagement-document) and we may amend it at any time following the procedures described at [TIOF's Articles of Association](https://tiof.click/TIOFLegalArticlesOfAssociation).
+This document does not form part of any [Engagement Document](https://tiof.click/TIOFTerminology#engagement-document) and we may amend it at any time following the procedures described at TIOF's Articles of Association.
 {% endhint %}
 
 ### Scope
