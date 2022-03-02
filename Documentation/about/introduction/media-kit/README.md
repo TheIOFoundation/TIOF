@@ -149,18 +149,16 @@ The IO Foundation is a global for-impact NGO advocating for Data-Centric Digital
 
 The following are the official logos for The IO Foundation.
 
-|                                                            |                                               |                                         |
-| ---------------------------------------------------------- | --------------------------------------------- | --------------------------------------- |
-| <p><strong>TIOF</strong><br><strong>Full Logo</strong></p> | ![](<../../../.gitbook/assets/image (4).png>) |                                         |
-| <p><strong>TIOF</strong><br><strong>Hex Logo</strong></p>  | ![](<../../../.gitbook/assets/image (3).png>) | ![](../../../.gitbook/assets/image.png) |
-| **Format**                                                 | Full Color                                    | White Variant                           |
-| **Usage**                                                  | General use.                                  | Monochromatic or dark backgrounds.      |
+|                                                            |                                                                                               |                                                                                                |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| <p><strong>TIOF</strong><br><strong>Full Logo</strong></p> | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Full Logo TIOF FC T HiRes ENG v1.6 (2).png>) | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Full Logo TIOF W Grey HiRes ENG v1.6.png>)    |
+| <p><strong>TIOF</strong><br><strong>Hex Logo</strong></p>  | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Hex Logo TIOF FC T HiRes XXX v1.6.png>)      | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Hex Logo TIOF W Grey HiRes XXX v1.6 (1).png>) |
+| **Format**                                                 | Full Color                                                                                    | White Variant                                                                                  |
+| **Usage**                                                  | General use.                                                                                  | Monochromatic or dark backgrounds.                                                             |
 
 {% hint style="info" %}
 For more information, please refer to [TIOF's Branding Guidelines](https://tiof.click/BrandingKit).
 {% endhint %}
-
-![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Full Logo TIOF FC T HiRes ENG v1.6.png>)
 
 {% hint style="success" %}
 **All logos are available for download in** [**TIOF's Media Package**](https://tiof.click/TIOFPackageMedia)**.**
