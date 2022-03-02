@@ -5,7 +5,7 @@ description: Version 1.2
 # Articles of Association
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TIOFLegalArticlesOfAssociation) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="info" %}
@@ -43,16 +43,22 @@ Vastu võetud 08.07.2020
 This is an automatically translated version.
 {% endhint %}
 
+Statutes of the NGO "The IO Foundation"
 
+1. The NGO "The IO Foundation" (hereinafter the association) operates in the public interest an organization based in the city of Tallinn.
+2. The purpose of the Association is to promote, protect, develop and enhance digital rights.
+3. Any natural or legal person who is willing to take an active part in membership may be a member of the association to achieve the goals of the association and fulfills the requirements of the articles of association. Membership admission and expulsion shall be organized by the board of the association.
+4. A member of the association has all the rights arising from law and the right to receive from the governing bodies comprehensive information on the activities of the association.
+5. The amounts of the association's entrance and membership fees are approved by the general meeting.
+6. A member of an association may be expelled from the association in addition to the cases provided by law, if he fails to pay the prescribed membership fee, or entrance fee; or has knowingly submitted incorrect information upon admission to the association data due to which his admission as a member of the association was not lawful.
+7. The highest body of the association is the general meeting of members in accordance with the law where all members of the association may participate.
+8. When convening a general meeting and adopting resolutions, the law shall apply. The general meeting has a quorum regardless of the number of participants.
+9. One to three members shall be elected to the board of the association for a term of five years.
+10. Upon termination of the activities of the Association, the remaining assets shall be transferred non-profit associations and foundations and religious associations with income tax relief
 
-AGREEMENT ESTABLISHING THE NGO "THE IO FOUNDATION" Jean Francois Queralt (personal identification code: 37503030090, residing in the Philippines) and fesalife OÜ (i.k 14469686, residing in Estonia), the founders entered into a non - profit - making association under the following conditions:
+a similar organization or public to a legal person.
 
-1. The name of the non-profit association is MTÜ "The IO Foundation"
-2. The seat of the non-profit association is Riga 128, 50411 Tartu, Estonia city / municipality
-3. The purpose of the non-profit association is "To respect, protect and provide solutions for Digital Rights and promote the creation of a Universal Declaration of Digital Rights (UDDR) ".
-4. The founders undertake to pay all costs associated with their establishment.
-5. The founders shall appoint the following as a member (s) of the board of a non-profit association: Jean Francois Queralt - i.k: 37503030090, residing in Philippines fesalife OÜ - i.k 14469686, residing in Estonia
-6. The statutes of the non-profit association shall be approved by the founders as an annex to the memorandum of association. The memorandum of association has been entered into on 05.04.2018
+Adopted on 08.07.2020
 
 
 
