@@ -35,7 +35,7 @@ MTÜ "The IO Foundation" põhikiri
 9. Ühingu juhatusse valitakse üks kuni kolm liiget viieks aastaks.
 10. Ühingu tegevuse lõpetamise korral antakse järelejäänud vara üle tulumaksusoodustusega mittetulundusühingute ja sihtasutuste ja usuliste ühenduste nimekirja liikmeks olevale sarnase eesmärgiga organisatsioonile või avalik- õiguslikule juriidilise isikule.
 
-
+Vastu võetud 08.07.2020
 
 ## English Version
 
@@ -44,6 +44,15 @@ This is an automatically translated version.
 {% endhint %}
 
 
+
+AGREEMENT ESTABLISHING THE NGO "THE IO FOUNDATION" Jean Francois Queralt (personal identification code: 37503030090, residing in the Philippines) and fesalife OÜ (i.k 14469686, residing in Estonia), the founders entered into a non - profit - making association under the following conditions:
+
+1. The name of the non-profit association is MTÜ "The IO Foundation"
+2. The seat of the non-profit association is Riga 128, 50411 Tartu, Estonia city / municipality
+3. The purpose of the non-profit association is "To respect, protect and provide solutions for Digital Rights and promote the creation of a Universal Declaration of Digital Rights (UDDR) ".
+4. The founders undertake to pay all costs associated with their establishment.
+5. The founders shall appoint the following as a member (s) of the board of a non-profit association: Jean Francois Queralt - i.k: 37503030090, residing in Philippines fesalife OÜ - i.k 14469686, residing in Estonia
+6. The statutes of the non-profit association shall be approved by the founders as an annex to the memorandum of association. The memorandum of association has been entered into on 05.04.2018
 
 
 
