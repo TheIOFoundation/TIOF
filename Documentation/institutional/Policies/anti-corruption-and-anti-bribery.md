@@ -2,7 +2,7 @@
 description: Version 1.0
 ---
 
-# 🚧 Anti corruption & Anti bribery
+# Anti corruption & Anti bribery
 
 {% hint style="info" %}
 This Policy was approved on 01 March 2022.
@@ -25,9 +25,13 @@ This document, hereinafter the Policy, sets out the position maintained by TIOF 
 
 Any Member who breaches this Policy will face disciplinary action, which could result in dismissal for gross misconduct. Any non-employee who breaches this Policy may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
 
-This document complements TIOF's [Code of Conduct](http://tiof.click/TIOFPolicyCoC)
+{% hint style="info" %}
+This document complements [TIOF's Code of Conduct](https://tiof.click/TIOFPolicyCoC).
+{% endhint %}
 
-This document does not form part of any [Engagement Document](https://github.com/TheIOFoundation/TIOF/wiki/Terminology#engagement-document) and we may amend it at any time.
+{% hint style="info" %}
+This document does not form part of any [Engagement Document](https://tiof.click/TIOFTerminology#engagement-document) and we may amend it at any time following the procedures described at TIOF's Articles of Association.
+{% endhint %}
 
 ### Scope
 

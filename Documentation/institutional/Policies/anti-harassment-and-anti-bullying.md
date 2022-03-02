@@ -1,56 +1,61 @@
-# 🚧 Anti harassment & Anti bullying
+---
+description: Version 1.0
+---
 
+# Anti harassment & Anti bullying
 
-
-![logo](http://tiof.click/TIOFWikiHeader)
-
-## Table of Contents
-
-<details>
-
-<summary>Expand / Collapse </summary>
-
-1. [Introduction](anti-harassment-and-anti-bullying.md#introduction)
-   * [Definitions](anti-harassment-and-anti-bullying.md#definitions)
-   * [About this document](anti-harassment-and-anti-bullying.md#about-this-document)
-   * [Scope](anti-harassment-and-anti-bullying.md#scope)
-2. [Policy details](anti-harassment-and-anti-bullying.md#policy-details)
-   * Anti harassment and Anti bullying statement
-   * What is harassment?
-   * What is bullying
-   * If you are being harassed or bullied
-   * Protection and support for those involved
-   * False accusations
-   * Record-keeping
-
-</details>
+{% hint style="info" %}
+This Policy was approved on 01 March 2022.
+{% endhint %}
 
 ## Introduction
 
 ### Definitions
 
-This document employs terms related to the [DCDR Advocacy](http://tiof.click/Advocacy) that can be found in the [TIOF terminology](http://tiof.click/Terminology).
+This document employs terms related to the [DCDR Advocacy](https://tiof.click/DCDRAdvocacy) that can be found in the [TIOF terminology](https://tiof.click/TIOFTerminology).
 
 For a structure of The IO Foundation, please visit
 
 * The IO Foundation's [Organizational Chart](http://tiof.click/TIOFOrgChart)
-* The IO Foundation's [Organizational Nomenclature](http://tiof.click/OrgNomenclature)
-
-Back to top
+* The IO Foundation's [Organizational Taxonomy](https://tiof.click/OrgTaxonomy)
 
 ### About this document
 
-This document sets out the position maintained by TIOF in matters of Anti-harassment and Anti-bullying that you will need to be aware of while being a Member for TIOF. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Coordinator.
+This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of **Anti-harassment and Anti-bullying** that you will need to be aware of while being a [TIOF Member](https://tiof.click/TIOFTerminology#members). You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
 
-This policy covers harassment or bullying which occurs at work and out of the workplace, including at work-related events or social functions. It covers bullying and harassment by Members and also by third parties such as customers, suppliers or visitors to our premises.
+This Policy covers harassment or bullying which occurs in or out of [TIOF Spaces](https://tiof.click/TIOFTerminology#spaces), including at TIOF-related events or social functions. It covers bullying and harassment by [TIOF Members](https://tiof.click/TIOFTerminology#members) and also by [Contributors](https://tiof.click/TIOFTerminology#contributors), such as customers, suppliers or visitors to our premises.
 
 Any Member who breaches this Policy will face disciplinary action, which could result in dismissal for gross misconduct. Any non-employee who breaches this Policy may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
 
-This document complements TIOF's [Code of Conduct](http://tiof.click/TIOFPolicyCoC)
+{% hint style="info" %}
+This document complements [TIOF's Code of Conduct](https://tiof.click/TIOFPolicyCoC).
+{% endhint %}
 
-This document does not form part of any [Engagement Document](https://github.com/TheIOFoundation/TIOF/wiki/Terminology#engagement-document) and we may amend it at any time.
+{% hint style="info" %}
+This document does not form part of any [Engagement Document](https://tiof.click/TIOFTerminology#engagement-document) and we may amend it at any time following the procedures described at TIOF's Articles of Association.
+{% endhint %}
 
-Back to top
+
+
+
+
+### Scope
+
+This document directly applies to:
+
+* All [TIOF Members](https://tiof.click/TIOFTerminology#members)
+
+This document indirectly applies to:
+
+* All [TIOF Contributors](https://tiof.click/TIOFTerminology#contributors)
+
+The policies set out in this document apply to all [TIOF Members](https://tiof.click/TIOFTerminology#members) unless otherwise indicated. They therefore apply to Members of the Boards ([Directors](https://tiof.click/TIOFTerminology#directors), [Advisers](https://tiof.click/TIOFTerminology#advisers), [Consultants](https://tiof.click/TIOFTerminology#consultants)), [Employees](https://tiof.click/TIOFTerminology#employees), [Volunteers](https://tiof.click/TIOFTerminology#volunteers) and [Interns](https://tiof.click/TIOFTerminology#interns); this is irrespective of their [engagement type](https://tiof.click/TIOFTerminology#engagement-type). They equally apply to all [Contributors](https://tiof.click/TIOFTerminology#contributors) and will be used as part of the selection criteria when engaging with them.
+
+This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#spaces), including (although not limited to) management activities, contributions or events; it and also applies when an individual is officially representing the organization in public spaces. Examples of representing the organization include (although not limited to) using an official e-mail address, posting via any official channel or acting as an appointed representative at an event.
+
+###
+
+###
 
 ### Scope
 
