@@ -80,7 +80,7 @@
   * [🚧 Devs](operations/handbooks/devs.md)
   * [🚧 Organization Identity](operations/handbooks/organization-identity.md)
   * [🚧 Procurement](operations/handbooks/procurement.md)
-  * [🚧 Staff](operations/handbooks/staff.md)
+  * [🚧 Employee](operations/handbooks/employee.md)
   * [🚧 Human Resources](operations/handbooks/human-resources.md)
   * [🚧 Initiatives](operations/handbooks/initiatives.md)
   * [🚧 Tags](operations/handbooks/tags.md)
