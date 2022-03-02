@@ -101,26 +101,40 @@ Legitimate, reasonable and constructive criticism of a Member's performance or b
 
 If you are being harassed or bullied, consider whether you feel able to raise the problem informally with the person responsible. You should explain clearly to them that their behavior is not welcome or makes you uncomfortable. If this is too difficult or embarrassing, we encourage you to reach out to your respect Team Human Resources Manager, **who can and will provide** confidential advice and assistance in resolving the issue either formally or informally.
 
-If informal steps are not possible or appropriate, or have not been successful, you should raise the matter formally under our [Grievance Procedures](http://tiof.click/ProcedureGrievance). The complain will be investigated in a timely and confidential manner. The investigation will be conducted by someone with appropriate experience and no prior involvement in the complaint, where possible. Details of the investigation and the names of the person making the complaint and the person accused must only be disclosed on a _need to know_ basis. We will consider whether any steps are necessary to manage any ongoing relationship between you and the person accused during the investigation.
+If informal steps are not possible or appropriate, or have not been successful, you should raise the matter formally under our [Grievance Procedures](https://tiof.click/TIOFHBHR#grievance-procedures). The complain will be investigated in a timely and confidential manner and will be conducted by someone with appropriate experience and no prior involvement in the complaint, where possible.
 
-Once the investigation is complete, we will inform you of our decision. If we consider you have been harassed or bullied by an employee the matter will be dealt with under the [Disciplinary Procedures](http://tiof.click/ProcedureDisciplinary) as a case of possible misconduct or gross misconduct. If the harasser or bully is a third party such as a customer or other visitor, we will consider what action would be appropriate to deal with the problem. Whether or not your complaint is upheld, we will consider how best to manage any ongoing working relationship between you and the person concerned.
+{% hint style="warning" %}
+Details of the investigation and the names of the person making the complaint and the person accused must only be disclosed on a _need to know_ basis.
+{% endhint %}
 
-Back to top
+We will consider whether any steps are necessary to manage any ongoing relationship between you and the person accused during the investigation.
+
+Once the investigation is complete, we will inform you of our decision. If we consider you have been harassed or bullied by an employee the matter will be dealt with under the [Disciplinary Procedures](https://tiof.click/TIOFHBHR#disciplinary-procedures) as a case of possible misconduct or gross misconduct. If the perpetrator is a [Contributor](../terminology.md#contributors) or any other third party, we will consider what action would be appropriate to deal with the problem.
+
+Whether or not your complaint is upheld, we will consider how best to manage any ongoing working relationship between all the parties concerned.
 
 ### Protection and support for those involved
 
-Members who make complaints or who participate in good faith in any investigation must not suffer any form of retaliation or victimization as a result. Anyone found to have retaliated against or victimized someone in this way, or made accusations under this policy in bad faith, will be subject to disciplinary action under our [Disciplinary Procedures](http://tiof.click/ProcedureDisciplinary).
+Members who make complaints or who participate in good faith in any investigation must not suffer any form of retaliation or victimization as a result.
 
-Back to top
+{% hint style="warning" %}
+Anyone found to have retaliated against someone in this way, or made accusations under this policy in bad faith, will be subject to disciplinary action under our [Disciplinary Procedures](http://tiof.click/ProcedureDisciplinary)
+{% endhint %}
 
 ### False accusations
 
-We take false accusations just as seriously as the alleged misconduct. Should the investigation conclude that the accusation was false, the matter will be dealt with under the [Disciplinary Procedures](http://tiof.click/ProcedureDisciplinary) as a case of possible misconduct or gross misconduct.
+{% hint style="warning" %}
+**We take false accusations just as seriously as the alleged misconduct.**
+{% endhint %}
 
-Back to top
+Should the investigation conclude that the accusation was false, the matter will be dealt with under the [Disciplinary Procedures](https://tiof.click/TIOFHBHR#disciplinary-procedures) as a case of possible misconduct or gross misconduct.
 
 ### Record-keeping
 
-Information about a complaint by or about a Member may be placed on the Member's personnel file, along with a record of the outcome and of any notes or other documents compiled during the process. These will be processed in accordance with our [Data Protection Policy](http://tiof.click/PolicyDataProtection). Members are always welcome to request access to their personnel file by requesting it to their corresponding Team Human Resources Coordinator.
+Information about a complaint by or about a Member may be placed on the Member's personnel file, along with a record of the outcome and of any notes or other documents compiled during the process.
 
-Back to top
+These will be processed in accordance with our [Data Protection Policy](https://tiof.click/TIOFPolicyDP).
+
+{% hint style="info" %}
+Members are always welcome to request access to their personnel file by requesting it to their corresponding Team Human Resources Manager.
+{% endhint %}

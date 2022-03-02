@@ -20,7 +20,22 @@ The following is basic institutional information about The IO Foundation.
 | **Public use name**       | The IO Foundation                                  |
 | **Date of establishment** | 05 / 04 / 2018                                     |
 | **Registration ID**       | 80549272                                           |
+| EMTAK Code                | 62091                                              |
 
 ## Additional information
 
 See [memorandum-of-association.md](memorandum-of-association.md "mention") and [articles-of-association.md](articles-of-association.md "mention").
+
+
+
+## Other Registrations & Certifications
+
+The following is a list of other registrations and certifications for The IO Foundation.
+
+| Registration                                                                                                                                                      | ID            | Verification Link |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------------- |
+| United Nations                                                                                                                                                    | **`Ongoing`** | N/A               |
+| DUNS                                                                                                                                                              | 536406268     | N/A               |
+| [NACE Code](https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST\_CLS\_DLD\&StrNom=NACE\_REV2\&StrLanguageCode=EN\&StrLayoutCode=HIERARCHIC) | 62.09         | N/A               |
+| NCAGE                                                                                                                                                             | 010BJ         | N/A               |
+
