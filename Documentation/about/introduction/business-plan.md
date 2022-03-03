@@ -1,5 +1,5 @@
 # 🚧 Business Plan
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TIOFBP) **| Playbook | Assistant**
 {% endhint %}
