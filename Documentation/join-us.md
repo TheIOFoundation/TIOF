@@ -1,4 +1,4 @@
-# 🚧 Join us
+# 🖖 Join us
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFJoinUs) **| Playbook | Assistant**

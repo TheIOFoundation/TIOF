@@ -14,7 +14,7 @@
 * [⏩ NextGen Rights Defenders](nextgen-rights-defenders.md)
 * [📣 Hey Big Tech! declaration](hey-big-tech-declaration.md)
 * [DCDR Principles](https://tiof.click/Principles)
-* [🚧 Join us](join-us.md)
+* [🖖 Join us](join-us.md)
 * [🚧 Support Us](donate.md)
 * [🚧 Acknowledgments](acknowledgments.md)
 * [🚧 Media Archive](comms/media-archive.md)
