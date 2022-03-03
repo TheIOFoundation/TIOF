@@ -38,7 +38,7 @@ TIOF Members can be:
 * [Members of a Board](institutional/structures/organizational-chart.md#members-of-a-board)
 
 {% hint style="warning" %}
-As an active TIOF Member, you must be able to commit according to the responsibilities acquired:
+As an active TIOF Member, you must be able to commit according to the responsibilities acquired.
 
 \
 **Commitment means staying loyal to what you said you were going to do long after the mood you said it in has left you.**
