@@ -17,23 +17,44 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 The IO Foundation is always looking for talented individuals wishing to make an impact in technology.
 
-Do you have a talent that you perceive as an asset in the fight for Data-Centric Digital Rights?\
-Do you share our [vision](https://tiof.click/TIOFVision)?\
+Do you share our [vision](https://tiof.click/TIOFVision)?
+
+Do you have a passion towards the development and support of the [Data-Centric Digital Rights advocacy](https://tiof.click/DCDRAdvocacy)?\
+\
 Do you want to participate in our [initiatives](https://tiof.click/TIOFInitiatives)?
 
-Get in touch with us and tell us which position you’d like to join.
+{% hint style="success" %}
+**Together we can work towards protecting citizens' Data-Centric Digital Rights.**
 
-&#x20; Reach out to TIOF and tell us how would you want to participate.
-
-Do you feel we share the same vision and want to join forces? Together we can work towards protecting people’s Digital Rights. Let’s talk.
+**Let’s talk!**
+{% endhint %}
 
 ## How can I contribute?
 
-Contributing in The IO Foundation and its initiatives is easy! There are 2 ways to proceed:
+Contributing in The IO Foundation and its initiatives is easy!
 
-### Becoming a TIOF Member
+There are 2 ways to proceed:
 
-Project Members join a [Team](https://github.com/TheIOFoundation/ProjectLockdown/wiki/How-to-participate#teams) are an active part of the initiative and must be able to commit according to the responsibilities acquired. As a Project Member you'll participate in organized tasks and you'll have access to tools and other resources as well as training.
+### Participate a TIOF Member
+
+By joining as a TIOF Member you will officially join one of the TIOF [Teams](institutional/structures/teams.md).
+
+
+
+Project Members join a [Team](https://github.com/TheIOFoundation/ProjectLockdown/wiki/How-to-participate#teams) are an As a Project Member you'll participate in organized tasks and you'll have access to tools and other resources as well as training.
+
+TIOF Members can be:
+
+* Employees
+* Interns
+* Volunteers
+* Members of a Board
+
+{% hint style="warning" %}
+As an active TIOF Member, you must be able to commit according to the responsibilities acquired.
+{% endhint %}
+
+&#x20;
 
 ### Participate as a Collaborator
 
