@@ -21,13 +21,31 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 {% embed url="https://tiof.click/TIOFOrgChart" %}
 
+## Organization Taxonomy
+
+
+
 
 
 ## Employees
 
 
 
-## Members of the Boards
+## Members of a Board
+
+
+
+### Board of Directors
+
+
+
+### Board of Advisers
+
+
+
+### Board of Consultants
+
+
 
 
 

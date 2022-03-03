@@ -4,15 +4,6 @@
 [**ShortURL**](https://tiof.click/TIOFJoinUs) **| Playbook | Assistant**
 {% endhint %}
 
-
-
-{% hint style="warning" %}
-**NOTICE**
-
-This documentation page is under construction.\
-Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
-{% endhint %}
-
 ## Introduction
 
 The IO Foundation is always looking for talented individuals wishing to make an impact in technology.
@@ -37,72 +28,54 @@ There are 2 ways to proceed:
 
 ### Participate a TIOF Member
 
-By joining as a TIOF Member you will officially join one of the TIOF [Teams](institutional/structures/teams.md).
-
-
-
-Project Members join a [Team](https://github.com/TheIOFoundation/ProjectLockdown/wiki/How-to-participate#teams) are an As a Project Member you'll participate in organized tasks and you'll have access to tools and other resources as well as training.
+By joining as a TIOF Member you will officially join one of the TIOF [Teams](institutional/structures/teams.md), participate in organized tasks and have access to tools and other resources as well as training.
 
 TIOF Members can be:
 
-* Employees
-* Interns
-* Volunteers
-* Members of a Board
+* [Employees](institutional/structures/organizational-chart.md#employees)
+* [Interns](institutional/structures/organizational-chart.md#interns)
+* [Volunteers](institutional/structures/organizational-chart.md#volunteers)
+* [Members of a Board](institutional/structures/organizational-chart.md#members-of-a-board)
 
 {% hint style="warning" %}
-As an active TIOF Member, you must be able to commit according to the responsibilities acquired.
+As an active TIOF Member, you must be able to commit according to the responsibilities acquired:
+
+\
+**Commitment means staying loyal to what you said you were going to do long after the mood you said it in has left you.**
+
+Orebela Gbenga
 {% endhint %}
 
-&#x20;
+
+
+{% embed url="https://tiof.click/TIOFJoinUs" %}
+<mark style="color:orange;">**Check the available positions @ The IO Foundation**</mark>
+{% endembed %}
+
+
 
 ### Participate as a Collaborator
 
-It is not necessary to be a Project Member to participate and make a meaningful contribution to the initiative. There are plenty of Issues that can be solved without requiring to dive into the complexities of the project.
+It is not necessary to be a Member to participate and make a meaningful contribution to the DCDR advocacy.
 
-## Issues
+There are plenty of ways that you can support it without requiring to dive into its complexities.
 
-### Structure of an Issue
+{% hint style="success" %}
+Participating sporadically is also possible and always welcomed.
+{% endhint %}
 
-#### Title
+In response to your commitment towards our [values](https://tiof.click/TIOFValues) (and in the measure of our capacities), The IO Foundation publishes all ongoing tasks in its [public repository](https://tiof.click/TIOFRepo).
 
-\[PROD] \[ADM] \[NOTICE]
+Check out what are we up to and pick tasks you feel you can contribute with.
 
-#### Contents
+{% hint style="info" %}
+How to contribute on tasks? **Check the** [**Tasks Handbook**](operations/handbooks/tasks.md)**.**
+{% endhint %}
 
-* Templates - DO NOT POST WITHOUT A TEMPLATE.
-* Review the instructions on top & remove when ready to publish
-* Follow each of the segments of the Template
-* If your Issue is ready, please make sure to label it as Stage: Ready
+{% embed url="https://tiof.click/TIOFTasks" %}
+<mark style="color:orange;">**Check the available tasks @ The IO Foundation**</mark>
+{% endembed %}
 
-### Labels
 
-Project Lockdown adopts a [sane label](https://medium.com/@dave\_lunny/sane-github-labels-c5d2e6004b63) approach to provide more structure and clarity to the different project tasks that are published.
 
-The more important Labels types are:
-
-* Need: Illustrates the nature of the need described in the Issue. Issues are primarily organized by Need.
-* Stage: Determines the implementation phase in which the Issue is at present time.
-* Module: Indicates which [module](https://github.com/TheIOFoundation/ProjectLockdown#project-architecture) is the Issue related to.
-
-Other relevant Labels are:
-
-* Priority: Sets the corresponding degree of urgency to solve the Issue.
-* Keyword: Lists specific technologies that the Issue requires.
-
-A complete list of Labels and their usage can be found on the wiki: [ How to participate > Labels](https://github.com/TheIOFoundation/ProjectLockdown/wiki/How-to-participate#labels)
-
-### Assignees
-
-### Teams
-
-### Tasks flow
-
-* For code-related issues If you are not already, please familiarize yourself with GitHub's flow https://guides.github.com/introduction/flow/ Check the list of code-related issues: [\[Need: Code + Stage: Ready\]](https://github.com/TheIOFoundation/ProjectLockdown/issues?q=is:open%20is:issue%20label:%22Need:%20Code%22%20label:%22Stage:%20Ready%22)
-* For other type of needs All Issues have instructions on how to proceed to implement them. Should you have any doubts, please open a [ Q\&A Discussion](https://github.com/TheIOFoundation/ProjectLockdown/discussions?discussions\_q=category:Q\&A). Check the list of code-related issues: [\[Need: Code + Stage: Ready\]](https://github.com/TheIOFoundation/ProjectLockdown/issues?q=is:open%20is:issue%20label:%22Need:%20Code%22%20label:%22Stage:%20Ready%22)
-
-## Other resources
-
-You can find all necessary information to learn about Project Lockdown, its technical documentation and all you may need to collaborate in the initiative in our wiki: [ Project Lockdown](https://github.com/TheIOFoundation/ProjectLockdown/wiki):
-
-We strive to provide all the information you may need. If there is anything you feel is incomplete or not sufficiently explained please reach out to us by opening an [ Ideas Discussion](https://github.com/TheIOFoundation/ProjectLockdown/discussions?discussions\_q=category:Ideas).
+##

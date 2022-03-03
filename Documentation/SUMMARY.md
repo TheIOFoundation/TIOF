@@ -34,9 +34,7 @@
 * [🚧 Terminology](institutional/terminology.md)
 * [🚧 Structures](institutional/structures/README.md)
   * [🚧 TIOF Network](institutional/structures/tiof-network.md)
-  * [🚧 Organizational Taxonomy](institutional/structures/organizational-taxonomy.md)
   * [🚧 Organizational Chart](institutional/structures/organizational-chart.md)
-  * [🚧 Boards](institutional/structures/boards.md)
   * [🚧 Teams](institutional/structures/teams.md)
 * [🚧 Policies](institutional/Policies/README.md)
   * [👌 Dhatham House Rule](institutional/Policies/dhatham-house-rule.md)
@@ -70,6 +68,7 @@
 ## Operations
 
 * [🚧 Handbooks](operations/handbooks/README.md)
+  * [Tasks](operations/handbooks/tasks.md)
   * [📓 🚧 Documentation Guidelines](operations/handbooks/documentation-guidelines/README.md)
     * [Template Repo](operations/handbooks/documentation-guidelines/template-repo.md)
   * [🚧 Banking](operations/handbooks/banking.md)
