@@ -26,7 +26,7 @@ Contributing in The IO Foundation and its initiatives is easy!
 
 There are 2 ways to proceed:
 
-### Participate a TIOF Member
+### Participate as a TIOF Member
 
 By joining as a TIOF Member you will officially join one of the TIOF [Teams](institutional/structures/teams.md), participate in organized tasks and have access to tools and other resources as well as training.
 
