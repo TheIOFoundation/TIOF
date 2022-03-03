@@ -22,11 +22,15 @@ The following is basic institutional information about The IO Foundation.
 | **Registration ID**       | 80549272                                           |
 | EMTAK Code                | 62091                                              |
 
-## Additional information
+## Governance
 
-See [memorandum-of-association.md](memorandum-of-association.md "mention") and [articles-of-association.md](articles-of-association.md "mention").
+The IO Foundation's governance is based by 3 documents the following sequence.
 
-
+| Document                                                               | Usage                                    |
+| ---------------------------------------------------------------------- | ---------------------------------------- |
+| [memorandum-of-association.md](memorandum-of-association.md "mention") | Legal incorporation of the organization. |
+| [articles-of-association.md](articles-of-association.md "mention")     | Basic Governance provisions.             |
+| [governance-mandate.md](governance-mandate.md "mention")               | Complete Governance provisions.          |
 
 ## Other Registrations & Certifications
 

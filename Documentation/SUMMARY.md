@@ -29,6 +29,7 @@
 * [The IO Foundation MTÜ](institutional/the-io-foundation-mtue/README.md)
   * [Memorandum of Association](institutional/the-io-foundation-mtue/memorandum-of-association.md)
   * [Articles of Association](institutional/the-io-foundation-mtue/articles-of-association.md)
+  * [Governance Mandate](institutional/the-io-foundation-mtue/governance-mandate.md)
   * [Verification of NGO Status](institutional/the-io-foundation-mtue/verification-of-ngo-status.md)
   * [Applicable legislation](institutional/the-io-foundation-mtue/applicable-legislation.md)
 * [🚧 Terminology](institutional/terminology.md)

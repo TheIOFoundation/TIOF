@@ -283,7 +283,7 @@ The following are the official URL shortener domains used by The IO Foundation.
 | **Short URL**        | N/A                                              | N/A                                                                        |
 | **Usage**            | Shorten URLs related to TIOF and its initiatives | Shorten URLs related to other organizations or projects that TIOF supports |
 
-### Organization's Repository
+### Organization's Repositories
 
 The following are the official repositories used by The IO Foundation.
 
