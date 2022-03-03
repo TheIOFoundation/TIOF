@@ -4,6 +4,10 @@
 This document employs terms related to the [DCDR Advocacy](https://tiof.click/DCDRAdvocacy) that can be found in the [TIOF terminology](https://tiof.click/TIOFTerminology/).
 {% endhint %}
 
+{% hint style="success" %}
+**The IO Foundation encourages you to reuse this Code of Conduct if you find it useful.**
+{% endhint %}
+
 ### Scope
 
 This Code of Conduct applies to:
