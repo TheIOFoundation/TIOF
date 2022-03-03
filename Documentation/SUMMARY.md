@@ -7,7 +7,7 @@
   * [🚧 Business Plan](about/introduction/business-plan.md)
   * [🚧 Status](about/introduction/quick-monitor.md)
   * [🚧 Repository](about/introduction/repository.md)
-  * [🚧 Media Kit](about/introduction/media-kit/README.md)
+  * [Media Kit](about/introduction/media-kit/README.md)
     * [🚧 Official Channels](about/introduction/media-kit/official-channels.md)
   * [🚧 Terminology](about/introduction/terminology.md)
   * [🚧 Frequently Asked Questions](about/introduction/frequently-asked-questions.md)

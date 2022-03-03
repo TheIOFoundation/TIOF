@@ -3,7 +3,7 @@ cover: http://tiof.click/TIOFWikiHeader
 coverY: 0
 ---
 
-# 🚧 Media Kit
+# Media Kit
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFMediaKit) **| Playbook | Assistant**
@@ -283,7 +283,7 @@ The following are the official URL shortener domains used by The IO Foundation.
 | **Short URL**        | N/A                                              | N/A                                                                        |
 | **Usage**            | Shorten URLs related to TIOF and its initiatives | Shorten URLs related to other organizations or projects that TIOF supports |
 
-### Organization's Repositories
+### Organization's Repository
 
 The following are the official repositories used by The IO Foundation.
 
@@ -335,7 +335,7 @@ To learn more about TIOF's position on this matter, check our [Hey Big Tech! dec
 | GAB       | [https://gab.com/TIOF](https://gab.com/TIOF)                                                                           | [https://TIOF.Click/TIOFGAB](https://tiof.click/TIOFGAB)             |
 | Pinterest | [https://www.pinterest.com/TheIOFoundation/](https://www.pinterest.com/TheIOFoundation/)                               | [https://TIOF.Click/TIOFPinterest](https://tiof.click/TIOFPinterest) |
 
-{% hint style="info" %}
+{% hint style="warning" %}
 The IO Foundation has profiles in other platforms, sometimes in preparation for its use, sometimes to avoid impersonation.
 {% endhint %}
 
@@ -343,7 +343,7 @@ The IO Foundation has profiles in other platforms, sometimes in preparation for 
 
 The following is the official calendar through which The IO Foundation publishes events:
 
-* organized by TIOF
+* organized by TIOF (under [TechUp](https://tiof.click/TUDocs))
 * those it may participate in
 * other events that are deemed relevant
 
@@ -351,7 +351,7 @@ The following is the official calendar through which The IO Foundation publishes
 | ------------- | ------------------------------------------------------------ |
 | **Short URL** | [https://TIOF.Click/EventsCal](https://tiof.click/EventsCal) |
 | **Content**   | Events calendar                                              |
-| **Usage**     | Public events calendar that can be added                     |
+| **Usage**     | Public events calendar                                       |
 
 ### Donations & Crowdfunding
 
@@ -385,17 +385,19 @@ The following is the official recruitment platform through which The IO Foundati
 | ------------- | -------------------------------------------------------------------- |
 | **Full URL**  | [https://Join.TheIOFoundation.org](https://join.theiofoundation.org) |
 | **Short URL** | [https://TIOF.Click/TIOFJoinUs](https://tiof.click/TIOFJoinUs)       |
-| **Content**   | Posting of open positions.                                           |
+| **Content**   | Posting of open positions for TIOF                                   |
 
 ## TIOF Initiatives
 
 The following is a list of TIOF's initiatives and a quick link to their corresponding Media Kit.
 
-|                                                                                          |                  |                                              |
-| ---------------------------------------------------------------------------------------- | ---------------- | -------------------------------------------- |
-|                                                                                          | DCDR             | [Media Kit](https://tiof.click/DCDRMediaKit) |
-| ![](<../../../.gitbook/assets/\[TIOF BiT] Comms \[P] Logo FC T HiRes XXX v1.0.png>)      | BHR in Tech      | [Media Kit](https://tiof.click/BiTMediaKit)  |
-| ![](../../../.gitbook/assets/CrowdShape-01.png)                                          | CrowdShape       | [Media Kit](https://tiof.click/CSMediaKit)   |
-| ![](<../../../.gitbook/assets/\[TIOF PLD] Comms \[P] Lock Logo LM T HiRes XXX v1.0.png>) | Project Lockdown | [Media Kit](https://tiof.click/PLDMediaKit)  |
-| ![](<../../../.gitbook/assets/\[TIOF TU] Comms \[P] U Logo FC T HiRes XXX v1.0.png>)     | TechUp           | [Media Kit](https://tiof.click/TUMediaKit)   |
-| ![](<../../../.gitbook/assets/\[TIOF UDDR] Comms \[P] Logo FC T HiRes XXX v1.0.png>)     | UDDR             | [Media Kit](https://tiof.click/UDDRMediaKit) |
+|                                                                                              |                   |                                              |
+| -------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------- |
+| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Hex Logo TIOF FC T HiRes XXX v1.6 (1).png>) | The IO Foundation | This document                                |
+|                                                                                              | DCDR              | [Media Kit](https://tiof.click/DCDRMediaKit) |
+| ![](<../../../.gitbook/assets/\[TIOF BiT] Comms \[P] Logo FC T HiRes XXX v1.0.png>)          | BHR in Tech       | [Media Kit](https://tiof.click/BiTMediaKit)  |
+| ![](../../../.gitbook/assets/CrowdShape-01.png)                                              | CrowdShape        | [Media Kit](https://tiof.click/CSMediaKit)   |
+| ![](<../../../.gitbook/assets/\[TIOF PLD] Comms \[P] Lock Logo LM T HiRes XXX v1.0.png>)     | Project Lockdown  | [Media Kit](https://tiof.click/PLDMediaKit)  |
+| ![](<../../../.gitbook/assets/\[TIOF TU] Comms \[P] U Logo FC T HiRes XXX v1.0.png>)         | TechUp            | [Media Kit](https://tiof.click/TUMediaKit)   |
+| ![](<../../../.gitbook/assets/\[TIOF UDDR] Comms \[P] Logo FC T HiRes XXX v1.0.png>)         | UDDR              | [Media Kit](https://tiof.click/UDDRMediaKit) |
+
