@@ -1,7 +1,7 @@
 # 🚧 Join us
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFJoinUs) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFJoinUs) **| Playbook | Assistant**
 {% endhint %}
 
 
@@ -13,45 +13,29 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
-###
+## Introduction
 
-Do you have a talent that you perceive as an asset in the fight for Digital Rights? Get in touch with us and tell us which position you’d like to join.
+The IO Foundation is always looking for talented individuals wishing to make an impact in technology.
 
-Do you share our vision? Do you want to participate in our projects? Reach out to TIOF and tell us how would you want to participate.
+Do you have a talent that you perceive as an asset in the fight for Data-Centric Digital Rights?\
+Do you share our [vision](https://tiof.click/TIOFVision)?\
+Do you want to participate in our [initiatives](https://tiof.click/TIOFInitiatives)?
+
+Get in touch with us and tell us which position you’d like to join.
+
+&#x20; Reach out to TIOF and tell us how would you want to participate.
 
 Do you feel we share the same vision and want to join forces? Together we can work towards protecting people’s Digital Rights. Let’s talk.
 
+## How can I contribute?
 
+Contributing in The IO Foundation and its initiatives is easy! There are 2 ways to proceed:
 
-
-
-## Introduction
-
-Project Lockdown is an initiative that highly encourages participation from the broader community. To this end, we crowdsource as many tasks as possible, in observance of our 3 values: Community + Accountability + Impact.
-
-Please note that, as a result, the list of Issues you will find in this repository cover a wide range of needs, such as:
-
-* Technical Issues (Features, bugs and the like)
-* Member positions
-* Infrastructure needs (from setting up
-* General needs (identifying necessary tools or platforms, documenting and the like)
-* Enabling and growing our partners network
-* Seeking advise from experts in some
-* Looking for community feedback
-
-\*\*This document will help you understand how to proceed with this repository's Issues for a better experience for you and the whole community. Please read it before proceeding with \*\*
-
-## Participating in Project Lockdown
-
-### How can I contribute?
-
-Contributing in Project Lockdown is easy! There are 2 ways to proceed:
-
-### Becoming a Project Member
+### Becoming a TIOF Member
 
 Project Members join a [Team](https://github.com/TheIOFoundation/ProjectLockdown/wiki/How-to-participate#teams) are an active part of the initiative and must be able to commit according to the responsibilities acquired. As a Project Member you'll participate in organized tasks and you'll have access to tools and other resources as well as training.
 
-### External Collaborators
+### Participate as a Collaborator
 
 It is not necessary to be a Project Member to participate and make a meaningful contribution to the initiative. There are plenty of Issues that can be solved without requiring to dive into the complexities of the project.
 

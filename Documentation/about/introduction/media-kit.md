@@ -149,12 +149,12 @@ The IO Foundation is a global for-impact NGO advocating for Data-Centric Digital
 
 The following are the official logos for The IO Foundation.
 
-|                                                            |                                                                                               |                                                                                                |
-| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| <p><strong>TIOF</strong><br><strong>Full Logo</strong></p> | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Full Logo TIOF FC T HiRes ENG v1.6 (2).png>) | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Full Logo TIOF W Grey HiRes ENG v1.6.png>)    |
-| <p><strong>TIOF</strong><br><strong>Hex Logo</strong></p>  | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Hex Logo TIOF FC T HiRes XXX v1.6.png>)      | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Hex Logo TIOF W Grey HiRes XXX v1.6 (1).png>) |
-| **Format**                                                 | Full Color                                                                                    | White Variant                                                                                  |
-| **Usage**                                                  | General use.                                                                                  | Monochromatic or dark backgrounds.                                                             |
+|                                                            |                                                                                            |                                                                                             |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| <p><strong>TIOF</strong><br><strong>Full Logo</strong></p> | ![](<../../.gitbook/assets/\[TIOF] Comms \[P] Full Logo TIOF FC T HiRes ENG v1.6 (2).png>) | ![](<../../.gitbook/assets/\[TIOF] Comms \[P] Full Logo TIOF W Grey HiRes ENG v1.6.png>)    |
+| <p><strong>TIOF</strong><br><strong>Hex Logo</strong></p>  | ![](<../../.gitbook/assets/\[TIOF] Comms \[P] Hex Logo TIOF FC T HiRes XXX v1.6.png>)      | ![](<../../.gitbook/assets/\[TIOF] Comms \[P] Hex Logo TIOF W Grey HiRes XXX v1.6 (1).png>) |
+| **Format**                                                 | Full Color                                                                                 | White Variant                                                                               |
+| **Usage**                                                  | General use.                                                                               | Monochromatic or dark backgrounds.                                                          |
 
 {% hint style="info" %}
 For more information, please refer to [TIOF's Branding Guidelines](https://tiof.click/BrandingKit).
@@ -215,15 +215,15 @@ The following are the official QR Codes to link The IO Foundation's online resou
 
 
 
-|                                                                                      |                                                                                 |                                                                                |
-| :----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
-| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] TIOF Website QR Code XXX v2.0.png>) | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Join Us QR Code XXX v1.0.png>) | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Donate QR Code XXX v1.0.png>) |
-|                                     TIOF Website                                     |                                     Join Us                                     |                                     Donate                                     |
+|                                                                                   |                                                                              |                                                                             |
+| :-------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] TIOF Website QR Code XXX v2.0.png>) | ![](<../../.gitbook/assets/\[TIOF] Comms \[P] Join Us QR Code XXX v1.0.png>) | ![](<../../.gitbook/assets/\[TIOF] Comms \[P] Donate QR Code XXX v1.0.png>) |
+|                                    TIOF Website                                   |                                    Join Us                                   |                                    Donate                                   |
 
-|                                                                                      |                                                                                    |                                                                                            |
-| :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
-| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Hey Big Tech QR Code XXX v1.0.png>) | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Policy CoC QR Code XXX v1.0.png>) | ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Dhatham House Rule QR Code XXX v1.0.png>) |
-|                               Hey Big Tech declaration                               |                                   Code of Conduct                                  |                                      Dhatam House Rule                                     |
+|                                                                                   |                                                                                 |                                                                                         |
+| :-------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: |
+| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] Hey Big Tech QR Code XXX v1.0.png>) | ![](<../../.gitbook/assets/\[TIOF] Comms \[P] Policy CoC QR Code XXX v1.0.png>) | ![](<../../.gitbook/assets/\[TIOF] Comms \[P] Dhatham House Rule QR Code XXX v1.0.png>) |
+|                              Hey Big Tech declaration                             |                                 Code of Conduct                                 |                                    Dhatam House Rule                                    |
 
 {% hint style="success" %}
 **All QR Codes are available for download in** [**TIOF's Media Package**](https://tiof.click/TIOFPackageMedia)**.**
@@ -391,13 +391,13 @@ The following is the official recruitment platform through which The IO Foundati
 
 The following is a list of TIOF's initiatives and a quick link to their corresponding Media Kit.
 
-|                                                                                              |                   |                                              |
-| -------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------- |
-| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] Hex Logo TIOF FC T HiRes XXX v1.6 (1).png>) | The IO Foundation | This document                                |
-|                                                                                              | DCDR              | [Media Kit](https://tiof.click/DCDRMediaKit) |
-| ![](<../../../.gitbook/assets/\[TIOF BiT] Comms \[P] Logo FC T HiRes XXX v1.0.png>)          | BHR in Tech       | [Media Kit](https://tiof.click/BiTMediaKit)  |
-| ![](../../../.gitbook/assets/CrowdShape-01.png)                                              | CrowdShape        | [Media Kit](https://tiof.click/CSMediaKit)   |
-| ![](<../../../.gitbook/assets/\[TIOF PLD] Comms \[P] Lock Logo LM T HiRes XXX v1.0.png>)     | Project Lockdown  | [Media Kit](https://tiof.click/PLDMediaKit)  |
-| ![](<../../../.gitbook/assets/\[TIOF TU] Comms \[P] U Logo FC T HiRes XXX v1.0.png>)         | TechUp            | [Media Kit](https://tiof.click/TUMediaKit)   |
-| ![](<../../../.gitbook/assets/\[TIOF UDDR] Comms \[P] Logo FC T HiRes XXX v1.0.png>)         | UDDR              | [Media Kit](https://tiof.click/UDDRMediaKit) |
+|                                                                                           |                   |                                              |
+| ----------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------- |
+| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] Hex Logo TIOF FC T HiRes XXX v1.6 (1).png>) | The IO Foundation | This document                                |
+|                                                                                           | DCDR              | [Media Kit](https://tiof.click/DCDRMediaKit) |
+| ![](<../../.gitbook/assets/\[TIOF BiT] Comms \[P] Logo FC T HiRes XXX v1.0.png>)          | BHR in Tech       | [Media Kit](https://tiof.click/BiTMediaKit)  |
+| ![](../../.gitbook/assets/CrowdShape-01.png)                                              | CrowdShape        | [Media Kit](https://tiof.click/CSMediaKit)   |
+| ![](<../../.gitbook/assets/\[TIOF PLD] Comms \[P] Lock Logo LM T HiRes XXX v1.0.png>)     | Project Lockdown  | [Media Kit](https://tiof.click/PLDMediaKit)  |
+| ![](<../../.gitbook/assets/\[TIOF TU] Comms \[P] U Logo FC T HiRes XXX v1.0.png>)         | TechUp            | [Media Kit](https://tiof.click/TUMediaKit)   |
+| ![](<../../.gitbook/assets/\[TIOF UDDR] Comms \[P] Logo FC T HiRes XXX v1.0.png>)         | UDDR              | [Media Kit](https://tiof.click/UDDRMediaKit) |
 
