@@ -1,4 +1,16 @@
+---
+description: Version 1.5
+---
+
 # 👌 Code of Conduct
+
+{% hint style="info" %}
+****[**ShortURL**](https://tiof.click/TIOFPolicyCoC) **| Playbook | Assistant**
+{% endhint %}
+
+{% hint style="info" %}
+This Policy was approved on 01 January 2021.
+{% endhint %}
 
 {% hint style="info" %}
 This document employs terms related to the [DCDR Advocacy](https://tiof.click/DCDRAdvocacy) that can be found in the [TIOF terminology](https://tiof.click/TIOFTerminology/).

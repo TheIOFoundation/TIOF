@@ -1,6 +1,10 @@
 # Equal Opportunities
 
 {% hint style="info" %}
+****[**ShortURL**](https://tiof.click/TIOFPolicyEO) **| Playbook | Assistant**
+{% endhint %}
+
+{% hint style="info" %}
 This Policy was approved on 01 March 2022.
 {% endhint %}
 
