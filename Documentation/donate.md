@@ -1,50 +1,41 @@
-# 🚧 Support Us
+# Support Us
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/SupportUs) **| Playbook | Assistant**
 {% endhint %}
 
-![](https://www.theiofoundation.org/wp-content/uploads/2020/08/Donate-Logo04-01.png)
+![](<.gitbook/assets/\[TIOF] Comms \[P] TIOF Website Donate ENG v1.0.png>)
 
 ## Supporting TIOF
 
-The IO Foundation relies on funding support to advance its DCDR advocacy and develop its advocacies.
+The IO Foundation relies on funding support to advance its [DCDR advocacy](https://tiof.click/DCDRAdvocacy) and develop its [initiatives](https://tiof.click/TIOFInitiatives).
 
-Your contributions goes straight to our work ensuring new technologies are designed and implemented in a more human-centric way.
-
-{% hint style="warning" %}
-**IMPORTANT**
-
-As per The IO Foundation's  [Funding Policy](https://tiof.click/TIOFPolicyFunding), please note that donations are made without strings attached. For&#x20;
-
-TIOF is an independent civil society organization and will remain so regardless of the contributions received.
-
-
-{% endhint %}
-
-
+Your contribution goes straight to our work ensuring new technologies are architected and built to protect digital citizens.
 
 {% hint style="success" %}
 **We thank you for your support and for helping making possible a world where Human Rights and Digital Rights are one and the same.**
 {% endhint %}
 
-### Fiat
+{% hint style="warning" %}
+**IMPORTANT**
+
+As per The IO Foundation's  [Funding Policy](https://tiof.click/TIOFPolicyFunding), please note that donations are made without strings attached.
+
+TIOF is an independent civil society organization and will remain so regardless of the contributions received and their origin.
+{% endhint %}
+
+### Fiat currencies
 
 You can donate using fiat currencies.
 
 {% embed url="https://tiof.click/TIOFDonateFiat" %}
+<mark style="color:orange;">**Donate to TIOF through Fiat currency**</mark>
+{% endembed %}
 
-### Cryptocurrencies
+### Crypto currencies
 
 You can donate using crypto currencies.
 
 {% embed url="https://tiof.click/TIOFDonateCrypto" %}
-
-
-
-
-
-
-
-
-
+<mark style="color:orange;">**Donate to TIOF through Crypto currency**</mark>
+{% endembed %}
