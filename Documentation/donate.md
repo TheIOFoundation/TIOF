@@ -13,7 +13,7 @@ The IO Foundation relies on funding support to advance its [DCDR advocacy](https
 Your contribution goes straight to our work ensuring new technologies are architected and built to protect digital citizens.
 
 {% hint style="success" %}
-**We thank you for your support and for helping making possible a world where Human Rights and Digital Rights are one and the same.**
+**We thank you for your support and for helping making possible a world where Human Rights and Data-Centric Digital Rights are one and the same.**
 {% endhint %}
 
 {% hint style="warning" %}
