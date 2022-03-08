@@ -2,7 +2,7 @@
 description: Version 1.1
 ---
 
-# 👌 Dhatham House Rule
+# Dhatham House Rule
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/Dhatham) **| Playbook | Assistant**

@@ -2,7 +2,7 @@
 description: Version 1.5
 ---
 
-# 👌 Code of Conduct
+# Code of Conduct
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFPolicyCoC) **| Playbook | Assistant**
