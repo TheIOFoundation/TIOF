@@ -30,7 +30,7 @@ The IO Foundation's governance is based by 3 documents the following sequence.
 | ---------------------------------------------------------------------- | ---------------------------------------- |
 | [memorandum-of-association.md](memorandum-of-association.md "mention") | Legal incorporation of the organization. |
 | [articles-of-association.md](articles-of-association.md "mention")     | Basic Governance provisions.             |
-| [governance-mandate.md](governance-mandate.md "mention")               | Complete Governance provisions.          |
+| [organization-statute.md](organization-statute.md "mention")           | Complete Governance provisions.          |
 
 ## Other Registrations & Certifications
 
