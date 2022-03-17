@@ -208,6 +208,12 @@ See here the list of Teams and their descriptions.
 
 
 
+### Membership
+
+The IO Foundation does not currently have a membership structure.
+
+
+
 ## IT Infrastructure
 
 
@@ -215,6 +221,22 @@ See here the list of Teams and their descriptions.
 ### ShortURL
 
 The organization will implement&#x20;
+
+### Website
+
+
+
+### Documentation
+
+
+
+### Project Backend
+
+
+
+
+
+
 
 ## Intellectual Property
 
