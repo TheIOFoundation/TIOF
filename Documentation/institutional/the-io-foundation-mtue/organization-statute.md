@@ -162,6 +162,56 @@ While revisions through this method are immediately valid and implementable, the
 
 **Validity:** Temporary until next Annual Meeting (see mechanism above)
 
+## Institutional
+
+### Official Meetings
+
+
+
+### Recording of Minutes
+
+
+
+
+
+### Annual Meeting
+
+Serves to approve past year's KPIs, set the next ones and gives the direction for the next year.
+
+
+
+### Strat Meet
+
+Decides the actual steps to implement the Yearly Mandate.
+
+
+
+### Status Meets
+
+Reviews the status for an initiative or the org.
+
+### Team Meets
+
+Coordination meetings to review the status of ongoing tasks, clear the backlog and prepare next steps.
+
+
+
+### Board of Directors Review
+
+
+
+### Board of Advisers Review
+
+
+
+### Board of Consultants Review
+
+
+
+
+
+
+
 ## Organization's Structure
 
 
@@ -176,17 +226,55 @@ See here the official Org Char.
 
 ### Boards
 
+#### Board of Directors
 
+They steer the boat.
+
+
+
+Describe powers.
 
 {% hint style="info" %}
-The Boards are managed by the Board Lifecycle.
+The Boards are managed by their corresponding Board Lifecycle.
 {% endhint %}
 
 {% hint style="success" %}
 See here the list of Boards and their members.
 {% endhint %}
 
+#### Board of Advisers
+
+The advise the Board of Directors and the Global Management.
+
+
+
+Describe powers.
+
+#### Board of Consultants
+
+Advises every specific Initiative in areas of interest that will help it to pursue its impact.
+
+
+
+Describe powers.
+
 ### Global Management
+
+The Global Management is charged with executing the mandates established by the Board of Directors and approved during the General Assembly.
+
+
+
+
+
+Describe powers.
+
+
+
+
+
+
+
+
 
 
 
@@ -211,6 +299,34 @@ See here the list of Teams and their descriptions.
 ### Membership
 
 The IO Foundation does not currently have a membership structure.
+
+
+
+## Advocacy
+
+### Mission
+
+### Vision
+
+
+
+### Theory of Change
+
+
+
+### KPIs
+
+
+
+## Dissolution
+
+
+
+### Beneficiary organizations
+
+
+
+
 
 
 
@@ -273,6 +389,8 @@ Hanbooks can be updated&#x20;
 
 
 
+
+##
 
 
 
