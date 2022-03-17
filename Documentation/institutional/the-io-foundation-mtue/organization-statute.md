@@ -1,9 +1,11 @@
+---
+description: Version 1.0
+---
+
 # Organization Statute
 
-
-
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TIOFStatute) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="info" %}
@@ -16,23 +18,14 @@ This Statute was approved on 01 April 2022.
 
 This document employs terms related to the [DCDR Advocacy](https://tiof.click/DCDRAdvocacy) that can be found in the [TIOF terminology](https://tiof.click/TIOFTerminology).
 
-For a structure of The IO Foundation, please visit
-
-* The IO Foundation's [Organizational Chart](http://tiof.click/TIOFOrgChart)
-* The IO Foundation's [Organizational Taxonomy](https://tiof.click/OrgTaxonomy)
-
 ### About this document
 
-This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of **Anti-corruption and Anti-bribery** that you will need to be aware of while being a TIOF Member. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
+This document, hereinafter the Statute, sets out the articles that regulate the internal functioning of The IO Foundation. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
 
-Any Member who breaches this Policy will face disciplinary action, which could result in dismissal for gross misconduct. Any non-employee who breaches this Policy may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
-
-{% hint style="info" %}
-This document complements [TIOF's Code of Conduct](https://tiof.click/TIOFPolicyCoC).
-{% endhint %}
+Any Member who breaches this Statute will face disciplinary action, which could result in dismissal for gross misconduct. Any non-employee who breaches this Statute may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
 
 {% hint style="info" %}
-This document does not form part of any [Engagement Document](https://tiof.click/TIOFTerminology#engagement-document) and we may amend it at any time following the procedures described at [TIOF's Articles of Association](https://tiof.click/TIOFLegalArticlesOfAssociation).
+This document does not form part of any [Engagement Document](https://tiof.click/TIOFTerminology#engagement-document) and we be amended at any time following the procedures described [hereinafter](organization-statute.md#revision-processes).
 {% endhint %}
 
 ### Scope
@@ -45,57 +38,55 @@ This document indirectly applies to:
 
 * All [TIOF Contributors](https://tiof.click/TIOFTerminology#contributors)
 
-The policies set out in this document apply to all [TIOF Members](https://tiof.click/TIOFTerminology#members) unless otherwise indicated. They therefore apply to Members of the Boards ([Directors](https://tiof.click/TIOFTerminology#directors), [Advisers](https://tiof.click/TIOFTerminology#advisers), [Consultants](https://tiof.click/TIOFTerminology#consultants)), [Employees](https://tiof.click/TIOFTerminology#employees), [Volunteers](https://tiof.click/TIOFTerminology#volunteers) and [Interns](https://tiof.click/TIOFTerminology#interns); this is irrespective of their [engagement type](https://tiof.click/TIOFTerminology#engagement-type). They equally apply to all [Contributors](https://tiof.click/TIOFTerminology#contributors) and will be used as part of the selection criteria when engaging with them.
+The articles set out in this document apply to all [TIOF Members](https://tiof.click/TIOFTerminology#members) unless otherwise indicated. They therefore apply to Members of the Boards ([Directors](https://tiof.click/TIOFTerminology#directors), [Advisers](https://tiof.click/TIOFTerminology#advisers), [Consultants](https://tiof.click/TIOFTerminology#consultants)), [Employees](https://tiof.click/TIOFTerminology#employees), [Volunteers](https://tiof.click/TIOFTerminology#volunteers) and [Interns](https://tiof.click/TIOFTerminology#interns); this is irrespective of their [engagement type](https://tiof.click/TIOFTerminology#engagement-type). They equally apply to all [Contributors](https://tiof.click/TIOFTerminology#contributors) and may be used as part of the selection criteria when engaging with them.
 
-This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#spaces), including (although not limited to) management activities, contributions or events; it and also applies when an individual is officially representing the organization in public spaces. Examples of representing the organization include (although not limited to) using an official e-mail address, posting via any official channel or acting as an appointed representative at an event.
+## 1. Statute Details
 
-## Applicability
+### 1.1 TIOF mandates
 
-This document and the rules herein stated, apply in the following flow:
+The IO Foundation (TIOF) functions by respecting a number of mandates that guide how it implements its mission. These mandates are described across a number of documents and must always comply with the applicable jurisdictions in which TIOF operates.
+
+The relevant documents that define mandates are:
+
+* Memorandum of Association
+* Articles of Association
+* Organization Statute (this document)
+* Policies
+
+### 1.2 Overwrite flow
+
+This Statute and the articles herein stated, apply in the following overwrite flow in order to inform the mandates by which The IO Foundation functions:
 
 1. Memorandum of Association
 2. Articles of Association
 3. Organization Statute (this document)
-4. Policies
-
-{% hint style="warning" %}
-This document supersedes any areas that are not specifically defined in the registered Articles of Association.
-{% endhint %}
+   1. Policies
 
 {% hint style="info" %}
-Whenever an article in this Organization Statue requires further description, it will provide a link to the corresponding Policy (or any other document) where the particulars are detailed.
+Whenever an article in this Statue requires further description, it will provide a link to the corresponding Policy (or any other document) where the particulars are detailed.
 {% endhint %}
 
-## Statute details
+{% hint style="warning" %}
+As a result of the above precedence flow:
 
+* This document supersedes
+  * any areas that are not specifically defined in the registered Articles of Association
+  * any articles that are specifically named
+* Policies will elaborate on details for each specific topic
+* Policies cannot overwrite mandates
+{% endhint %}
 
-
+{% hint style="success" %}
 This Statue is also designed so that it can serve as reference for other Tech NGOs, in the spirit of the CrowdShape initiative.
 
+If you like it, feel free to share it.
+{% endhint %}
 
+## 2. Revision processes
 
+As mandates require to adapt to new realities, mechanisms for their update need be set in place.
 
-
-
-
-
-
-Updates
-
-The Governance Mandate can be reviewed
-
-* During the General Meeting
-* Upon specific decision supported by 50%+1 of the Board of Directors
-
-
-
-This document is full enforceable and must be respected at alt times by all TIOF Members.
-
-
-
-## Revision processes
-
-TIOF, like any other structured organization, is made possible by a complex series of regulations that guide how it implements its mission. As these regulations require to adapt to new realities, mechanisms for their update need be set in place.
+### 2.1 Applicable documents
 
 The documents that can be subject to revision are:
 
@@ -112,7 +103,7 @@ Any necessary revisions can be stated in either the Articles of Association or t
 {% endhint %}
 
 {% hint style="warning" %}
-The following documents do not require to undergo this process and can be updated on-the-go as needed by their corresponding Team:
+The following documents do not require to undergo a strict revision process and can be updated on-the-go as needed by their corresponding Team:
 
 * Handbooks
 * Templates
@@ -122,7 +113,7 @@ The following documents do not require to undergo this process and can be update
 
 In order to keep the organization as flexible as possible, the following methods of revision are available:
 
-### Regular revision
+### 2.2 Regular revision
 
 Regular revisions happen once a year during the Annual Meeting. A dedicated section of the meeting is to be allocated for it.
 
@@ -134,8 +125,8 @@ Regular revisions happen once a year during the Annual Meeting. A dedicated sect
 
 **Approval:**
 
-* New revisions: 50% +1&#x20;
-* Contested Continuous revisions: 50% +1
+* New revisions: 50% +1 of the participants
+* Contested Continuous revisions: 50% +1 of the participants
 * Non contested Continuous revisions: Automatic
 
 **Validity:** Indefinite unless requested for change.
@@ -144,12 +135,12 @@ Regular revisions happen once a year during the Annual Meeting. A dedicated sect
 To simplify and consolidate revision processes, it is encouraged to use the Regular revision process.
 {% endhint %}
 
-### Continuous revision
+### 2.3 Continuous revision
 
 To allow for fast adaptation in case of need, and in the spirit of the CI/CD practice, a mechanism to propose and approve revisions outside of the Regular method, is available.
 
 {% hint style="warning" %}
-While revisions through this method are immediately valid and implementable, their final approval will be confirmed in the following Regular revision.
+While revisions through this method are immediately valid and implementable, their final approval will need to be confirmed in the following [#regular-revision](organization-statute.md#regular-revision "mention").
 {% endhint %}
 
 **When:** Any time
@@ -160,73 +151,63 @@ While revisions through this method are immediately valid and implementable, the
 
 **Approval:** 50% +1 of the Global Management
 
-**Validity:** Temporary until next Annual Meeting (see mechanism above)
+**Validity:** Temporary until next Annual Meeting via [#regular-revision](organization-statute.md#regular-revision "mention")
 
-## Institutional
+## 3. Direct overwrites
 
-### Official Meetings
+The following articles are overwritten by this Statue:
 
-
-
-### Recording of Minutes
+### 3.1 Memorandum of Association
 
 
 
+### 3.2 Articles of Association
 
+## 4. Advocacy
 
-### Annual Meeting
+### 4.1 Mission
 
-Serves to approve past year's KPIs, set the next ones and gives the direction for the next year.
-
-
-
-### Strat Meet
-
-Decides the actual steps to implement the Yearly Mandate.
+### 4.2 Vision
 
 
 
-### Status Meets
-
-Reviews the status for an initiative or the org.
-
-### Team Meets
-
-Coordination meetings to review the status of ongoing tasks, clear the backlog and prepare next steps.
+### 4.3 Theory of Change
 
 
 
-### Board of Directors Review
+### 4.4 KPIs
+
+## 5. Organization's Structure
 
 
 
-### Board of Advisers Review
+### 5.1 Organizational Chart
 
 
 
-### Board of Consultants Review
+For a structure of The IO Foundation, please visit
 
+* The IO Foundation's [Organizational Chart](http://tiof.click/TIOFOrgChart)
 
+The IO Foundation must keep an updated Org Chart.
 
+The responsible is \[TIOF] Team Human Resources.
 
+### 5.2 Organizational Taxonomy
 
+The IO Foundation must keep an updated Taxonomy.
 
+The responsible is \[TIOF] Team Docs.
 
-## Organization's Structure
-
-
-
-### Organizational Chart
-
-
+* The IO Foundation's [Organizational Taxonomy](https://tiof.click/OrgTaxonomy)
 
 {% hint style="success" %}
 See here the official Org Char.
 {% endhint %}
 
-### Boards
+### 5.3 Boards
 
-#### Board of Directors
+#### 5.3.1 Board of Directors
 
 They steer the boat.
 
@@ -242,7 +223,7 @@ The Boards are managed by their corresponding Board Lifecycle.
 See here the list of Boards and their members.
 {% endhint %}
 
-#### Board of Advisers
+#### 5.3.2 Board of Advisers
 
 The advise the Board of Directors and the Global Management.
 
@@ -250,7 +231,7 @@ The advise the Board of Directors and the Global Management.
 
 Describe powers.
 
-#### Board of Consultants
+#### 5.3.3 Board of Consultants
 
 Advises every specific Initiative in areas of interest that will help it to pursue its impact.
 
@@ -258,7 +239,7 @@ Advises every specific Initiative in areas of interest that will help it to purs
 
 Describe powers.
 
-### Global Management
+### 5.4 Global Management
 
 The Global Management is charged with executing the mandates established by the Board of Directors and approved during the General Assembly.
 
@@ -286,7 +267,7 @@ The&#x20;
 See here the list of members of the Global Management.
 {% endhint %}
 
-### Teams
+### 5.5 Teams
 
 
 
@@ -296,65 +277,67 @@ See here the list of Teams and their descriptions.
 
 
 
-### Membership
+### 5.6 Membership
 
 The IO Foundation does not currently have a membership structure.
 
 
 
-## Advocacy
+## 6. Institutional
 
-### Mission
-
-### Vision
+### 6.1 Official Meetings
 
 
 
-### Theory of Change
-
-
-
-### KPIs
-
-
-
-## Dissolution
-
-
-
-### Beneficiary organizations
+### 6.2 Recording of Minutes
 
 
 
 
 
+### 6.3 Annual Meeting
 
-
-## IT Infrastructure
-
-
-
-### ShortURL
-
-The organization will implement&#x20;
-
-### Website
+Serves to approve past year's KPIs, set the next ones and gives the direction for the next year.
 
 
 
-### Documentation
+### 6.4 Strat Meet
+
+Decides the actual steps to implement the Yearly Mandate.
 
 
 
-### Project Backend
+### 6.5 Status Meets
+
+Reviews the status for an initiative or the org.
+
+### 6.6 Team Meets
+
+Coordination meetings to review the status of ongoing tasks, clear the backlog and prepare next steps.
 
 
 
+### 6.7 Board of Directors Review
 
 
 
+### 6.8 Board of Advisers Review
 
-## Intellectual Property
+
+
+### 6.9 Board of Consultants Review
+
+
+
+### 6.10 Code of Conduct
+
+{% hint style="info" %}
+This document complements [TIOF's Code of Conduct](https://tiof.click/TIOFPolicyCoC).
+{% endhint %}
+
+
+
+### 6.11 Intellectual Property
 
 The organization is committed to publish all of its productions and internal documents, to the extend allowed by the applicable laws, under Creative Commons license.
 
@@ -366,9 +349,13 @@ Link to Media Policy / Media Handbook for Create Commons implementation.
 
 
 
-## Organization's Operations
+##
 
-### Policies
+
+
+## 7. Operations
+
+### 7.1 Policies
 
 To guide the organization, TIOF will establish a series of Policies describing, to the best of its abilities, the guidelines by which it will implement its mission.
 
@@ -378,7 +365,7 @@ Policies can be updated following the [#revision-processes](organization-statute
 
 
 
-### Handbooks
+### 7.2 Handbooks
 
 Handbooks are the materialization of the processes established to implement the Policies.
 
@@ -390,7 +377,47 @@ Hanbooks can be updated&#x20;
 
 
 
+
+
+### 7.3 IT Infrastructure
+
+
+
+#### 7.3.1 ShortURL
+
+The organization will implement&#x20;
+
+#### 7.3.2 Website
+
+
+
+#### 7.3.3 Documentation
+
+
+
+#### 7.3.4 Project Backend
+
+
+
+
+
+
+
+## 8. Dissolution
+
+
+
 ##
 
 
+
+### 8.2 Beneficiary organizations
+
+
+
+
+
+
+
+##
 
