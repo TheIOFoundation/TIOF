@@ -1,28 +1,34 @@
----
-cover: ../../.gitbook/assets/[TIOF] Comms [P] GH Page Banner MidRes ENG v1.0.png
-coverY: 0
----
-
-# 🚧 Policies
+# Policies
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TIOFPolicies) **| Playbook | Assistant**
 {% endhint %}
 
+## About TIOF Policies
 
-
-{% hint style="warning" %}
-**NOTICE**
-
-This documentation page is under construction.\
-Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
-{% endhint %}
-
-
-
-
+This section contains the list of Policies that guide The IO Foundation as an organization in order to achieve its Mission and realize its Vision.
 
 ## Summary of Policies
 
-
+| Name                             | Quick description |
+| -------------------------------- | ----------------- |
+| Dhatham House Rule               |                   |
+| Code of Conduct                  |                   |
+| Anti corruption & Anti bribery   |                   |
+| Anti harassment & Anti bullying  |                   |
+| Equal Opportunities              |                   |
+| 🚧 Sickness Absence              |                   |
+| 🚧 Transparency & Accountability |                   |
+| 🚧 Children Protection           |                   |
+| 🚧 Data & Privacy                |                   |
+| 🚧 Data Protection               |                   |
+| 🚧 Funding                       |                   |
+| 🚧 Health and Safety             |                   |
+| 🚧 ICT Systems                   |                   |
+| 🚧 Intellectual Property         |                   |
+| 🚧 Whistleblowing                |                   |
+| 🚧 Remuneration                  |                   |
+| 🚧 Media                         |                   |
+| 🚧 Information Management        |                   |
+| 🚧 Security                      |                   |
 
