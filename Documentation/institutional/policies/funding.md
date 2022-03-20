@@ -67,7 +67,35 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 ## Matchmaking
 
-##
+
+
+## Funding Evaluation Process
+
+All funding will have to comply with:
+
+* Not being in conflict with TIOF's Mission & Vision
+* Not being in conflict with any provision in its Code of Conduct
+* Not being in conflict with any provisions in this policy
+
+
+
+
+
+### Evaluation Form
+
+All funding opportunities need to be evaluated according to the Funding Evaluation Form.
+
+See Resource Allocation Handbook.
+
+
+
+
+
+
+
+
+
+
 
 ## Introduction
 
