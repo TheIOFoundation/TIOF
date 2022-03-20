@@ -85,6 +85,8 @@
   * [🚧 Devs](operations/handbooks/devs.md)
   * [🚧 Organization Identity](operations/handbooks/organization-identity.md)
   * [🚧 Procurement](operations/handbooks/procurement.md)
+  * [🚧 Resource Allocation](operations/handbooks/resource-allocation/README.md)
+    * [Evaluation](operations/handbooks/resource-allocation/evaluation.md)
   * [🚧 Employee](operations/handbooks/employee.md)
   * [🚧 Human Resources](operations/handbooks/human-resources.md)
   * [🚧 Initiatives](operations/handbooks/initiatives.md)
