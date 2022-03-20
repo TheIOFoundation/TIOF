@@ -4,6 +4,15 @@
 ****[**ShortURL**](https://tiof.click/TIOFDocs) **| Playbook | Assistant**
 {% endhint %}
 
+{% hint style="warning" %}
+This website contains the **documentation** relative to The IO Foundation and its initiatives.
+
+You may be looking for:
+
+* [Official Website](https://tiof.click/TIOFWeb)
+* [TIOF Management](https://tiof.click/TIOFRepo)
+{% endhint %}
+
 ## The organization
 
 The IO Foundation (TIOF) is a global for-impact NGO born from a fundamental concern about the state of technology in the world and advocating for [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy).

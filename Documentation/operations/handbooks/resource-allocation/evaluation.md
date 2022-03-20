@@ -10,7 +10,7 @@ Opportunity: The funding opportunity itself.
 
 Source is not in the blacklist
 
-Source&#x20;
+Source has been verified
 
 
 
