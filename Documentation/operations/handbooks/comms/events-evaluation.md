@@ -1,4 +1,4 @@
-# 🚧 Official Channels
+# 🚧 Events Evaluation
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

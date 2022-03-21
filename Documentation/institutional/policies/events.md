@@ -1,7 +1,7 @@
 # 🚧 Events
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TIOFPolicyEvents) **| Playbook | Assistant**
 {% endhint %}
 
 
