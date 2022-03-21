@@ -163,6 +163,10 @@ The following articles are overwritten by this Statue:
 
 ### 3.2 Articles of Association
 
+
+
+
+
 ## 4. Advocacy
 
 ### 4.1 Mission
@@ -171,11 +175,23 @@ The following articles are overwritten by this Statue:
 
 
 
-### 4.3 Theory of Change
+### 4.3 Values
+
+Enlightment&#x20;
+
+Scientific method
+
+Objective truth
 
 
 
-### 4.4 KPIs
+
+
+### 4.4 Theory of Change
+
+
+
+### 4.5 KPIs
 
 ## 5. Organization's Structure
 
