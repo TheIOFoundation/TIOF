@@ -57,6 +57,7 @@
   * [🚧 Whistleblowing](institutional/Policies/whistleblowing.md)
   * [🚧 Remuneration](institutional/Policies/remuneration.md)
   * [🚧 Media](institutional/Policies/media.md)
+  * [🚧 Events](institutional/policies/events.md)
   * [🚧 Information Management](institutional/policies/information-management.md)
   * [🚧 Security](institutional/Policies/security.md)
 * [🚧 Annual Reports](institutional/annual-reports/README.md)
