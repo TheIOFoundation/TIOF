@@ -284,67 +284,116 @@ Every year, the KPIs shall be revisited and updated as follows:
   * Report of current year's KPIs
   * Analysis of actions to implement next year's KPIs
 
+### 4.7 Yearly Strategy
+
+The organization will decide, organize and implement a strategy to move its advocacy forward.
+
+The Yearly Strategy shall include:
+
+* List of initatives
+* Yearly KPIs
+* Planned activities
+
 ## 5. Organization's Structure
 
+The organization will be structured in the most efficient manner possible.
 
+It will have separate teams for the organization itself and for each of its initiatives.
 
-### 5.1 Organizational Chart
+Some TIOF members may participate in different team across the organization and/or several initiatives under different positions. The organization shall maintain a clear Org Chart to reflect its full structure at all times and publish it on its official Comms channels.
 
+Every year, the Organization Structure shall be revisited and updated as follows:
 
+* General Meeting:
+  * Update of the Organization Structure as per needs
+* Strat Meet:
+  * Establish the necessary steps to implement any updates on the Organization Structure
 
-For a structure of The IO Foundation, please visit
+### 5.1 Organizational Taxonomy
 
-* The IO Foundation's [Organizational Chart](http://tiof.click/TIOFOrgChart)
+The IO Foundation must keep an updated Taxonomy describing all the elements of TIOF's Organization's Structure.
 
-The IO Foundation must keep an updated Org Chart.
-
-The responsible is \[TIOF] Team Human Resources.
-
-### 5.2 Organizational Taxonomy
-
-The IO Foundation must keep an updated Taxonomy.
-
-The responsible is \[TIOF] Team Docs.
-
-* The IO Foundation's [Organizational Taxonomy](https://tiof.click/OrgTaxonomy)
-
-{% hint style="success" %}
-See here the official Org Char.
+{% hint style="info" %}
+The IO Foundation's [Organizational Taxonomy](https://tiof.click/OrgTaxonomy)
 {% endhint %}
+
+\[TIOF] Team Documentation will be responsible to update the Organizational Taxonomy.
+
+### 5.2 Organizational Chart
+
+The IO Foundation must keep an updated Organizational Chart describing all the Boards, Teams and their relationships in TIOF's Organization's Structure.
+
+{% hint style="info" %}
+The IO Foundation's [Organizational Chart](http://tiof.click/TIOFOrgChart)
+{% endhint %}
+
+\[TIOF] Team Human Resources will be responsible to update the Org Chart.
 
 ### 5.3 Boards
 
+The IO Foundation structures its governance through a number of Boards.
+
 #### 5.3.1 Board of Directors
 
-They steer the boat.
+The Board of Directors (BoD) is the highest structure of the organization. It is composed of 5 members that will serve for a term of 2 years.
 
-
-
-Describe powers.
+|              |                                                                                            |
+| ------------ | ------------------------------------------------------------------------------------------ |
+| Composition  | 5 members                                                                                  |
+| Term         | <p>2 natural years<br>Start on date of Signature<br>End on December of the second year</p> |
+| Renewal      | No limit                                                                                   |
+| Attributions | <ul><li>Drive the organization</li><li>No executive capacities</li></ul>                   |
+| Meetings     | <ul><li>General Meeting (1x)</li><li>BoD Status Meeting (1x)</li></ul>                     |
 
 {% hint style="info" %}
-The Boards are managed by their corresponding Board Lifecycle.
+The Board of Directors is managed by its corresponding Board Lifecycle.
 {% endhint %}
 
 {% hint style="success" %}
-See here the list of Boards and their members.
+See here the members of the Boards of Directors.
 {% endhint %}
 
 #### 5.3.2 Board of Advisers
 
-The advise the Board of Directors and the Global Management.
+The Board of Advisers (BoA) advises the Global Management in order to implement the Yearly Strategy.
 
+is the highest structure of the organization. It is composed of 5 members that will serve for a term of 2 years.
 
+|              |                                                                                                                          |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| Composition  | Unlimited members                                                                                                        |
+| Term         | <p>2 natural years<br>Start on date of Signature<br>End on December of the second year</p>                               |
+| Renewal      | No limit                                                                                                                 |
+| Attributions | <ul><li>Advise the organization in matters related to their areas of expertise</li><li>No executive capacities</li></ul> |
+| Meetings     | <ul><li>Strat Meeting (1x)</li><li>BoA Status Meeting (1x)</li></ul>                                                     |
 
-Describe powers.
+{% hint style="info" %}
+The Board of Advisers is managed by its corresponding Board Lifecycle.
+{% endhint %}
+
+{% hint style="success" %}
+See here the members of the Boards of Advisers.
+{% endhint %}
 
 #### 5.3.3 Board of Consultants
 
-Advises every specific Initiative in areas of interest that will help it to pursue its impact.
+Each TIOF initiative has a Board of Consultants (BoC) that advises in areas of interest that will help it to pursue its impact.
 
+|              |                                                                                                                        |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| Composition  | Unlimited members                                                                                                      |
+| Term         | <p>2 natural years<br>Start on date of Signature<br>End on December of the second year</p>                             |
+| Renewal      | No limit                                                                                                               |
+| Attributions | <ul><li>Advise the initiative in matters related to their areas of expertise</li><li>No executive capacities</li></ul> |
+| Meetings     | <ul><li>Strat Meeting (1x)</li><li>Initiative Status Meeting (4x)</li></ul>                                            |
 
+{% hint style="info" %}
+The Boards of Consultants are managed by their corresponding Board Lifecycle.
+{% endhint %}
 
-Describe powers.
+{% hint style="success" %}
+See the corresponding initiative's documentation for the full list of members of its Board of Consultants.
+{% endhint %}
 
 ### 5.4 Global Management
 
