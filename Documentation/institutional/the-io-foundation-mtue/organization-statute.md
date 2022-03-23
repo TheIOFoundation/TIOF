@@ -159,7 +159,33 @@ The following articles are overwritten by this Statue:
 
 ### 3.1 Memorandum of Association
 
+{% hint style="warning" %}
+The following are overwritten articles for the Memorandum of Association.
+{% endhint %}
 
+#### Article 2
+
+`The seat of the non-profit association is Riga 128, 50411 Tartu, Estonia city / municipality`
+
+**Overwrite**\
+The seat of the non-profit association is Rataskaevu tn 2 Kesklinna linnaosa, 10123 Tallinn, Harju maakond, Estonia.\
+Any subsequent address changes shall be reflected in this overwritten article and propagated in all necessary official and required channels.
+
+#### Article 3
+
+`The purpose of the non-profit association is "To respect, protect and provide solutions for Digital Rights and promote the creation of a Universal Declaration of Digital Rights (UDDR)`.
+
+**Overwrite**\
+The purpose of the non-profit association is "To promote, protect and provide solutions for Data-Centric Digital Rights, support programmers in their role as NextGen Rights Defenders and promote the creation of a Universal Declaration of Digital Rights (UDDR).".\
+Any subsequent purpose changes needs to strictly reflect the DCDR advocacy and shall be reflected in this overwritten article and propagated in all necessary official and required channels.
+
+#### Article 5
+
+`The founders shall appoint the following as a member(s) of the board of a non-profit association`
+
+**Append**\
+The Board of Directors will be managed as indicated in the Organization Statue.\
+Any subsequent purpose changes needs to strictly reflect the DCDR advocacy and shall be reflected in this overwritten article and propagated in all necessary official and required channels.
 
 ### 3.2 Articles of Association
 
