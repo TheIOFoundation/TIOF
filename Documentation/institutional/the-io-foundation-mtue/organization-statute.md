@@ -212,7 +212,13 @@ Upon termination of the activities of the Association, the remaining assets shal
 
 ## 4. Advocacy
 
-All the following shall be reflected in all necessary official and required Comms materials and channels.
+The following articles are core to The IO Foundation and are to be reflected in
+
+* TIOF's Code of Conduct
+* TIOF's policies
+* TIOF's operations
+* TIOF's Comms materials
+* TIOF's official and other required channels
 
 ### 4.1 Mission
 
@@ -226,25 +232,30 @@ The organization's Vision is `A world where Human Rights and Data-Centric Digita
 
 Except for minor language changes, this Vision shall not be updated.
 
-### 4.3 Values
+### 4.3 Ethos
+
+The IO Foundation was created in the pursuit of creating better and safer digital societies. In order to materialize its Vision, TIOF shall act under the following ethos:&#x20;
+
+* Objective truth
+* Scientific method
+* Enlightment values
+* Non-discrimination in any shape or form
+* Respect and advancement of Human Rights
+* Respect and advancement of Data-Centric Digital Rights
+
+### 4.4 Values
+
+In order&#x20;
 
 
 
-Enlightment&#x20;
 
-Scientific method
 
-Objective truth
+### 4.5 Theory of Change
 
 
 
-
-
-### 4.4 Theory of Change
-
-
-
-### 4.5 KPIs
+### 4.6 KPIs
 
 ## 5. Organization's Structure
 
