@@ -177,31 +177,58 @@ Any subsequent address changes shall be reflected in this overwritten article an
 
 **Overwrite**\
 The purpose of the non-profit association is "To promote, protect and provide solutions for Data-Centric Digital Rights, support programmers in their role as NextGen Rights Defenders and promote the creation of a Universal Declaration of Digital Rights (UDDR).".\
-Any subsequent purpose changes needs to strictly reflect the DCDR advocacy and shall be reflected in this overwritten article and propagated in all necessary official and required channels.
+Any subsequent purpose changes needs is to be reflected in the Articles of Association - Article 2.
 
 #### Article 5
 
 `The founders shall appoint the following as a member(s) of the board of a non-profit association`
 
 **Append**\
-The Board of Directors will be managed as indicated in the Organization Statue.\
-Any subsequent purpose changes needs to strictly reflect the DCDR advocacy and shall be reflected in this overwritten article and propagated in all necessary official and required channels.
+The Board of Directors will be managed as indicated in the Organization Statue.
 
 ### 3.2 Articles of Association
 
+#### Article 2
 
+`The purpose of the Association is to promote, protect, develop and enhance digital rights.`
 
+**Overwrite**\
+The purpose of the non-profit association is "To promote, protect and provide solutions for Data-Centric Digital Rights, support programmers in their role as NextGen Rights Defenders and promote the creation of a Universal Declaration of Digital Rights (UDDR).".\
+Any subsequent purpose changes needs to strictly reflect the DCDR advocacy and shall be reflected in this overwritten article and propagated in all necessary official and required channels.
 
+#### Article 9
+
+`One to three members shall be elected to the board of the association for a term of five years.`
+
+**Overwrite**\
+The Board of Directors will be managed as stipulated in the Organization Statue.
+
+#### Article 10
+
+`Upon termination of the activities of the Association, the remaining assets shall be transferred non-profit associations and foundations and religious associations with income tax relief a similar organization or public to a legal person.`
+
+**Overwrite**\
+Upon termination of the activities of the Association, the remaining assets shall be transferred non-profit associations following the mandate stipulated in the Organization Statue.
 
 ## 4. Advocacy
 
+All the following shall be reflected in all necessary official and required Comms materials and channels.
+
 ### 4.1 Mission
+
+The organization's Mission is `To promote, protect and provide solutions for Data-Centric Digital Rights.`
+
+Except for minor language changes, this Mission shall not be updated.
 
 ### 4.2 Vision
 
+The organization's Vision is `A world where Human Rights and Data-Centric Digital Rights are one and the same.`
 
+Except for minor language changes, this Vision shall not be updated.
 
 ### 4.3 Values
+
+
 
 Enlightment&#x20;
 
