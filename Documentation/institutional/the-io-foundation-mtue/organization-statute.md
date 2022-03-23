@@ -243,19 +243,46 @@ The IO Foundation was created in the pursuit of creating better and safer digita
 * Respect and advancement of Human Rights
 * Respect and advancement of Data-Centric Digital Rights
 
+Except to upgrade this Ethos these concepts cannot be changed.
+
 ### 4.4 Values
 
-In order&#x20;
+In order to implement its initiatives, The IO Foundation adheres to the following values:
 
+* Community
+* Accountability
+* Impact
 
+The full definition of these Values can be found in [TIOF's Media Kit](https://tiof.click/TIOFMediaKit).
 
-
+Unless agreed by full majority during the General Meeting, these Values cannot be changed.
 
 ### 4.5 Theory of Change
 
+The IO Foundation shall establish a Theory of Change that establishes:
 
+* For the organization, how it will materialize it's Vision
+* For each of TIOF's initiatives, how they will be implemented and their impact
+
+Every year,  each Theory of Change may be reviewed as follows
+
+* General Meeting:\
+  Indicating where it should be improved and how.
+* Strat Meet:\
+  Defining the actual details and implementation steps for the upcoming year.
 
 ### 4.6 KPIs
+
+The IO Foundation shall establish a series of Key Performance Indicator (KPIs) to measure the progress of its Vision and its initiatives.
+
+Every year, the KPIs shall be revisited and updated as follows:
+
+* General Meeting:
+  * Evaluation of current year's KPIs
+  * Updated KPIs for next year
+* Strat Meet:
+  * Report of current year's KPIs
+  * Analysis of actions to implement next year's KPIs
 
 ## 5. Organization's Structure
 
