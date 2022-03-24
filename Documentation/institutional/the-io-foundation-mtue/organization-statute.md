@@ -61,6 +61,7 @@ This Statute and the articles herein stated, apply in the following overwrite fl
 2. Articles of Association
 3. Organization Statute (this document)
    1. Policies
+   2. Supporting diagrams
 
 {% hint style="info" %}
 Whenever an article in this Statue requires further description, it will provide a link to the corresponding Policy (or any other document) where the particulars are detailed.
