@@ -409,14 +409,20 @@ Describe powers.
 
 
 
+The Board of Advisers (BoA) advises the Global Management in order to implement the Yearly Strategy.
 
+is the highest structure of the organization. It is composed of 5 members that will serve for a term of 2 years.
 
-
-
-
+|              |                                                                                                                             |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| Composition  | <ul><li>Chief Executive Officer<br>or</li><li>Executive Director</li><li>Programs Manager</li><li>Finance Manager</li></ul> |
+| Term         | <p>2 natural years<br>Start on date of Signature<br>End on December of the second year</p>                                  |
+| Renewal      | No limit                                                                                                                    |
+| Attributions | <ul><li>Advise the organization in matters related to their areas of expertise</li><li>No executive capacities</li></ul>    |
+| Meetings     | <ul><li>Strat Meeting (1x)</li><li>BoA Status Meeting (1x)</li></ul>                                                        |
 
 {% hint style="info" %}
-The&#x20;
+The Board of Advisers is managed by its corresponding Board Lifecycle.
 {% endhint %}
 
 {% hint style="success" %}
