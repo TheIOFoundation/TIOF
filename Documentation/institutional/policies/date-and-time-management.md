@@ -1,7 +1,7 @@
-# 🚧 Time Management
+# 🚧 Date & Time Management
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TIOFPolicyDTM) **| Playbook | Assistant**
 {% endhint %}
 
 
@@ -27,7 +27,11 @@ First day of the week: Monday
 
 ## Time
 
-Time format
+Time format: HH:MM (Military format)
+
+Time zone: UTC+0
+
+
 
 
 
