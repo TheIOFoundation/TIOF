@@ -450,13 +450,15 @@ See here the list of members of the Global Management.
 
 ### 5.5 Teams
 
-
+The Organization shall structure its TIOF Members through a number of Teams.
 
 {% hint style="info" %}
-See here the list of Teams and their descriptions.
+Teams are managed by its corresponding Team Lifecycle.
 {% endhint %}
 
-
+{% hint style="success" %}
+See here the list of Teams and their descriptions.
+{% endhint %}
 
 ### 5.6 Membership
 
@@ -468,7 +470,7 @@ The IO Foundation does not currently have a membership structure.
 
 ### 6.1 Official Meetings
 
-
+The Organization&#x20;
 
 ### 6.2 Recording of Minutes
 
