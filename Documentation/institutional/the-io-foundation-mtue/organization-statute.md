@@ -478,33 +478,59 @@ Every Meeting type has its own template to ensure its proper development.
 
 ### 6.3 General Meeting
 
-The Organization helps General Meeting to guide and monitor the progress of its advocacy and Vision.
+The Organization holds a General Meeting to guide and monitor the progress of its advocacy and Vision.
 
 Serves to approve past year's KPIs, set the next ones and gives the direction for the next year.
 
-|                        |                                                                                                   |
-| ---------------------- | ------------------------------------------------------------------------------------------------- |
-| Date                   | <p>3rd Week of November<br>In any case, 2 weeks before the Strat Meet.</p>                        |
-| Regularity             | Annual                                                                                            |
-| Mandatory Participants | <ul><li>Board of Directors</li><li>Global Management</li></ul>                                    |
-| Optional Participants  | <ul><li>Board of Advisers</li><li>Board of Auditors</li></ul>                                     |
-| Guests                 | Any TIOF Member may be invited by the Mandatory Participants                                      |
-| Attributions           | <ul><li>Analyze results from Current Year</li><li>Plan XXX</li></ul>                              |
-| Meetings               | <ul><li>General Meeting (1x)</li><li>Strat Meeting (1x)</li><li>BoA Status Meeting (1x)</li></ul> |
+|                          |                                                                                                         |
+| ------------------------ | ------------------------------------------------------------------------------------------------------- |
+| Date                     | <p>3rd Week of November<br>In any case, 2 weeks before the Strat Meet.</p>                              |
+| Regularity               | Annual                                                                                                  |
+| Notifications            | <ul><li>1 month in advance</li><li>2 weeks in advance</li><li>1 day in advance</li></ul>                |
+| Materials ready          | <ul><li>2 weeks in advance</li></ul>                                                                    |
+| Minutes & Mandates ready | <ul><li>1 week after</li></ul>                                                                          |
+| Mandatory Participants   | <ul><li>Board of Directors</li><li>Global Management</li></ul>                                          |
+| Optional Participants    | <ul><li>Board of Advisers</li><li>Board of Auditors</li></ul>                                           |
+| Guests                   | Any TIOF Member may be invited by the Mandatory Participants                                            |
+| Quorum                   | 50% of Mandatory Participants                                                                           |
+| Approvals                | 50% + 1 of attendance                                                                                   |
+| Attributions             | <ul><li>Analyze results from Current Year</li><li>Plan direction and objectives for Next Year</li></ul> |
 
 {% hint style="info" %}
-The Board of Advisers is managed by its corresponding Board Lifecycle.
+The General Meeting is managed by its corresponding General Meeting Lifecycle.
 {% endhint %}
 
 {% hint style="success" %}
-See here the list of members of the Global Management.
+See here the Template for the General Meeting.
 {% endhint %}
 
 ### 6.4 Strat Meet
 
-Decides the actual steps to implement the Yearly Mandate.
+The Organization holds a Strat Meet to establish the concrete actions to implement and monitor the mandates established by the General Meeting for the Next Year.
 
+|                            |                                                                                                         |
+| -------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Date                       | <p>1st Week of November<br>In any case, 2 weeks before the Strat Meet.</p>                              |
+| Regularity                 | Annual                                                                                                  |
+| Notifications              | <ul><li>1 month in advance</li><li>2 weeks in advance</li><li>1 day in advance</li></ul>                |
+| Materials ready            | <ul><li>2 weeks in advance</li></ul>                                                                    |
+| Minutes & Activities ready | <ul><li>2 weeks after</li></ul>                                                                         |
+| Mandatory Participants     | <ul><li>Board of Directors</li><li>Global Management</li></ul>                                          |
+| Optional Participants      | <ul><li>Board of Advisers</li><li>Board of Auditors</li></ul>                                           |
+| Guests                     | Any TIOF Member may be invited by the Mandatory Participants                                            |
+| Quorum                     | 50% of Mandatory Participants                                                                           |
+| Approvals                  | 50% + 1 of attendance                                                                                   |
+| Attributions               | <ul><li>Analyze results from Current Year</li><li>Plan direction and objectives for Next Year</li></ul> |
 
+{% hint style="info" %}
+The General Meeting is managed by its corresponding General Meeting Lifecycle.
+{% endhint %}
+
+{% hint style="success" %}
+See here the Template for the General Meeting.
+{% endhint %}
+
+### 6
 
 ### 6.5 Status Meets
 
