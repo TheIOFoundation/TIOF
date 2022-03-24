@@ -49,7 +49,7 @@
   * [🚧 Transparency & Accountability](institutional/Policies/transparency-and-accountability.md)
   * [🚧 Children Protection](institutional/Policies/children-protection.md)
   * [🚧 Data & Privacy](institutional/Policies/data-and-privacy.md)
-  * [🚧 Time Management](institutional/policies/time-management.md)
+  * [🚧 Date & Time Management](institutional/policies/date-and-time-management.md)
   * [🚧 Data Protection](institutional/Policies/data-protection.md)
   * [🚧 Funding](institutional/policies/funding.md)
   * [🚧 Health and Safety](institutional/Policies/health-and-safety.md)
