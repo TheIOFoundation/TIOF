@@ -20,7 +20,7 @@ This document employs terms related to the [DCDR Advocacy](https://tiof.click/DC
 
 ### About this document
 
-This document, hereinafter the Statute, sets out the articles that regulate the internal functioning of The IO Foundation. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
+This document, hereinafter the Statute, sets out the articles that regulate the internal functioning of The IO Foundation, hereinafter the Organization. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
 
 Any Member who breaches this Statute will face disciplinary action, which could result in dismissal for gross misconduct. Any non-employee who breaches this Statute may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
 
@@ -307,7 +307,7 @@ The Yearly Strategy shall include:
 
 ## 5. Organization's Structure
 
-The organization will be structured in the most efficient manner possible.
+The Organization will be structured in the most efficient manner possible.
 
 It will have separate teams for the organization itself and for each of its initiatives.
 
@@ -322,7 +322,7 @@ Every year, the Organization Structure shall be revisited and updated as follows
 
 ### 5.1 Organizational Taxonomy
 
-The IO Foundation must keep an updated Taxonomy describing all the elements of TIOF's Organization's Structure.
+The Organization must keep an updated Taxonomy describing all the elements of TIOF's Organization's Structure.
 
 {% hint style="info" %}
 The IO Foundation's [Organizational Taxonomy](https://tiof.click/OrgTaxonomy)
@@ -342,11 +342,11 @@ The IO Foundation's [Organizational Chart](http://tiof.click/TIOFOrgChart)
 
 ### 5.3 Boards
 
-The IO Foundation structures its governance through a number of Boards.
+The Organization structures its governance through a number of Boards.
 
 #### 5.3.1 Board of Directors
 
-The Board of Directors (BoD) is the highest structure of the organization. It is composed of 5 members that will serve for a term of 2 years.
+The Organization has a Board of Directors (BoD) that is the highest structure of the organization. It is composed of 5 members that will serve for a term of 2 years.
 
 |              |                                                                                            |
 | ------------ | ------------------------------------------------------------------------------------------ |
@@ -366,9 +366,7 @@ See here the members of the Boards of Directors.
 
 #### 5.3.2 Board of Advisers
 
-The Board of Advisers (BoA) advises the Global Management in order to implement the Yearly Strategy.
-
-is the highest structure of the organization. It is composed of 5 members that will serve for a term of 2 years.
+The Organization has a Board of Advisers (BoA) that advises the Global Management in order to implement the Yearly Strategy.
 
 |              |                                                                                                                          |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
@@ -410,7 +408,7 @@ See here the members of the Boards of Auditors.
 
 #### 5.3.4 Board of Consultants
 
-Each TIOF initiative has a Board of Consultants (BoC) that advises in areas of interest that will help it to pursue its impact.
+The Organization implements a number of initiatives, each of which has a Board of Consultants (BoC) that advises in areas of interest that will help it to pursue its impact.
 
 |              |                                                                                                                        |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------- |
@@ -430,7 +428,7 @@ See the corresponding initiative's documentation for the full list of members of
 
 ### 5.4 Global Management
 
-The Global Management is charged with executing the mandates established by the Board of Directors and approved during the General Assembly, in accordance to the actions determined in the Strat Meet.
+The Organization has a Global Management, which is charged with executing the mandates established by the Board of Directors and approved during the General Assembly, in accordance to the actions determined in the Strat Meet.
 
 |              |                                                                                                                                                                              |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -462,27 +460,40 @@ See here the list of Teams and their descriptions.
 
 ### 5.6 Membership
 
-The IO Foundation does not currently have a membership structure.
-
-
+The Organization does not currently have a membership structure.
 
 ## 6. Institutional
 
 ### 6.1 Official Meetings
 
-The Organization&#x20;
+The Organization uses meetings as a main tool to organize and monitor its activities.
 
 ### 6.2 Recording of Minutes
 
+The Organization will make all the necessary to record the content of the Official Meetings and make them publicly available to the extend permitted by the applicable legislation.
 
+### 6.3 General Meeting
 
-
-
-### 6.3 Annual Meeting
+The Organization helps General Meeting to guide and monitor the progress of its advocacy and Vision.
 
 Serves to approve past year's KPIs, set the next ones and gives the direction for the next year.
 
+|              |                                                                                                                                                                              |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Date         | <p>3rd Week of November<br>In any case, 2 weeks before the Strat Meet.</p>                                                                                                   |
+| Regularity   | Annual                                                                                                                                                                       |
+| Composition  | <ul><li>Chief Executive Officer<br>or</li><li>Executive Director</li><li>Programs Manager</li><li>Finance Manager</li></ul>                                                  |
+| Renewal      | No limit                                                                                                                                                                     |
+| Attributions | <ul><li>Execute the actions determined in the Strat Meet</li><li>Report progress to corresponding Boards and other TIOF members </li><li>Full executive capacities</li></ul> |
+| Meetings     | <ul><li>General Meeting (1x)</li><li>Strat Meeting (1x)</li><li>BoA Status Meeting (1x)</li></ul>                                                                            |
 
+{% hint style="info" %}
+The Board of Advisers is managed by its corresponding Board Lifecycle.
+{% endhint %}
+
+{% hint style="success" %}
+See here the list of members of the Global Management.
+{% endhint %}
 
 ### 6.4 Strat Meet
 
