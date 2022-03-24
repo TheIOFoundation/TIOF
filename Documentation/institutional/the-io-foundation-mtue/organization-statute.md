@@ -472,20 +472,25 @@ The Organization uses meetings as a main tool to organize and monitor its activi
 
 The Organization will make all the necessary to record the content of the Official Meetings and make them publicly available to the extend permitted by the applicable legislation.
 
+{% hint style="info" %}
+Every Meeting type has its own template to ensure its proper development.
+{% endhint %}
+
 ### 6.3 General Meeting
 
 The Organization helps General Meeting to guide and monitor the progress of its advocacy and Vision.
 
 Serves to approve past year's KPIs, set the next ones and gives the direction for the next year.
 
-|              |                                                                                                                                                                              |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Date         | <p>3rd Week of November<br>In any case, 2 weeks before the Strat Meet.</p>                                                                                                   |
-| Regularity   | Annual                                                                                                                                                                       |
-| Composition  | <ul><li>Chief Executive Officer<br>or</li><li>Executive Director</li><li>Programs Manager</li><li>Finance Manager</li></ul>                                                  |
-| Renewal      | No limit                                                                                                                                                                     |
-| Attributions | <ul><li>Execute the actions determined in the Strat Meet</li><li>Report progress to corresponding Boards and other TIOF members </li><li>Full executive capacities</li></ul> |
-| Meetings     | <ul><li>General Meeting (1x)</li><li>Strat Meeting (1x)</li><li>BoA Status Meeting (1x)</li></ul>                                                                            |
+|                        |                                                                                                   |
+| ---------------------- | ------------------------------------------------------------------------------------------------- |
+| Date                   | <p>3rd Week of November<br>In any case, 2 weeks before the Strat Meet.</p>                        |
+| Regularity             | Annual                                                                                            |
+| Mandatory Participants | <ul><li>Board of Directors</li><li>Global Management</li></ul>                                    |
+| Optional Participants  | <ul><li>Board of Advisers</li><li>Board of Auditors</li></ul>                                     |
+| Guests                 | Any TIOF Member may be invited by the Mandatory Participants                                      |
+| Attributions           | <ul><li>Analyze results from Current Year</li><li>Plan XXX</li></ul>                              |
+| Meetings               | <ul><li>General Meeting (1x)</li><li>Strat Meeting (1x)</li><li>BoA Status Meeting (1x)</li></ul> |
 
 {% hint style="info" %}
 The Board of Advisers is managed by its corresponding Board Lifecycle.
