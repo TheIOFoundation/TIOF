@@ -61,7 +61,8 @@ This Statute and the articles herein stated, apply in the following overwrite fl
 2. Articles of Association
 3. Organization Statute (this document)
    1. Policies
-   2. Supporting diagrams
+   2. Lifecycle documentation
+   3. Supporting diagrams
 
 {% hint style="info" %}
 Whenever an article in this Statue requires further description, it will provide a link to the corresponding Policy (or any other document) where the particulars are detailed.
@@ -83,6 +84,14 @@ This Statue is also designed so that it can serve as reference for other Tech NG
 If you like it, feel free to share it.
 {% endhint %}
 
+### 1.3 Other considerations
+
+The Organization will make the necessary to document, inform and provide with all the necessary tools to the corresponding Members for all the provisions described in this Statue, such as:
+
+* Calendars for
+  * Meeting Dates
+  * Deadlines
+
 ## 2. Revision processes
 
 As mandates require to adapt to new realities, mechanisms for their update need be set in place.
@@ -94,6 +103,7 @@ The documents that can be subject to revision are:
 * Articles of Association
 * Organization Statue (this document)
 * Policies
+* Lifecycle documentation
 * Agreements
 * Media Kit
 
@@ -376,7 +386,29 @@ The Board of Advisers is managed by its corresponding Board Lifecycle.
 See here the members of the Boards of Advisers.
 {% endhint %}
 
-#### 5.3.3 Board of Consultants
+#### 5.3.3 Board of Auditors
+
+The Organization must have a Board of Auditors comprised by external professionals, either individuals or organizations, tasked to verify its compliance with applicable legislations.
+
+|              |                                                                                                     |
+| ------------ | --------------------------------------------------------------------------------------------------- |
+| Composition  | <p>Unlimited members in areas of</p><ul><li>Legal compliance</li><li>Financial compliance</li></ul> |
+| Term         | <p>As per contract<br>Start on date of Signature<br>End on December of the second year</p>          |
+| Renewal      | No limit                                                                                            |
+| Attributions | <ul><li>Audit and ensure compliance in the covered areas </li><li>No executive capacities</li></ul> |
+| Meetings     | <ul><li>On demand</li></ul>                                                                         |
+
+New areas to be covered will be decided as needed by the Board of Directors during the General Meeting.
+
+{% hint style="info" %}
+The Boards of Auditors are managed by its corresponding Board Lifecycle.
+{% endhint %}
+
+{% hint style="success" %}
+See here the members of the Boards of Auditors.
+{% endhint %}
+
+#### 5.3.4 Board of Consultants
 
 Each TIOF initiative has a Board of Consultants (BoC) that advises in areas of interest that will help it to pursue its impact.
 
@@ -398,29 +430,15 @@ See the corresponding initiative's documentation for the full list of members of
 
 ### 5.4 Global Management
 
-The Global Management is charged with executing the mandates established by the Board of Directors and approved during the General Assembly.
+The Global Management is charged with executing the mandates established by the Board of Directors and approved during the General Assembly, in accordance to the actions determined in the Strat Meet.
 
-
-
-
-
-Describe powers.
-
-
-
-
-
-The Board of Advisers (BoA) advises the Global Management in order to implement the Yearly Strategy.
-
-is the highest structure of the organization. It is composed of 5 members that will serve for a term of 2 years.
-
-|              |                                                                                                                             |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| Composition  | <ul><li>Chief Executive Officer<br>or</li><li>Executive Director</li><li>Programs Manager</li><li>Finance Manager</li></ul> |
-| Term         | <p>2 natural years<br>Start on date of Signature<br>End on December of the second year</p>                                  |
-| Renewal      | No limit                                                                                                                    |
-| Attributions | <ul><li>Advise the organization in matters related to their areas of expertise</li><li>No executive capacities</li></ul>    |
-| Meetings     | <ul><li>Strat Meeting (1x)</li><li>BoA Status Meeting (1x)</li></ul>                                                        |
+|              |                                                                                                                                                                              |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Composition  | <ul><li>Chief Executive Officer<br>or</li><li>Executive Director</li><li>Programs Manager</li><li>Finance Manager</li></ul>                                                  |
+| Term         | <p>As per Engagement Document<br>Start on date of Signature<br>End on December of the second year</p>                                                                        |
+| Renewal      | No limit                                                                                                                                                                     |
+| Attributions | <ul><li>Execute the actions determined in the Strat Meet</li><li>Report progress to corresponding Boards and other TIOF members </li><li>Full executive capacities</li></ul> |
+| Meetings     | <ul><li>General Meeting (1x)</li><li>Strat Meeting (1x)</li><li>BoA Status Meeting (1x)</li></ul>                                                                            |
 
 {% hint style="info" %}
 The Board of Advisers is managed by its corresponding Board Lifecycle.
