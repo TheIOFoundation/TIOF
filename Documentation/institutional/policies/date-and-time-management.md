@@ -4,13 +4,9 @@
 ****[**ShortURL**](https://tiof.click/TIOFPolicyDTM) **| Playbook | Assistant**
 {% endhint %}
 
-
-
 {% hint style="info" %}
 This Policy was approved on DD MMMM YYYY.
 {% endhint %}
-
-
 
 {% hint style="warning" %}
 **NOTICE**
@@ -30,6 +26,22 @@ First day of the week: Monday
 Time format: HH:MM (Military format)
 
 Time zone: UTC+0
+
+
+
+Examples
+
+* Calendars (Organization + Team wide)
+* Deadlines
+* Data
+
+
+
+### Using other Time zones
+
+In certain cases, the proper Time Zone to be used is different from the Organization's standard.
+
+
 
 
 
