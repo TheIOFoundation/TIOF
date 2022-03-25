@@ -90,6 +90,7 @@
   * [🚧 Resource Allocation](operations/handbooks/resource-allocation/README.md)
     * [🚧 Evaluation](operations/handbooks/resource-allocation/evaluation.md)
   * [🚧 Employee](operations/handbooks/employee.md)
+  * [🚧 Messaging](operations/handbooks/messaging.md)
   * [🚧 Human Resources](operations/handbooks/human-resources.md)
   * [🚧 Initiatives](operations/handbooks/initiatives.md)
   * [🚧 Tags](operations/handbooks/tags.md)
