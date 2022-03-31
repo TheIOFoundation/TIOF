@@ -29,6 +29,36 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 ## NOTE: THIS DOCUMENT IS CURRENTLY UNDER REVIEW.
 
+
+
+
+
+
+
+### Press Releases
+
+
+
+### Signing petitions / statements
+
+TIOF does not, in general, sign public petitions or statements.
+
+
+
+### Requets to comment
+
+By local member.
+
+
+
+
+
+
+
+
+
+
+
 ## Table of Contents
 
 <details>
