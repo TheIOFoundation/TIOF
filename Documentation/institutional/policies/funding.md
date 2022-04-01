@@ -79,6 +79,14 @@ All funding will have to comply with:
 
 
 
+Minimum grant amounts:
+
+Minimum of grant amount vs time to be invested
+
+
+
+
+
 
 
 ### Evaluation Form
