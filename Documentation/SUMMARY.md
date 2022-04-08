@@ -53,6 +53,7 @@
   * [🚧 Date & Time Management](institutional/policies/date-and-time-management.md)
   * [🚧 Data Protection](institutional/Policies/data-protection.md)
   * [🚧 Funding](institutional/policies/funding.md)
+  * [🚧 Partners](institutional/policies/partners.md)
   * [🚧 Health and Safety](institutional/Policies/health-and-safety.md)
   * [🚧 ICT Systems](institutional/Policies/ict-systems.md)
   * [🚧 Intellectual Property](institutional/Policies/intellectual-property.md)
