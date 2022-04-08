@@ -1,7 +1,7 @@
 # 🚧 Human Resources
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TIOFPolicyHR) **| Playbook | Assistant**
 {% endhint %}
 
 
