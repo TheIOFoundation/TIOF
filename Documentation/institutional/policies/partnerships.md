@@ -1,7 +1,7 @@
-# 🚧 Partners
+# 🚧 Partnerships
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](http://tiof.click/TIOFPolicyPartnerships) **| Playbook | Assistant**
 {% endhint %}
 
 
