@@ -48,6 +48,7 @@
   * [🚧 Sickness Absence](institutional/Policies/sickness-absence.md)
   * [🚧 Transparency & Accountability](institutional/Policies/transparency-and-accountability.md)
   * [🚧 Children Protection](institutional/Policies/children-protection.md)
+  * [🚧 Human Resources](institutional/policies/human-resources.md)
   * [🚧 Data & Privacy](institutional/Policies/data-and-privacy.md)
   * [🚧 Date & Time Management](institutional/policies/date-and-time-management.md)
   * [🚧 Data Protection](institutional/Policies/data-protection.md)
