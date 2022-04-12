@@ -43,7 +43,9 @@ In certain cases, the proper Time Zone to be used is different from the Organiza
 
 
 
+### Deadlines
 
+All deadlines are to be established based on 00:00:00 UTC+0 of the day immediately after the last day.
 
 
 
