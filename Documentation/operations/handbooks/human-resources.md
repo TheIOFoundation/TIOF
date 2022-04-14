@@ -4,6 +4,8 @@
 **ShortURL | Playbook | Assistant**
 {% endhint %}
 
+
+
 {% hint style="warning" %}
 **NOTICE**
 
@@ -88,9 +90,29 @@ Hired When: Team: Applicant:
 
 
 
+## Candidate Evaluation
+
+
+
+### Rating
+
+<table><thead><tr><th data-type="rating" data-max="5">Value</th><th>Criteria</th><th>Implication</th></tr></thead><tbody><tr><td>1</td><td>Not even close</td><td>Reject</td></tr><tr><td>2</td><td>Not suitable candidate</td><td>Reject</td></tr><tr><td>3</td><td>Not too suitable</td><td>Reject or Accept</td></tr><tr><td>4</td><td>Suitable candidate</td><td>Accept</td></tr><tr><td>5</td><td>Total fit</td><td>Accept</td></tr></tbody></table>
+
+
+
+
+
+
+
 ## Grievance Procedures
 
 Check the source documents.
+
+
+
+
+
+
 
 
 
