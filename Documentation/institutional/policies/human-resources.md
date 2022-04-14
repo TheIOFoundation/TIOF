@@ -38,3 +38,81 @@ Unless otherwise specified, any Offer will have a validity of 15 natural days.
 
 
 
+
+
+## Stages
+
+
+
+### Sourcing
+
+
+
+### Applied
+
+
+
+### Screening
+
+
+
+### Interview
+
+
+
+### Offer
+
+
+
+### Hired
+
+
+
+### Onboarding
+
+
+
+
+
+### On Probation
+
+
+
+### Full Member
+
+
+
+
+
+### On Leave
+
+
+
+
+
+### Suspended
+
+
+
+
+
+### Dismissed
+
+
+
+
+
+### Offboarding
+
+
+
+### Banned
+
+
+
+
+
+
+
+
+

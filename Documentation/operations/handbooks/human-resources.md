@@ -98,9 +98,23 @@ Hired When: Team: Applicant:
 
 
 
+### Sourcing
+
+
+
+### Applied
+
+
+
 ### Screening
 
+Objective: Candidate evaluation
+
 Day:&#x20;
+
+### Rating
+
+<table><thead><tr><th data-type="rating" data-max="5">Value</th><th>Criteria</th><th>Implication</th></tr></thead><tbody><tr><td>1</td><td>Not even close</td><td>Reject</td></tr><tr><td>2</td><td>Not suitable candidate</td><td>Reject</td></tr><tr><td>3</td><td>Not too suitable</td><td>Reject or Accept</td></tr><tr><td>4</td><td>Suitable candidate</td><td>Accept</td></tr><tr><td>5</td><td>Total fit</td><td>Accept</td></tr></tbody></table>
 
 
 
@@ -114,6 +128,24 @@ Rationale: Allows new candidate to be onboarded the following Friday.
 
 
 
+### Offer
+
+
+
+
+
+### Hired
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Onboarding
@@ -121,6 +153,36 @@ Rationale: Allows new candidate to be onboarded the following Friday.
 Day: Friday (Last day of the week)
 
 Rationale: Allows the new candidate to get ready during the weekend.
+
+
+
+
+
+### On Probation
+
+
+
+### Full Member
+
+
+
+
+
+### On Leave
+
+
+
+
+
+### Suspended
+
+
+
+
+
+### Dismissed
+
+
 
 
 
@@ -134,13 +196,7 @@ Rationale: Closes down the relationship with the Member and turn page during the
 
 
 
-## Candidate Evaluation
-
-
-
-### Rating
-
-<table><thead><tr><th data-type="rating" data-max="5">Value</th><th>Criteria</th><th>Implication</th></tr></thead><tbody><tr><td>1</td><td>Not even close</td><td>Reject</td></tr><tr><td>2</td><td>Not suitable candidate</td><td>Reject</td></tr><tr><td>3</td><td>Not too suitable</td><td>Reject or Accept</td></tr><tr><td>4</td><td>Suitable candidate</td><td>Accept</td></tr><tr><td>5</td><td>Total fit</td><td>Accept</td></tr></tbody></table>
+### Banned
 
 
 
