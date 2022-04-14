@@ -90,6 +90,50 @@ Hired When: Team: Applicant:
 
 
 
+
+
+
+
+## Stages
+
+
+
+### Screening
+
+Day:&#x20;
+
+
+
+### Interview
+
+Selection of options based on Booking link.
+
+Day: Monday
+
+Rationale: Allows new candidate to be onboarded the following Friday.
+
+
+
+
+
+### Onboarding
+
+Day: Friday (Last day of the week)
+
+Rationale: Allows the new candidate to get ready during the weekend.
+
+
+
+### Offboarding
+
+Day: Friday (Last day of the week)
+
+Rationale: Closes down the relationship with the Member and turn page during the weekend.
+
+
+
+
+
 ## Candidate Evaluation
 
 
