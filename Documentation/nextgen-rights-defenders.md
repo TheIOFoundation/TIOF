@@ -1,7 +1,7 @@
 # ⏩ NextGen Rights Defenders
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](http://tiof.click/TIOFNextGen) **| Playbook | Assistant**
 {% endhint %}
 
 ## Engaging the correct stakeholders
