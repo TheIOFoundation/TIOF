@@ -31,10 +31,13 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 Each Organization and Initiative must have
 
-* a clear License description
+* a clear License description for productions (research materials, articles, etc.)
+  * based on an established model and tailored if necessary to provide public access and reuse
+  * easily accessible through the corresponding documentation site
+* a clear License description for code
   * based on an established Licensing Model
-  * easily accessibly through the corresponding Repository
-* a shortURL linking to the License
+  * easily accessible through the corresponding Repository
+* a shortURL for all the licenses
 
 
 
