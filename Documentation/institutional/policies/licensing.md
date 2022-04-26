@@ -38,5 +38,12 @@ Each Organization and Initiative must have
 
 
 
+### Formatting
 
+The Organization will strive to provide
+
+* machine-readable formats
+* user-friendly formats
+
+of all of its policies and licensing models.
 
