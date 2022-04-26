@@ -11,6 +11,8 @@ You may be looking for:
 
 * [Official Website](https://tiof.click/TIOFWeb)
 * [TIOF Management](https://tiof.click/TIOFRepo)
+
+To learn how to navigate this documentation, please check the [HELP](https://tiof.click/TIOFDocsHelp) section.
 {% endhint %}
 
 ## The organization
