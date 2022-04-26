@@ -61,6 +61,7 @@
   * [🚧 Remuneration](institutional/Policies/remuneration.md)
   * [🚧 Media](institutional/Policies/media.md)
   * [🚧 Events](institutional/policies/events.md)
+  * [🚧 Communications](institutional/policies/communications.md)
   * [🚧 Information Management](institutional/policies/information-management.md)
   * [🚧 Security](institutional/Policies/security.md)
 * [🚧 Annual Reports](institutional/annual-reports/README.md)
