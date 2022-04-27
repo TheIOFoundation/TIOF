@@ -5,7 +5,7 @@
 * [🌟 Introduction](README.md)
   * [🚧 Theory of Change](about/introduction/theory-of-change.md)
   * [🚧 Business Plan](about/introduction/business-plan.md)
-  * [🚧 Status](about/introduction/quick-monitor.md)
+  * [🚧 Implementation](about/introduction/implementation.md)
   * [🚧 Repository](about/introduction/repository.md)
   * [Media Kit](about/introduction/media-kit/README.md)
   * [🚧 Terminology](about/introduction/terminology.md)

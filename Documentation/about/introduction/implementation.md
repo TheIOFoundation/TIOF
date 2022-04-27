@@ -1,10 +1,8 @@
-# 🚧 Status
+# 🚧 Implementation
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
 {% endhint %}
-
-
 
 {% hint style="warning" %}
 **NOTICE**
@@ -13,7 +11,35 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
+## Repository
+
+
+
+### Structure
+
+{% embed url="https://cawemo.com/share/2986f3ec-343b-4895-aa71-6876603d98c4" %}
+
+## Storage
+
+
+
 ##
+
+## Updates
+
+### Transparency and Accountability
+
+
+
+## Status
+
+### Roadmap
+
+\[Work in Progress]
+
+
+
+## Contribute
 
 Project Lockdown:
 
@@ -23,9 +49,9 @@ Project Lockdown:
 
 
 
-## Roadmap
 
-\>> Sleeplan?
+
+
 
 
 
