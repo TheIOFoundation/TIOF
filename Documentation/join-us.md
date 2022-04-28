@@ -32,10 +32,10 @@ By joining as a TIOF Member you will officially join one of the TIOF [Teams](ins
 
 TIOF Members can be:
 
-* [Employees](institutional/structures/organizational-chart.md#employees)
-* [Interns](institutional/structures/organizational-chart.md#interns)
-* [Volunteers](institutional/structures/organizational-chart.md#volunteers)
-* [Members of a Board](institutional/structures/organizational-chart.md#members-of-a-board)
+* [Employees](https://tiof.click/TIOFOrgChartDocs#employees)
+* [Interns](https://tiof.click/TIOFOrgChartDocs#interns)
+* [Volunteers](https://tiof.click/TIOFOrgChartDocs#volunteers)
+* [Members of a Board](https://tiof.click/TIOFOrgChartDocs#members-of-a-board)
 
 {% hint style="warning" %}
 As an active TIOF Member, you must be able to commit according to the responsibilities acquired.
