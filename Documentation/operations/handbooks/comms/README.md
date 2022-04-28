@@ -1,7 +1,7 @@
 # 🚧 Comms
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+**ShortURL | Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)****
 {% endhint %}
 
 
