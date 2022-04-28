@@ -15,8 +15,6 @@ You may be looking for:
 To learn how to navigate this documentation, please check the [HELP](https://tiof.click/TIOFDocsHelp) section.
 {% endhint %}
 
-{% embed url="https://tiof.click/TIOFPresentation" %}
-
 ## The organization
 
 The IO Foundation (TIOF) is a global for-impact NGO born from a fundamental concern about the state of technology in the world and advocating for [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy).
