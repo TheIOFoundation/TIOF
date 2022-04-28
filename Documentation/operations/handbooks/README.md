@@ -1,13 +1,25 @@
-# 🚧 Handbooks
+# Handbooks
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TIOFHB) **| Playbook | Assistant**
 {% endhint %}
+
+## About
+
+The following section contains the list of official operational handbooks (Standard Operational Procedures - SOPs) for The IO Foundation.
 
 {% hint style="warning" %}
-**NOTICE**
-
-This documentation page is under construction.\
-Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
+All SOPs need to comply with [TIOF's Policies](https://tiof.click/TIOFPolicies) at all times.
 {% endhint %}
 
+### Compliance
+
+These guidelines are to be followed by all TIOF Members at all times.
+
+{% hint style="info" %}
+For specific handbooks relative to each of The IO Foundation's initiatives, please refer to their corresponding documentation space.
+{% endhint %}
+
+### Updates
+
+Handbooks are updated on-the-go as needs arise and comply at all times with [TIOF's Policies](https://tiof.click/TIOFPolicies).

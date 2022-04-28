@@ -74,7 +74,7 @@
 
 ## Operations
 
-* [🚧 Handbooks](operations/handbooks/README.md)
+* [Handbooks](operations/handbooks/README.md)
   * [Tasks](operations/handbooks/tasks.md)
   * [📓 🚧 Documentation Guidelines](operations/handbooks/documentation-guidelines/README.md)
     * [Template Repo](operations/handbooks/documentation-guidelines/template-repo.md)
