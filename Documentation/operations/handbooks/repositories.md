@@ -13,6 +13,16 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
+
+
+{% hint style="success" %}
+This Handbook responds to the following Policies:
+
+*
+{% endhint %}
+
+
+
 ### Prior readings <a href="#_5sinkk1bm63c" id="_5sinkk1bm63c"></a>
 
 In order to better understand the contents of this document, it is recommended that you are familiar with the following materials:
@@ -45,7 +55,15 @@ See JFQ Workspace
 
 ### &#x20;<a href="#_90shfgseq0" id="_90shfgseq0"></a>
 
-### &#x20;<a href="#_gur7y315w9m" id="_gur7y315w9m"></a>
+### Tags <a href="#_gur7y315w9m" id="_gur7y315w9m"></a>
+
+Please refer to the Tags Handbook.
+
+
+
+
+
+
 
 ### Creating a new repository <a href="#_3f4wul61s4dm" id="_3f4wul61s4dm"></a>
 

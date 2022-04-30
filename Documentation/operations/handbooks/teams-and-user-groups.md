@@ -1,4 +1,4 @@
-# 📓 🚧 Events Evaluation
+# 📓 🚧 Teams & User Groups
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -20,4 +20,24 @@ This Handbook responds to the following Policies:
 
 *
 {% endhint %}
+
+
+
+## About
+
+
+
+
+
+Migrate all contents from:
+
+{% embed url="https://docs.google.com/document/d/17kahyj5dtZonRW1JkPWIS1NkhI1CuuC8iU9W5YVrqLA/edit#" %}
+
+
+
+
+
+
+
+
 

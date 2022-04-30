@@ -1,4 +1,4 @@
-# 🚧 Comms
+# 📓 🚧 Comms
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)****
@@ -12,6 +12,16 @@
 This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
+
+
+
+{% hint style="success" %}
+This Handbook responds to the following Policies:
+
+*
+{% endhint %}
+
+
 
 ### Please note that this page is a Work in Progress. Sections that are being completed are marked with **\[WIP]**.
 

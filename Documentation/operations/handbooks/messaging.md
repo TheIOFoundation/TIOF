@@ -15,6 +15,14 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 
 
+{% hint style="success" %}
+This Handbook responds to the following Policies:
+
+*
+{% endhint %}
+
+
+
 ## Email
 
 Create filters to distribute incoming email

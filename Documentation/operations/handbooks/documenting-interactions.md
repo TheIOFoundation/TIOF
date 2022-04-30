@@ -1,4 +1,4 @@
-# 🚧 Documenting interactions
+# 📓 🚧 Documenting interactions
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -14,6 +14,14 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 {% endhint %}
 
 
+
+
+
+{% hint style="success" %}
+This Handbook responds to the following Policies:
+
+*
+{% endhint %}
 
 
 
