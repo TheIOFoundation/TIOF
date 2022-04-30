@@ -1,4 +1,4 @@
-# 📓 🚧 Official Channels
+# 📓 🚧 Infrastructure
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

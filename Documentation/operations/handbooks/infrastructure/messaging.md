@@ -1,4 +1,4 @@
-# 🚧 Procurement
+# 📓 🚧 Messaging
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -13,6 +13,25 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
-\[COVER PAGE]
 
-ABOUT THE ORGANIZATION ABOUT THIS POLICY CODE OF CONDUCT SOLICITATION AND COMPETITION SELECTION DOCUMENTATION CONTRACT ADMINISTRATION
+
+{% hint style="success" %}
+This Handbook responds to the following Policies:
+
+*
+{% endhint %}
+
+
+
+## Email
+
+Create filters to distribute incoming email
+
+Response time: As per policy (>> Write it up) 48h Business Hours.
+
+Keep track of filters in this document: LINK
+
+
+
+
+

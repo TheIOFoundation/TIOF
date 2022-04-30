@@ -1,4 +1,4 @@
-# 📓 🚧 Official Channels
+# 📓 🚧 Documenting interactions
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -15,9 +15,14 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 
 
+
+
 {% hint style="success" %}
 This Handbook responds to the following Policies:
 
 *
 {% endhint %}
 
+
+
+{% embed url="https://cawemo.com/share/772c1dc2-b9d1-413c-b06d-559845090d28" %}
