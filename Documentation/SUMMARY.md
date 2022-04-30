@@ -76,7 +76,8 @@
 ## Operations
 
 * [Handbooks](operations/handbooks/README.md)
-  * [📓 🚧 Initiatives](operations/handbooks/initiatives.md)
+  * [📓 🚧 Initiatives](operations/handbooks/initiatives/README.md)
+    * [🚧 New Initiative Template](operations/handbooks/initiatives/new-initiative-template.md)
   * [📓 🚧 Tasks](operations/handbooks/tasks.md)
   * [📓 🚧 Meetings](operations/handbooks/meetings.md)
   * [📓 🚧 Comms](operations/handbooks/comms/README.md)

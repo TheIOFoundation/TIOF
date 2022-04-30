@@ -23,6 +23,12 @@ This Handbook responds to the following Policies:
 
 
 
+## TO MIGRATE
+
+{% embed url="https://docs.google.com/document/d/1p2hwxg1oVffHfqeSYOOZps3XEYdkTd3G7_nlX2i-yeI/edit" %}
+
+
+
 ## Introduction
 
 ### Definitions

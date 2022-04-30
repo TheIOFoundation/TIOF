@@ -23,6 +23,14 @@ This Handbook responds to the following Policies:
 
 
 
+## TO MIGRATE
+
+{% embed url="https://docs.google.com/document/d/154EfSbjsY-nFa1SMZJtkutfotGVlhDo1wZX4SnFSR_A/edit#heading=h.ibegixgicco0" %}
+
+
+
+
+
 ## Table of Contents
 
 1. Abstract
