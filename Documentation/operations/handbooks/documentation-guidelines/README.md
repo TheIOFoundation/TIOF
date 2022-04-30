@@ -4,13 +4,6 @@
 ****[**ShortURL**](https://tiof.click/TIOFHBDG) **| Playbook | Assistant**
 {% endhint %}
 
-{% hint style="success" %}
-This Handbook responds to the following Policies:
-
-* Information Management
-* Intellectual Property
-{% endhint %}
-
 ## About
 
 This document provides all the guidance to produce documentation for The IO Foundation and its initiatives.

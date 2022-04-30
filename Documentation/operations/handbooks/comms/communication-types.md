@@ -2,7 +2,7 @@
 description: 'Acknowledgements to: Gabrielle Wong'
 ---
 
-# 📓 🚧 Communication Types
+# 🚧 Communication Types
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -15,14 +15,6 @@ description: 'Acknowledgements to: Gabrielle Wong'
 
 This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
-{% endhint %}
-
-
-
-{% hint style="success" %}
-This Handbook responds to the following Policies:
-
-*
 {% endhint %}
 
 

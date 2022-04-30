@@ -1,4 +1,4 @@
-# 📓 🚧 Finance
+# 🚧 Finance
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -12,18 +12,6 @@
 This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
-
-
-
-{% hint style="success" %}
-This Handbook responds to the following Policies:
-
-*
-{% endhint %}
-
-
-
-
 
 To add: Cryptocurrencies To add: Banking Handbook
 
