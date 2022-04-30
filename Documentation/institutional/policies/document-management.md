@@ -23,6 +23,8 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 {% embed url="https://docs.google.com/document/d/1YqATbgDFShZAUbcd1RAjkRRCk1uT52eMYAY4wi2xmEA/edit" %}
 
+{% embed url="https://docs.google.com/document/d/1Bcv49MqPQcHZrKIHrXo23-N1fNGsSlgirCVH8XzD21I/edit" %}
+
 ***
 
 ### Ease of access (Accessibility?)
