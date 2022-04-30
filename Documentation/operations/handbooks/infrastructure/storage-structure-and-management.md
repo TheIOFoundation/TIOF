@@ -23,6 +23,14 @@ This Handbook responds to the following Policies:
 
 
 
+## To Migrate
+
+{% embed url="https://docs.google.com/document/d/1zffsNFB3yBdHbpKzE0uz2Ouu_XFjRx1JQRlz1KbwMJk/edit#heading=h.gjdgxs" %}
+
+
+
+
+
 
 
 ### Abstract <a href="#_pu8fkzbxrl3r" id="_pu8fkzbxrl3r"></a>

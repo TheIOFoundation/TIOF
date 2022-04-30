@@ -19,7 +19,9 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
-***
+## TO MIGRATE
+
+{% embed url="https://docs.google.com/document/d/1YqATbgDFShZAUbcd1RAjkRRCk1uT52eMYAY4wi2xmEA/edit" %}
 
 ***
 

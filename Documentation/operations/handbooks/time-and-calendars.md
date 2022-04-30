@@ -55,6 +55,14 @@ The following are a list of platform and tools that TIOF Members have access to 
 Find infrastructure information about this platform here.
 {% endhint %}
 
+CALENDAR CODING???
+
+Task: Blue
+
+Red: Deadline
+
+Purple: Guest schedule and details
+
 ### Trafft
 
 Used to

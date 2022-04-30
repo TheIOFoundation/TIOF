@@ -25,9 +25,13 @@ This Handbook responds to the following Policies:
 
 
 
-## T Migrate
+## To Migrate
 
-[https://docs.google.com/document/d/1KWfaSca4f1CWHbmoaLRO88KfvSKbShyjW4hrJDZyMY8/edit#](https://docs.google.com/document/d/1KWfaSca4f1CWHbmoaLRO88KfvSKbShyjW4hrJDZyMY8/edit#)
+{% embed url="https://docs.google.com/document/d/1KWfaSca4f1CWHbmoaLRO88KfvSKbShyjW4hrJDZyMY8/edit#" %}
+
+
+
+{% embed url="https://docs.google.com/document/d/1YL7zZxax4ECj7UQVfL5kLzJyGQq7eQoBsYjcamXsRSg/edit#heading=h.7oerxqlpeezg" %}
 
 
 
