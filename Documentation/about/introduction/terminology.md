@@ -1,9 +1,7 @@
 # 🚧 Terminology
 
-##
-
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+**ShortURL | Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)****
 {% endhint %}
 
 
@@ -20,6 +18,14 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 ***
 
 ## The IO Foundation
+
+
+
+{% hint style="info" %}
+A number of terms in this Terminology have a slide ready for presentations.
+
+Please check the corresponding [Slides Repository](https://tiof.click/TIOFSlidesRepo) and remember to follow the Presentations guidelines when using them.
+{% endhint %}
 
 ### Members
 

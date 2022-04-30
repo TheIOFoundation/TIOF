@@ -85,6 +85,7 @@
     * [📓 🚧 Activity Design Template](operations/handbooks/comms/activity-design-template.md)
     * [📓 🚧 Official Channels](about/introduction/media-kit/official-channels.md)
     * [📓 🚧 Communication Types](operations/handbooks/comms/communication-types.md)
+    * [📓 🚧 Presentations](operations/handbooks/comms/presentations.md)
     * [📓 🚧 Organization Identity](operations/handbooks/organization-identity.md)
   * [📓 🚧 Documentation Guidelines](operations/handbooks/documentation-guidelines/README.md)
     * [Template Repo](operations/handbooks/documentation-guidelines/template-repo.md)
