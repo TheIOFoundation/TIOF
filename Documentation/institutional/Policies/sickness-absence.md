@@ -1,8 +1,8 @@
 ---
-description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
+description: Version 1.0 | This Policy was approved on 03 May 2022.
 ---
 
-# 🚧 Sickness Absence
+# Sickness Absence
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFPolicySA) **| Playbook | Assistant**
@@ -170,5 +170,5 @@ Once the final decision is communicated there will be no further right of appeal
 The date that any dismissal takes effect will not be delayed pending the outcome of an appeal. However, if the appeal is successful, the decision to dismiss will be revoked with no loss of continuity or pay.
 
 {% hint style="warning" %}
-Once a TIOF Member has&#x20;
+Once a TIOF Member has been notified of a dismissal, an Offboarding procedure will be triggered as described in [TIOF's Human Resources Policy](https://tiof.click/TIOFPolicyHR).
 {% endhint %}
