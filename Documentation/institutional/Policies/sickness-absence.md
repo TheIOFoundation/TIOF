@@ -1,8 +1,8 @@
 ---
-description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
+description: Version 1.0 | This Policy was approved on 03 May 2022.
 ---
 
-# 🚧 Sickness Absence
+# Sickness Absence
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFPolicySA) **| Playbook | Assistant**
@@ -55,8 +55,6 @@ This document indirectly applies to:
 The policies set out in this document apply to all [TIOF Members](https://tiof.click/TIOFTerminology#members) unless otherwise indicated. They therefore apply to Members of the Boards ([Directors](https://tiof.click/TIOFTerminology#directors), [Advisers](https://tiof.click/TIOFTerminology#advisers), [Consultants](https://tiof.click/TIOFTerminology#consultants)), [Employees](https://tiof.click/TIOFTerminology#employees), [Volunteers](https://tiof.click/TIOFTerminology#volunteers) and [Interns](https://tiof.click/TIOFTerminology#interns); this is irrespective of their [engagement type](https://tiof.click/TIOFTerminology#engagement-type). They equally apply to all [Contributors](https://tiof.click/TIOFTerminology#contributors) and will be used as part of the selection criteria when engaging with them.
 
 This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#spaces), including (although not limited to) management activities, contributions or events; it and also applies when an individual is officially representing the organization in public spaces. Examples of representing the organization include (although not limited to) using an official e-mail address, posting via any official channel or acting as an appointed representative at an event.
-
-
 
 ## Policy details
 
@@ -170,5 +168,5 @@ Once the final decision is communicated there will be no further right of appeal
 The date that any dismissal takes effect will not be delayed pending the outcome of an appeal. However, if the appeal is successful, the decision to dismiss will be revoked with no loss of continuity or pay.
 
 {% hint style="warning" %}
-Once a TIOF Member has&#x20;
+Once a TIOF Member has been notified of a dismissal, an Offboarding procedure will be triggered as described in [TIOF's Human Resources Policy](https://tiof.click/TIOFPolicyHR).
 {% endhint %}

@@ -1,5 +1,5 @@
 ---
-description: Version 1.0
+description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 ---
 
 # 🚧 Whistleblowing
@@ -8,14 +8,6 @@ description: Version 1.0
 ****[**ShortURL**](https://tiof.click/TIOFPolicyWhistleblowing) **| Playbook | Assistant**
 {% endhint %}
 
-
-
-{% hint style="info" %}
-This Policy was approved on DD MMMM YYYY.
-{% endhint %}
-
-
-
 {% hint style="warning" %}
 **NOTICE**
 
@@ -23,123 +15,100 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
-![logo](http://tiof.click/TIOFWikiHeader)
-
-## Table of Contents
-
-<details>
-
-<summary>Expand / Collapse</summary>
-
-&#x20;
-
-1. Introduction
-   * Definitions
-   * About this document
-   * Scope
-2. Policy details
-   * Whistleblowing statement
-   * What is whistleblowing?
-   * How to raise a concern
-   * Confidentiality
-   * External disclosures
-   * Protection and support for whistleblowers
-   * Retaliation
-   * False allegations
-   * Contacts
-     * UK Members
-     * Other jurisdictions
-
-</details>
-
 ## Introduction
 
 ### Definitions
 
-This document employs terms related to the [DCDR Advocacy](http://tiof.click/Advocacy) that can be found in the [TIOF terminology](http://tiof.click/Terminology).
+This document employs terms related to the [DCDR Advocacy](https://tiof.click/DCDRAdvocacy) that can be found in the [TIOF terminology](https://tiof.click/TIOFTerminology).
 
 For a structure of The IO Foundation, please visit
 
 * The IO Foundation's [Organizational Chart](http://tiof.click/TIOFOrgChart)
-* The IO Foundation's [Organizational Nomenclature](http://tiof.click/OrgNomenclature)
-
-Back to top
+* The IO Foundation's [Organizational Taxonomy](https://tiof.click/OrgTaxonomy)
 
 ### About this document
 
-This document sets out the position maintained by TIOF in matters of Whistleblowing that you will need to be aware of while being a Member for TIOF. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team HR Coordinator.
+This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of **Whistleblowing** that you will need to be aware of while being a TIOF Member. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
 
-Any Member who breaches this Policy will face disciplinary action, which could result in dismissal for gross misconduct. Any non-employee who breaches this Policy may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
+This Policy sets out TIOF's approach to the necessary arrangements for sick pay and for reporting and managing sickness absence.
 
-This document complements TIOF's [Code of Conduct](http://tiof.click/TIOFPolicyCoC)
+Any Member who breaches this Policy will face disciplinary action, which could result in dismissal for gross misconduct. In particular, failure to protect a whistleblower or interfere with any such related ongoing investigation will be treated as misconduct under our [Disciplinary Procedures](http://tiof.click/ProcedureDisciplinary). Any non-employee who breaches this Policy may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
 
-This document does not form part of any [Engagement Document](https://github.com/TheIOFoundation/TIOF/wiki/Terminology#engagement-document) and we may amend it at any time.
+{% hint style="info" %}
+This document complements [TIOF's Code of Conduct](https://tiof.click/TIOFPolicyCoC).
+{% endhint %}
 
-Back to top
+{% hint style="info" %}
+This document does not form part of any [Engagement Document](https://tiof.click/TIOFTerminology#engagement-document) and we may amend it at any time following the procedures described in [TIOF's Statute](https://tiof.click/TIOFStatute).
+{% endhint %}
 
 ### Scope
 
 This document directly applies to:
 
-* All [TIOF Members](https://github.com/TheIOFoundation/TIOF/wiki/Terminology#member)
+* All [TIOF Members](https://tiof.click/TIOFTerminology#members)
 
 This document indirectly applies to:
 
-* All [TIOF Contributors](https://github.com/TheIOFoundation/TIOF/wiki/Terminology#contributors)
+* All [TIOF Contributors](https://tiof.click/TIOFTerminology#contributors)
 
-The policies and/or procedures set out in this document apply to all TIOF Members unless otherwise indicated. They therefore apply to Directors, Advisers, Counselors, Staff, Volunteers and Interns; this is irrespective of their part-time, fixed-term or casual status. They equally apply to all [Contributors](https://github.com/TheIOFoundation/TIOF/wiki/Terminology#contributors) and will be used as part of the selection criteria when engaging with them.
+The policies set out in this document apply to all [TIOF Members](https://tiof.click/TIOFTerminology#members) unless otherwise indicated. They therefore apply to Members of the Boards ([Directors](https://tiof.click/TIOFTerminology#directors), [Advisers](https://tiof.click/TIOFTerminology#advisers), [Consultants](https://tiof.click/TIOFTerminology#consultants)), [Employees](https://tiof.click/TIOFTerminology#employees), [Volunteers](https://tiof.click/TIOFTerminology#volunteers) and [Interns](https://tiof.click/TIOFTerminology#interns); this is irrespective of their [engagement type](https://tiof.click/TIOFTerminology#engagement-type). They equally apply to all [Contributors](https://tiof.click/TIOFTerminology#contributors) and will be used as part of the selection criteria when engaging with them.
 
-This document applies within all TIOF spaces, including (although not limited to) management activities, project contributions or events, and also applies when an individual is officially representing the broader community in public spaces. Examples of representing our community include (although not limited to) using an official e-mail address, posting via an official social media account or acting as an appointed representative at an event (online or offline).
-
-Back to top
+This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#spaces), including (although not limited to) management activities, contributions or events; it and also applies when an individual is officially representing the organization in public spaces. Examples of representing the organization include (although not limited to) using an official e-mail address, posting via any official channel or acting as an appointed representative at an event.
 
 ## Policy details
 
 ### Whistleblowing statement
 
-The IO Foundation is committed to conducting its advocacy and all of its business in an honest and Rights & Obligations manner and we expect all Members and Contributors to maintain high standards. Any suspected wrongdoing should be reported as soon as possible and will be investigated with the outmost confidentiality.
+{% hint style="success" %}
+The IO Foundation is committed to conducting its advocacy and all of its business in an honest and Rights & Obligations manner and expects all TIOF Members and Contributors to maintain high standards in this regard. Any suspected wrongdoing should be reported as soon as possible and will be investigated with the outmost confidentiality.
+{% endhint %}
 
-Please remember that presumption of innocence applies to everyone.
+{% hint style="info" %}
+It is crucial to understand that a whistleblowing scenario is never desired. Should the concerns raised be proven to be true, it is not the whistleblower's fault, rather the organization's.
 
+In other words, whistleblowing can only happen if the organization hasn't done its job properly.&#x20;
+{% endhint %}
 
+{% hint style="danger" %}
+Please remember that **presumption of innocence** applies to everyone.
 
-Back to top
+This applies to both the whistleblower and the organization alike.
+{% endhint %}
 
 ### What is whistleblowing?
 
-Whistleblowing is the reporting of suspected wrongdoing or dangers in relation to our activities. This includes bribery, facilitation of tax evasion, fraud or other criminal activity, miscarriages of justice, health and safety risks, damage to the environment and any breach of legal or professional obligations.
+Whistleblowing is the reporting of suspected wrongdoing or dangers in relation to our activities. This includes, although not limited to, bribery, facilitation of tax evasion, fraud or other criminal activity, miscarriages of justice, health and safety risks, damage to the environment and any breach of legal or professional obligations.
 
-Back to top
+{% hint style="danger" %}
+When judging if a wrongdoing may have occurred, it is important to evaluate **the intention** behind it.
+{% endhint %}
 
 ### How to raise a concern
 
-If you have any whistleblowing concerns, you should contact your corresponding Team Human Resources Coordinator.
+If you have any whistleblowing concerns, you should contact your corresponding Team Human Resources Manager.
 
-We will arrange a meeting with you as soon as possible to discuss your concern. You may bring a colleague or union representative to any meetings under this Policy. Your companion must respect the confidentiality of your disclosure and any subsequent investigation.
+We will arrange a meeting with you as soon as possible to discuss your concern. You may bring a colleague or union representative to any meetings under this Policy.
 
-Back to top
+{% hint style="danger" %}
+Your companion must respect the confidentiality of your disclosure and any subsequent investigation.
+{% endhint %}
 
 ### Confidentiality
 
 We hope that Members will feel able to voice whistleblowing concerns openly under this Policy. Completely anonymous disclosures are difficult to investigate. If you want to raise your concern confidentially, we will make every effort to keep your identity secret and only reveal it where necessary to those involved in investigating your concern.
 
-Back to top
-
 ### External disclosures
 
 The aim of this Policy is to provide an internal mechanism for reporting, investigating and remedying any wrongdoing in the workplace. In most cases you should not find it necessary to alert anyone externally.
 
-The law recognizes however that in some circumstances it may be appropriate for you to report your concerns to an external body such as a regulator. We strongly encourage you to seek advice before reporting a concern to anyone external. Some organizations specialize in such advice. You can find some Contacts at the end of this Policy.
-
-Back to top
+The law recognizes however that in some circumstances it may be appropriate for you to report your concerns to an external body such as a regulator. We strongly encourage you to seek advice before reporting a concern to anyone external. Some organizations specialize in such advice. You can find some [Contacts](whistleblowing.md#contacts) at the end of this Policy.
 
 ### Protection and support for whistleblowers
 
-We aim to encourage openness and will support whistleblowers who raise genuine concerns under this policy, even if they turn out to be mistaken.
+We aim to encourage openness and will support whistleblowers who raise **genuine** concerns under this policy, even if they turn out to be mistaken.
 
-Whistleblowers must not suffer any detrimental treatment as a result of raising a genuine concern. If you believe that you have suffered any such treatment, you should inform your corresponding Team Human Resources Coordinator immediately. If the matter is not remedied you should raise it formally using our [Grievance Procedure](http://tiof.click/ProceduresGrievance).
-
-Back to top
+Whistleblowers must not suffer any detrimental treatment as a result of raising a **genuine** concern. If you believe that you have suffered any such treatment, you should inform your corresponding Team Human Resources Manager immediately. If the matter is not remedied you should raise it formally using our [Grievance Procedure](http://tiof.click/ProceduresGrievance).
 
 ### Retaliation
 
