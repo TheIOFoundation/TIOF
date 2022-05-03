@@ -98,6 +98,8 @@
   * [🚧 Repositories](operations/handbooks/repositories.md)
   * [📓 🚧 Human Resources](operations/handbooks/human-resources.md)
     * [📓 🚧 Employee](operations/handbooks/employee.md)
+    * [📓 🚧 Interns](operations/handbooks/human-resources/interns.md)
+    * [📓 🚧 Volunteers](operations/handbooks/human-resources/volunteers.md)
     * [\[TIOF\] Procedures \[I\] Planning trips SOP notes v1.0](operations/handbooks/human-resources/tiof-procedures-i-planning-trips-sop-notes-v1.0.md)
   * [📓 🚧 Information lifecycle](operations/handbooks/information-lifecycle.md)
   * [📓 🚧 Stock Management](operations/handbooks/stock-management.md)

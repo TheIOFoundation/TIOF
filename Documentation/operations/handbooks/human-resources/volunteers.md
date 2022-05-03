@@ -1,4 +1,4 @@
-# 📓 🚧 Official Channels
+# 📓 🚧 Volunteers
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -20,4 +20,12 @@ This Handbook responds to the following Policies:
 
 *
 {% endhint %}
+
+
+
+## Take info from
+
+{% embed url="https://trello.com/b/ZFVSb8ZA/volunteer-handbook" %}
+
+
 

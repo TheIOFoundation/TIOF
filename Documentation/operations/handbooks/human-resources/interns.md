@@ -1,4 +1,4 @@
-# 📓 🚧 Official Channels
+# 📓 🚧 Interns
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -20,4 +20,6 @@ This Handbook responds to the following Policies:
 
 *
 {% endhint %}
+
+
 
