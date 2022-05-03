@@ -65,20 +65,8 @@ This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#
 ### Human Resources statement
 
 {% hint style="success" %}
-The IO Foundation is committed to engage with TIOF Members who uphold the 's Values and are fully committed to further advance&#x20;
+The IO Foundation is committed to engage with TIOF Members who uphold [the organization's Values](https://tiof.click/TIOFValues) and are fully committed to further advance [TIOF's DCDR advocacy.](https://tiof.click/DCDRAdvocacy)
 {% endhint %}
-
-{% hint style="danger" %}
-Please remember that **presumption of innocence** applies to everyone.
-
-This applies to both the alleged infractor and the organization alike.
-{% endhint %}
-
-###
-
-## About
-
-
 
 
 
@@ -92,36 +80,75 @@ The organization will uphold
 * UDDR
 * Merit-based selection processes
 
-
-
 ## Code of Conduct
 
 The organization will be guided by its Code of Conduct at all given times.
 
+## Related Policies
 
+The following TIOF Policies are directly related to this Policy and must be uphold at all times:
 
-### Offers
+* [Equal Opportunities](https://tiof.click/TIOFPolicyEO)
+* [Sickness Absence](https://tiof.click/TIOFPolicySA)
+* [Remuneration](https://tiof.click/TIOFPolicyRemuneration)
 
-Validity\
-Unless otherwise specified, any Offer will have a validity of 15 natural days.
+## Engagements
 
+The IO Foundation engages with TIOF Members through engagement documents. These documents are otherwise known as
 
+* contracts
+* Terms of Reference&#x20;
 
+### Contents of an Engagement document
 
+All TIOF's Engagement documents must be as specific as possible and will include, at a very minimum, the following information:
 
+* All necessary identifiable information from the TIOF Member
+* Signature fields for all involved parties
+* Clear information about the period of application
+* Complete description of attributions and responsibilities
+* Complete description of commitments from TIOF
+* Explicit information on remuneration (when applicable)
+* Clear information on the applicable policies and procedures
 
+{% hint style="success" %}
+All information collected from any TIOF Member is to be treated with outmost confidentiality when necessary and in any case in compliance with both TIOF's [Data Protection](https://tiof.click/TIOFPolicyDP) and [Data & Privacy](https://tiof.click/TIOFPolicyDataPrivacy) policies.
+{% endhint %}
 
-## Stages
+## Positions
 
+The IO Foundation defines its positions in both its organization network and initiatives through its [Organizational Taxonomy](https://tiof.click/OrgTaxonomy).
 
+Any changes in this taxonomy must follow the procedures laid out in [TIOF's Statue](https://tiof.click/TIOFStatute).
+
+### Teams
+
+The organization organizes its structure around a number of [Teams](../structures/teams.md) that perform the necessary institutional and operational activities to further its [DCDR advocacy](https://tiof.click/DCDRAdvocacy) and the implementation of its [initiatives](https://tiof.click/TIOFInitiatives).
+
+TIOF Teams must be defined in the most comprehensive way as possible.
+
+### Open positions
+
+The IO Foundation will ensure the availability of a recruitment platform that will:
+
+* Provide a comprehensive list of open positions
+* Allow integral management candidates and their submissions
+
+### Organizational Chart
+
+All active TIOF Members must be properly reflected in the organization's [Organizational Chart](https://tiof.click/TIOFOrgChart).
+
+## Engagement stages
+
+The following are the different stages through which all engagements are to be conducted.
 
 ### Sourcing
 
-
+This stage involves the identification of potential candidates from TIOF, who will be approached to explore their interest in the available position.
 
 ### Applied
 
-
+This stage involves potential candidates&#x20;
 
 ### Screening
 
@@ -133,15 +160,15 @@ Unless otherwise specified, any Offer will have a validity of 15 natural days.
 
 ### Offer
 
+#### Validity
 
+Unless otherwise specified, any Offer will have a validity of 15 natural days.
 
 ### Hired
 
 
 
 ### Onboarding
-
-
 
 
 
@@ -159,17 +186,11 @@ Unless otherwise specified, any Offer will have a validity of 15 natural days.
 
 
 
-
-
 ### Suspended
 
 
 
-
-
 ### Dismissed
-
-
 
 
 
