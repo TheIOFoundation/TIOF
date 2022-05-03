@@ -66,6 +66,8 @@ This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#
 
 {% hint style="success" %}
 The IO Foundation is committed to engage with TIOF Members who uphold [the organization's Values](https://tiof.click/TIOFValues) and are fully committed to further advance [TIOF's DCDR advocacy.](https://tiof.click/DCDRAdvocacy)
+
+Equally, the organization will do all in its capacity to provide capacity building and enable opportunities to its Members.
 {% endhint %}
 
 
@@ -107,9 +109,14 @@ All TIOF's Engagement documents must be as specific as possible and will include
 * Signature fields for all involved parties
 * Clear information about the period of application and probation
 * Complete description of attributions and responsibilities
+* Complete description of the title held by the position
 * Complete description of commitments from TIOF
 * Explicit information on remuneration (when applicable)
+* Explicit information on taxation (when applicable)
+* Explicit information on leaves (when applicable)
 * Clear information on the applicable policies and procedures
+* Explicit mention of the applicable jurisdiction
+* Clear notification of the obligation for both an onboarding and offboarding sessions
 
 {% hint style="success" %}
 All information collected from any TIOF Member is to be treated with outmost confidentiality when necessary and in any case in compliance with both TIOF's [Data Protection](https://tiof.click/TIOFPolicyDP) and [Data & Privacy](https://tiof.click/TIOFPolicyDataPrivacy) policies.
@@ -137,6 +144,8 @@ The IO Foundation will ensure the availability of a recruitment platform that wi
 ### Organizational Chart
 
 All active TIOF Members must be properly reflected in the organization's [Organizational Chart](https://tiof.click/TIOFOrgChart).
+
+The Organizational Chart must be made publicly available&#x20;
 
 ## Engagement stages
 
@@ -206,6 +215,10 @@ The organization will ensure the availability of a digital signature platform to
 
 This stage involves confirming to all parties, as well as the corresponding Team Manager, that the candidate has started its engagement period in the organization or initiative.
 
+{% hint style="info" %}
+This stage will imply a number of preparatory operations across tools that will be utilized by the TIOF Member in the performing of attributions and responsibilities as described in the engagement document. These are to be described in detail in the Infrastructure Handbook.
+{% endhint %}
+
 ### Onboarding
 
 This stage involves providing the TIOF Member with all the necessary induction, training and support to enable the Member to incorporate in the position and perform the attributions and responsibilities as described in the engagement&#x20;
@@ -224,32 +237,52 @@ The contents of the Onboarding session will be composed of
 All of the Onboarding information must be
 
 * decided by the corresponding Team Manager
-* approved by the corresponding&#x20;
-* comprehensively described in the corresponding Team Guide by the&#x20;
+* approved by the CEO
+* comprehensively described in the relevant Team Guide by the corresponding Team Docs&#x20;
+* communicated to the corresponding Team HR Manager
 
 ### On Probation
 
-This stage involves
+This stage involves establishing the TIOF Member under the probation described in the engagement document for the position.
+
+The induction to this stage will trigger the incorporation of the TIOF Member in the organization's [Organizational Chart](https://tiof.click/TIOFOrgChart).
 
 ### Full Member
 
-This stage involves
+This stage involves recognizing the TIOF Member under the status of a Full Member.
+
+{% hint style="info" %}
+This stage may activate benefits described in the engagement document or otherwise necessary to pursue the Member's attributions and responsibilities.
+{% endhint %}
 
 ### On Leave
 
-This stage involves
+This stage involves establishing&#x20;
+
+{% hint style="info" %}
+This stage will imply a number of updates across tools utilized by the TIOF Member to ensure continuity in operations. These are to be described in detail in the Infrastructure Handbook.
+{% endhint %}
 
 ### Suspended
 
-This stage involves
+This stage involves&#x20;
+
+This stage may arise upon
+
+* a misconduct from the TIOF Member
 
 ### Dismissed
 
-This stage involves
+This stage involves&#x20;
+
+This stage may arise upon
+
+* the conclusions of the period of engagement
+*
 
 ### Offboarding
 
-This stage involves
+This stage involves&#x20;
 
 ### Banned
 

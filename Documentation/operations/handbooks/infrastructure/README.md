@@ -21,3 +21,26 @@ This Handbook responds to the following Policies:
 *
 {% endhint %}
 
+
+
+
+
+## TIOF Member Lifecycle
+
+
+
+### Hired
+
+In the event of a TIOF Member being hired, the following tools need be prepared:
+
+
+
+### Leaves
+
+In the event of a TIOF Member going on leave, the following tools need by updated:
+
+* Email
+*
+
+
+
