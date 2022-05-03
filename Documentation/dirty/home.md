@@ -2,26 +2,7 @@
 
 ![logo](https://user-images.githubusercontent.com/9198668/103220836-303c2900-495c-11eb-98d9-ad46f03516ae.png)
 
-### NOTE: Welcome to the UDDR wiki! This section will be used for technical reference on TIOF's UDDR and is currently a work in progress.
-
-## Table of Contents
-
-1. About TIOF
-   * Mission
-   * Vision
-   * Values
-2. TIOF's Principles
-   * I Am My Data
-   * End Remedy
-   * Rights By Design
-3. Publications
-4. Events
-5. Engaged Individuals
-6. Partner Network
-7. Acknowledgments
-8. Attributions
-
-***
+### NOTE: Welcome to the UDDR wiki! This section will be used for technical reference on TIOF's UDDR and is currently a work in progress
 
 ## About TIOF
 
@@ -29,30 +10,7 @@ The IO Foundation (TIOF) is a global for-impact NGO advocating for Data-Centric 
 
 Back to top
 
-### Mission
-
-To promote, protect and provide solutions for Digital Rights.
-
-### Vision
-
-A world where Human Rights and Digital Rights are one and the same.
-
-### Values
-
-The IO Foundation delivers its mission through the observance of the following values:
-
-* Community\
-  Because upholding Human and Digital Rights is a global endeavor that requires the active participation of everyone.
-* Impact\
-  Because we recognize the importance of preserving and protecting our own Rights through public awareness by inspiring organizations and individuals to be active agents of change.
-
-## TIOF's Principles
-
-### I Am My Data
-
-### End Remedy
-
-### Rights By Design
+###
 
 ## Publications
 

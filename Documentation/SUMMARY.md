@@ -153,5 +153,3 @@
 * [The IO Foundation Privacy Notice Final Version(53326202.1)](dirty/the-io-foundation-privacy-notice-final-version-53326202.1.md)
 * [The IO Foundation Staff Handbook Final Version(53114184.2)](dirty/the-io-foundation-staff-handbook-final-version-53114184.2.md)
 * [Home](dirty/home.md)
-* [Media Kit](dirty/media-kit.md)
-* [Policies](dirty/policies.md)
