@@ -45,7 +45,7 @@
   * [Anti harassment & Anti bullying](institutional/Policies/anti-harassment-and-anti-bullying.md)
   * [Equal Opportunities](institutional/Policies/equal-opportunities.md)
   * [Sickness Absence](institutional/Policies/sickness-absence.md)
-  * [🚧 Whistleblowing](institutional/Policies/whistleblowing.md)
+  * [Whistleblowing](institutional/Policies/whistleblowing.md)
   * [🚧 Transparency & Accountability](institutional/Policies/transparency-and-accountability.md)
   * [🚧 Children Protection](institutional/Policies/children-protection.md)
   * [🚧 Human Resources](institutional/policies/human-resources.md)

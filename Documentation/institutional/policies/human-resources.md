@@ -134,7 +134,5 @@ Unless otherwise specified, any Offer will have a validity of 15 natural days.
 
 
 
-## Disciplinary measures&#x20;
-
 
 
