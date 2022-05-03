@@ -1,10 +1,8 @@
-# 📓 🚧 Organization Identity
+# 📓 🚧 Identity
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
 {% endhint %}
-
-
 
 {% hint style="warning" %}
 **NOTICE**
