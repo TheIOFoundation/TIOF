@@ -108,19 +108,15 @@ The law recognizes however that in some circumstances it may be appropriate for 
 
 We aim to encourage openness and will support whistleblowers who raise **genuine** concerns under this policy, even if they turn out to be mistaken.
 
-Whistleblowers must not suffer any detrimental treatment as a result of raising a **genuine** concern. If you believe that you have suffered any such treatment, you should inform your corresponding Team Human Resources Manager immediately. If the matter is not remedied you should raise it formally using our [Grievance Procedure](http://tiof.click/ProceduresGrievance).
+Whistleblowers must not suffer any detrimental treatment as a result of raising a **genuine** concern. If you believe that you have suffered any such treatment, you should inform your corresponding Team Human Resources Manager immediately. If the matter is not remedied you should raise it formally using as stated in the [Grievances section of TIOF's Human Resources Policy](https://tiof.click/TIOFPolicyHR#grievances).
 
 ### Retaliation
 
-You must not threaten or retaliate against whistleblowers in any way. If you are involved in such conduct you may be subject to disciplinary action. We wish to note that in some cases the whistleblower could have a right to sue you personally for compensation in an employment tribunal.
-
-Back to top
+You, or any other TIOF Member or Contributor, must not threaten or retaliate against whistleblowers in any way. If you are involved in such conduct you may be subject to disciplinary action. We wish to note that in some cases the whistleblower could have a right to sue personally for compensation in an employment tribunal.
 
 ### False allegations
 
-Should we conclude that a whistleblower has made false allegations maliciously, the whistleblower may be subject to disciplinary action according to your [Disciplinary Procedures](http://tiof.click/ProcedureDisciplinary).
-
-Back to top
+Should we conclude that a whistleblower has made **false allegations** or acted in an otherwise malicious intention, the whistleblower may be subject to disciplinary action according to our [Disciplinary Procedures](http://tiof.click/ProcedureDisciplinary).
 
 ### Contacts
 
