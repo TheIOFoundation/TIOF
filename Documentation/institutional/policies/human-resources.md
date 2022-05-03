@@ -5,7 +5,7 @@ description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 # 🚧 Human Resources
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFPolicyHR) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFPolicyHR) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
@@ -28,11 +28,15 @@ For a structure of The IO Foundation, please visit
 
 ### About this document
 
-This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of **Children Protection** that you will need to be aware of while being a TIOF Member. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
+This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of **Human Resources** that you will need to be aware of while being a TIOF Member. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
 
-This Policy sets out TIOF's approach to the necessary steps to ensure proper and reliable protection of our most vulnerable citizens: children.
+This Policy sets out TIOF's approach to elements such as engaging with TIOF Members.
 
-Any Member who breaches this Policy will face disciplinary action, which could result in dismissal for gross misconduct. In particular, failure to protect a whistleblower or interfere with any such related ongoing investigation will be treated as misconduct under our [Disciplinary Procedures](http://tiof.click/ProcedureDisciplinary). Any non-employee who breaches this Policy may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
+{% hint style="warning" %}
+Any other non TIOF Member engagements are covered under [TIOF's Partnerships Policy.](https://tiof.click/TIOFPolicyPartnerships)
+{% endhint %}
+
+Any Member who breaches this Policy will face disciplinary action, which could result in dismissal for gross misconduct. In particular, engagement that is not compliant with the terms described in this Policy will be treated as misconduct under our [Disciplinary Procedures](http://tiof.click/ProcedureDisciplinary). Any non-employee who breaches this Policy may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
 
 {% hint style="info" %}
 This document complements [TIOF's Code of Conduct](https://tiof.click/TIOFPolicyCoC).
@@ -58,12 +62,10 @@ This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#
 
 ## Policy details
 
-### Children Protection statement
+### Human Resources statement
 
 {% hint style="success" %}
-The IO Foundation is committed to protecting children at all times and by any means necessary in accordance to the [United Nation's Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child).
-
-The organization expects all TIOF Members and Contributors to maintain high standards in this regard. Any suspected wrongdoing should be reported as soon as possible and will be investigated with the outmost care towards the potential victims.
+The IO Foundation is committed to engage with TIOF Members who uphold the 's Values and are fully committed to further advance&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
@@ -79,12 +81,6 @@ This applies to both the alleged infractor and the organization alike.
 
 
 
-
-{% hint style="info" %}
-Any other non TIOF Member relationships are covered under TIOF's Partnerships Policy.
-{% endhint %}
-
-&#x20;
 
 ## Values & Criteria
 
