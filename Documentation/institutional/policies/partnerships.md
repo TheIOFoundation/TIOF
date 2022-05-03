@@ -29,6 +29,13 @@ Probation Period: 3 months
 
 
 
+### Offers
+
+Validity\
+Unless otherwise specified, any Offer will have a validity of 15 natural days.
+
+
+
 
 
 
