@@ -70,8 +70,6 @@ The IO Foundation is committed to engage with TIOF Members who uphold [the organ
 Equally, the organization will do all in its capacity to provide capacity building and enable opportunities to its Members.
 {% endhint %}
 
-
-
 ## Values & Criteria
 
 The organization will uphold
@@ -448,7 +446,7 @@ Used days under properly documented emergency leave shall not discount the avail
 
 ## Career paths
 
-
+TIOF Members are&#x20;
 
 Equal opportunities policy
 
