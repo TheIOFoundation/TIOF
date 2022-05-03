@@ -1,5 +1,5 @@
 ---
-description: Version 1.0
+description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 ---
 
 # 🚧 Security
@@ -7,14 +7,6 @@ description: Version 1.0
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFPolicySecurity) **| Playbook | Assistant**
 {% endhint %}
-
-
-
-{% hint style="info" %}
-This Policy was approved on DD MMMM YYYY.
-{% endhint %}
-
-
 
 {% hint style="warning" %}
 **NOTICE**

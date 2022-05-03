@@ -1,16 +1,12 @@
+---
+description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
+---
+
 # 🚧 Document Management
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFPolicyEvents) **| Playbook | Assistant**
 {% endhint %}
-
-
-
-{% hint style="info" %}
-This Policy was approved on DD MMMM YYYY.
-{% endhint %}
-
-
 
 {% hint style="warning" %}
 **NOTICE**
@@ -22,6 +18,8 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 ## TO MIGRATE
 
 {% embed url="https://docs.google.com/document/d/1YqATbgDFShZAUbcd1RAjkRRCk1uT52eMYAY4wi2xmEA/edit" %}
+
+{% embed url="https://docs.google.com/document/d/1Bcv49MqPQcHZrKIHrXo23-N1fNGsSlgirCVH8XzD21I/edit" %}
 
 ***
 
