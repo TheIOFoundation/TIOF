@@ -118,6 +118,10 @@ On 15th day of the month or immediately previous working day.
 
 
 
+### Number of payments
+
+12 unless specified in the corresponding jurisdiction.
+
 
 
 ### Global calculations

@@ -216,7 +216,7 @@ The organization will ensure the availability of a digital signature platform to
 This stage involves confirming to all parties, as well as the corresponding Team Manager, that the candidate has started its engagement period in the organization or initiative.
 
 {% hint style="info" %}
-This stage will imply a number of preparatory operations across tools that will be utilized by the TIOF Member in the performing of attributions and responsibilities as described in the engagement document. These are to be described in detail in the Infrastructure Handbook.
+This stage will imply a number of preparatory operations across tools that will be utilized by the TIOF Member in the performing of attributions and responsibilities as described in the engagement document. These are to be described in detail in the [Infrastructure Handbook](https://tiof.click/TIOFHBInfrastructure).
 {% endhint %}
 
 ### Onboarding
@@ -257,15 +257,26 @@ This stage may activate benefits described in the engagement document or otherwi
 
 ### On Leave
 
-This stage involves establishing&#x20;
+This stage involves establishing the TIOF Member under a state of leave, during which no activities are to be expected or obligated from the Member.
 
 {% hint style="info" %}
-This stage will imply a number of updates across tools utilized by the TIOF Member to ensure continuity in operations. These are to be described in detail in the Infrastructure Handbook.
+This stage will imply a number of updates across tools utilized by the TIOF Member to ensure continuity in operations. These are to be described in detail in the [Infrastructure Handbook](https://tiof.click/TIOFHBInfrastructure).
+{% endhint %}
+
+A TIOF Member will enter a state of leave under the following circumstances:
+
+* leave period as described in the engagement document
+* sickness (in accordance to TIOF's Sick Absence Policy)
+
+forced leave
+
+{% hint style="warning" %}
+The TIOF Member, prior to start the leave, must ensure proper handover of ongoing tasks in order to ensure continuity of operations.
 {% endhint %}
 
 ### Suspended
 
-This stage involves&#x20;
+This stage involves entering the TIOF Member under a state of suspension.
 
 This stage may arise upon
 
@@ -278,7 +289,10 @@ This stage involves&#x20;
 This stage may arise upon
 
 * the conclusions of the period of engagement
-*
+
+Recognition doc
+
+
 
 ### Offboarding
 
@@ -291,6 +305,57 @@ This stage involves placing the Member under an irrevocable condition from occup
 {% hint style="danger" %}
 Due to the definitive nature of this stage, the decision to ban a TIOF Member must be properly articulated and follow the procedures laid out in this policy's [Disciplinary Measures](human-resources.md#disciplinary-measures).&#x20;
 {% endhint %}
+
+
+
+## Working periods
+
+{% hint style="info" %}
+The organization is committed to no request from the TIOF Member to perform tasks outside of the working periods herein defined.
+{% endhint %}
+
+### Working days
+
+The standard working days are Monday to Friday.
+
+
+
+{% hint style="info" %}
+Exceptions to this policy will be considered under&#x20;
+
+* applicable jurisdictional regulations
+* personal beliefs
+
+
+{% endhint %}
+
+In any case the working days per week shall not exceed 5 natural days.
+
+### Working hours
+
+
+
+## Meetings
+
+Status calls
+
+Scheduled meetings (with 3rd parties)
+
+
+
+## Leaves
+
+Leaves will be paid
+
+
+
+###
+
+{% hint style="info" %}
+The organization is committed to no request from the TIOF Member to perform tasks during the leave.
+{% endhint %}
+
+### Holidays
 
 
 

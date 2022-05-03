@@ -1,7 +1,7 @@
 # 📓 🚧 Official Channels
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFChannels) **| Playbook | Assistant**
+**ShortURL | Playbook | Assistant**
 {% endhint %}
 
 
