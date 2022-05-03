@@ -21,7 +21,21 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 
 
+## About
 
+
+
+## What are Partnerships
+
+Any contractual / agreement relationships not involving TIOF Members.
+
+
+
+{% hint style="info" %}
+TIOF Member relationships are covered under TIOF's Human Resources Policy.
+{% endhint %}
+
+&#x20;
 
 ## Partnerships
 

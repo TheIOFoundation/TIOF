@@ -23,9 +23,17 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 
 
+## About
 
 
 
+
+
+{% hint style="info" %}
+Any other non TIOF Member relationships are covered under TIOF's Partnerships Policy.
+{% endhint %}
+
+&#x20;
 
 
 
