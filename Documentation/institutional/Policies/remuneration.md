@@ -110,6 +110,16 @@ Note: It is noted that cost of living disparities across the European zone exist
 
 Back to top
 
+
+
+## Execution of payment
+
+On 15th day of the month or immediately previous working day.
+
+
+
+
+
 ### Global calculations
 
 Coefficient to be extracted from OANDA 1 January of fiscal year.
