@@ -105,7 +105,7 @@ All TIOF's Engagement documents must be as specific as possible and will include
 
 * All necessary identifiable information from the TIOF Member
 * Signature fields for all involved parties
-* Clear information about the period of application
+* Clear information about the period of application and probation
 * Complete description of attributions and responsibilities
 * Complete description of commitments from TIOF
 * Explicit information on remuneration (when applicable)
@@ -142,65 +142,122 @@ All active TIOF Members must be properly reflected in the organization's [Organi
 
 The following are the different stages through which all engagements are to be conducted.
 
+{% hint style="info" %}
+Changes in the Stage of any TIOF Member must be automatically communicated to both the Member and the relevant Managers as described in [TIOF's Organizational Chart](https://tiof.click/TIOFOrgChart).
+{% endhint %}
+
 ### Sourcing
 
 This stage involves the identification of potential candidates from TIOF, who will be approached to explore their interest in the available position.
 
 ### Applied
 
-This stage involves potential candidates&#x20;
+This stage involves potential candidates that have applied to an existing open position.
 
 ### Screening
 
-
+This stage involves the evaluation of the candidate for a given open position.
 
 ### Interview
 
+This stage involves performing an interview with candidates in order to evaluate their suitability for a given open position.
 
+Exploration, if ever necessary, to customize the terms of the open position may be had at this stage.
+
+{% hint style="warning" %}
+Negotiations, while not discouraged, will be kept to the minimum possible in order to minimize time and resource consumption.
+
+Any amendments to the terms require the **supervision** from
+
+* The corresponding Team Management
+* The corresponding Team Finance
+* The corresponding Team Legal
+{% endhint %}
+
+{% hint style="success" %}
+The organization will ensure the availability of a booking platform to arrange for the interview.
+{% endhint %}
 
 ### Offer
 
-#### Validity
+This stage involves submitting a proposed engagement document to formalize the acceptance of the open position.
 
+Negotiations, if ever necessary, to modify the engagement document may be had at this stage.
+
+{% hint style="danger" %}
+Negotiations, while not discouraged, will be kept to the minimum possible in order to minimize time and resource consumption.
+
+Any amendments to the terms require the **final approval** from
+
+* The corresponding Team Management
+* The corresponding Team Finance
+* The corresponding Team Legal
+{% endhint %}
+
+{% hint style="warning" %}
 Unless otherwise specified, any Offer will have a validity of 15 natural days.
+{% endhint %}
+
+{% hint style="success" %}
+The organization will ensure the availability of a digital signature platform to handle the signature of the engagement document.
+{% endhint %}
 
 ### Hired
 
-
+This stage involves confirming to all parties, as well as the corresponding Team Manager, that the candidate has started its engagement period in the organization or initiative.
 
 ### Onboarding
 
+This stage involves providing the TIOF Member with all the necessary induction, training and support to enable the Member to incorporate in the position and perform the attributions and responsibilities as described in the engagement&#x20;
 
+{% hint style="danger" %}
+A TIOF Member failing to attend the Onboarding session, or otherwise showing a lack of interest in its contents, are to be be kept On Probation stage regardless of said probation time having expired.
+
+The non remediation of this circumstance on the part of the Member may be grounds for dismissal as laid out in this policy's [Disciplinary Measures](human-resources.md#disciplinary-measures).
+{% endhint %}
+
+The contents of the Onboarding session will be composed of
+
+* Common information
+* Tailored information relative to the corresponding Team to which the Member will belong to
+
+All of the Onboarding information must be
+
+* decided by the corresponding Team Manager
+* approved by the corresponding&#x20;
+* comprehensively described in the corresponding Team Guide by the&#x20;
 
 ### On Probation
 
-
+This stage involves
 
 ### Full Member
 
-
-
-
+This stage involves
 
 ### On Leave
 
-
+This stage involves
 
 ### Suspended
 
-
+This stage involves
 
 ### Dismissed
 
-
+This stage involves
 
 ### Offboarding
 
-
+This stage involves
 
 ### Banned
 
+This stage involves placing the Member under an irrevocable condition from occupying any position in the organization at any time and under any circumstance.
 
+{% hint style="danger" %}
+Due to the definitive nature of this stage, the decision to ban a TIOF Member must be properly articulated and follow the procedures laid out in this policy's [Disciplinary Measures](human-resources.md#disciplinary-measures).&#x20;
+{% endhint %}
 
 
 
@@ -208,7 +265,15 @@ Unless otherwise specified, any Offer will have a validity of 15 natural days.
 
 
 
-## Disciplinary measures&#x20;
+## Disciplinary measures
+
+
+
+### Dismissal
+
+Can happen when:
+
+* Non compliance with the Onboarding Session
 
 
 
