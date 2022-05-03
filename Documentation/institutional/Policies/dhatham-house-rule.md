@@ -1,11 +1,15 @@
 ---
-description: Version 1.1 | This Dhatham House Rule was published on 01 January 2019.
+description: Version 1.1
 ---
 
 # Dhatham House Rule
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/Dhatham) **| Playbook | Assistant**
+{% endhint %}
+
+{% hint style="info" %}
+This version of the Dhatham House Rule was published on 01 January 2019.
 {% endhint %}
 
 ## About

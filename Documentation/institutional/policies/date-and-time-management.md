@@ -1,11 +1,11 @@
----
-description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
----
-
 # 🚧 Date & Time Management
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFPolicyDTM) **| Playbook | Assistant**
+{% endhint %}
+
+{% hint style="info" %}
+This Policy was approved on DD MMMM YYYY.
 {% endhint %}
 
 {% hint style="warning" %}

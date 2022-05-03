@@ -1,12 +1,16 @@
----
-description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
----
-
 # 🚧 Human Resources
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFPolicyHR) **| Playbook | Assistant**
 {% endhint %}
+
+
+
+{% hint style="info" %}
+This Policy was approved on DD MMMM YYYY.
+{% endhint %}
+
+
 
 {% hint style="warning" %}
 **NOTICE**
@@ -17,17 +21,11 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 
 
-## About
 
 
 
 
 
-{% hint style="info" %}
-Any other non TIOF Member relationships are covered under TIOF's Partnerships Policy.
-{% endhint %}
-
-&#x20;
 
 
 

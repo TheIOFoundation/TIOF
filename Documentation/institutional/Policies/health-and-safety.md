@@ -1,5 +1,5 @@
 ---
-description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
+description: Version 1.0
 ---
 
 # 🚧 Health and Safety
@@ -7,6 +7,14 @@ description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFPolicyHS) **| Playbook | Assistant**
 {% endhint %}
+
+
+
+{% hint style="info" %}
+This Policy was approved on DD MMMM YYYY.
+{% endhint %}
+
+
 
 {% hint style="warning" %}
 **NOTICE**

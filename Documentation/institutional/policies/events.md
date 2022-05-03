@@ -1,12 +1,16 @@
----
-description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
----
-
 # 🚧 Events
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFPolicyEvents) **| Playbook | Assistant**
 {% endhint %}
+
+
+
+{% hint style="info" %}
+This Policy was approved on DD MMMM YYYY.
+{% endhint %}
+
+
 
 {% hint style="warning" %}
 **NOTICE**
