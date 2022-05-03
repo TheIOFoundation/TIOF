@@ -1,7 +1,7 @@
 # 📓 🚧 Employee
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TIOFHBEmployee) **| Playbook | Assistant**
 {% endhint %}
 
 

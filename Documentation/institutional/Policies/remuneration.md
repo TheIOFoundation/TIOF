@@ -124,6 +124,10 @@ On 15th day of the month or immediately previous working day.
 
 
 
+## Performance evaluation
+
+
+
 ### Global calculations
 
 Coefficient to be extracted from OANDA 1 January of fiscal year.

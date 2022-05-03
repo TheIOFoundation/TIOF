@@ -69,7 +69,7 @@ In response to your commitment towards our [values](https://tiof.click/TIOFValue
 Check out what are we up to and pick tasks you feel you can contribute with.
 
 {% hint style="info" %}
-How to contribute on tasks? **Check the** [**Tasks Handbook**](operations/handbooks/tasks.md)**.**
+How to contribute on tasks? **Check the** [**Tasks Handbook**](operations/handbooks/tasks/)**.**
 {% endhint %}
 
 {% embed url="https://tiof.click/TIOFTasks" %}

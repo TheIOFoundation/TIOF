@@ -266,9 +266,8 @@ This stage will imply a number of updates across tools utilized by the TIOF Memb
 A TIOF Member will enter a state of leave under the following circumstances:
 
 * leave period as described in the engagement document
-* sickness (in accordance to TIOF's Sick Absence Policy)
-
-forced leave
+* sickness (in accordance to [TIOF's Sick Absence Policy](https://tiof.click/TIOFPolicySA))
+* forced leave (in accordance to this policy's [Disciplinary Measures](human-resources.md#disciplinary-measures))
 
 {% hint style="warning" %}
 The TIOF Member, prior to start the leave, must ensure proper handover of ongoing tasks in order to ensure continuity of operations.
@@ -278,25 +277,81 @@ The TIOF Member, prior to start the leave, must ensure proper handover of ongoin
 
 This stage involves entering the TIOF Member under a state of suspension.
 
+{% hint style="info" %}
+This stage will imply a number of updates across tools utilized by the TIOF Member to ensure continuity in operations. These are to be described in detail in the [Infrastructure Handbook](https://tiof.click/TIOFHBInfrastructure).
+{% endhint %}
+
 This stage may arise upon
 
-* a misconduct from the TIOF Member
+* an express request by the TIOF Member
+* a misconduct from the TIOF Member (in accordance to this policy's [Disciplinary Measures](human-resources.md#disciplinary-measures))
+
+{% hint style="danger" %}
+Due to the critical nature of this stage, the decision to suspend a TIOF Member must be properly articulated and follow the procedures laid out in this policy's [Disciplinary Measures](human-resources.md#disciplinary-measures).&#x20;
+{% endhint %}
 
 ### Dismissed
 
-This stage involves&#x20;
+This stage involves terminating the TIOF Member's engagement with the organization.
+
+{% hint style="info" %}
+This stage will imply a number of updates across tools utilized by the TIOF Member to ensure continuity in operations. These are to be described in detail in the [Infrastructure Handbook](https://tiof.click/TIOFHBInfrastructure).
+{% endhint %}
 
 This stage may arise upon
 
-* the conclusions of the period of engagement
+* the natural conclusion of the period of engagement
+* a misconduct from the TIOF Member (in accordance to this policy's [Disciplinary Measures](human-resources.md#disciplinary-measures))
 
-Recognition doc
+The termination will enter into effect
 
+* automatically at the end of the last working day indicated in the engagement document
+* immediately after the communicating the Member of the decision&#x20;
 
+{% hint style="warning" %}
+Regardless on the nature of the dismissal, the TIOF Member is bound to respect and attend the mandatory [Offboarding session](human-resources.md#offboarding).
+{% endhint %}
+
+{% hint style="info" %}
+Upon entering this stage, the corresponding Team Finance shall held any pending payments to the TIOF member until such time where the Offboarding session has been successfully conducted.
+{% endhint %}
+
+{% hint style="danger" %}
+Due to the potentially critical nature of this stage, the decision to dismiss a TIOF Member must be properly articulated and follow the procedures laid out in this policy's [Disciplinary Measures](human-resources.md#disciplinary-measures).&#x20;
+{% endhint %}
 
 ### Offboarding
 
-This stage involves&#x20;
+This stage involves performing an offboarding session in order to ensure a proper transition in operations and the return of organization's assets when applicable.
+
+During the offboarding
+
+* the TIOF Member will
+  * provide an accurate state and a proper handover of ongoing operations
+  * return all assets, physical, digital or otherwise that may have been confided
+  * sign a release form
+  * optionally provide feedback concerning the experience during the engagement
+* the organization will
+  * ensure that all of the above are complied properly
+  * perform a performance assessment
+  * if requested, provide feedback concerning the experience during the engagement
+
+{% hint style="success" %}
+Upon the satisfactory execution of the offboarding session, the organization shall release any pending payments to the TIOF Member.
+{% endhint %}
+
+#### Recognition documents
+
+Following the offboarding, the TIOF Member is entitled to request the organization to issue one or more of the following recognition documents:
+
+* Letter of recommendation
+* Certificate of volunteering or internship
+
+The document will reflect an accurate, non embellished depiction of the Member's performance under the ceasing engagement.
+
+{% hint style="info" %}
+When applicable and necessary, the organization will issue a performance report should it be required by a 3rd party institution.
+{% endhint %}
 
 ### Banned
 
@@ -306,42 +361,55 @@ This stage involves placing the Member under an irrevocable condition from occup
 Due to the definitive nature of this stage, the decision to ban a TIOF Member must be properly articulated and follow the procedures laid out in this policy's [Disciplinary Measures](human-resources.md#disciplinary-measures).&#x20;
 {% endhint %}
 
-
-
 ## Working periods
 
 {% hint style="info" %}
 The organization is committed to no request from the TIOF Member to perform tasks outside of the working periods herein defined.
 {% endhint %}
 
-### Working days
-
-The standard working days are Monday to Friday.
-
-
-
-{% hint style="info" %}
-Exceptions to this policy will be considered under&#x20;
+{% hint style="warning" %}
+Exceptions to the stipulations in this policy will be considered under&#x20;
 
 * applicable jurisdictional regulations
 * personal beliefs
 
-
+Such exceptions must be reflected in the TIOF's Member engagement document.&#x20;
 {% endhint %}
+
+### Working days
+
+The standard working days are Monday to Friday.
 
 In any case the working days per week shall not exceed 5 natural days.
 
 ### Working hours
 
+The standard working hours are 09:00 to 18:00.
 
+A break of 1 hour per day is available for breaks such as
+
+* lunch
+* relax
+
+In any case the working hours per week shall not exceed 40 natural hours.
+
+{% hint style="warning" %}
+Should the TIOF Member require extra off time for reasons based on personal beliefs, said time will not compute in the working hours.
+{% endhint %}
 
 ## Meetings
 
-Status calls
+As part of their attributions, TIOF Members must observe and attend a number of meetings.
 
-Scheduled meetings (with 3rd parties)
+### Status calls
 
 
+
+### Scheduled meetings (with 3rd parties)
+
+{% hint style="info" %}
+For more information on Meetings, please refer to the TIOF's Meetings Handbook.
+{% endhint %}
 
 ## Leaves
 
@@ -358,6 +426,10 @@ The organization is committed to no request from the TIOF Member to perform task
 ### Holidays
 
 
+
+## Career paths
+
+## Performance evaluation
 
 ## Grievances
 
