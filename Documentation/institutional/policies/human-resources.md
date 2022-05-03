@@ -1,16 +1,12 @@
+---
+description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
+---
+
 # 🚧 Human Resources
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFPolicyHR) **| Playbook | Assistant**
 {% endhint %}
-
-
-
-{% hint style="info" %}
-This Policy was approved on DD MMMM YYYY.
-{% endhint %}
-
-
 
 {% hint style="warning" %}
 **NOTICE**
@@ -21,11 +17,33 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 
 
+## About
 
 
 
 
 
+{% hint style="info" %}
+Any other non TIOF Member relationships are covered under TIOF's Partnerships Policy.
+{% endhint %}
+
+&#x20;
+
+## Values & Criteria
+
+The organization will uphold
+
+* Enlightenment values
+* Civil Rights
+* UDHR
+* UDDR
+* Merit-based selection processes
+
+
+
+## Code of Conduct
+
+The organization will be guided by its Code of Conduct at all given times.
 
 
 
