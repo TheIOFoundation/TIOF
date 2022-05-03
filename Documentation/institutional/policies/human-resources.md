@@ -401,35 +401,58 @@ Should the TIOF Member require extra off time for reasons based on personal beli
 
 As part of their attributions, TIOF Members must observe and attend a number of meetings.
 
-### Status calls
-
-
-
-### Scheduled meetings (with 3rd parties)
-
 {% hint style="info" %}
-For more information on Meetings, please refer to the TIOF's Meetings Handbook.
+For more information on Meetings, please refer to the [TIOF's Meetings Handbook](https://tiof.click/TIOFHBMeetings).
 {% endhint %}
 
 ## Leaves
 
-Leaves will be paid
+### Work leave
 
+All TIOF Members are entitled to a work leave in the terms reflected in the engagement document.
 
+The standard work leave period is 30 natural days per annum, calculated proportionally to the time of engagement.&#x20;
 
-###
+Leaves will be paid unless otherwise indicated in the engagement document.
 
 {% hint style="info" %}
 The organization is committed to no request from the TIOF Member to perform tasks during the leave.
 {% endhint %}
 
-### Holidays
+Work leave days need be cleared every year and cannot be carried over the following year.
 
+### National holidays
 
+In addition to the above leave, all TIOF Members are entitled to the applicable national holidays according to the applicable jurisdiction indicated engagement document.
+
+The organization will establish during the annual General Meeting the corresponding dates for those national holidays.
+
+### Voluntary leaves
+
+All TIOF Members can choose to use at will up to 5 natural days, or their proportional amount, of their corresponding [work leave](human-resources.md#undefined). Voluntary leave days must be communicated with at least 15 days in advance and requires prior approval from their corresponding Team Manager.
+
+### Sick leaves
+
+All TIOF Members are entitled to sick leaves in accordance to the provisions laid out in [TIOF's Sickness Absence Policy](https://tiof.click/TIOFPolicySA).
+
+### Emergency leave
+
+All TIOF Members are entitled to emergency leaves for reasons such as
+
+* family passing
+* emergency procedures
+
+A priori, emergency leaves shall be approved immediately. Supporting documents will be required to justify the absence.
+
+Used days under properly documented emergency leave shall not discount the available days in the work leave.
 
 ## Career paths
 
-## Performance evaluation
+
+
+Equal opportunities policy
+
+### Performance evaluation
 
 ## Grievances
 
