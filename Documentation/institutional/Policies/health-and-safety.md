@@ -155,3 +155,12 @@ Back to top
 We carry out general workplace risk assessments periodically, both in physical offices and remotely. The purpose is to assess the risks to health and safety of Members, visitors and other third parties as a result of our activities and to identify any measures that need to be taken to control those risks.
 
 Back to top
+
+
+
+
+
+**Computers and display screen equipment**
+
+1. If you use a computer screen or other display screen equipment (DSE) as a significant part of your work, you are entitled to a workstation assessment and regular eyesight tests by an optician at our expense.
+2. Further information on workstation assessments, eye tests and the use of DSE can be obtained from \[_insert name_].

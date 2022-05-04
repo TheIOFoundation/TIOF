@@ -311,3 +311,51 @@ The following are the list of approved media [channels](https://github.com/TheIO
 * 📢 Channel: Website
 
 Note: Any additionally approved Channel must be trigger the creating of the corresponding #Tag.
+
+{% hint style="info" %}
+Any new channel must
+
+* be approved by Team Management
+* configured with the aid of Team UX/UI and with the help of the Media Kit
+* notify all TIOF Members
+* initiate an outreach campaign if necessary
+*
+{% endhint %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+* **About this policy**
+  1. This policy is in place to minimise the risks to our business through use of social media.
+  2. This policy deals with the use of all forms of social media, including Facebook, LinkedIn, Twitter, Google+, Wikipedia, Whisper, Instagram, Tumblr and all other social networking sites, internet postings and blogs. It applies to use of social media for business purposes as well as personal use that may affect our business in any way.
+  3. This policy does not form part of any employee's contract of employment and we may amend it at any time.
+* **Personal use of social media**
+  1. Occasional personal use of social media during working hours is permitted so long as it does not involve unprofessional or inappropriate content, does not interfere with your employment responsibilities or productivity and complies with this policy.
+* **Prohibited use**
+  1. You must avoid making any social media communications that could damage our business interests or reputation, even indirectly.
+  2. You must not use social media to defame or disparage us, our staff or any third party; to harass, bully or unlawfully discriminate against staff or third parties; to make false or misleading statements; or to impersonate colleagues or third parties.
+  3. You must not express opinions on our behalf via social media, unless expressly authorised to do so by your manager. You may be required to undergo training in order to obtain such authorisation.
+  4. You must not post comments about sensitive business-related topics, such as our performance, or do anything to jeopardise our trade secrets, confidential information and intellectual property. You must not include our logos or other trademarks in any social media posting or in your profile on any social media.
+  5. The contact details of business contacts made during the course of your employment are our confidential information. On termination of employment you must provide us with a copy of all such information, delete all such information from your personal social networking accounts and destroy any further copies of such information that you may have.
+  6. Any misuse of social media should be reported to \[_insert name_].
+* **Guidelines for responsible use of social media**
+  1. You should make it clear in social media postings, or in your personal profile, that you are speaking on your own behalf. Write in the first person and use a personal e-mail address.
+  2. Be respectful to others when making any statement on social media and be aware that you are personally responsible for all communications which will be published on the internet for anyone to see.
+  3. If you disclose your affiliation with us on your profile or in any social media postings, you must state that your views do not represent those of your employer (unless you have been authorised to speak on our behalf as set out in paragraph 3.3). You should also ensure that your profile and any content you post are consistent with the professional image you present to clients and colleagues.
+  4. If you are uncertain or concerned about the appropriateness of any statement or posting, refrain from posting it until you have discussed it with \[_insert name_].
+  5. If you see social media content that disparages or reflects poorly on us, you should report it.
+* **Breach of this policy**
+  1. Breach of this policy may result in disciplinary action up to and including dismissal. Any member of staff suspected of committing a breach of this policy will be required to co-operate with our investigation.
+  2. You may be required to remove any social media content that we consider to constitute a breach of this policy. Failure to comply with such a request may in itself result in disciplinary action.
+
+
+

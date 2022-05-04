@@ -179,6 +179,21 @@ We do not permit access to web-based personal e-mail such as Gmail or Hotmail on
 
 Back to top
 
+
+
+**E-mail**
+
+1. Adopt a professional tone and observe appropriate etiquette when communicating with third parties by e-mail.
+2. Remember that e-mails can be used in legal proceedings and that even deleted e-mails may remain on the system and be capable of being retrieved.
+3. You must not send abusive, obscene, discriminatory, racist, harassing, derogatory, defamatory, pornographic or otherwise inappropriate e-mails.
+4. You should not:
+   1. send or forward private e-mails at work which you would not want a third party to read;
+   2. send or forward chain mail, junk mail, cartoons, jokes or gossip;
+   3. contribute to system congestion by sending trivial messages or unnecessarily copying or forwarding e-mails to others who do not have a real need to receive them; or
+   4. send messages from another person's e-mail address (unless authorised) or under an assumed name.
+5. Do not use your own personal e-mail account to send or receive e-mail for the purposes of our business. Only use the e-mail account we have provided for you.
+6. \[We do not permit access to web-based personal e-mail such as Gmail or Hotmail on our computer systems at any time due to additional security risks.]
+
 ## Using the Internet
 
 When specifically provided, Internet access is provided primarily to perform your responsibilities in TIOF. Occasional personal use may be permitted as set out in below.
