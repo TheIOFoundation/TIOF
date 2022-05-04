@@ -155,6 +155,4 @@
 * [\[TIOF\] Institutional \[I\] Organization Data v1.5](dirty/tiof-institutional-i-organization-data-v1.5.md)
 * [The IO Foundation Privacy Notice Final Version(53326202.1)](dirty/the-io-foundation-privacy-notice-final-version-53326202.1.md)
 * [Home](dirty/home.md)
-* [Creative Commons Malaysia Chapter](dirty/creative-commons-malaysia-chapter.md)
 * [Home](dirty/home-1.md)
-* [\[CC MYS\] First Meeting   20th March 2021](dirty/cc-mys-first-meeting-20th-march-2021.md)

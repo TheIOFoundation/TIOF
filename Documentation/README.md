@@ -48,3 +48,19 @@ The IO Foundation delivers its mission through the observance of the following v
 > **Accountability:** We recognize the critical importance of operating under procedures and methodologies that are transparent in order to generate the necessary trust in the organization, our [DCDR Principles](https://tiof.click/DCDRPrinciples) and the advocacy at large.
 
 > **Impact:** Our initiatives are designed and implemented only to serve the broader advocacy and to help, step by step, generate practical outcomes that make technology better and safer transparently for citizens.
+
+
+
+## Attributions
+
+The following resources have been used across TIOF's productions and its initiatives.
+
+* Icons from [www.flaticon.com](https://www.flaticon.com) by
+  * [Eucalyp](https://www.flaticon.com/authors/eucalyp)
+  * [Font Awesome](https://fontawesome.com)
+  * [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect)
+* [Material Icons](https://material.io/resources/icons/?style=baseline) by [Google](https://www.google.com)
+* Images by
+  * [Unsplash](https://unsplash.com)
+  * [Pixabay](https://pixabay.com)
+  * [Burst](https://burst.shopify.com)
