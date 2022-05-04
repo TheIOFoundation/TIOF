@@ -108,7 +108,12 @@ of all of its policies and licensing models.
 
 ###
 
-###
+## 3rd Party assets
+
+Attributions need be mentioned
+
+* In the Attributions section
+* In the productions themselves
 
 ###
 

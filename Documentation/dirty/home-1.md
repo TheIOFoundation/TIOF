@@ -159,4 +159,14 @@ The IO Foundation would like to thank the following organizations for their supp
 
 Back to top
 
-##
+## Attributions
+
+The following resources have been used across TIOF's projects.
+
+* Icons made by [Eucalyp](https://www.flaticon.com/authors/eucalyp) from [www.flaticon.com](https://www.flaticon.com).
+* Icons made by [Font Awesome](https://fontawesome.com) from [www.flaticon.com](https://www.flaticon.com).
+* Icons made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [www.flaticon.com](https://www.flaticon.com).
+* Images by [Unsplash](https://unsplash.com).
+* [Material Icons](https://material.io/resources/icons/?style=baseline) by Google.
+
+Back to top
