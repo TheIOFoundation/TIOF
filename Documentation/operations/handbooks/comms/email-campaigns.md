@@ -2,7 +2,7 @@
 description: 'Acknowledgements to: Gabrielle Wong'
 ---
 
-# 📓 🚧 Communication Types
+# 📓 🚧 Email campaigns
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -27,17 +27,31 @@ This Handbook responds to the following Policies:
 
 
 
-Source of page: [https://docs.google.com/document/d/1fjgsKHfU7qQC2Q0dkLtVuMRnnCI3\_XAInawCvQvgsAs/edit#](https://docs.google.com/document/d/1fjgsKHfU7qQC2Q0dkLtVuMRnnCI3\_XAInawCvQvgsAs/edit#)
+## About
+
+This handbook provides you with the necessary information to prepare and run an email campaign.
 
 
 
 
 
-|                      |   |   |
-| -------------------- | - | - |
-| **Name of the tool** |   |   |
-|                      |   |   |
-|                      |   |   |
+## Templates
+
+
+
+### Basic Structure
+
+{% embed url="https://app.moqups.com/oPrG490Vni4VaGT4yqbfuI4FRF7vpd9p/view/page/aa9df7b72" %}
+
+
+
+
+
+
+
+
+
+
 
 
 

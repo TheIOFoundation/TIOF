@@ -85,7 +85,7 @@
     * [📓 🚧 3rd Party Activity Evaluation](operations/handbooks/comms/events-evaluation.md)
     * [📓 🚧 Activity Design Template](operations/handbooks/comms/activity-design-template.md)
     * [📓 🚧 Official Channels](about/introduction/media-kit/official-channels.md)
-    * [📓 🚧 Communication Types](operations/handbooks/comms/communication-types.md)
+    * [📓 🚧 Email campaigns](operations/handbooks/comms/email-campaigns.md)
     * [📓 🚧 Presentations](operations/handbooks/comms/presentations.md)
     * [📓 🚧 Identity](operations/handbooks/organization-identity.md)
   * [📓 🚧 Documentation](operations/handbooks/documentation/README.md)
