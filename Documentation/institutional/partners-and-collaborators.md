@@ -13,6 +13,68 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
+## About
+
+
+
+
+
+## Funders
+
+
+
+Let us know if you hear about funding opportunities that may be a match for us.
+
+Funding policy
+
+
+
+
+
+
+
+## Partners
+
+
+
+
+
+### Areas in which we are looking partners for
+
+
+
+## Supporting organizations
+
+Supporting organizations are those who donate tools, services or otherwise supports The IO Foundation.
+
+
+
+
+
+
+
+## Volunteers
+
+
+
+## Interns
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -49,9 +111,9 @@ Back to top
 
 The IO Foundation would like to thank the following organizations for their support in making our advocacy possible:
 
-| ![Mapbox](https://user-images.githubusercontent.com/9198668/84778198-364c6700-b015-11ea-9037-603cfd2540da.jpg) | ![Netlify](https://user-images.githubusercontent.com/9198668/84778207-38aec100-b015-11ea-9860-433f3cdca1d0.png) | ![Internews](https://user-images.githubusercontent.com/9198668/85203203-abce7500-b33e-11ea-9ce7-56a4b1afd614.jpg) | ![Figma](https://user-images.githubusercontent.com/9198668/84778203-38162a80-b015-11ea-90fd-94073f45d3a0.png) | ![Cloudflare](https://user-images.githubusercontent.com/9198668/93131720-207b3a80-f707-11ea-863a-1e05534f4431.png) | ![National Democratic Institute](https://user-images.githubusercontent.com/9198668/93509977-16e61280-f953-11ea-8314-76bf07f1c0c3.jpg) |
-| :------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-|                                        [Mapbox](https://www.mapbox.com)                                        |                                        [Netlify](https://www.netlify.com)                                       |                                         [Internews](https://internews.org)                                        |                                         [Figma](https://www.figma.com)                                        |                                      [Cloudflare](https://www.cloudflare.com)                                      |                                          [National Democratic Institute](https://www.ndi.org)                                         |
+| ![Mapbox](https://user-images.githubusercontent.com/9198668/84778198-364c6700-b015-11ea-9037-603cfd2540da.jpg) | ![Netlify](https://user-images.githubusercontent.com/9198668/84778207-38aec100-b015-11ea-9860-433f3cdca1d0.png) | ![Internews](https://user-images.githubusercontent.com/9198668/85203203-abce7500-b33e-11ea-9ce7-56a4b1afd614.jpg) | <img src="https://user-images.githubusercontent.com/9198668/84778203-38162a80-b015-11ea-90fd-94073f45d3a0.png" alt="Figma" data-size="line"> | ![Cloudflare](https://user-images.githubusercontent.com/9198668/93131720-207b3a80-f707-11ea-863a-1e05534f4431.png) | ![National Democratic Institute](https://user-images.githubusercontent.com/9198668/93509977-16e61280-f953-11ea-8314-76bf07f1c0c3.jpg) |
+| :------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+|                                        [Mapbox](https://www.mapbox.com)                                        |                                        [Netlify](https://www.netlify.com)                                       |                                         [Internews](https://internews.org)                                        |                                                        [Figma](https://www.figma.com)                                                        |                                      [Cloudflare](https://www.cloudflare.com)                                      |                                          [National Democratic Institute](https://www.ndi.org)                                         |
 
 | ![Kualo](https://user-images.githubusercontent.com/9198668/84778201-377d9400-b015-11ea-8e36-e8ae70569969.jpg) | ![Start.me](https://user-images.githubusercontent.com/9198668/84778205-38aec100-b015-11ea-9afd-fab967f735f7.png) | ![Zapier](https://user-images.githubusercontent.com/9198668/84779171-a4455e00-b016-11ea-8bcc-404d1aac4bfa.png) | ![Dataedo](https://user-images.githubusercontent.com/9198668/89404597-db014000-d74c-11ea-8eaf-30bd8214f080.png) | ![Postman](https://user-images.githubusercontent.com/9198668/93131725-21ac6780-f707-11ea-831c-4ce8c514cebc.png) | ![BASAAS](https://user-images.githubusercontent.com/9198668/93507940-e9986500-f950-11ea-84d1-5337b7f910a5.png) | ![hotjar](https://user-images.githubusercontent.com/9198668/94375224-c174e700-0144-11eb-8f82-00086ec8ca8c.png) |
 | :-----------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |

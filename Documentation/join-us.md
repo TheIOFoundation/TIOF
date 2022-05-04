@@ -4,7 +4,7 @@
 [**ShortURL**](https://tiof.click/TIOFJoinUs) **| Playbook | Assistant**
 {% endhint %}
 
-## Joining The IO Foundation
+## Introduction
 
 The IO Foundation is always looking for talented individuals wishing to make an impact in technology.
 
@@ -52,6 +52,8 @@ Orebela Gbenga
 <mark style="color:orange;">**Check the available positions @ The IO Foundation**</mark>
 {% endembed %}
 
+
+
 ### Participate as a Collaborator
 
 It is not necessary to be a Member to participate and make a meaningful contribution to the DCDR advocacy.
@@ -73,3 +75,7 @@ How to contribute on tasks? **Check the** [**Tasks Handbook**](operations/handbo
 {% embed url="https://tiof.click/TIOFTasks" %}
 <mark style="color:orange;">**Check the available tasks @ The IO Foundation**</mark>
 {% endembed %}
+
+
+
+##
