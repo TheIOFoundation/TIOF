@@ -1,10 +1,8 @@
 # 🚧 Partners and Collaborators
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TIOFPartners) **| Playbook | Assistant**
 {% endhint %}
-
-
 
 {% hint style="warning" %}
 **NOTICE**
@@ -15,7 +13,13 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 ## About
 
-sdsdfdsfsd
+
+
+{% hint style="info" %}
+Each TIOF initiative has its own specific Partners and Collaborators.
+
+Please refer to each initiative's documentation site for more information.
+{% endhint %}
 
 
 
