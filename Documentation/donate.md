@@ -4,7 +4,7 @@
 ****[**ShortURL**](https://tiof.click/SupportUs) **| Playbook | Assistant**
 {% endhint %}
 
-![](<.gitbook/assets/\[TIOF] Comms \[P] TIOF Website Donate ENG v1.0.png>)
+![Support TIOF](<.gitbook/assets/\[TIOF] Comms \[P] TIOF Website Donate ENG v1.0.png>)
 
 ## Supporting TIOF
 
