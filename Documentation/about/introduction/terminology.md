@@ -136,4 +136,22 @@ There is a list of approved #Tags [here](https://tiof.click/Tags)
 
 ## Other
 
+
+
+### Digital Spaces <a href="#_tcy4cfguqqg8" id="_tcy4cfguqqg8"></a>
+
+The collection of digital mediums, whether public or private, that may store users' Data in any way that conforms their identities, with or without their consent and/or knowledge.
+
+### Representational Entities <a href="#_lx909vczyqa8" id="_lx909vczyqa8"></a>
+
+The digital representation of people and objects in Digital Spaces.
+
+### Digital Rights <a href="#_ucc4bfe9jq5z" id="_ucc4bfe9jq5z"></a>
+
+The basic principles protecting Representational Entities in Digital Spaces.
+
+### UDDR <a href="#_ghzu2gba7md3" id="_ghzu2gba7md3"></a>
+
+A set of legal and technical standards to ensure the observance, compliance and implementation of Digital Rights.
+
 ###

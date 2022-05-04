@@ -72,7 +72,7 @@
   * [🚧 2021](institutional/annual-reports/2021.md)
   * [🚧 2022](institutional/annual-reports/2022.md)
   * [🚧 2023](institutional/annual-reports/2023.md)
-* [🚧 Partners](institutional/partners.md)
+* [🚧 Partners and Collaborators](institutional/partners-and-collaborators.md)
 
 ## Operations
 
@@ -86,6 +86,7 @@
     * [📓 🚧 3rd Party Activity Evaluation](operations/handbooks/comms/events-evaluation.md)
     * [📓 🚧 Activity Design Template](operations/handbooks/comms/activity-design-template.md)
     * [📓 🚧 Official Channels](about/introduction/media-kit/official-channels.md)
+    * [📓 🚧 Template contents](operations/handbooks/comms/official-channels-1.md)
     * [📓 🚧 Email campaigns](operations/handbooks/comms/email-campaigns.md)
     * [📓 🚧 Presentations](operations/handbooks/comms/presentations.md)
     * [📓 🚧 Identity](operations/handbooks/organization-identity.md)
@@ -155,4 +156,3 @@
 * [\[TIOF\] Institutional \[I\] Organization Data v1.5](dirty/tiof-institutional-i-organization-data-v1.5.md)
 * [The IO Foundation Privacy Notice Final Version(53326202.1)](dirty/the-io-foundation-privacy-notice-final-version-53326202.1.md)
 * [Home](dirty/home.md)
-* [Home](dirty/home-1.md)
