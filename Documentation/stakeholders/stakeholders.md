@@ -38,5 +38,53 @@ General overview of stakeholders
 
 
 
+### Stakeholders - EXTERNAL <a href="#_gry72hppmqg0" id="_gry72hppmqg0"></a>
 
+UN
+
+International Organizations
+
+Tech Companies
+
+NGOS
+
+HR
+
+FoE / FoI
+
+DR
+
+Academe
+
+ICT
+
+Social/Political Sciences
+
+Law
+
+“DR Center / Department in Uni
+
+Media + Comms
+
+Judiciary
+
+Champions for UDDR
+
+Politicians
+
+Public Figure
+
+Blogger
+
+Media
+
+### Stakeholders - INTERNAL <a href="#_phv30z9zi46m" id="_phv30z9zi46m"></a>
+
+Volunteers
+
+Alumni / Fellows
+
+Legal Name
+
+Mittetulundusühing The IO Foundation
 

@@ -58,7 +58,7 @@ This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#
 
 ## Policy details
 
-### Equal opportunities statement
+### Sickness Absence statement
 
 {% hint style="success" %}
 The IO Foundation values, above anything, the wellbeing of its Members (as well as its Contributors).

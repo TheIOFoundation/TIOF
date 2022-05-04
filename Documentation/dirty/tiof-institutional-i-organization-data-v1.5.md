@@ -2,72 +2,15 @@
 
 #### Quick descriptions <a href="#_goxk7l8j9329" id="_goxk7l8j9329"></a>
 
-* The IO Foundation (TIOF) is a nonprofit organization dedicated to promote, protect and provide solutions for Digital Rights.
+* he creation of a Universal Declaration of Digital Rights with the collaboration of other organizations.
 
-Born from a fundamental concern on the state of Digital Rights, TIOF aims to raise awareness about their importance and seeks to help promote the creation of a Universal Declaration of Digital Rights with the collaboration of other organizations.
+Our work encompasses awareness and engagement projects for solutions to problems that are technological in nature.
 
-Our work encompases awareness and engagement projects for solutions to problems that are technological in nature.
 
-* To promote, protect and provide solutions for Digital
-
-Rights and promote the creation of a Universal Declaration of Digital Rights (UDDR).
-
-* The IO Foundation is a nonprofit organization dedicated to promote, protect and provide solutions for Digital Rights and promote the creation of a Universal Declaration of Digital Rights (UDDR).
-* The IO Foundation is a growing nonprofit dedicated to promote, protect and provide solutions for Digital Rights.
-
-We develop projects aimed to raise awareness on Digital Rights as well as propose actual solutions.
 
 ### Stakeholders <a href="#_rz9xwokx1qom" id="_rz9xwokx1qom"></a>
 
-### Stakeholders - EXTERNAL <a href="#_gry72hppmqg0" id="_gry72hppmqg0"></a>
-
-UN
-
-International Organizations
-
-Tech Companies
-
-NGOS
-
-HR
-
-FoE / FoI
-
-DR
-
-Academe
-
-ICT
-
-Social/Political Sciences
-
-Law
-
-“DR Center / Department in Uni
-
-Media + Comms
-
-Judiciary
-
-Champions for UDDR
-
-Politicians
-
-Public Figure
-
-Blogger
-
-Media
-
-### Stakeholders - INTERNAL <a href="#_phv30z9zi46m" id="_phv30z9zi46m"></a>
-
-Volunteers
-
-Alumni / Fellows
-
-Legal Name
-
-Mittetulundusühing The IO Foundation
+### &#x20;<a href="#_gry72hppmqg0" id="_gry72hppmqg0"></a>
 
 \
 
