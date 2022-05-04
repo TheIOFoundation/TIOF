@@ -66,19 +66,5 @@ You can support The IO Foundation by
 
 * [Donate to TIOF](https://tiof.click/SupportUs)
 * [Join our team](https://tiof.click/TIOFJoinUs)
-* Partner with us
+* [Partner with us](https://tiof.click/TIOFPartnersSuggest)
 {% endhint %}
-
-## Attributions
-
-The following resources have been used across TIOF's productions and its initiatives.
-
-* Icons from [www.flaticon.com](https://www.flaticon.com) by
-  * [Eucalyp](https://www.flaticon.com/authors/eucalyp)
-  * [Font Awesome](https://fontawesome.com)
-  * [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect)
-* [Material Icons](https://material.io/resources/icons/?style=baseline) by [Google](https://www.google.com)
-* Images by
-  * [Unsplash](https://unsplash.com)
-  * [Pixabay](https://pixabay.com)
-  * [Burst](https://burst.shopify.com)
