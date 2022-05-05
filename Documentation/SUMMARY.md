@@ -3,7 +3,7 @@
 ## About
 
 * [🌟 Introduction](README.md)
-  * [🔀 🚧 Theory of Change](about/introduction/theory-of-change.md)
+  * [🔀 Theory of Change](about/introduction/theory-of-change.md)
   * [📊 🚧 Business Plan](about/introduction/business-plan.md)
   * [📈 🚧 Implementation](about/introduction/quick-monitor.md)
   * [🎨 Media Kit](about/introduction/media-kit/README.md)
