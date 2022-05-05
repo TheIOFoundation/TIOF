@@ -3,12 +3,12 @@
 ## About
 
 * [🌟 Introduction](README.md)
-  * [🚧 Theory of Change](about/introduction/theory-of-change.md)
-  * [🚧 Business Plan](about/introduction/business-plan.md)
-  * [🚧 Implementation](about/introduction/quick-monitor.md)
-  * [Media Kit](about/introduction/media-kit/README.md)
-  * [🚧 Terminology](about/introduction/terminology.md)
-  * [🚧 Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
+  * [🔀 🚧 Theory of Change](about/introduction/theory-of-change.md)
+  * [📊 🚧 Business Plan](about/introduction/business-plan.md)
+  * [📈 🚧 Implementation](about/introduction/quick-monitor.md)
+  * [🎨 Media Kit](about/introduction/media-kit/README.md)
+  * [🗃 🚧 Terminology](about/introduction/terminology.md)
+  * [❓ 🚧 Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
 * [⏩ Initiatives](initiatives.md)
 * [⏩ NextGen Rights Defenders](nextgen-rights-defenders.md)
 * [📣 Hey Big Tech! declaration](hey-big-tech-declaration.md)
