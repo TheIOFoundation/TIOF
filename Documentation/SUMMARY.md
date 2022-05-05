@@ -16,7 +16,7 @@
 * [🖖 Join us](join-us.md)
 * [💰 Support Us](donate.md)
 * [🏆 Awards](about/awards.md)
-* [🚧 Media Archive](comms/media-archive.md)
+* [🗄 Media Archive](comms/media-archive.md)
 
 ## Stakeholders
 
