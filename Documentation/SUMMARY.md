@@ -12,7 +12,7 @@
 * [⏩ Initiatives](initiatives.md)
 * [⏩ NextGen Rights Defenders](nextgen-rights-defenders.md)
 * [📣 Hey Big Tech! declaration](hey-big-tech-declaration.md)
-* [DCDR Principles](https://tiof.click/Principles)
+* [🎯 DCDR Principles](https://tiof.click/Principles)
 * [🖖 Join us](join-us.md)
 * [💰 Support Us](donate.md)
 * [🏆 Awards](about/awards.md)
@@ -76,7 +76,7 @@
 
 ## Operations
 
-* [Handbooks](operations/handbooks/README.md)
+* [📚 Handbooks](operations/handbooks/README.md)
   * [📓 🚧 Initiatives](operations/handbooks/initiatives/README.md)
     * [🚧 New Initiative Template](operations/handbooks/initiatives/new-initiative-template.md)
   * [📓 🚧 Tasks](operations/handbooks/tasks/README.md)
@@ -113,7 +113,7 @@
       * [Template Repo](operations/handbooks/infrastructure/repositories/template-repo.md)
   * [📓 🚧 Finance](operations/handbooks/finance.md)
     * [📓 🚧 Banking](operations/handbooks/banking.md)
-* [🚧 Codefield](operations/codefield/README.md)
+* [📧 🚧 Codefield](operations/codefield/README.md)
   * [🚧 Publications](codefield/publications.md)
   * [🚧 Podcast](codefield/podcast.md)
 * [🚧 Campaigns](comms/campaigns.md)
