@@ -25,6 +25,14 @@ The IO Foundation has observed the following problems:
 
 \[Work in Progress]
 
+* We the people >> We the cyborgs
+* Technology is too complex for citizens and doesn't protect them properly
+* Experts do not have the necessary tools to become the solution we need
+* Citizens should only be expected to be responsible citizens and not hackers
+*
+
+
+
 ## The proposed solutions
 
 The IO Foundation proposes the following solutions to the observed problems.
