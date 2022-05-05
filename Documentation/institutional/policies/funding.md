@@ -15,39 +15,11 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
-![logo](http://tiof.click/TIOFWikiHeader)
+## statement
 
-## Table of Contents
+INDEPENDENCE
 
-<details>
-
-<summary>Expand / Collapse</summary>
-
-&#x20;
-
-1. Introduction
-   * Definitions
-   * About this document
-   * Scope
-2. Policy details
-   * IT and Communications Systems statement
-   * Organization infrastructure and services
-     * Platform Requirements
-   * Bring Your Own Device (BYOD)
-   * Equipment security and Digital Credentials
-     * Renewal of Digital Credentials
-     * MFA/2FA
-   * Systems and data security
-   * Using Channels
-   * Using the Internet
-     * Blocking of information
-   * Personal use of our systems
-   * Prohibited use of our systems
-   * Monitoring
-
-</details>
-
-## The funding streams
+## Funding streams
 
 
 
