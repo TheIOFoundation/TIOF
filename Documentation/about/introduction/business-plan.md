@@ -17,3 +17,8 @@ This section provides all the information about The IO Foundation's business pla
 
 \[Work in Progress]
 
+{% hint style="info" %}
+This business plan is fully compliant with [The IO Foundation's policies](https://tiof.click/TIOFPolicies).
+{% endhint %}
+
+## Budgeting
