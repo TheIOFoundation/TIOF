@@ -1,7 +1,11 @@
+---
+description: Version 1.0 | This Theory of Change was approved on DD MMMM YYYY.
+---
+
 # 🔀 Theory of Change
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TIOFTofC) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
@@ -19,15 +23,16 @@ This section describes the Theory of Change that guides The IO Foundation and it
 
 The IO Foundation has observed the following problems:
 
-
+\[Work in Progress]
 
 ## The proposed solutions
 
 The IO Foundation proposes the following solutions to the observed problems.
 
-
+\[Work in Progress]
 
 ## Theory of change
 
 The IO Foundation proposes the following Theory of Change to address the observed problems.
 
+\[Work in Progress]
