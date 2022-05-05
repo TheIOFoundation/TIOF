@@ -1,10 +1,8 @@
-# 🚧 Terminology
+# 🗃 Terminology
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)****
 {% endhint %}
-
-
 
 {% hint style="warning" %}
 **NOTICE**
@@ -13,13 +11,7 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
-## PLEASE NOTE THAT THIS IS A WORK IN PROGRESS DOCUMENT
-
-***
-
-## The IO Foundation
-
-
+## About
 
 {% hint style="info" %}
 A number of terms in this Terminology have a slide ready for presentations.
