@@ -67,10 +67,10 @@ Examples of unacceptable behavior include:
 
 *   The use of sexualized language or imagery and sexual attention or advances of any kind
 
-    > Note: There is nothing wrong with the above, there are simply other places for it.
+    > Note: There is nothing wrong with the above, there are simply other places for it
 * Trolling, insulting or otherwise derogatory comments and personal or political attacks
 * Public or private harassment
-*   Publishing others' private information, such as (although not limited to) a physical or email address, without their explicit permission.
+*   Publishing others' private information, such as (although not limited to) a physical or email address, without their explicit permission
 
     > Please refer the [Dhatham House Rule](https://tiof.click/Dhatham).
 * Other conduct which could reasonably be considered inappropriate in a professional setting

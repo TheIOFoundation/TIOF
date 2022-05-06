@@ -25,55 +25,11 @@ The IO Foundation has observed the following problems:
 
 \[Work in Progress]
 
-* We the people >> We the cyborgs
-* Technology is too complex for citizens and doesn't protect them properly
-* Experts do not have the necessary tools to become the solution we need
-* Citizens should only be expected to be responsible citizens and not hackers
-* Governments are loosing the tech race
-* Innovation is too fast for govs to catch up
-*
-
-
-
 ## The proposed solutions
 
-The IO Foundation proposes the following solutions to the observed problems through the implementation of the following initiatives:
-
-### Data-Centric Digital Rights advocacy (DCDR)
-
-This is the core initiative for The IO Foundation
-
-### BHR in Tech (BiT)
-
-
-
-### CrowdShape (CS)
-
-
-
-### TechUp (TU)
-
-
-
-### Project Lockdown (PLD)
-
-
-
-### Universal Declaration of Digital Rights (UDDR)
-
-
+The IO Foundation proposes the following solutions to the observed problems.
 
 \[Work in Progress]
-
-
-
-### Others
-
-The IO Foundation is constantly exploring new initiatives to further its work towards making technology better and safer.
-
-
-
-
 
 ## Theory of change
 
