@@ -295,15 +295,24 @@ Every year, the KPIs shall be revisited and updated as follows:
   * Report of current year's KPIs
   * Analysis of actions to implement next year's KPIs
 
-### 4.7 Yearly Strategy
+### 4.7 Activity cycles
+
+
+
+### 4.8 Season Strategy
 
 The organization will decide, organize and implement a strategy to move its advocacy forward.
 
-The Yearly Strategy shall include:
+The corresponding Season Strategy shall include:
 
-* List of initatives
+* List of initiatives
 * Yearly KPIs
 * Planned activities
+* Expected 3rd party events to attend
+* Financial budget projection
+* Resource allocation projection
+
+
 
 ## 5. Organization's Structure
 

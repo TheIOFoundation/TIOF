@@ -24,6 +24,6 @@ At the date of writing this has been impossible due to lack of resources and con
 
 The organization is nonetheless actively working on this subject and will make all possible efforts to issue an Impact Report as soon as possible.
 
-### Impact Year
+### Impact Season
 
-Following the same timing as its Fiscal Year, TIOF's Impact Reports range from 1st January to 31st December of the reviewed year.
+Following the same timing as its Fiscal Year, TIOF's Impact Reports range from 1st January to 31st December of the reviewed year, which are qualified as Seasons.
