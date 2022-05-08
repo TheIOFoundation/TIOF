@@ -66,12 +66,12 @@
   * [🚧 Information Management](institutional/policies/information-management.md)
   * [🚧 Security](institutional/Policies/security.md)
 * [📗 Annual Reports](institutional/annual-reports/README.md)
-  * [🍃 Season 2018](institutional/annual-reports/season-2018.md)
-  * [🍃 Season 2019](institutional/annual-reports/season-2019.md)
-  * [🍃 Season 2020](institutional/annual-reports/season-2020.md)
-  * [🍃 Season 2021](institutional/annual-reports/season-2021.md)
-  * [🍃 Season 2022](institutional/annual-reports/season-2022.md)
-  * [🍃 Season 2023](institutional/annual-reports/season-2023.md)
+  * [🍃 Season 2018](institutional/annual-reports/2018.md)
+  * [🍃 Season 2019](institutional/annual-reports/2019.md)
+  * [🍃 Season 2020](institutional/annual-reports/2020.md)
+  * [🍃 Season 2021](institutional/annual-reports/2021.md)
+  * [🍃 Season 2022](institutional/annual-reports/2022.md)
+  * [🍃 Season 2023](institutional/annual-reports/2023.md)
 * [🚧 Partners and Collaborators](institutional/partners-and-collaborators.md)
 
 ## Operations
