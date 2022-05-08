@@ -2,7 +2,7 @@
 description: Version 1.0 | This Policy was approved on 01 March 2022.
 ---
 
-# Anti corruption & Anti bribery
+# 📜 Anti corruption & Anti bribery
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFPolicyACAB) **| Playbook | Assistant**

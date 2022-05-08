@@ -2,7 +2,7 @@
 description: Version 1.0 | This Policy was approved on 01 March 2022.
 ---
 
-# Equal Opportunities
+# 📜 Equal Opportunities
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFPolicyEO) **| Playbook | Assistant**
