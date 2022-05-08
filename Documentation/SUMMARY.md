@@ -65,7 +65,7 @@
   * [🚧 Communications](institutional/policies/communications.md)
   * [🚧 Information Management](institutional/policies/information-management.md)
   * [🚧 Security](institutional/Policies/security.md)
-* [🚧 Annual Reports](institutional/annual-reports/README.md)
+* [📗 Annual Reports](institutional/annual-reports/README.md)
   * [🚧 2018](institutional/annual-reports/2018.md)
   * [🚧 2019](institutional/annual-reports/2019.md)
   * [🚧 2020](institutional/annual-reports/2020.md)
@@ -153,6 +153,6 @@
 
 ## ⛔ WIP - IGNORE
 
-* [\[TIOF\] Institutional \[I\] Organization Data v1.5](wip-ignore/tiof-institutional-i-organization-data-v1.5.md)
-* [The IO Foundation Privacy Notice Final Version(53326202.1)](wip-ignore/the-io-foundation-privacy-notice-final-version-53326202.1.md)
-* [Home](wip-ignore/home.md)
+* [\[TIOF\] Institutional \[I\] Organization Data v1.5](dirty/tiof-institutional-i-organization-data-v1.5.md)
+* [The IO Foundation Privacy Notice Final Version(53326202.1)](dirty/the-io-foundation-privacy-notice-final-version-53326202.1.md)
+* [Home](dirty/home.md)
