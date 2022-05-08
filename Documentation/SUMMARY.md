@@ -38,7 +38,7 @@
   * [🚧 Board of Consultants](institutional/structures/board-of-consultants.md)
   * [🚧 Global Management](institutional/structures/global-management.md)
   * [🚧 Teams](institutional/structures/teams.md)
-* [🚧 Policies](institutional/Policies/README.md)
+* [📜 🚧 Policies](institutional/Policies/README.md)
   * [Dhatham House Rule](institutional/Policies/dhatham-house-rule.md)
   * [Code of Conduct](institutional/policies/code-of-conduct.md)
   * [Anti corruption & Anti bribery](institutional/Policies/anti-corruption-and-anti-bribery.md)
