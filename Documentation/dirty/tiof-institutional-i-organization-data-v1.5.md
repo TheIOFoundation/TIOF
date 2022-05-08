@@ -1,6 +1,14 @@
 # \[TIOF] Institutional \[I] Organization Data v1.5
 
-#### &#x20;<a href="#_goxk7l8j9329" id="_goxk7l8j9329"></a>
+
+
+
+
+PENDING: OPERATIONAL MANUAL v1.0
+
+{% embed url="https://docs.google.com/document/d/1nQJIo3V_TsTtGYKlY-6_WwQJe7Y487pqquoNfuKYOl8/edit?usp=sharing" %}
+
+
 
 #### &#x20;<a href="#_goxk7l8j9329" id="_goxk7l8j9329"></a>
 
