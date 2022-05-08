@@ -13,8 +13,6 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 ## About
 
-The following section provides a comprehensive list of terms using across The IO Foundation's productions.
-
 {% hint style="info" %}
 A number of terms in this Terminology have a slide ready for presentations.
 
