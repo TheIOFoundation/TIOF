@@ -245,7 +245,7 @@ The IO Foundation was created in the pursuit of creating better and safer digita
 
 * Objective truth
 * Scientific method
-* Enlightment values
+* Enlightenment values
 * Non-discrimination in any shape or form
 * Respect and advancement of Human Rights
 * Respect and advancement of Data-Centric Digital Rights
@@ -293,7 +293,9 @@ Every year, the KPIs shall be revisited and updated as follows:
 
 ### 4.7 Activity cycles
 
+The IO Foundation structures its activities around yearly cycles that are named Seasons.
 
+Seasons range from 1st January to 31st December of the considered natural year.
 
 ### 4.8 Season Strategy
 
@@ -307,8 +309,6 @@ The corresponding Season Strategy shall include:
 * Expected 3rd party events to attend
 * Financial budget projection
 * Resource allocation projection
-
-
 
 ## 5. Organization's Structure
 
@@ -535,7 +535,17 @@ The General Meeting is managed by its corresponding General Meeting Lifecycle.
 See here the Template for the General Meeting.
 {% endhint %}
 
-### 6
+
+
+
+
+
+
+{% hint style="warning" %}
+**NOTICE**
+
+<mark style="color:red;">**This remaining of this Statue is a work in progress.**</mark>
+{% endhint %}
 
 ### 6.5 Status Meets
 
