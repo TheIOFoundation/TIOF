@@ -25,8 +25,29 @@ This Handbook responds to the following Policies:
 
 Structure:
 
-Bank accounts
 
-Cruptocurrencies\
+
+
+
+## Bank accounts
+
+### Operations
+
+Access Control
+
+
+
+Bank Statements
+
+
+
+Cryptocurrencies\
 Coinbase Commerce\
 Ledger Nano
+
+
+
+
+
+
+
