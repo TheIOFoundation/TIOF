@@ -13,6 +13,8 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 ## About
 
+This section provides an understanding of the infrastructure, tools and procedures that The IO Foundation uses to implement its operations.
+
 ## Repository
 
 
