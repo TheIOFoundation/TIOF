@@ -19,6 +19,16 @@ The following section provides a comprehensive list of Teams and their descripti
 A full taxonomy of TIOF Teams can be found in the [Organization's Taxonomy](https://tiof.click/OrgTaxonomy).
 {% endhint %}
 
+{% hint style="info" %}
+A full list of TIOF Members can be found in the [Organizational Chart](https://tiof.click/TIOFOrgChart).
+{% endhint %}
+
+{% hint style="warning" %}
+Interested in joining The IO Foundation?
+
+Check the Open Positions in our Career Site.
+{% endhint %}
+
 {% hint style="success" %}
 Teams are used to structure communications across their members, for applications such as
 
@@ -28,12 +38,6 @@ Teams are used to structure communications across their members, for application
 Teams are sometimes referred as Groups in certain platforms.
 
 For more information. refer to each platform's documentation.
-{% endhint %}
-
-{% hint style="warning" %}
-Interested in joining The IO Foundation?
-
-Check the Open Positions in our Career Site.
 {% endhint %}
 
 ## General Skills
