@@ -1,6 +1,14 @@
 # \[TIOF] Institutional \[I] Organization Data v1.5
 
-#### &#x20;<a href="#_goxk7l8j9329" id="_goxk7l8j9329"></a>
+
+
+
+
+PENDING: OPERATIONAL MANUAL v1.0
+
+{% embed url="https://docs.google.com/document/d/1nQJIo3V_TsTtGYKlY-6_WwQJe7Y487pqquoNfuKYOl8/edit?usp=sharing" %}
+
+
 
 #### &#x20;<a href="#_goxk7l8j9329" id="_goxk7l8j9329"></a>
 
@@ -440,3 +448,23 @@ Please note donations are made without strings attached. TIOF is an independent 
 We thank you for your support and for helping making possible a world where Human Rights and Digital Rights are one and the same.
 
 \- The IO Foundation team
+
+
+
+
+
+
+
+𝗔𝗱𝗺𝗶𝗻 𝗧𝗲𝗮𝗺𝘀 𝗧𝗲𝗮𝗺 𝗖𝗼𝗼𝗿𝗱𝗶𝗻𝗮𝘁𝗼𝗿𝘀: Managing team members, coordinating tasks and ensuring smooth operations overall.&#x20;
+
+Finance Manager
+
+The Finance Manager is mainly responsible for fiscal management reflecting cohesiveness between program design and cost-effectiveness. The FM works closely with the PM and the Project Manager.
+
+Finance and Administrative Staff
+
+The F/A Staff or Assistant provides clerical support to the rest of the secretariat.
+
+Project Manager / Project Officer / Project Staff
+
+When necessary and when funds are available, the Foundation hires respective project personnel.

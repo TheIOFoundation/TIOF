@@ -13,8 +13,6 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 ## About
 
-The following section provides a comprehensive list of terms using across The IO Foundation's productions.
-
 {% hint style="info" %}
 A number of terms in this Terminology have a slide ready for presentations.
 
@@ -23,39 +21,39 @@ Please check the corresponding [Slides Repository](https://tiof.click/TIOFSlides
 
 ### Members
 
-Any person officially involved in the implementatsion of initiatives under The IO Foundation. This includes from staff to volunteers.
+Any person officially involved in the implementation of initiatives under The IO Foundation. This includes from staff to volunteers.
 
-### Personal characteristic dimension (PCD)
+#### Personal characteristic dimension (PCD)
 
-### Employees
+#### Employees
 
-### Volunteers
+#### Volunteers
 
-### Interns
+#### Interns
 
-### Directors
+#### Directors
 
-### Advisers
+#### Advisers
 
-### Consultants
+#### Consultants
 
 ### Contributors
 
-### Individuals
+#### Individuals
 
-### **Event Participants**
+**Event Participants**
 
-### **Project Contributors**
+**Project Contributors**
 
-### Organizations
+#### Organizations
 
-### **Partner**
+**Partner**
 
-### **Project "contractuals"**
+**Project "contractuals"**
 
 Ex GPD.
 
-### **Media**
+**Media**
 
 ****
 
@@ -63,9 +61,7 @@ Ex GPD.
 
 ****
 
-### Engagement Document
-
-### **Engagement types**
+### **Engagement type**
 
 #### Full-time
 
@@ -79,6 +75,10 @@ Ex GPD.
 
 ****
 
+## Documents, Handbooks and Policies
+
+### Engagement Document
+
 ### Spaces
 
 Any location, physical or virtual, in which TIOF advances its advocacy and implements its initiatives.
@@ -89,6 +89,8 @@ Examples of spaces:
 * Event venues
 * Event online platforms
 * Official TIOF channels
+
+###
 
 ### Media Channel
 
