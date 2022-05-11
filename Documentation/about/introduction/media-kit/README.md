@@ -7,7 +7,7 @@ coverY: 0
 # 🎨 Media Kit
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFMediaKit) **| Playbook | Assistant**
+****[**ShortURL**](https://tiof.click/TIOFMediaKit) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)****
 {% endhint %}
 
 ## Introduction
