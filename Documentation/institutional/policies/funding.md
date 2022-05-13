@@ -67,25 +67,6 @@ See Resource Allocation Handbook.
 
 
 
-## Pending
-
-All payment gateway platforms are to include
-
-* Terms and Conditions
-* Privacy Policy
-
-
-
-
-
-## Transparency
-
-
-
-
-
-
-
 
 
 ## Introduction
