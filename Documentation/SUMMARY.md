@@ -64,6 +64,7 @@
   * [🚧 Document Management](institutional/policies/document-management.md)
   * [🚧 Communications](institutional/policies/communications.md)
   * [🚧 Information Management](institutional/policies/information-management.md)
+  * [🚧 Terms and Conditions](institutional/policies/terms-and-conditions.md)
   * [🚧 Security](institutional/Policies/security.md)
 * [📗 Annual Reports](institutional/annual-reports/README.md)
   * [🍃 Season 2018](institutional/annual-reports/2018.md)
