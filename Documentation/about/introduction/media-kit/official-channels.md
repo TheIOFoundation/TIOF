@@ -21,3 +21,27 @@ This Handbook responds to the following Policies:
 *
 {% endhint %}
 
+### LinkedIn
+
+
+
+Single image per post Visual size: 1200 x 627 pixels Format: .png&#x20;
+
+
+
+
+
+### Twitter
+
+Single image per post Visual size: 1200 x 675 pixels Format: .png
+
+
+
+
+
+### Youtube
+
+
+
+
+
