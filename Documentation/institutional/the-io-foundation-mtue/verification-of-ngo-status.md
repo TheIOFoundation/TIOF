@@ -10,7 +10,7 @@ description: Version 1.3
 
 ## About
 
-The IO Foundation is a nonprofit organization registered in Estonia under their [e-Residency program](https://www.e-resident.gov.ee).
+The IO Foundation is a nonprofit organization registered in Estonia under their [e-Residency program](https://www.e-resident.gov.ee/).
 
 This document provides methods to verify the legal nonprofit status of The IO Foundation.
 

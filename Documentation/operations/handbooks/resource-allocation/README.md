@@ -97,7 +97,7 @@ Helps support TIOF in its advocacy and hire staff on permanent basis.\
 Company logo will be included in
 
 * TIOF website [Funders](https://theiofoundation.org/Funding) page
-* TIOF website [Main](https://theiofoundation.org) page
+* TIOF website [Main](https://theiofoundation.org/) page
 * Materials related to the projects it helped fund (priority positioning)
 
 Will receive financial report on the use of the donation (optional).\

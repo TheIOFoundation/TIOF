@@ -19,7 +19,7 @@ Go to G Cal Settings - Time Zone
 
 Select the appropriate Primary and Secondary
 
-(If you have doubts locating the zones, use tools such as [www.timeanddate.com](http://www.timeanddate.com))
+(If you have doubts locating the zones, use tools such as [www.timeanddate.com](http://www.timeanddate.com/))
 
 Select “Display Secondary time zone”
 
