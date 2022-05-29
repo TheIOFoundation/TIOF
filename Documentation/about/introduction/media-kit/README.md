@@ -134,15 +134,15 @@ As data becomes an increasingly powerful economic, political, and social force, 
 
 Following its vision of `A world where Human Rights and Digital Rights are one and the same`, TIOF aims to raise awareness of the importance of Data-Centric Digital Rights in collaboration with all stakeholders ranging from programmers, bodies of governance, civil society and corporate.
 
-#### Mini version&#x20;
+#### Mini version (under 300 characters)
 
 The IO Foundation (TIOF) is a global for-impact NGO advocating for Data-Centric Digital Rights to establish a more solid approach to Rights from a technical standards perspective and to raise awareness on the critical role of programmers as the Next Generation of Human and Digital Rights defenders.
 
-#### Micro version
+#### Micro version (under 160 characters)
 
 TIOF is a for-impact NGO advocating for Data-Centric Digital Rights aiming to establish a more solid approach to Rights from a technical standards perspective.
 
-#### Nano version
+#### Nano version (under 100 characters)
 
 The IO Foundation is a global for-impact NGO advocating for Data-Centric Digital Rights (DCDR).
 
