@@ -47,7 +47,7 @@
   * [📜 Equal Opportunities](institutional/Policies/equal-opportunities.md)
   * [📜 Sickness Absence](institutional/Policies/sickness-absence.md)
   * [📜 Whistleblowing](institutional/Policies/whistleblowing.md)
-  * [Health and Safety](institutional/Policies/health-and-safety.md)
+  * [📜 Health and Safety](institutional/Policies/health-and-safety.md)
   * [🚧 Human Resources](institutional/policies/human-resources.md)
   * [🚧 Transparency & Accountability](institutional/Policies/transparency-and-accountability.md)
   * [🚧 Children Protection](institutional/Policies/children-protection.md)
