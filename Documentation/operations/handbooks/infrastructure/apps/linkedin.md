@@ -82,11 +82,37 @@ Single image per post Visual size: 1200 x 627 pixels Format: .png
 
 
 
+
+
+#### Create content: Promote activity recording
+
+
+
+
+
+#### Outreach: Invite followers
+
+
+
 #### Outreach: Create ads
 
 
 
 #### Outreach: Analytics
+
+
+
+
+
+
+
+#### Maintenance:
+
+
+
+
+
+
 
 
 

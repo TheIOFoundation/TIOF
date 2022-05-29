@@ -1,7 +1,7 @@
-# 📓 🚧 Official Channels
+# 📓 🚧 Apps
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFChannels) **| Playbook | Assistant**
+**ShortURL | Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
@@ -17,9 +17,15 @@ This Handbook responds to the following Policies:
 *
 {% endhint %}
 
+
+
 ## About
 
+The following section&#x20;
 
+
+
+## Structure
 
 
 
