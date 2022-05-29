@@ -31,7 +31,16 @@ Slack Manual
 
 See other information&#x20;
 
+## Usage <a href="#usage" id="usage"></a>
 
+* Communications between Members
+* Community
+
+## Information <a href="#information" id="information"></a>
+
+## Object Model <a href="#object-model" id="object-model"></a>
+
+This section describes the object model used in this App.See render here:
 
 
 
