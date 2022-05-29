@@ -31,11 +31,21 @@ For any information on how to use these channels, please refer to their correspo
 Should you find any other channel impersonating The IO Foundation, please do not hesitate to let us know: Contact@TheIOFoundation.org
 {% endhint %}
 
+## Internal Channels
+
+The following is a list of internal channels used exclusively to communicate among TIOF Members.
+
+| Channel | Full URL | ShortURL |
+| ------- | -------- | -------- |
+| Slack   |          |          |
+|         |          |          |
+|         |          |          |
+
 ## Official Channels
 
 The following is a list of official channels through which The IO Foundation posts and shares content derived from its advocacy and its initiatives.
 
-| Channels        | Full URL                                                                                                               | ShortURL                                                               |
+| Channel         | Full URL                                                                                                               | ShortURL                                                               |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | LinkedIn        | [https://www.linkedin.com/company/the-io-foundation](https://www.linkedin.com/company/the-io-foundation)               | [https://TIOF.Click/TIOFLinkedIn](https://tiof.click/TIOFLinkedIn)     |
 | Twitter         | [https://twitter.com/TheIOFoundation](https://twitter.com/TheIOFoundation)                                             | [https://TIOF.Click/TIOFTwitter](https://tiof.click/TIOFTwitter)       |
@@ -46,6 +56,7 @@ The following is a list of official channels through which The IO Foundation pos
 | GAB             | [https://gab.com/TIOF](https://gab.com/TIOF)                                                                           | [https://TIOF.Click/TIOFGAB](https://tiof.click/TIOFGAB)               |
 | Pinterest       | [https://www.pinterest.com/TheIOFoundation/](https://www.pinterest.com/TheIOFoundation/)                               | [https://TIOF.Click/TIOFPinterest](https://tiof.click/TIOFPinterest)   |
 | Github Sponsors | [https://github.com/sponsors/TheIOFoundation](https://github.com/sponsors/TheIOFoundation)                             | [https://TIOF.Click/TIOFGHSponsors](https://tiof.click/TIOFGHSponsors) |
+| Telegram        | [https://t.me/TheIOFoundation](https://t.me/TheIOFoundation)                                                           | [https://TIOF.Click/TIOFTelegram](https://tiof.click/TIOFTelegram)     |
 
 ## Reserved Channels
 
@@ -57,7 +68,7 @@ The following is a list of official channels where The IO Foundation has presenc
 
 {% endhint %}
 
-| Channels        | Full URL                                                                                                                               | ShortURL |
+| Channel         | Full URL                                                                                                                               | ShortURL |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | Minds           | [https://www.Minds.com/TIOF/](https://www.minds.com/TIOF/)                                                                             | N/A      |
 | tumblr          | [https://www.tumblr.com/blog/theiofoundation](https://www.tumblr.com/blog/theiofoundation)                                             | N/A      |
