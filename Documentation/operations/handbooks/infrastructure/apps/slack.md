@@ -17,6 +17,22 @@ This Handbook responds to the following Policies:
 *
 {% endhint %}
 
+## Docs to integrate
+
+{% embed url="https://docs.google.com/document/d/1MpFWaiADlUwnLX1FU6FpDWeWRqAlvFTYrl6d8GsQ9Pg/edit" %}
+Slack Manual
+{% endembed %}
+
+{% embed url="https://docs.google.com/spreadsheets/d/1A6pq0bgAmdvcyuNtRY9tuh6E2vPHn83cnWY8bEZol7s/edit#gid=519494478" %}
+\[TIOF] Infrastructure \[C] Slack Config Settings ENG v1.0
+{% endembed %}
+
+
+
+
+
+
+
 ## About
 
 
