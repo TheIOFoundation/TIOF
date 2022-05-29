@@ -84,7 +84,7 @@
     * [📓 🚧 Meetings](operations/handbooks/tasks/meetings.md)
   * [📓 🚧 Comms](operations/handbooks/comms/README.md)
     * [📓 🚧 Identity](operations/handbooks/organization-identity.md)
-    * [📓 🚧 Channels](operations/handbooks/comms/channels.md)
+    * [📓 Channels](about/introduction/media-kit/official-channels.md)
     * [📓 🚧 Tags](operations/handbooks/tags.md)
     * [📓 🚧 3rd Party Activity Evaluation](operations/handbooks/comms/events-evaluation.md)
     * [📓 🚧 Activity Design Template](operations/handbooks/comms/activity-design-template.md)

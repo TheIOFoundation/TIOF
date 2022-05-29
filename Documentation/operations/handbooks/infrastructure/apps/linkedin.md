@@ -130,3 +130,15 @@ Single image per post Visual size: 1200 x 675 pixels Format: .png
 
 
 
+
+
+### Odysee
+
+Cover Image (6.25:1 ratio, 5MB max)
+
+
+
+
+
+
+
