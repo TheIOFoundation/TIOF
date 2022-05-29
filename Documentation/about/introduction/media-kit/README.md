@@ -329,7 +329,7 @@ The IO Foundation, in general, uses social media reluctantly.
 To learn more about TIOF's position on this matter, check our [Hey Big Tech! declaration.](https://tiof.click/HeyBigTech)
 {% endhint %}
 
-| Platform  | Full URL                                                                                                               | ShortURL                                                             |
+| Channels  | Full URL                                                                                                               | ShortURL                                                             |
 | --------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | LinkedIn  | [https://www.linkedin.com/company/the-io-foundation](https://www.linkedin.com/company/the-io-foundation)               | [https://TIOF.Click/TIOFLinkedIn](https://tiof.click/TIOFLinkedIn)   |
 | Twitter   | [https://twitter.com/TheIOFoundation](https://twitter.com/TheIOFoundation)                                             | [https://TIOF.Click/TIOFTwitter](https://tiof.click/TIOFTwitter)     |
@@ -342,6 +342,8 @@ To learn more about TIOF's position on this matter, check our [Hey Big Tech! dec
 
 {% hint style="warning" %}
 The IO Foundation has profiles in other platforms, sometimes in preparation for its use, sometimes to avoid impersonation.
+
+You can find the full list of **Official** and **Reserved** channels in the [Channels Handbook](https://tiof.click/TIOFChannels).
 {% endhint %}
 
 ### Calendars
