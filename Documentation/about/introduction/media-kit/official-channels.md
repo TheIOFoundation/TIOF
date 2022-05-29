@@ -35,11 +35,11 @@ Should you find any other channel impersonating The IO Foundation, please do not
 
 The following is a list of internal channels used exclusively to communicate among TIOF Members.
 
-| Channel | Full URL | ShortURL |
-| ------- | -------- | -------- |
-| Slack   |          |          |
-|         |          |          |
-|         |          |          |
+| Channel      | Full URL                                                                         | ShortURL                                                     |
+| ------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| Slack        | [https://TheIOFoundation.slack.com](https://theiofoundation.slack.com)           | [https://TIOF.Click/Slack](https://tiof.click/Slack)         |
+| _Join Slack_ | [https://launchpass.com/theiofoundation](https://launchpass.com/theiofoundation) | [https://TIOF.Click/JoinSlack](https://tiof.click/JoinSlack) |
+|              |                                                                                  |                                                              |
 
 ## Official Channels
 
