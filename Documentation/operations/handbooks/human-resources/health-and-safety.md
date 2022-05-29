@@ -37,7 +37,7 @@ This Handbook responds to the following documents:
 
 ## First Aiders
 
-
+The list of trained first aiders are made available on our [TIOF Org Chart](https://tiof.click/TIOFOrgChart).
 
 ### Becoming a First Aider
 
