@@ -100,6 +100,7 @@
     * [📓 🚧 Procurement](operations/handbooks/procurement.md)
     * [📓 🚧 Stock Management](operations/handbooks/resource-allocation/stock-management.md)
   * [📓 🚧 Human Resources](operations/handbooks/human-resources.md)
+    * [📓 🚧 Health and Safety](operations/handbooks/human-resources/health-and-safety.md)
     * [📓 🚧 Employee](operations/handbooks/employee.md)
     * [📓 🚧 Intern](operations/handbooks/human-resources/intern.md)
     * [📓 🚧 Volunteer](operations/handbooks/human-resources/volunteer.md)
