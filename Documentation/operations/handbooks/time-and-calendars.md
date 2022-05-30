@@ -75,7 +75,13 @@ Used to
 
 
 
+## Recommended Tools
 
+
+
+### AMdroid
+
+Converts any entry on Google Calendar into an alarm automatically.
 
 
 
