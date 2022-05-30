@@ -45,18 +45,18 @@ The following is a list of internal channels used exclusively to communicate amo
 
 The following is a list of official channels through which The IO Foundation posts and shares content derived from its advocacy and its initiatives.
 
-| Channel         | Full URL                                                                                                               | ShortURL                                                               |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| LinkedIn        | [https://www.linkedin.com/company/the-io-foundation](https://www.linkedin.com/company/the-io-foundation)               | [https://TIOF.Click/TIOFLinkedIn](https://tiof.click/TIOFLinkedIn)     |
-| Twitter         | [https://twitter.com/TheIOFoundation](https://twitter.com/TheIOFoundation)                                             | [https://TIOF.Click/TIOFTwitter](https://tiof.click/TIOFTwitter)       |
-| Facebook        | [https://www.facebook.com/TheI0Foundation/](https://www.facebook.com/TheI0Foundation/)                                 | [https://TIOF.Click/TIOFFacebook](https://tiof.click/TIOFFacebook)     |
-| Instagram       | [https://www.instagram.com/theiofoundation/](https://www.instagram.com/theiofoundation/)                               | [https://TIOF.Click/TIOFInstagram](https://tiof.click/TIOFInstagram)   |
-| Youtube         | [https://www.youtube.com/channel/UCT\_uLJimWw9TLRPHtAtoPyQ](https://www.youtube.com/channel/UCT\_uLJimWw9TLRPHtAtoPyQ) | [https://TIOF.Click/TIOFYoutube](https://tiof.click/TIOFYoutube)       |
-| Rumble          | [https://rumble.com/c/c-1383496](https://rumble.com/c/c-1383496)                                                       | [https://TIOF.Click/TIOFRumble](https://tiof.click/TIOFRumble)         |
-| GAB             | [https://gab.com/TIOF](https://gab.com/TIOF)                                                                           | [https://TIOF.Click/TIOFGAB](https://tiof.click/TIOFGAB)               |
-| Pinterest       | [https://www.pinterest.com/TheIOFoundation/](https://www.pinterest.com/TheIOFoundation/)                               | [https://TIOF.Click/TIOFPinterest](https://tiof.click/TIOFPinterest)   |
-| Github Sponsors | [https://github.com/sponsors/TheIOFoundation](https://github.com/sponsors/TheIOFoundation)                             | [https://TIOF.Click/TIOFGHSponsors](https://tiof.click/TIOFGHSponsors) |
-| Telegram        | [https://t.me/TheIOFoundation](https://t.me/TheIOFoundation)                                                           | [https://TIOF.Click/TIOFTelegram](https://tiof.click/TIOFTelegram)     |
+| Channel         | Full URL                                                                                                               | ShortURL                                                               | Primary Use |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------- |
+| LinkedIn        | [https://www.linkedin.com/company/the-io-foundation](https://www.linkedin.com/company/the-io-foundation)               | [https://TIOF.Click/TIOFLinkedIn](https://tiof.click/TIOFLinkedIn)     | SocMed      |
+| Twitter         | [https://twitter.com/TheIOFoundation](https://twitter.com/TheIOFoundation)                                             | [https://TIOF.Click/TIOFTwitter](https://tiof.click/TIOFTwitter)       | SocMed      |
+| Facebook        | [https://www.facebook.com/TheI0Foundation/](https://www.facebook.com/TheI0Foundation/)                                 | [https://TIOF.Click/TIOFFacebook](https://tiof.click/TIOFFacebook)     | SocMed      |
+| Instagram       | [https://www.instagram.com/theiofoundation/](https://www.instagram.com/theiofoundation/)                               | [https://TIOF.Click/TIOFInstagram](https://tiof.click/TIOFInstagram)   | SocMed      |
+| Youtube         | [https://www.youtube.com/channel/UCT\_uLJimWw9TLRPHtAtoPyQ](https://www.youtube.com/channel/UCT\_uLJimWw9TLRPHtAtoPyQ) | [https://TIOF.Click/TIOFYoutube](https://tiof.click/TIOFYoutube)       | SocMed      |
+| Rumble          | [https://rumble.com/c/c-1383496](https://rumble.com/c/c-1383496)                                                       | [https://TIOF.Click/TIOFRumble](https://tiof.click/TIOFRumble)         | SocMed      |
+| GAB             | [https://gab.com/TIOF](https://gab.com/TIOF)                                                                           | [https://TIOF.Click/TIOFGAB](https://tiof.click/TIOFGAB)               | SocMed      |
+| Pinterest       | [https://www.pinterest.com/TheIOFoundation/](https://www.pinterest.com/TheIOFoundation/)                               | [https://TIOF.Click/TIOFPinterest](https://tiof.click/TIOFPinterest)   | SocMed      |
+| Github Sponsors | [https://github.com/sponsors/TheIOFoundation](https://github.com/sponsors/TheIOFoundation)                             | [https://TIOF.Click/TIOFGHSponsors](https://tiof.click/TIOFGHSponsors) | Fundraising |
+| Telegram        | [https://t.me/TheIOFoundation](https://t.me/TheIOFoundation)                                                           | [https://TIOF.Click/TIOFTelegram](https://tiof.click/TIOFTelegram)     | SocMed      |
 
 ## Reserved Channels
 
@@ -91,9 +91,20 @@ The following is a list of official channels where The IO Foundation has presenc
 | Codeberg        | [https://codeberg.org/TheIOFoundation](https://codeberg.org/TheIOFoundation)                                                           | N/A      |
 | HasGeek         | [https://HasGeek.com/TIOF](https://hasgeek.com/TIOF)                                                                                   | N/A      |
 | Parler          | [https://parler.com/TheIOFoundation](https://parler.com/TheIOFoundation)                                                               | N/A      |
-| Handshake       | [https://app.joinhandshake.com/emp/employers/705577](https://app.joinhandshake.com/emp/employers/705577)                               | N/A      |
 | Crunchbase      | [https://www.crunchbase.com/organization/the-io-foundation](https://www.crunchbase.com/organization/the-io-foundation)                 | N/A      |
 | Peatix          | [https://TIOF.Peatix.com](https://tiof.peatix.com)                                                                                     | N/A      |
+
+
+
+## Recruitment Platforms
+
+| Channel          | Full URL                                                                                                 | ShortURL                                                       |
+| ---------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| TIOF Career Site | https://Join.TheIOFoundation.org                                                                         | [https://TIOF.Click/TIOFJoinUs](https://tiof.click/TIOFJoinUs) |
+| Handshake        | [https://app.joinhandshake.com/emp/employers/705577](https://app.joinhandshake.com/emp/employers/705577) | N/A                                                            |
+| Upwork           | PENDING                                                                                                  | N/A                                                            |
+| Monster          | PENDING                                                                                                  | N/A                                                            |
+|                  |                                                                                                          |                                                                |
 
 
 
