@@ -1,3 +1,7 @@
+---
+layout: editorial
+---
+
 # 📓 🚧 Activity Design Template
 
 {% hint style="info" %}
