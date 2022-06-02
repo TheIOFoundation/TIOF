@@ -144,4 +144,43 @@ The basic principles protecting Representational Entities in Digital Spaces.
 
 A set of legal and technical standards to ensure the observance, compliance and implementation of Digital Rights.
 
-###
+
+
+### Data Owners
+
+#### Traditional
+
+#### DCDR
+
+
+
+### Data Controllers
+
+#### Traditional
+
+#### DCDR
+
+
+
+### Data Subjects
+
+#### Traditional
+
+#### DCDR
+
+
+
+### Data Users
+
+#### Traditional
+
+#### DCDR
+
+
+
+
+
+
+
+
+
