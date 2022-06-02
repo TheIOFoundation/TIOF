@@ -16,6 +16,8 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 The following section provides a comprehensive list of terms using across The IO Foundation's productions.
 
 {% hint style="info" %}
+**Note to TIOF Members**
+
 A number of terms in this Terminology have a slide ready for presentations.
 
 Please check the corresponding [Slides Repository](https://tiof.click/TIOFSlidesRepo) and remember to follow the Presentations guidelines when using them.
