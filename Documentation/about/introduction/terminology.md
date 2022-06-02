@@ -79,37 +79,25 @@ Find all the information the [DCDR initiative on its documentation site](https:/
 
 ### Digital Rights <a href="#_ucc4bfe9jq5z" id="_ucc4bfe9jq5z"></a>
 
-
+{% hint style="success" %}
+See the definition in the DCDR terminology :: [Digital Rights](https://tiof.click/DCDRTerminology#digital-right-dr)
+{% endhint %}
 
 ### Digital Spaces <a href="#_tcy4cfguqqg8" id="_tcy4cfguqqg8"></a>
 
-The collection of digital mediums, whether public or private, that may store users' Data in any way that conforms their identities, with or without their consent and/or knowledge.
+{% hint style="success" %}
+See the definition in the DCDR terminology :: Digital Spaces
+{% endhint %}
 
 ### Directors
 
 ### Engagement Document
 
-### **Engagement types**
-
-#### Full-time
-
-#### Part-time
-
-#### Indefinite
-
-#### Fixed-term
-
-#### Casual status
-
 ### Employees
 
 ### **Event Participants**
 
-
-
 ### Handbooks
-
-
 
 ### Individuals
 
@@ -117,11 +105,9 @@ The collection of digital mediums, whether public or private, that may store use
 
 ### **Media**
 
-###
-
 ### Members
 
-Any person officially involved in the implementation of initiatives under The IO Foundation. This includes from staff to volunteers.
+Any person officially involved in the implementation of initiatives under The IO Foundation.
 
 ### Organizational Chart
 
@@ -130,8 +116,6 @@ Any person officially involved in the implementation of initiatives under The IO
 ### **Partner**
 
 ### Personal characteristic dimension (PCD)
-
-
 
 ### Policies
 
