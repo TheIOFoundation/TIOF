@@ -1,7 +1,7 @@
 # 🗃 Terminology
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)****
+****[**ShortURL**](https://tiof.click/TIOFTerminology) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)****
 {% endhint %}
 
 {% hint style="warning" %}
@@ -23,47 +23,69 @@ A number of terms in this Terminology have a slide ready for presentations.
 Please check the corresponding [Slides Repository](https://tiof.click/TIOFSlidesRepo) and remember to follow the Presentations guidelines when using them.
 {% endhint %}
 
-### Members
+### #Tags
 
-Any person officially involved in the implementatsion of initiatives under The IO Foundation. This includes from staff to volunteers.
+\#Tags are labels by which [Content](terminology.md#content) is categorized. Tags are widely employed in TIOF's Content.
 
-### Personal characteristic dimension (PCD)
+{% hint style="info" %}
+A list of approved #Tags for use in Content produced by TIOF can be found [here](https://tiof.click/Tags).
+{% endhint %}
 
-### Employees
+### 3rd Party Content
 
-### Volunteers
-
-### Interns
-
-### Directors
+Any [Content](terminology.md#content), [Comment](terminology.md#comment) or [Reaction](terminology.md#\_lx909vczyqa8) shared by an organization or an individual other than The IO Foundation.
 
 ### Advisers
 
+### **BHR in Tech**
+
+An initiative from The IO Foundation that aims to promote the adoption of the [United Nations' Guiding Principles in Business and Human Rights](https://tiof.click/BITUNGP) in the Tech sector.
+
+{% hint style="info" %}
+Find all the information the [BHR in Tech initiative on its documentation site](https://tiof.click/BiTDocs).
+{% endhint %}
+
+### Channel
+
+{% hint style="info" %}
+A list of [official TIOF Channels & their usage can be found here](https://tiof.click/TIOFChannels).
+{% endhint %}
+
+### Comment
+
 ### Consultants
+
+### Content
 
 ### Contributors
 
-### Individuals
+### CrowdShape
 
-### **Event Participants**
+The CrowdShape (CS) initiative intends to be a model for crowd collaboration based on transparent processes and accountable management.
 
-### **Project Contributors**
+{% hint style="info" %}
+Find all the information the [CrowdShape initiative on its documentation site](https://tiof.click/CSDocs).
+{% endhint %}
 
-### Organizations
+### Data-Centric Digital Rights (DCDR)
 
-### **Partner**
+Data-Centric Digital Rights (DCDR) is the advocacy aiming at protecting citizens' Rights by transparently implementing in their daily technology the regulations that should protect them.
 
-### **Project "contractuals"**
+{% hint style="info" %}
+Find all the information the [DCDR initiative on its documentation site](https://tiof.click/DCDRDocs).
+{% endhint %}
 
-Ex GPD.
+### Digital Credentials
 
-### **Media**
+### Digital Rights <a href="#_ucc4bfe9jq5z" id="_ucc4bfe9jq5z"></a>
 
-****
 
-****
 
-****
+### Digital Spaces <a href="#_tcy4cfguqqg8" id="_tcy4cfguqqg8"></a>
+
+The collection of digital mediums, whether public or private, that may store users' Data in any way that conforms their identities, with or without their consent and/or knowledge.
+
+### Directors
 
 ### Engagement Document
 
@@ -79,7 +101,53 @@ Ex GPD.
 
 #### Casual status
 
-****
+### Employees
+
+### **Event Participants**
+
+
+
+### Handbooks
+
+
+
+### Individuals
+
+### Interns
+
+### **Media**
+
+###
+
+### Members
+
+Any person officially involved in the implementation of initiatives under The IO Foundation. This includes from staff to volunteers.
+
+### Organizational Chart
+
+### Organizations
+
+### **Partner**
+
+### Personal characteristic dimension (PCD)
+
+
+
+### Policies
+
+### Project Lockdown
+
+### Reaction <a href="#_lx909vczyqa8" id="_lx909vczyqa8"></a>
+
+### Representational Entities <a href="#_lx909vczyqa8" id="_lx909vczyqa8"></a>
+
+The digital representation of people and objects in Digital Spaces.
+
+### Share
+
+Any action that involves disseminating information. From publishing, posting online, forwarding 3rd party content, interacting with 3rd party content (likes, etc.), participating through Comments,
+
+###
 
 ### Spaces
 
@@ -92,97 +160,14 @@ Examples of spaces:
 * Event online platforms
 * Official TIOF channels
 
-### Media Channel
+### TechUp
 
-A list of Channels & their usage per Team can be found here: @@@
+### Volunteers
 
-### Share
-
-Any action that involves disseminating information. From publishing, posting online, forwarding 3rd party content, interacting with 3rd party content (likes, etc.), participating through Comments,
-
-### Content
-
-Any sort of posts + Comments + Reactions
-
-### 3rd Party Content
-
-Any Content, Comment or Reaction shared by an organization other than The IO Foundation.
-
-### #Tags
-
-There is a list of approved #Tags [here](https://tiof.click/Tags)
-
-### Update Mode
-
-#### Targeted::Crowd
-
-#### Targeted::101
-
-#### Cast::Global
-
-#### Cast::Segment
-
-## IT, Communications Systems and Infrastructure
-
-### Digital Credentials
-
-## Other
-
-
-
-### Digital Spaces <a href="#_tcy4cfguqqg8" id="_tcy4cfguqqg8"></a>
-
-The collection of digital mediums, whether public or private, that may store users' Data in any way that conforms their identities, with or without their consent and/or knowledge.
-
-### Representational Entities <a href="#_lx909vczyqa8" id="_lx909vczyqa8"></a>
-
-The digital representation of people and objects in Digital Spaces.
-
-### Digital Rights <a href="#_ucc4bfe9jq5z" id="_ucc4bfe9jq5z"></a>
-
-The basic principles protecting Representational Entities in Digital Spaces.
-
-### UDDR <a href="#_ghzu2gba7md3" id="_ghzu2gba7md3"></a>
+### Universal Declaration of Digital Rights (UDDR) <a href="#_ghzu2gba7md3" id="_ghzu2gba7md3"></a>
 
 A set of legal and technical standards to ensure the observance, compliance and implementation of Digital Rights.
 
+### ****
 
-
-### Data Owners
-
-#### Traditional
-
-#### DCDR
-
-
-
-### Data Controllers
-
-#### Traditional
-
-#### DCDR
-
-
-
-### Data Subjects
-
-#### Traditional
-
-#### DCDR
-
-
-
-### Data Users
-
-#### Traditional
-
-#### DCDR
-
-
-
-
-
-
-
-
-
+### ****

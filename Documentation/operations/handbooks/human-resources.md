@@ -108,6 +108,18 @@ Hired When: Team: Applicant:
 
 
 
+### **Engagement types**
+
+#### Full-time
+
+#### Part-time
+
+#### Indefinite
+
+#### Fixed-term
+
+#### Casual status
+
 ## Stages
 
 
