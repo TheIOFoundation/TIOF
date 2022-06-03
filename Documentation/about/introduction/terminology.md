@@ -23,7 +23,7 @@ A number of terms in this Terminology have a slide ready for presentations.
 Please check the corresponding [Slides Repository](https://tiof.click/TIOFSlidesRepo) and remember to follow the Presentations guidelines when using them.
 {% endhint %}
 
-### #Tags
+### #Tag
 
 \#Tags are labels by which [Content](terminology.md#content) is categorized. Tags are widely employed in TIOF's Content.
 
@@ -35,7 +35,7 @@ A list of approved #Tags for use in Content produced by TIOF can be found [here]
 
 Any [Content](terminology.md#content), [Comment](terminology.md#comment) or [Reaction](terminology.md#\_lx909vczyqa8) shared by an organization or an individual other than The IO Foundation.
 
-### Advisers
+### Adviser
 
 ### **BHR in Tech**
 
@@ -53,11 +53,11 @@ A list of [official TIOF Channels & their usage can be found here](https://tiof.
 
 ### Comment
 
-### Consultants
+### Consultan
 
 ### Content
 
-### Contributors
+### Contributor
 
 ### CrowdShape
 
@@ -75,55 +75,55 @@ Data-Centric Digital Rights (DCDR) is the advocacy aiming at protecting citizens
 Find all the information the [DCDR initiative on its documentation site](https://tiof.click/DCDRDocs).
 {% endhint %}
 
-### Digital Credentials
+### Digital Credential
 
-### Digital Rights <a href="#_ucc4bfe9jq5z" id="_ucc4bfe9jq5z"></a>
-
-{% hint style="success" %}
-See the definition in the DCDR terminology :: [Digital Rights](https://tiof.click/DCDRTerminology#digital-right-dr)
-{% endhint %}
-
-### Digital Spaces <a href="#_tcy4cfguqqg8" id="_tcy4cfguqqg8"></a>
+### Digital Right <a href="#_ucc4bfe9jq5z" id="_ucc4bfe9jq5z"></a>
 
 {% hint style="success" %}
-See the definition in the DCDR terminology :: Digital Spaces
+See the definition in the DCDR terminology :: [Digital Right](https://tiof.click/DCDRTerminology#digital-right-dr)
 {% endhint %}
 
-### Directors
+### Digital Space <a href="#_tcy4cfguqqg8" id="_tcy4cfguqqg8"></a>
+
+{% hint style="success" %}
+See the definition in the DCDR terminology :: Digital Space
+{% endhint %}
+
+### Director
 
 ### Engagement Document
 
-### Employees
+### Employee
 
-### **Event Participants**
+### **Event Participant**
 
-### Handbooks
+### Handbook
 
-### Individuals
+### Individual
 
 ### Interns
 
 ### **Media**
 
-### Members
+### Member
 
 Any person officially involved in the implementation of initiatives under The IO Foundation.
 
 ### Organizational Chart
 
-### Organizations
+### Organization
 
 ### **Partner**
 
 ### Personal characteristic dimension (PCD)
 
-### Policies
+### Policy
 
 ### Project Lockdown
 
 ### Reaction <a href="#_lx909vczyqa8" id="_lx909vczyqa8"></a>
 
-### Representational Entities <a href="#_lx909vczyqa8" id="_lx909vczyqa8"></a>
+### Representational Entity <a href="#_lx909vczyqa8" id="_lx909vczyqa8"></a>
 
 The digital representation of people and objects in Digital Spaces.
 
@@ -133,7 +133,7 @@ Any action that involves disseminating information. From publishing, posting onl
 
 ###
 
-### Spaces
+### Space
 
 Any location, physical or virtual, in which TIOF advances its advocacy and implements its initiatives.
 

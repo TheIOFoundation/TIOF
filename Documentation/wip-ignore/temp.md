@@ -1,20 +1,4 @@
-# Home
-
-![logo](http://tiof.click/TIOFWikiHeader)
-
-### NOTE: Welcome to the TIOF wiki! This section will be used for technical reference on TIOF's projects and is currently a work in progress.
-
-***
-
-## About TIOF
-
-
-
-##
-
-
-
-##
+# TEMP
 
 ## Digital Rights Principles
 

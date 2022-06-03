@@ -27,34 +27,27 @@ Slack Manual
 \[TIOF] Infrastructure \[C] Slack Config Settings ENG v1.0
 {% endembed %}
 
-
-
-See other information&#x20;
-
-## Usage <a href="#usage" id="usage"></a>
-
-* Communications between Members
-* Community
-
-## Information <a href="#information" id="information"></a>
-
-## Object Model <a href="#object-model" id="object-model"></a>
-
-This section describes the object model used in this App.See render here:
-
-
-
 ## About
 
 
 
 ## Usage
 
+The Slack platform is used exclusively for communications:
 
+* Between TIOF Members
+* Among the TIOF Community
+* Between other organizations via
+  * Shared channels
+  * Presence in their own Slack workspace
 
 {% hint style="warning" %}
 Any content published in this Channel must abide by TIOF's [Hey Big Tech declaration.](https://tiof.click/HeyBigTech)
 {% endhint %}
+
+## Object Model <a href="#object-model" id="object-model"></a>
+
+This section describes the object model used in TIOF's Slack implementation.
 
 ## Tools
 
@@ -62,8 +55,6 @@ Any content published in this Channel must abide by TIOF's [Hey Big Tech declara
 * Dashboard
 
 ## Resources
-
-###
 
 
 
