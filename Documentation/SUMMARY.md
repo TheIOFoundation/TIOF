@@ -121,7 +121,7 @@
       * [Template Repo](operations/handbooks/infrastructure/repositories/template-repo.md)
   * [📓 🚧 Finance](operations/handbooks/finance.md)
     * [📓 🚧 Banking](operations/handbooks/banking.md)
-* [📧 🚧 Codefield](operations/codefield/README.md)
+* [🚧 Codefield](operations/codefield/README.md)
   * [🚧 Publications](codefield/publications.md)
   * [🚧 Podcast](codefield/podcast.md)
 * [🚧 Campaigns](comms/campaigns.md)
