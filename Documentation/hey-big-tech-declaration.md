@@ -35,3 +35,5 @@ We deplore "Cancel Culture" and invite citizens and platforms to be more open an
 {% hint style="info" %}
 The IO Foundation will work tirelessly on finding a balance between generating awareness among citizens and technologists and using platforms that do not ensure the protection of their digital twins.
 {% endhint %}
+
+Back to top
