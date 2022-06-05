@@ -1,7 +1,5 @@
 ---
 description: Version 1.0 | This Media Kit was approved on 01 February 2019.
-cover: http://tiof.click/TIOFWikiHeader
-coverY: 0
 ---
 
 # 🎨 Media Kit

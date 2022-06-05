@@ -83,7 +83,13 @@ Find all the information the [DCDR initiative on its documentation site](https:/
 See the definition in the DCDR terminology :: [Digital Right](https://tiof.click/DCDRTerminology#digital-right-dr)
 {% endhint %}
 
-### Digital Space <a href="#_tcy4cfguqqg8" id="_tcy4cfguqqg8"></a>
+### Digital Society <a href="#_tcy4cfguqqg8" id="_tcy4cfguqqg8"></a>
+
+{% hint style="success" %}
+See the definition in the DCDR terminology :: Digital Society
+{% endhint %}
+
+### Digital Space
 
 {% hint style="success" %}
 See the definition in the DCDR terminology :: Digital Space
