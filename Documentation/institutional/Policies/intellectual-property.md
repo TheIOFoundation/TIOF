@@ -15,6 +15,27 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
+## Table of Contents
+
+<details>
+
+<summary>Expand / Collapse</summary>
+
+&#x20;
+
+1. Introduction
+   * Definitions
+   * About this document
+   * Scope
+2. Policy details
+   * Intellectual property
+   * Creative Commons
+     * Current CC version
+   * Partnerships, collaborations and contracts
+   * Notices and logos
+
+</details>
+
 ## Introduction
 
 ### Definitions
