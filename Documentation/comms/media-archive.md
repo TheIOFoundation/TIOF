@@ -27,7 +27,7 @@ This section contains an archive of all media participations and mentions about 
 
 **Part II**
 
-****![](<../.gitbook/assets/\[TIOF] Comms \[P] A penny for your bytes series - Part IV ENG v1.0.jpg>)****
+****![](<../.gitbook/assets/\[TIOF] Comms \[P] A penny for your bytes series - Part II ENG v1.0 (2).jpg>)****
 
 {% embed url="https://www.digitalnewsasia.com/insights/penny-your-bytes-nature-data" %}
 
@@ -41,11 +41,15 @@ This section contains an archive of all media participations and mentions about 
 
 **Part IV**
 
+****![](<../.gitbook/assets/\[TIOF] Comms \[P] A penny for your bytes series - Part IV ENG v1.0.jpg>)****
+
 ****
 
 {% embed url="https://www.digitalnewsasia.com/insights/penny-your-bytes-programmers-must-not-play-digital-god" %}
 
-**Part V**![](<../.gitbook/assets/\[TIOF] Comms \[P] A penny for your bytes series - Part II ENG v1.0 (2).jpg>)****
+**Part V**
+
+****![](<../.gitbook/assets/\[TIOF] Comms \[P] A penny for your bytes series - Part V ENG v1.0.jpg>)****
 
 {% embed url="https://www.digitalnewsasia.com/insights/byte-your-thoughts-ditching-ethics-embracing-rights" %}
 
