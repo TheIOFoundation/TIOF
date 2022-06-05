@@ -158,9 +158,3 @@
   * [🚧 Donor](operations/objects/donor.md)
   * [🚧 Community Partner](operations/objects/community-partner.md)
   * [🚧 Speaker](operations/objects/speaker.md)
-
-## ⛔ WIP - IGNORE
-
-* [\[TIOF\] Institutional \[I\] Organization Data v1.5](dirty/tiof-institutional-i-organization-data-v1.5.md)
-* [The IO Foundation Privacy Notice Final Version(53326202.1)](dirty/the-io-foundation-privacy-notice-final-version-53326202.1.md)
-* [TEMP](wip-ignore/temp.md)
