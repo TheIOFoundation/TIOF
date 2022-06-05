@@ -1,4 +1,4 @@
-# Applicable legislation
+# ➡ Applicable legislation
 
 {% hint style="info" %}
 ~~**ShortURL**~~** | Playbook | Assistant**

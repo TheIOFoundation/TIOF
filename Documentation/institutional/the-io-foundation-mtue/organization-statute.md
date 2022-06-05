@@ -2,7 +2,7 @@
 description: Version 1.0 | This Statute was approved on 01 April 2022.
 ---
 
-# Organization Statute
+# 🔷 Organization Statute
 
 {% hint style="info" %}
 ****[**ShortURL**](https://tiof.click/TIOFStatute) **| Playbook | Assistant**

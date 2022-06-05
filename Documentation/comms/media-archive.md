@@ -4,8 +4,6 @@
 **ShortURL | Playbook | Assistant**
 {% endhint %}
 
-
-
 {% hint style="warning" %}
 **NOTICE**
 
@@ -16,3 +14,37 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 ## About
 
 This section contains an archive of all media participations and mentions about The IO Foundation and its members.
+
+## Articles
+
+### Digital News Asia
+
+**A Penny For Your Bytes series**
+
+**Part I**
+
+****![](<../.gitbook/assets/\[TIOF] Comms \[P] A penny for your bytes series - Part I ENG v1.0.jpg>)****
+
+{% embed url="https://www.digitalnewsasia.com/insights/penny-your-bytes-part-1-about-dcdr" %}
+
+**Part II**
+
+{% embed url="https://www.digitalnewsasia.com/insights/penny-your-bytes-nature-data" %}
+
+**Part III**
+
+{% embed url="https://www.digitalnewsasia.com/insights/penny-your-bytes-next-gen-rights-defenders" %}
+
+**Part IV**
+
+{% embed url="https://www.digitalnewsasia.com/insights/penny-your-bytes-programmers-must-not-play-digital-god" %}
+
+**Part V**
+
+{% embed url="https://www.digitalnewsasia.com/insights/byte-your-thoughts-ditching-ethics-embracing-rights" %}
+
+**Part VI**
+
+{% embed url="https://www.digitalnewsasia.com/insights/penny-your-bytes-shaping-tomorrow-today" %}
+
+****

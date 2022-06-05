@@ -15,30 +15,6 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
-## Table of Contents
-
-<details>
-
-<summary>Expand / Collapse</summary>
-
-&#x20;
-
-1. Introduction
-   * Definitions
-   * About this document
-   * Scope
-2. Policy details
-   * \[Organization Taxonomy] (#organization-taxonomy)
-   * \[Organization Chart] (#organization-chart)
-   * Salary Matrix
-   * \[Global calculations] (#global-calculations)
-   * \[Other considerations] (#other-considerations)
-   * \[Taxes] (#taxes)
-
-**Notes: Missing Career Plans?**
-
-</details>
-
 ## Introduction
 
 ### Definitions
