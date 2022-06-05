@@ -26,3 +26,9 @@ This business plan is fully compliant with [The IO Foundation's policies](https:
 {% endhint %}
 
 ## Budgeting
+
+\[Work in Progress]
+
+{% hint style="info" %}
+This budgeting plan is fully compliant with [The IO Foundation's policies](https://tiof.click/TIOFPolicies).
+{% endhint %}
