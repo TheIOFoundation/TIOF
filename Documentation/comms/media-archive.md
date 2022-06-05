@@ -55,14 +55,16 @@ This section contains an archive of all media participations and mentions about 
 
 **Part VI**
 
-****
+****![](<../.gitbook/assets/\[TIOF] Comms \[P] A penny for your bytes series - Part VI ENG v1.0.jpg>)****
 
 {% embed url="https://www.digitalnewsasia.com/insights/penny-your-bytes-shaping-tomorrow-today" %}
 
 **Part VII**
 
+****![](<../.gitbook/assets/\[TIOF] Comms \[P] A penny for your bytes series - Part VIII ENG v1.0.jpg>)****
+
 ****
 
 **Part VIII**
 
-****
+****![](<../.gitbook/assets/\[TIOF] Comms \[P] A penny for your bytes series - Part VII ENG v1.0.jpg>)****
