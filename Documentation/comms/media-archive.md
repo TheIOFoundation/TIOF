@@ -17,6 +17,16 @@ This section contains an archive of all media participations and mentions about 
 
 ## Articles
 
+### Malaysian Communications and Multimedia Commission
+
+**Let’s talk Data-Centric Digital Rights**
+
+> myConvergence — Issue 19 (page 40): [https://www.mcmc.gov.my/skmmgovmy/media/General/pdf/MCMC-MyConvergence-19-Issue.pdf](https://www.mcmc.gov.my/skmmgovmy/media/General/pdf/MCMC-MyConvergence-19-Issue.pdf)
+>
+>
+
+## Booting up the system <a href="#b874" id="b874"></a>
+
 ### Digital News Asia
 
 **A Penny For Your Bytes series**
@@ -59,12 +69,10 @@ This section contains an archive of all media participations and mentions about 
 
 {% embed url="https://www.digitalnewsasia.com/insights/penny-your-bytes-shaping-tomorrow-today" %}
 
-**Part VII**
-
-****![](<../.gitbook/assets/\[TIOF] Comms \[P] A penny for your bytes series - Part VIII ENG v1.0.jpg>)****
-
-****
-
-**Part VIII**
+**Part VII** \[TO BE PUBLISHED]
 
 ****![](<../.gitbook/assets/\[TIOF] Comms \[P] A penny for your bytes series - Part VII ENG v1.0.jpg>)****
+
+**Part VIII** \[TO BE PUBLISHED]
+
+****![](<../.gitbook/assets/\[TIOF] Comms \[P] A penny for your bytes series - Part VIII ENG v1.0.jpg>)****
