@@ -24,36 +24,76 @@ The following diagram provides an overview on how each of the initiatives suppor
 
 Advancing the supporting the DCDR advocacy through research and knowledge dissemination.
 
-[Get involved](https://tiof.click/DCDRDocs)
+
 
 ## [BHR in Tech](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K57zbBbwulYcIf9UU/ "mention")
 
-Supporting the adoption and implementation of the [United Nations' Guiding Principles on Business and Human Rights](https://dothe.click/Ext6) in the Tech sector.
+Advancing the UN Guiding Principles on Business and Human Rights in the tech sector.
 
-[Get involved](https://tiof.click/BiTDocs)
+
 
 ## [TechUp](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K54SuAkrrbCKMqyze/ "mention")
 
 ![](<.gitbook/assets/\[TIOF TU] Comms \[P] LinkedIn - Event Header ENG v1.0.jpg>)
 
-Supporting programmers as the Next Generation of Rights defenders for our digital societies.
+Supporting programmers as the next generation of Rights defenders.
 
-[Get involved](https://tiof.click/TUDocs)
+
 
 ## [CrowdShape](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/MxkrsyQSraXtP8kYavv2/ "mention")
 
-A platform to support technologists wanting to make and impact and support the growth of the Tech NGO ecosystem by quickly and efficiently bootstrap their own Tech NGO.
+Enabling technologists to quickly and efficiently bootstrap their own Tech NGO.
 
-[Get involved](https://tiof.click/CSDocs)
+
 
 ## [Project Lockdown](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-MF3niuejuN6L2E3JNhU/ "mention")
 
-A civic tech, interactive platform providing an overview of the state of Human and Digital Rights around the globe by monitoring the impact of governments' policies
+Monitoring the impact of policies in Human and Digital Rights.&#x20;
 
-[Get involved](https://tiof.click/PLDDocs)
+
 
 ## [Universal Declaration of Digital Rights](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K4xk\_xBCdMTs3EMBi/ "mention")
 
-Advancing the development, proclamation and adoption of a Universal Declaration of Digital Rights.
+Advancing the development and adoption of the Universal Declaration of Digital Rights.
+
+
+
+
+
+## The initiatives
+
+### Data-Centric Digital Rights
+
+Developing the actions, research and infrastructure to sustain the DCDR advocacy.
+
+[Get involved](https://tiof.click/DCDRDocs)
+
+### BHR in Tech
+
+Supporting the adoption and implementation of the [United Nations' Guiding Principles on Business and Human Rights](https://dothe.click/Ext6) in the Tech sector.
+
+[Get involved](https://tiof.click/BiTDocs)
+
+### Crowdshape
+
+A platform to support technologists wanting to make and impact and support the growth of the Tech NGO ecosystem.
+
+[Get involved](https://tiof.click/CSDocs)
+
+### TechUp
+
+A collaborative space uniting capacity building and social participation to build better and safer digital societies.
+
+[Get involved](https://tiof.click/TUDocs)
+
+### Project Lockdown
+
+A civic tech, interactive platform providing an overview of the state of Human and Digital Rights around the globe.
+
+[Get involved](https://tiof.click/PLDDocs)
+
+### Universal Declaration of Digital Rights
+
+A multi-stakeholder initiative promoted by The IO Foundation to obtain the proclamation of a Universal Declaration of Digital Rights.
 
 [Get involved](https://tiof.click/UDDRDocs)
