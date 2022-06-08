@@ -8,8 +8,6 @@ description: 'Acknowledgements to: Gabrielle Wong'
 **ShortURL | Playbook | Assistant**
 {% endhint %}
 
-
-
 {% hint style="warning" %}
 **NOTICE**
 
@@ -17,25 +15,80 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
-
-
 {% hint style="success" %}
 This Handbook responds to the following Policies:
 
 *
 {% endhint %}
 
-
-
 ## About
 
-This handbook provides you with the necessary information to prepare and run an email campaign.
-
-
-
-
+This handbook provides you with the necessary information to prepare and run an email campaign (EDM).
 
 ## General Structure
+
+
+
+{% embed url="https://cawemo.com/share/bd69d659-d93c-42bf-9bd0-521566693add" %}
+Diagram on how the EDM platform connects to the CRM
+{% endembed %}
+
+
+
+
+
+
+
+## Lists
+
+
+
+### Codefield
+
+
+
+### Media
+
+
+
+### Donors
+
+
+
+{% hint style="info" %}
+See corresponding Lists for each Initiative in their own in Handbook.\
+DCDR - BHR in Tech - CrowdShape - Project Lockdown - TechUp - UDDR&#x20;
+{% endhint %}
+
+
+
+
+
+
+
+
+
+## Audiences
+
+### Media World
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Clear, concise&#x20;
 
