@@ -127,6 +127,7 @@
     * [🚧 Storage Structure & Management](operations/handbooks/infrastructure/storage-structure-and-management.md)
     * [📓 🚧 Teams & User Groups](operations/handbooks/infrastructure/teams-and-user-groups.md)
     * [📓 🚧 Messaging](operations/handbooks/messaging.md)
+    * [🚧 Segments](operations/handbooks/infrastructure/segments.md)
     * [📓 🚧 Apps](operations/handbooks/infrastructure/apps/README.md)
       * [🚧 LinkedIn](operations/handbooks/infrastructure/apps/linkedin.md)
       * [🚧 Airmeet](operations/handbooks/infrastructure/apps/airmeet.md)
