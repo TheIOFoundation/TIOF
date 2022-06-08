@@ -150,6 +150,7 @@
   * [🚧 Organization](operations/objects/organization.md)
   * [🚧 Initiative](operations/objects/initiative.md)
   * [🚧 Lead](operations/objects/lead.md)
+  * [🚧 Copy of Lead](operations/objects/copy-of-lead.md)
   * [🚧 Production / Content](operations/objects/production-content.md)
   * [🚧 Activity](operations/objects/activity.md)
   * [🚧 Member](operations/objects/member.md)
