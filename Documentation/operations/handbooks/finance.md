@@ -60,3 +60,14 @@ SII
 SIII
 
 SIV
+
+
+
+Plant, property and equipment and intangible assets Property, plant and equipment are stated at cost less accumulated depreciation and any accumulated impairment losses and discounts due to decline. Depreciation is calculated using the straight-line method. Useful life ranges are for groups of property, plant and equipment, the following: Buildings Buildings for 10-20 years Facilities 10-30 years Machines and devices Means of production 5-15 years Transport equipment 5-10 years Other tangible fixed assets Inventory 2-5 years Furniture for 5-10 years Office equipment 3-5 years Land is not depreciated.
+
+
+
+
+
+
+
