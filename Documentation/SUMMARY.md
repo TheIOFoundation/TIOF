@@ -122,6 +122,7 @@
     * [📓 🚧 Volunteer](operations/handbooks/human-resources/volunteer.md)
       * [The IO Foundation Template Volunteer Agreement Final Version(53117750.2)](dirty/the-io-foundation-template-volunteer-agreement-final-version-53117750.2.md)
     * [🚧 \[TIOF\] Procedures \[I\] Planning trips SOP notes v1.0](operations/handbooks/human-resources/tiof-procedures-i-planning-trips-sop-notes-v1.0.md)
+    * [🚧 Letter of recommendation](operations/handbooks/human-resources/letter-of-recommendation.md)
   * [📓 🚧 Information lifecycle](operations/handbooks/information-lifecycle.md)
   * [📓 🚧 Infrastructure](operations/handbooks/infrastructure/README.md)
     * [🚧 Storage Structure & Management](operations/handbooks/infrastructure/storage-structure-and-management.md)
