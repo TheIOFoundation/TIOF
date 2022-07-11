@@ -23,20 +23,6 @@ This Handbook responds to the following Policies:
 
 
 
-
-
-## Consolidate
-
-{% embed url="https://docs.google.com/document/d/1DjvzdoVwG5a2pewUCyukuMBcyxww-hEluwF0scC1EV0/edit#heading=h.vph4faslhrte" %}
-
-
-
-
-
-
-
-
-
 ### Create Goal <a href="#_6lkp1u1o4lbj" id="_6lkp1u1o4lbj"></a>
 
 Create Start.me page

@@ -4,6 +4,18 @@
 | ----------------------------------------------------------------------- |
 |                                                                         |
 
+## Consolidate
+
+{% embed url="https://docs.google.com/document/d/1K7injaBT7qDz97PGZ6JGLI3KaTJ5YYTvTjv-T4Uye0s/edit#heading=h.boq12wfd13mw" %}
+
+{% embed url="https://docs.google.com/document/d/1YmgXyxbalNqOKy5uOj4Urc-mCqwsbtEYCjdg0tYeclo/edit" %}
+
+
+
+
+
+
+
 ………………….. 202\[1]
 
 Dear \[_insert volunteer name_],
