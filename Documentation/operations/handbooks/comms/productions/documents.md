@@ -2,9 +2,9 @@
 
 
 
+##
 
-
-### Text Document
+## Text Document
 
 
 
@@ -16,9 +16,11 @@ Current application: Google Docs
 
 
 
+### Licensing Signal
 
 
-### Spreadsheet
+
+## Spreadsheet
 
 Current application: Google Sheets
 
@@ -27,6 +29,8 @@ Current application: Google Sheets
 {% endhint %}
 
 
+
+### Licensing Signal
 
 
 

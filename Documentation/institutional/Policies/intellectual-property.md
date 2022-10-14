@@ -181,6 +181,30 @@ Credits are to be always made.
 
 
 
+
+
+### Consultations
+
+How to participate
+
+* Use the Comments tool to share your thoughts.
+* We will review your inputs and decide which ones make sense in the context of our DCDR Framework and the Malaysian NAP.
+* Should your inputs be included in the document and your name will be added as collaborator.
+* Should your inputs not be included we will do our best to articulate the reasons that lead to that decision.
+* Please consider that in any case The IO Foundation will need to make the final decision as we will have to defend the Policy Brief upon the group working on the NAP.
+
+Timeline Beginning of the comments: 7th October at reception of this email. End of comments: 14th of October @ 18:00 Finalizing of Policy Brief: 16th of October Submission to BEEU, SUHAKAM and UNDP: 17th of October Submission to further relevant parties: 24th of October and onwards
+
+
+
+
+
+
+
+
+
+
+
 ### Notices and logos
 
 All materials produced by TIOF, that are not under excluding terms as indicated in the @@@Exceptions, are to be published under Creative Commons. The licensing terms must be clearly indicated in the material and links to further information such as this policy and the terms of the licensing are to be made easily available.

@@ -127,6 +127,7 @@
     * [🚧 Letter of recommendation](operations/handbooks/human-resources/letter-of-recommendation.md)
     * [🚧 Board of Directors Member Agreement](operations/handbooks/human-resources/board-of-directors-member-agreement.md)
     * [🚧 Board of Advisors Member Agreement](operations/handbooks/human-resources/board-of-advisors-member-agreement.md)
+  * [Consultations](operations/handbooks/consultations.md)
   * [📓 🚧 Information lifecycle](operations/handbooks/information-lifecycle.md)
   * [📓 🚧 Infrastructure](operations/handbooks/infrastructure/README.md)
     * [🚧 Storage Structure & Management](operations/handbooks/infrastructure/storage-structure-and-management.md)
