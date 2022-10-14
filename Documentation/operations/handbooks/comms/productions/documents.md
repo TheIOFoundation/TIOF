@@ -24,7 +24,7 @@ Where
 
 Text
 
-The following document is released under TIOF’s Productions License in accordance to The IO Foundation’s ​policies on Intellectual Property.
+The following document is released under The IO Foundation’s [Productions License for Text](https://tiof.click/TIOFLicenseText) in accordance with its [Intellectual Property policy](https://tiof.click/TIOFPolicyIP).
 
 
 
