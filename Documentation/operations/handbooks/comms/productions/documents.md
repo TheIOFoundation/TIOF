@@ -18,6 +18,22 @@ Current application: Google Docs
 
 ### Licensing Signal
 
+Where
+
+
+
+Text
+
+The following document is released under TIOF’s Productions License in accordance to The IO Foundation’s ​policies on Intellectual Property.
+
+
+
+
+
+
+
+
+
 
 
 ## Spreadsheet

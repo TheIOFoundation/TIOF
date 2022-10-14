@@ -105,16 +105,16 @@ Every production will showcase/signal its licensing by
 * Indicating the Level in its (file)name
 * Including the TIOF Licensing Signal (?) in the production:
 
-| Type of production | Category     | Signal(?) |
-| ------------------ | ------------ | --------- |
-| Document           | Google Doc   |           |
-|                    | Google Sheet |           |
-|                    |              |           |
-|                    |              |           |
-| Video              |              |           |
-|                    |              |           |
-|                    |              |           |
-| Music              |              |           |
+| Type of production | Category    | Signal(?) |
+| ------------------ | ----------- | --------- |
+| Document           | Text        |           |
+|                    | Spreadsheet |           |
+|                    |             |           |
+|                    |             |           |
+| Video              |             |           |
+|                    |             |           |
+|                    |             |           |
+| Music              |             |           |
 
 ## 3rd Party assets
 
@@ -125,7 +125,7 @@ Attributions need be mentioned
 
 ###
 
-### Intellectual property
+## Productions' Licenses
 
 The IO Foundation is committed to its DCDR advocacy and to share all of its generated materials to be available and shareable by all under a licensing model that preserves and encourages their usage and benefit.
 
@@ -134,6 +134,22 @@ Currently, TIOF has adopted the following licenses:
 #### Creative Commons
 
 Applicable for: All productions such as documents, books, videos
+
+
+
+### Text
+
+
+
+| License                                  | Applicable since | Comments |
+| ---------------------------------------- | ---------------- | -------- |
+| <p>Creative Commons 4.0 <br>BY NC SA</p> | 1st April 2018   |          |
+|                                          |                  |          |
+|                                          |                  |          |
+
+
+
+
 
 #### GNU
 
