@@ -62,6 +62,16 @@ Back to top
 
 ## Licensing Models
 
+### Levels
+
+The IO Foundation publishes information under the following levels:
+
+|       | Public | Internal | Confidential |
+| ----- | ------ | -------- | ------------ |
+| Code  | \[P]   | \[I]     | \[C]         |
+| Usage |        |          |              |
+|       |        |          |              |
+
 ### Public Licensing
 
 Each Organization and Initiative must have
@@ -83,9 +93,28 @@ The Organization will strive to provide
 * machine-readable formats
 * user-friendly formats
 
-of all of its policies and licensing models.
+of all of its productions, in particular:
 
-###
+* Policies
+* Licensing models
+
+### Licensing #exposure\#
+
+Every production will showcase/signal its licensing by
+
+* Indicating the Level in its (file)name
+* Including the TIOF Licensing Signal (?) in the production:
+
+| Type of production | Category     | Signal(?) |
+| ------------------ | ------------ | --------- |
+| Document           | Google Doc   |           |
+|                    | Google Sheet |           |
+|                    |              |           |
+|                    |              |           |
+| Video              |              |           |
+|                    |              |           |
+|                    |              |           |
+| Music              |              |           |
 
 ## 3rd Party assets
 
