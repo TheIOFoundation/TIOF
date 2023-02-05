@@ -12,17 +12,20 @@ description: Version 1.2
 
 This Memorandum of Understanding, _hereinafter_ The MoU, is to be subscribed between
 
-| <p>The IO Foundation<br>(Mittetulundusühing The IO Foundation),           </p>                                                                     | _hereinafter_ TIOF                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| <p>with registration number<br>80549272</p>                                                                                                        | _hereinafter_ TIOF Registration          |
-| <p>registered in<br>Estonia</p>                                                                                                                    | _hereinafter_ TIOF Country               |
-| <p>with official address<br>Rataskaevu tn 2 Kesklinna linnaosa, Tallinn, Harju County, 10123 Estonia</p>                                           | _hereinafter_ TIOF Address               |
-| <p>with official email<br>Contact@TheIOFoundation.org</p>                                                                                          | _hereinafter_ TIOF Email                 |
-| <p>represented by<br>Jean F. Queralt</p>                                                                                                           | _hereinafter_  TIOF PIC Name             |
-| <p>with role in the organization<br>Founder &#x26; CEO</p>                                                                                         | _hereinafter_  TIOF PIC Role             |
-| <p>with official email<br>JFQueralt@TheIOFoundation.org</p>                                                                                        | _hereinafter_  TIOF PIC Email            |
-| **and**                                                                                                                                            |                                          |
+| <p>The IO Foundation<br>(Mittetulundusühing The IO Foundation),           </p>                           | _hereinafter_ TIOF              |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| <p>with registration number<br>80549272</p>                                                              | _hereinafter_ TIOF Registration |
+| <p>registered in<br>Estonia</p>                                                                          | _hereinafter_ TIOF Country      |
+| <p>with official address<br>Rataskaevu tn 2 Kesklinna linnaosa, Tallinn, Harju County, 10123 Estonia</p> | _hereinafter_ TIOF Address      |
+| <p>with official email<br>Contact@TheIOFoundation.org</p>                                                | _hereinafter_ TIOF Email        |
+| <p>represented by<br>Jean F. Queralt</p>                                                                 | _hereinafter_  TIOF PIC Name    |
+| <p>with role in the organization<br>Founder &#x26; CEO</p>                                               | _hereinafter_  TIOF PIC Role    |
+| <p>with official email<br>JFQueralt@TheIOFoundation.org</p>                                              | _hereinafter_  TIOF PIC Email   |
+
+**and**
+
 | Malaysian Technical Standards Forum Bhd.                                                                                                           | _hereinafter_ The Partner                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | <p>with registration number<br>200401016865 (655368-P)</p>                                                                                         | _hereinafter_ The Partner's Registration |
 | <p>registered in<br><code>Malaysia</code></p>                                                                                                      | _hereinafter_ The Partner's Country      |
 | <p>with official address<br>MCMC Centre of Excellence, Off Persiaran Multimedia, Jalan Impact, 63000 Cyberjaya, Selangor Darul Ehsan, Malaysia</p> | _hereinafter_ The Partner's Address      |
@@ -30,7 +33,8 @@ This Memorandum of Understanding, _hereinafter_ The MoU, is to be subscribed bet
 | <p>represented by<br><code>Partner PIC Name</code>                            </p>                                                                 | _hereinafter_  Partner PIC Name          |
 | <p>with role in the organization<br><code>Partner PIC Role</code>                            </p>                                                  | _hereinafter_  Partner PIC Role          |
 | <p>with official email<br><code>Partner PIC Email</code>                           </p>                                                            | _hereinafter_  Partner PIC Email         |
-| _hereinafter_ collectively called The Parties.                                                                                                     |                                          |
+
+_hereinafter_ collectively called The Parties.
 
 ### &#x20;1.2 Purpose
 
