@@ -21,7 +21,7 @@ This Memorandum of Understanding, _hereinafter_ The MoU, is to be subscribed bet
 | <p>represented by<br>Jean F. Queralt</p>                                                                                                           | _hereinafter_  TIOF PIC Name             |
 | <p>with role in the organization<br>Founder &#x26; CEO</p>                                                                                         | _hereinafter_  TIOF PIC Role             |
 | <p>with official email<br>JFQueralt@TheIOFoundation.org</p>                                                                                        | _hereinafter_  TIOF PIC Email            |
-| and                                                                                                                                                |                                          |
+| **and**                                                                                                                                            |                                          |
 | Malaysian Technical Standards Forum Bhd.                                                                                                           | _hereinafter_ The Partner                |
 | <p>with registration number<br>200401016865 (655368-P)</p>                                                                                         | _hereinafter_ The Partner's Registration |
 | <p>registered in<br><code>Malaysia</code></p>                                                                                                      | _hereinafter_ The Partner's Country      |
