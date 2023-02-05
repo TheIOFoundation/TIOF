@@ -27,7 +27,7 @@ This Handbook responds to the following Policies:
 
 {% embed url="https://docs.google.com/document/d/1p2hwxg1oVffHfqeSYOOZps3XEYdkTd3G7_nlX2i-yeI/edit" %}
 
-
+{% embed url="https://docs.google.com/document/d/1UIqsePVft0vF2G-oIBNUKn_K674O89i9J4lmgjGUqgs/edit?pli=1" %}
 
 ## Introduction
 

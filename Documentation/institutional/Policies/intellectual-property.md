@@ -62,6 +62,16 @@ Back to top
 
 ## Licensing Models
 
+### Levels
+
+The IO Foundation publishes information under the following levels:
+
+|       | Public | Internal | Confidential |
+| ----- | ------ | -------- | ------------ |
+| Code  | \[P]   | \[I]     | \[C]         |
+| Usage |        |          |              |
+|       |        |          |              |
+
 ### Public Licensing
 
 Each Organization and Initiative must have
@@ -83,9 +93,28 @@ The Organization will strive to provide
 * machine-readable formats
 * user-friendly formats
 
-of all of its policies and licensing models.
+of all of its productions, in particular:
 
-###
+* Policies
+* Licensing models
+
+### Licensing #exposure\#
+
+Every production will showcase/signal its licensing by
+
+* Indicating the Level in its (file)name
+* Including the TIOF Licensing Signal (?) in the production:
+
+| Type of production | Category    | Signal(?) |
+| ------------------ | ----------- | --------- |
+| Document           | Text        |           |
+|                    | Spreadsheet |           |
+|                    |             |           |
+|                    |             |           |
+| Video              |             |           |
+|                    |             |           |
+|                    |             |           |
+| Music              |             |           |
 
 ## 3rd Party assets
 
@@ -96,7 +125,7 @@ Attributions need be mentioned
 
 ###
 
-### Intellectual property
+## Productions' Licenses
 
 The IO Foundation is committed to its DCDR advocacy and to share all of its generated materials to be available and shareable by all under a licensing model that preserves and encourages their usage and benefit.
 
@@ -105,6 +134,22 @@ Currently, TIOF has adopted the following licenses:
 #### Creative Commons
 
 Applicable for: All productions such as documents, books, videos
+
+
+
+### Text
+
+
+
+| License                                  | Applicable since | Comments |
+| ---------------------------------------- | ---------------- | -------- |
+| <p>Creative Commons 4.0 <br>BY NC SA</p> | 1st April 2018   |          |
+|                                          |                  |          |
+|                                          |                  |          |
+
+
+
+
 
 #### GNU
 
@@ -149,6 +194,30 @@ Back to top
 
 
 Credits are to be always made.
+
+
+
+
+
+### Consultations
+
+How to participate
+
+* Use the Comments tool to share your thoughts.
+* We will review your inputs and decide which ones make sense in the context of our DCDR Framework and the Malaysian NAP.
+* Should your inputs be included in the document and your name will be added as collaborator.
+* Should your inputs not be included we will do our best to articulate the reasons that lead to that decision.
+* Please consider that in any case The IO Foundation will need to make the final decision as we will have to defend the Policy Brief upon the group working on the NAP.
+
+Timeline Beginning of the comments: 7th October at reception of this email. End of comments: 14th of October @ 18:00 Finalizing of Policy Brief: 16th of October Submission to BEEU, SUHAKAM and UNDP: 17th of October Submission to further relevant parties: 24th of October and onwards
+
+
+
+
+
+
+
+
 
 
 

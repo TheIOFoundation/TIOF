@@ -1,6 +1,10 @@
-# Page 1
+---
+description: Version 1.2
+---
 
-![](broken-reference)
+# Memorandum of Understanding
+
+![](<../../../.gitbook/assets/\[TIOF] Comms \[I] The IO Foundation Header ENG v1.6.png>)
 
 ## About this Memorandum of Understanding (MoU)
 
