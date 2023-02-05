@@ -8,23 +8,33 @@ description: Version 1.2
 
 ## 1. About this Memorandum of Understanding (MoU)
 
+### 1.1 Parties
+
 This Memorandum of Understanding, _hereinafter_ The MoU, is to be subscribed between
 
-| The IO Foundation,                                                                           | _hereinafter_ TIOF                       |
-| -------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| <p>with registration number<br><code>TIOF Registration</code>                           </p> | _hereinafter_ TIOF Registration          |
-| <p>registered in<br><code>TIOF Country</code>                                </p>            | _hereinafter_ TIOF Country               |
-| <p>with official address<br><code>TIOF Address</code>                                </p>    | _hereinafter_ TIOF Address               |
-| <p>with official email</p><p><code>TIOF Email</code>                                  </p>   | _hereinafter_ TIOF Email                 |
-| and                                                                                          |                                          |
-| `Partner Name`                                                                               | _hereinafter_ The Partner                |
-| <p>with registration number<br><code>Partner Registration</code>                        </p> | _hereinafter_ The Partner's Registration |
-| <p>registered in<br><code>Partner Country</code>                             </p>            | _hereinafter_ The Partner's Country      |
-| <p>with official address<br><code>Partner Address</code>                             </p>    | _hereinafter_ The Partner's Address      |
-| <p>with official email </p><p><code>Partner Email</code>                               </p>  | _hereinafter_ Partner Email              |
-| _hereinafter_ collectively called The Parties.                                               |                                          |
+| The IO Foundation,                                                                                | _hereinafter_ TIOF                       |
+| ------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| <p>with registration number<br><code>TIOF Registration</code>                           </p>      | _hereinafter_ TIOF Registration          |
+| <p>registered in<br><code>TIOF Country</code>                                </p>                 | _hereinafter_ TIOF Country               |
+| <p>with official address<br><code>TIOF Address</code>                                </p>         | _hereinafter_ TIOF Address               |
+| <p>with official email</p><p><code>TIOF Email</code>                                  </p>        | _hereinafter_ TIOF Email                 |
+| <p>represented by<br><code>TIOF PIC Name</code>                               </p>                | _hereinafter_  TIOF PIC Name             |
+| <p>with role in the organization<br><code>TIOF PIC Role</code>                               </p> | _hereinafter_  TIOF PIC Role             |
+| <p>with official email<br><code>TIOF PIC Email</code>                              </p>           | _hereinafter_  TIOF PIC Email            |
+| and                                                                                               |                                          |
+| `Partner Name`                                                                                    | _hereinafter_ The Partner                |
+| <p>with registration number<br><code>Partner Registration</code>                        </p>      | _hereinafter_ The Partner's Registration |
+| <p>registered in<br><code>Partner Country</code>                             </p>                 | _hereinafter_ The Partner's Country      |
+| <p>with official address<br><code>Partner Address</code>                             </p>         | _hereinafter_ The Partner's Address      |
+| <p>with official email </p><p><code>Partner Email</code>                               </p>       | _hereinafter_ Partner Email              |
+| <p>represented by<br><code>Partner PIC Name</code>                            </p>                | _hereinafter_  Partner PIC Name          |
+| <p>with role in the organization<br><code>Partner PIC Role</code>                            </p> | _hereinafter_  Partner PIC Role          |
+| <p>with official email<br><code>Partner PIC Email</code>                           </p>           | _hereinafter_  Partner PIC Email         |
+| _hereinafter_ collectively called The Parties.                                                    |                                          |
 
-&#x20;The Parties agree to the following relevant information:
+### &#x20;1.2 Relevant information
+
+The Parties agree to the following relevant information:
 
 | <p>Partner's Responsibilities</p><p><code>Partner Responsibilities</code>                    </p><p>                                            <code></code>                                                       <em></em>           </p><p>                                            <code></code>                                                       <em></em>           </p><p>                                            <code></code>                                                                  <em></em>                      </p> | _hereinafter_ The Partner's Responsibilities |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -39,7 +49,7 @@ This Memorandum of Understanding, _hereinafter_ The MoU, is to be subscribed bet
 | <p>Applicable jurisdiction</p><p><code>Applicable jurisdiction</code>                         <em></em>   </p> | _hereinafter_ The Applicable Jurisdiction |
 | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 
-**Signatures**
+### **1.3 Signatures**
 
 | <p>For the Partner<br><code></code>Partner<code>Representative Name</code><br><code></code>Partner<code>Representative Title</code><br><code></code>Partner<code>Representative Signature</code></p> |                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
@@ -64,101 +74,97 @@ By signing this Agreement, the Parties agree to comply with all the Terms.
 
 ## 2. Terms of the MoU
 
-The _Parties_ wish to collaborate for the purposes of knowledge sharing, potential development of educational programs, explore opportunities for joint activities and training, and increasing exposure to the expertise each party brings in the areas of Communications and Multimedia Industry (CMI) development as described in The Purposes.
+### 2.1 Objectives
 
-### 2.1 Term and Termination
+2.1.1 The _Parties_ wish to collaborate as described in _The Purposes,_ while at all times diligently observing The Responsibilities.
 
-The MoU shall be effective as of Start Date and shall be valid for an initial term of two (2) years and upon expiry, it shall be automatically renewed for further two (2) years period successively unless terminated earlier by either party upon sixty (60) days’ written notice.
+### 2.2 Term and Termination
 
-This MoU may nevertheless be terminated at any time by mutual consent of the parties, where either Party provides a one-month written notice of termination. In any case of discontinuance, the parties will honor agreed commitments either via the accepted arrangements or suitable alternatives negotiated at that point under this MoU.
+2.2.1 This MoU shall be effective as of _The Signature Date_ and shall be valid for an initial term of two (2) years and upon expiry, it shall be automatically renewed for further two (2) years period successively.
 
-Upon expiration or early termination, each party shall return to the other party all Confidential Information as defined in Section V hereof, and proprietary information, documents and reference material of the other party in its possession.
+2.2.2 This MoU may nevertheless be terminated at any time by mutual consent of the parties, where either _Party_ provides a one-month (30 natural days) written notice of termination.
 
-All such obligations and terms of this MOU that are required to survive the expiration or early termination of this MOU shall survive such event including, but not limited to, those described in Sections IV, V, and VI hereof.
+2.2.3 In any case of discontinuance, the parties will honor agreed commitments either via the accepted arrangements or suitable alternatives negotiated at that point under this MoU.
 
-### 2.2 Communications between the parties
+2.2.4 Upon expiration or early termination, each party shall return to the other party all Confidential Information as defined in Section 2.6 hereof, and proprietary information, documents and reference material of the other party in its possession.
 
-The Parties have appointed liaison representatives. These two representatives will take charge of all interactions between the Parties. As of the signing date of this MoU, the appointment of the two liaison representatives is as follows:
+2.2.5 All such obligations and terms of this MoU that are required to survive the expiration or early termination of this MOU shall survive such event including, but not limited to, those described in Sections 2.5, 2.6 and 2.7 hereof.
 
-MTSFB’s liaison representative to will be:
+### 2.3 Communications between the parties
 
-MTSFB Name: Zaleha Abu Bakar Designation: General Manager Address: MCMC Centre of Excellence, Off Persiaran Multimedia, Jalan Impact, 63000 Cyberjaya, Selangor Darul Ehsan, Malaysia Email: admin@mtsfb.org.my
+2.3.1 _The Parties_ have appointed liaison representatives as described in Section 1.1
 
-’s liaison representative with MTSFB will be:
+2.3.2 These two representatives will take charge of all interactions between _The Parties_. for all communications related to activities related to this MoU.
 
-Name: Designation: Address:Email:
+2.3.3 Any notice of termination or request for amendment of this MoU are to be communicated by the initiating _Party_, from their official email, to the other _Party_'s official email with CC to all representatives.
 
-### 2.3 Roles and Responsibilities
+### 2.4 Roles and Responsibilities
 
-The Parties will endeavor to set a joint agenda for the year in January of each year in aid of implementing the Purposes.
+2.4.1 _The Parties_ will endeavor to set a joint agenda for the year in January of each year in aid of implementing _The Purposes_.
 
-In addition to the foregoing, in aid of the Purposes, The Partner will engage in activities to support the annual agenda, such as described in The Partner's Responsibilities.
+2.4.2 In addition to the foregoing, and in aid of _The Purposes_, _The Partner_ will engage in activities to support the annual agenda, such as described in _The Partner's Responsibilities_.
 
-In addition to the foregoing, in aid of the Purposes, TIOF will engage in activities to support the annual agenda, such as described in TIOF's Responsibilities.
+2.4.3 In addition to the foregoing, and in aid of the Purposes, _TIOF_ will engage in activities to support the annual agenda, such as described in _TIOF's Responsibilities_.
 
-### 2.4 Intellectual property rights
+### 2.5 Intellectual property rights
 
-Each party or its licensor shall continue to own the intellectual property developed by it prior to or independently of this MoU.
+2.5.1 Each party or its licensor shall continue to own the intellectual property developed by it prior to or independently of this MoU.
 
-By entering into this MOU, the parties undertake:
+2.5.2 By entering into this MoU, the parties undertake:
 
 (a) Not to use each other’s intellectual property without the prior express written consent of the other,
 
 (b) To ensure the confidentiality of such intellectual property of the other within its respective organizations, and
 
-(c) Not to use each other’s intellectual property other than for the Purposes of this MOU.
+(c) Not to use each other’s intellectual property other than for the Purposes of this MoU.
 
-The parties agree that neither of them shall gain by virtue of this MOU any rights of ownership or any other interest, right, or title to copyrights, patents, trade secrets, trade marks, or any other intellectual property rights owned by the other party.
+2.5.3 The parties agree that neither of them shall gain by virtue of this MoU any rights of ownership or any other interest, right, or title to copyrights, patents, trade secrets, trade marks, or any other intellectual property rights owned by the other party.
 
-Except as otherwise explicitly agreed between the parties, any and all works developed in the course of performing obligations pursuant to this MOU and all new inventions, innovations, or ideas developed by a party in the course of performance of its activities under this MoU will belong to that party who develops the same.
+2.5.4 Except as otherwise explicitly agreed between _The Parties_, any and all works developed in the course of performing obligations pursuant to this MoU and all new inventions, innovations, or ideas developed by a _Party_ in the course of performance of its activities under this MoU will belong to that _Party_ who develops the same.
 
-To the extent such intellectual property is created, the owning party shall grant a non-exclusive, worldwide, royalty-free license to the other party for the use of the intellectual property solely in connection with the activities under this MoU.
+2.5.5 To the extent such intellectual property is created, the owning _Party_ shall grant a non-exclusive, worldwide, royalty-free license to the other _Party_ for the use of the intellectual property solely in connection with the activities under this MoU.
 
-If the parties undertake any joint development in the course of providing services under this MoU, any such joint development will be governed by a separate agreement to be negotiated in good faith by the parties prior to the commencement of any joint development efforts.
+2.5.6 If _The Parties_ undertake any joint development in the course of providing services under this MoU, any such joint development will be governed by a separate agreement to be negotiated in good faith by the parties prior to the commencement of any joint development efforts.
 
-Solely in connection with the activities related to this MoU and its Purposes, and subject to all applicable branding guidelines, each party grants to the other party a nonexclusive, worldwide, royalty free, revocable license to use its logo/trademarks in associated with this MoU.
+2.5.7 Solely in connection with the activities related to this MoU and its Purposes, and subject to all applicable branding guidelines, each _Party_ grants to the other _Party_ a nonexclusive, worldwide, royalty free, revocable license to use its logo/trademarks in activities and communications associated with this MoU.
 
-### 2.5 Confidentiality
+### 2.6 Confidentiality
 
-During the term of this MoU, each Party may disclose to the other its Confidential Information.
+2.6.1 For the purpose of this MoU, Confidential Information shall mean all information marked “Confidential” or under any similar legend indicating the confidentiality of the information or information which by its nature is confidential, except such information as is
 
-Confidential Information shall mean all information marked “Confidential” or under any similar legend indicating the confidentiality of the information or information which by its nature is confidential, except such information as is
-
-(a) previously known to the receiving party at the time of disclosure; or\
-(b) independently developed by the receiving party without reference to Confidential Information of the disclosing party;\
-(c) disclosed to the receiving party by a third party without an obligation of confidentiality;\
+(a) previously known to the receiving _Party_ at the time of disclosure; or\
+(b) independently developed by the receiving _Party_ without reference to Confidential Information of the disclosing _Party_; or\
+(c) disclosed to the receiving _Party_ by a third party without an obligation of confidentiality; or\
 (d) already in or subsequently part of the public domain (other than as a result of a breach of this MoU); or\
-(e) required to be disclosed by the receiving party by law, regulation, court order or other legal process.
+(e) required to be disclosed by the receiving _Party_ by law, regulation, court order or other legal process.
 
-The receiving party shall hold such Confidential Information in strict confidence for the disclosing party and shall not use it except in furtherance of the relationship set forth in this MOU, or except as it may be authorized by the disclosing party in writing. The receiving party shall further be responsible for the compliance of the foregoing by its employees or agents.
+2.6.2 During the term of this MoU, each _Party_ may disclose to the other its Confidential Information.
 
-### 2.6 Representation and Warranties
+2.6.3 The receiving _Party_ shall hold such Confidential Information in strict confidence for the disclosing _Party_ and shall not use it except in furtherance of the relationship set forth in this MoU, or except as it may be authorized by the disclosing _Party_ in writing.
 
-Each party represents and warrants that such party has all necessary corporate power and authority, respectively, to enter into this MoU and to perform its obligations hereunder.
+2.6.4 The receiving _Party_ shall further be responsible for the compliance of the foregoing by its employees or agents.
 
-Each party warrants to the other party that all materials, data, information and other assistance provided by it shall not, to the best of its knowledge, infringe third party intellectual property rights and agrees to hold the other party fully indemnified and harmless and at all times keep the other party indemnified against any loss, damages, costs and expenses including attorney’s fees, which may be incurred as a result of any action or claim that may be made or initiated against it as result of any action on the part of the first party.
+### 2.7 Representation and Warranties
 
-### 2.7 Publicity
+2.7.1 Each _Party_ represents and warrants that such _Party_ has all necessary corporate power and authority, respectively, to enter into this MoU and to perform its obligations hereunder.
 
-Any press release, publicity or other promotional activity issued or engaged in by either party regarding this MoU shall be reviewed and approved in writing by the other party prior to release.
+2.7.2 Each _Party_ warrants to the other _Party_ that all materials, data, information and other assistance provided by it shall not, to the best of its knowledge, infringe third party intellectual property rights and agrees to hold the other _Party_ fully indemnified and harmless and at all times keep the other _Party_ indemnified against any loss, damages, costs and expenses including attorney’s fees, which may be incurred as a result of any action or claim that may be made or initiated against it as result of any action on the part of the first _Party_.
 
-Customer is allowed to use its own branding to configure the Instance and in any promotion campaign.
+### 2.8 Publicity
 
-All promotions will have to include the “Powered by TechUp” logo, which TechUp will provide.
+2.8.1 All _Parties_ will exchange, at the signature of this MoU, their corresponding Branding Kit / Media Kit.
 
-Customer will be responsible for all marketing involved with the Instance.
+2.8.2 Any press release, publicity or other promotional activity issued or engaged in by either _Party_ regarding this MoU shall be reviewed and approved in writing by the other _Party_ prior to release.
 
-### 2.8 Data privacy and compliance
+### 2.9 Data privacy and compliance
 
-TechUp will not use the data of the Audience for any purpose (commercial or otherwise) except the necessary for the correct execution of the Services in the Instance.
+2.9.1 _The Parties_ will be responsible for the manipulation, in accordance to the applicable legislation, of any user data obtained, or otherwise manipulated, resulting from this MoU.&#x20;
 
-All Parties will be responsible for the manipulation of the Audience's data in their possession and this in accordance to the applicable legislation.
+2.9.2 TIOF observes a Code of Conduct for all of its activities.
 
-TechUp provides a reference CoC. Customer may it or resort to its own custom CoC, which will need to be provided as part of the Configuration.
+2.9.3 _The Partner_ may suggest the use of a different Code of Conduct for the activities co-organized with, but not limited to, TIOF for activities under this MoU. Such Code of Conduct will be agreed upon by all _Parties_ on a separate document.
 
-Customer will be responsible to enforce the Instance’s CoC. TechUp shall not be responsible for any breach of CoC.
-
-### 2.9 Additional provisions
+## 3. Additional provisions
 
 The parties understand that nothing herein shall be construed as a binding contract between the parties. In the event the parties seek to enter into a binding contract such an agreement shall be recorded in a written agreement duly authorized representatives of the parties (“Definitive Agreement”). The Definitive Agreement(s) shall include details of the engagement, any additional roles/responsibilities and specific work that needs to be performed by each of the parties. The parties further understand that (i) the activities intended by this MOU may not be successfully completed; and/or (ii) the results achieved may not be as anticipated. Except for breach of confidentiality obligations and intellectual property right infringement indemnification obligations, neither party shall be liable for any indirect, punitive, special, incidental or consequential damages arising out of or in connection with this MOU, whether for breach of this MOU or in torts, including loss of business, data, revenue, profits, or for any third party claims against the other whatsoever. Further, MTSFB and acknowledge and agree that this MOU is a non-exclusive engagement and except as specifically agreed in a Definitive Agreement with respect to an activity, nothing contained herein shall be construed as preventing or restricting either party from pursuing any opportunity with other entities without involving the other party or to enter into similar alliance arrangements with other entities.
 
