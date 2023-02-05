@@ -78,7 +78,7 @@ By signing this Agreement, the Parties agree to comply with all the Terms.
 
 2.1.1 The _Parties_ wish to collaborate as described in _The Purposes,_ while at all times diligently observing The Responsibilities.
 
-### 2.2 Term and Termination
+### 2.2 Term, Updates and Termination
 
 2.2.1 This MoU shall be effective as of _The Signature Date_ and shall be valid for an initial term of two (2) years and upon expiry, it shall be automatically renewed for further two (2) years period successively.
 
@@ -88,7 +88,11 @@ By signing this Agreement, the Parties agree to comply with all the Terms.
 
 2.2.4 Upon expiration or early termination, each party shall return to the other party all Confidential Information as defined in Section 2.6 hereof, and proprietary information, documents and reference material of the other party in its possession.
 
-2.2.5 All such obligations and terms of this MoU that are required to survive the expiration or early termination of this MOU shall survive such event including, but not limited to, those described in Sections 2.5, 2.6 and 2.7 hereof.
+2.2.5 All such obligations and terms of this MoU that are required to survive the expiration or early termination of this MoU shall survive such event including, but not limited to, those described in Sections 2.5, 2.6 and 2.7 hereof.
+
+2.2.6 _The Parties_ may introduce changes or updates to this MoU, which will be agreed upon by all _Parties_ before the next automatic renewal.
+
+2.2.7 In particular, _The Parties_ are encouraged to review their respective Purposes and Responsibilities so as to adapt this MoU to new objectives and/or circumstances in the following cycle.
 
 ### 2.3 Communications between the parties
 
@@ -166,17 +170,45 @@ By signing this Agreement, the Parties agree to comply with all the Terms.
 
 ## 3. Additional provisions
 
-The parties understand that nothing herein shall be construed as a binding contract between the parties. In the event the parties seek to enter into a binding contract such an agreement shall be recorded in a written agreement duly authorized representatives of the parties (“Definitive Agreement”). The Definitive Agreement(s) shall include details of the engagement, any additional roles/responsibilities and specific work that needs to be performed by each of the parties. The parties further understand that (i) the activities intended by this MOU may not be successfully completed; and/or (ii) the results achieved may not be as anticipated. Except for breach of confidentiality obligations and intellectual property right infringement indemnification obligations, neither party shall be liable for any indirect, punitive, special, incidental or consequential damages arising out of or in connection with this MOU, whether for breach of this MOU or in torts, including loss of business, data, revenue, profits, or for any third party claims against the other whatsoever. Further, MTSFB and acknowledge and agree that this MOU is a non-exclusive engagement and except as specifically agreed in a Definitive Agreement with respect to an activity, nothing contained herein shall be construed as preventing or restricting either party from pursuing any opportunity with other entities without involving the other party or to enter into similar alliance arrangements with other entities.
+### 3.1 Limitations and Changes of nature
 
-This MOU shall not be construed to be an agency or a partnership or joint venture or an employment relationship whether for tax or for any other purpose. Neither party shall be entitled to bind the other party with any third party by its actions, unless it has specifically obtained the prior written consent of such other party to do so.
+3.1.1 _The Parties_ understand that nothing herein shall be construed as a binding contract between them.
 
-Each party is an independent contractor, and no provision of this MOU grants either party any express or implied right of authority to assume or create any obligations or responsibility on behalf of or in the name of the other party, or bind the other party in any manner or thing whatsoever. This MOU is not a commitment of financial resources. Any commitment by a party to pay fees or other amounts to the other party must be approved in writing, by the paying party in advance. Except as may be agreed by the parties in an applicable Definitive Agreement(s), each party will be responsible for all expenses incurred by such party in connection with negotiation of this MOU and any promotion, marketing or other activities under this MOU. Each party shall be liable to pay any tax attributable to it.
+3.1.2 In the event that _The Parties_ seek to enter into a binding contract such an agreement shall be recorded in a written agreement, hereinafter “Definitive Agreement”, duly authorized by _The Representatives_ of _The parties_ ().
 
-Each party warrants to the other party that in performing their duties required under this MOU, they will comply with the applicable law and shall take no action which constitutes a violation of applicable law and which would subject the other party to penalties under applicable law.
+3.1.3 The Definitive Agreement(s) shall include details of the engagement, any additional roles/responsibilities and specific work that needs to be performed by each of _The Parties_.
+
+3.1.4 The parties further understand that
+
+(i) the activities intended by this MoU may not be successfully completed; and/or
+
+(ii) the results achieved may not be as anticipated.
+
+3.1.5 Except for breach of confidentiality obligations and intellectual property right infringement indemnification obligations, neither _Party_ shall be liable for any indirect, punitive, special, incidental or consequential damages arising out of or in connection with this MoU, whether for breach of this MoU or in torts, including loss of business, data, revenue, profits or for any third party claims against the other whatsoever.
+
+3.1.6 Further, _The Parties_ acknowledge and agree that this MoU is a non-exclusive engagement and except as specifically agreed in a Definitive Agreement with respect to an activity, nothing contained herein shall be construed as preventing or restricting either _Party_ from pursuing any opportunity with other entities without involving the other _Party_ or to enter into similar alliance arrangements with other entities.
+
+### 3.2 Contractual and Financial considerations
+
+3.2.1 This MoU shall not be construed to be an agency or a partnership or joint venture or an employment relationship whether for tax or for any other purpose.
+
+3.2.2 Neither _Party_ shall be entitled to bind the other _Party_ with any third _Party_ by its actions, unless it has specifically obtained the prior written consent of such other _Party_ to do so.
+
+3.2.3 Each _Party_ is an independent contractor, and no provision of this MoU grants either _Party_ any express or implied right of authority to assume or create any obligations or responsibility on behalf of or in the name of the other _Party_, or bind the other _Party_ in any manner or thing whatsoever.
+
+3.2.4 This MoU is not a commitment of financial resources.
+
+3.2.5 Any commitment by a _Party_ to pay fees or other amounts to the other _Party_ must be approved in writing, by the paying _Party_ in advance.
+
+3.2.6 Except as may be agreed by _The Parties_ in an applicable Definitive Agreement(s), each _Party_ will be responsible for all expenses incurred by such _Party_ in connection with negotiation of this MoU and any promotion, marketing or other activities under this MOU. Each _Party_ shall be liable to pay any tax attributable to it.
+
+### 3.3 Final considerations
+
+3.2.7 Each _Party_ warrants to the other _Party_ that in performing their duties required under this MoU, they will comply with the applicable law and shall take no action which constitutes a violation of applicable law and which would subject the other party to penalties under applicable law.
 
 Neither party shall assign or transfer this MOU without the prior written consent of the other party.
 
-The laws of Malaysia shall govern this MOU. Both parties irrevocably submit to the exclusive jurisdiction of the Courts of Malaysia for any action or proceeding regarding this MOU including, but not limited to, those related to Sections IV, V and VI of this MOU.
+The laws of Malaysia shall govern this MOU. Both parties irrevocably submit to the exclusive jurisdiction of the Courts of Malaysia for any action or proceeding regarding this MOU including, but not limited to, those related to Sections IV, V and VI of this MoU .
 
 This MOU supersedes all prior oral or written communication, discussions and representations communicated between the parties hereto in respect of the subject matter of this MOU. Any modification to this MOU shall only be made by way of a written document duly executed by representatives of both parties hereto.
 
