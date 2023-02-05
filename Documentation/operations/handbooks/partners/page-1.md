@@ -102,6 +102,10 @@ By signing this Agreement, the Parties agree to comply with all the Terms.
 
 2.3.3 Any notice of termination or request for amendment of this MoU are to be communicated by the initiating _Party_, from their official email, to the other _Party_'s official email with CC to all representatives.
 
+2.3.4 Any notice under this MoU will be in writing by the initiating _Party_ and delivered by hand or by registered mail, email, facsimile transmittal or an express mail with a confirmation of receipt, to the other _Party_ at the registered office or as may be substituted by the notice.
+
+2.3.5 Any notices will be effective on the date of confirmation of receipt.
+
 ### 2.4 Roles and Responsibilities
 
 2.4.1 _The Parties_ will endeavor to set a joint agenda for the year in January of each year in aid of implementing _The Purposes_.
@@ -202,19 +206,18 @@ By signing this Agreement, the Parties agree to comply with all the Terms.
 
 3.2.6 Except as may be agreed by _The Parties_ in an applicable Definitive Agreement(s), each _Party_ will be responsible for all expenses incurred by such _Party_ in connection with negotiation of this MoU and any promotion, marketing or other activities under this MOU. Each _Party_ shall be liable to pay any tax attributable to it.
 
-### 3.3 Final considerations
+### 3.3 Governing Law
 
-3.2.7 Each _Party_ warrants to the other _Party_ that in performing their duties required under this MoU, they will comply with the applicable law and shall take no action which constitutes a violation of applicable law and which would subject the other party to penalties under applicable law.
+The laws of Malaysia shall govern this MoU. Both parties irrevocably submit to the exclusive jurisdiction of the Courts of Malaysia for any action or proceeding regarding this MoU including, but not limited to, those related to Sections IV, V and VI of this MoU.
 
-Neither party shall assign or transfer this MOU without the prior written consent of the other party.
+### 3.4 Final considerations
 
-The laws of Malaysia shall govern this MOU. Both parties irrevocably submit to the exclusive jurisdiction of the Courts of Malaysia for any action or proceeding regarding this MOU including, but not limited to, those related to Sections IV, V and VI of this MoU .
+3.4.1 Each _Party_ warrants to the other _Party_ that in performing their duties required under this MoU, they will comply with the applicable law and shall take no action which constitutes a violation of applicable law and which would subject the other party to penalties under applicable law.
 
-This MOU supersedes all prior oral or written communication, discussions and representations communicated between the parties hereto in respect of the subject matter of this MOU. Any modification to this MOU shall only be made by way of a written document duly executed by representatives of both parties hereto.
+3.4.2 Neither party shall assign or transfer this MoU without the prior written consent of the other party.
 
-Any notice under this MOU will be in writing and delivered by hand or by registered mail, email, facsimile transmittal, or an express mail with a confirmation of receipt, to the other party at the registered office or as may be substituted by the notice. Notice will be effective on the date of confirmation of receipt.
+3.4.3 This MoU supersedes all prior oral or written communication, discussions and representations communicated between the parties hereto in respect of the subject matter of this MoU. Any modification to this MoU shall only be made by way of a written document duly executed by representatives of both parties hereto.
 
-###
-
-
-
+{% hint style="warning" %}
+End of the MoU
+{% endhint %}
