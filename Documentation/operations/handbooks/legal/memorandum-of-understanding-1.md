@@ -2,7 +2,7 @@
 description: Version 1.2
 ---
 
-# Memorandum of Understanding
+# 🗃 Memorandum of Understanding
 
 ![](<../../../.gitbook/assets/\[TIOF] Comms \[I] The IO Foundation Header ENG v1.6.png>)
 

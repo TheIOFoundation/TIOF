@@ -2,7 +2,7 @@
 description: Version 1.2
 ---
 
-# Memorandum of Understanding
+# 🗒 Memorandum of Understanding
 
 ![](<../../../.gitbook/assets/\[TIOF] Comms \[I] The IO Foundation Header ENG v1.6.png>)
 
@@ -12,48 +12,52 @@ description: Version 1.2
 
 This Memorandum of Understanding, _hereinafter_ The MoU, is to be subscribed between
 
-| The IO Foundation,                                                                                | _hereinafter_ TIOF                       |
-| ------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| <p>with registration number<br><code>TIOF Registration</code>                           </p>      | _hereinafter_ TIOF Registration          |
-| <p>registered in<br><code>TIOF Country</code>                                </p>                 | _hereinafter_ TIOF Country               |
-| <p>with official address<br><code>TIOF Address</code>                                </p>         | _hereinafter_ TIOF Address               |
-| <p>with official email</p><p><code>TIOF Email</code>                                  </p>        | _hereinafter_ TIOF Email                 |
-| <p>represented by<br><code>TIOF PIC Name</code>                               </p>                | _hereinafter_  TIOF PIC Name             |
-| <p>with role in the organization<br><code>TIOF PIC Role</code>                               </p> | _hereinafter_  TIOF PIC Role             |
-| <p>with official email<br><code>TIOF PIC Email</code>                              </p>           | _hereinafter_  TIOF PIC Email            |
-| and                                                                                               |                                          |
-| `Partner Name`                                                                                    | _hereinafter_ The Partner                |
-| <p>with registration number<br><code>Partner Registration</code>                        </p>      | _hereinafter_ The Partner's Registration |
-| <p>registered in<br><code>Partner Country</code>                             </p>                 | _hereinafter_ The Partner's Country      |
-| <p>with official address<br><code>Partner Address</code>                             </p>         | _hereinafter_ The Partner's Address      |
-| <p>with official email </p><p><code>Partner Email</code>                               </p>       | _hereinafter_ Partner Email              |
-| <p>represented by<br><code>Partner PIC Name</code>                            </p>                | _hereinafter_  Partner PIC Name          |
-| <p>with role in the organization<br><code>Partner PIC Role</code>                            </p> | _hereinafter_  Partner PIC Role          |
-| <p>with official email<br><code>Partner PIC Email</code>                           </p>           | _hereinafter_  Partner PIC Email         |
-| _hereinafter_ collectively called The Parties.                                                    |                                          |
+| <p>The IO Foundation<br>(Mittetulundusühing The IO Foundation),           </p>                                                                     | _hereinafter_ TIOF                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| <p>with registration number<br>80549272</p>                                                                                                        | _hereinafter_ TIOF Registration          |
+| <p>registered in<br>Estonia</p>                                                                                                                    | _hereinafter_ TIOF Country               |
+| <p>with official address<br>Rataskaevu tn 2 Kesklinna linnaosa, Tallinn, Harju County, 10123 Estonia</p>                                           | _hereinafter_ TIOF Address               |
+| <p>with official email<br>Contact@TheIOFoundation.org</p>                                                                                          | _hereinafter_ TIOF Email                 |
+| <p>represented by<br>Jean F. Queralt</p>                                                                                                           | _hereinafter_  TIOF PIC Name             |
+| <p>with role in the organization<br>Founder &#x26; CEO</p>                                                                                         | _hereinafter_  TIOF PIC Role             |
+| <p>with official email<br>JFQueralt@TheIOFoundation.org</p>                                                                                        | _hereinafter_  TIOF PIC Email            |
+| and                                                                                                                                                |                                          |
+| Malaysian Technical Standards Forum Bhd.                                                                                                           | _hereinafter_ The Partner                |
+| <p>with registration number<br>200401016865 (655368-P)</p>                                                                                         | _hereinafter_ The Partner's Registration |
+| <p>registered in<br><code>Malaysia</code></p>                                                                                                      | _hereinafter_ The Partner's Country      |
+| <p>with official address<br>MCMC Centre of Excellence, Off Persiaran Multimedia, Jalan Impact, 63000 Cyberjaya, Selangor Darul Ehsan, Malaysia</p> | _hereinafter_ The Partner's Address      |
+| <p>with official email </p><p>Admin@MTSFB.org.my</p>                                                                                               | _hereinafter_ Partner Email              |
+| <p>represented by<br><code>Partner PIC Name</code>                            </p>                                                                 | _hereinafter_  Partner PIC Name          |
+| <p>with role in the organization<br><code>Partner PIC Role</code>                            </p>                                                  | _hereinafter_  Partner PIC Role          |
+| <p>with official email<br><code>Partner PIC Email</code>                           </p>                                                            | _hereinafter_  Partner PIC Email         |
+| _hereinafter_ collectively called The Parties.                                                                                                     |                                          |
 
 ### &#x20;1.2 Relevant information
 
 The Parties agree to the following relevant information:
 
-| <p>Partner's Responsibilities</p><p><code>Partner Responsibilities</code>                    </p><p>                                            <code></code>                                                       <em></em>           </p><p>                                            <code></code>                                                       <em></em>           </p><p>                                            <code></code>                                                                  <em></em>                      </p> | _hereinafter_ The Partner's Responsibilities |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| <p>TIOF's Responsibilities</p><p><code>TIOF Responsibilities</code>                       </p><p>                                            <code></code>                                                       <em></em>           </p><p>                                            <code></code>                                                       <em></em>           </p><p>                                            <code></code>                                                                  <em></em>                      </p>    | _hereinafter_ TIOF's Responsibilities        |
-| _hereinafter_ collectively called The Responsibilities.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                              |
+| <ul><li>Support all Parties in the realization of their mission</li><li>Knowledge sharing</li><li>Potential development of educational programs</li><li>Explore opportunities for joint activities and training</li><li>Increasing exposure to the expertise each party brings in the areas of Communications and Multimedia Industry (CMI) development</li><li>Exchange information between both organizations with a view to share best practices and identify possible areas for co-operation</li><li>Participation of both organizations in industry events and congresses, etc. (e.g. for branding purposes) organized by both entities or where one has active participation</li><li>Participation from one <em>Party</em> in the other’s publications (e.g. articles, marketing material)</li><li>Explore potential research projects and corresponding funding opportunities</li><li>Explore potential engagement activities and corresponding funding opportunities</li><li>To join efforts to disseminate across each Party's network those events that the Parties may organize or participate in</li><li>To join efforts in finding ways to encourage the presence and active participation of Malaysian technologists in relevant standardization bodies, both domestically and internationally </li></ul> | _hereinafter_ The Purposes           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| <p>Partner's Purposes<br><code>Partner Purposes</code>                            </p><p>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                            <br>                                            <code></code>                                            <br>                                            <code></code>                                            </p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | _hereinafter_ The Partner's Purposes |
+| <p>TIOF's Purposes<br><code>TIOF Purposes</code>                               </p><p>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                            <br>                                            <code></code>                                            <br>                                            <code></code>                                            </p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | _hereinafter_ TIOF's Purposes        |
+| _hereinafter_ collectively called The Purposes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                      |
 
-| <p>Partner's Purposes<br><code>Partner Purposes</code>                            </p><p>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                            <br>                                            <code></code>                                            <br>                                            <code></code>                                            </p> | _hereinafter_ The Partner's Purposes |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| <p>TIOF's Purposes<br><code>TIOF Purposes</code>                               </p><p>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                            <br>                                            <code></code>                                            <br>                                            <code></code>                                            </p>    | _hereinafter_ TIOF's Purposes        |
-| _hereinafter_ collectively called The Purposes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                      |
 
-| <p>Applicable jurisdiction</p><p><code>Applicable jurisdiction</code>                         <em></em>   </p> | _hereinafter_ The Applicable Jurisdiction |
-| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+
+| <p>Common Commitments</p><ul><li>Co-organize at least one event per year</li><li>Seek funding opportunities in areas of common interest identified by the <em>Parties</em></li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | _hereinafter_ The Common Commitments    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| <p>Partner's Commitments</p><ul><li>Introduce TIOF to relevant working groups inside MTSFB</li><li>Provide opportunities for TIOF members to publish 2 articles per year in MTSFB's newsletter</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | _hereinafter_ The Partner's Commitments |
+| <p>TIOF's Commitments</p><ul><li>Actively participate in MTFSB working groups with at least one TIOF member</li><li>Monitor and submit if pertinent, MTFSB's Public Comments</li><li>Provide opportunities for MTSFB members and its network to use TIOF's TechUp Community for events and other activities</li><li>Provide, free of charge, a booth to MTSFB in its TechUp Community for exposure</li><li>Provide opportunities for MTSFB members and its network to publish 4 articles per year in TIOF's newsletter</li><li>Invite MTSFB members and its network to explore research opportunities for TIOF's DCDR Framework</li><li>Invite MTSFB members and its network to comment on relevant policy briefs submitted by TIOF to the Malaysian government</li></ul> | _hereinafter_ TIOF's Commitments        |
+| _hereinafter_ collectively called The Commitments.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                         |
+
+| <p>Applicable jurisdiction<br>Malaysia</p> | _hereinafter_ The Applicable Jurisdiction |
+| ------------------------------------------ | ----------------------------------------- |
 
 ### **1.3 Signatures**
 
 | <p>For the Partner<br><code></code>Partner<code>Representative Name</code><br><code></code>Partner<code>Representative Title</code><br><code></code>Partner<code>Representative Signature</code></p> |                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| <p>For The IO Foundation<br><code>TIOF Representative Name</code><br><code>TIOF Representative Title</code><br><code>TIOF Representative Signature</code></p>                                        |                                  |
+| <p>For The IO Foundation<br>Jean F. Queralt<br>Founder &#x26; CEO<br><code>TIOF Representative Signature</code></p>                                                                                  |                                  |
 | <p>Signed on the </p><p><code>Signature Date</code>                                     <em></em>   </p>                                                                                             | _hereinafter_ The Signature Date |
 
 This non-binding MoU will enter in effect immediately from _Signature Date_, by and between:
@@ -65,18 +69,18 @@ _The Partner_, a company duly incorporated in _The Partner's Country_ with regis
 _The IO Foundation_, a non-profit duly incorporated in _TIOF's Country_ with registration number _TIOF's Registration_ and having its registered address at TIOF's Address_._
 
 {% hint style="success" %}
-The _Parties_ enter voluntarily this MoU with the intention of achieving the _Purposes_.
+_The Parties_ enter voluntarily this MoU with the intention of achieving _The Commitments_ guided by _The Purposes_.
 {% endhint %}
 
 {% hint style="success" %}
-By signing this Agreement, the Parties agree to comply with all the Terms.
+By signing this Agreement, _The Parties_ agree to comply with all the Terms.
 {% endhint %}
 
 ## 2. Terms of the MoU
 
 ### 2.1 Objectives
 
-2.1.1 The _Parties_ wish to collaborate as described in _The Purposes,_ while at all times diligently observing The Responsibilities.
+2.1.1 _The Parties_ wish to collaborate as described in _The Purposes,_ while at all times diligently observing and implementing _The Commitments_.
 
 ### 2.2 Term, Updates and Termination
 
@@ -92,7 +96,7 @@ By signing this Agreement, the Parties agree to comply with all the Terms.
 
 2.2.6 _The Parties_ may introduce changes or updates to this MoU, which will be agreed upon by all _Parties_ before the next automatic renewal.
 
-2.2.7 In particular, _The Parties_ are encouraged to review their respective Purposes and Responsibilities so as to adapt this MoU to new objectives and/or circumstances in the following cycle.
+2.2.7 In particular, _The Parties_ are encouraged to review their respective Purposes and Commitments so as to adapt this MoU to new objectives and/or circumstances in the following cycle.
 
 ### 2.3 Communications between the parties
 
@@ -106,13 +110,13 @@ By signing this Agreement, the Parties agree to comply with all the Terms.
 
 2.3.5 Any notices will be effective on the date of confirmation of receipt.
 
-### 2.4 Roles and Responsibilities
+### 2.4 Roles and Commitments
 
 2.4.1 _The Parties_ will endeavor to set a joint agenda for the year in January of each year in aid of implementing _The Purposes_.
 
-2.4.2 In addition to the foregoing, and in aid of _The Purposes_, _The Partner_ will engage in activities to support the annual agenda, such as described in _The Partner's Responsibilities_.
+2.4.2 In addition to the foregoing, and in aid of _The Purposes_, _The Partner_ will engage in activities to support the annual agenda, such as described in _The Partner's_ Commitments.
 
-2.4.3 In addition to the foregoing, and in aid of the Purposes, _TIOF_ will engage in activities to support the annual agenda, such as described in _TIOF's Responsibilities_.
+2.4.3 In addition to the foregoing, and in aid of the Purposes, _TIOF_ will engage in activities to support the annual agenda, such as described in _TIOF's_ Commitments.
 
 ### 2.5 Intellectual property rights
 
@@ -180,7 +184,7 @@ By signing this Agreement, the Parties agree to comply with all the Terms.
 
 3.1.2 In the event that _The Parties_ seek to enter into a binding contract such an agreement shall be recorded in a written agreement, hereinafter “Definitive Agreement”, duly authorized by _The Representatives_ of _The parties_ ().
 
-3.1.3 The Definitive Agreement(s) shall include details of the engagement, any additional roles/responsibilities and specific work that needs to be performed by each of _The Parties_.
+3.1.3 The Definitive Agreement(s) shall include details of the engagement, any additional roles/commitments and specific work that needs to be performed by each of _The Parties_.
 
 3.1.4 The parties further understand that
 

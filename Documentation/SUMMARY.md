@@ -115,7 +115,7 @@
   * [📓 🚧 Devs](operations/handbooks/devs.md)
   * [📓 🚧 Legal](operations/handbooks/partners/README.md)
     * [🗒 Memorandum of Understanding](operations/handbooks/partners/page-1.md)
-    * [Memorandum of Understanding](operations/handbooks/legal/memorandum-of-understanding-1.md)
+    * [🗃 Memorandum of Understanding](operations/handbooks/legal/memorandum-of-understanding-1.md)
   * [📓 🚧 Resource Allocation](operations/handbooks/resource-allocation/README.md)
     * [📓 🚧 Evaluation](operations/handbooks/resource-allocation/evaluation.md)
     * [📓 🚧 Procurement](operations/handbooks/procurement.md)
