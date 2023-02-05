@@ -113,6 +113,8 @@
   * [📓 🚧 Documentation](operations/handbooks/documentation/README.md)
     * [📓 🚧 Documenting interactions](operations/handbooks/documentation/documenting-interactions.md)
   * [📓 🚧 Devs](operations/handbooks/devs.md)
+  * [📓 🚧 Partners](operations/handbooks/partners/README.md)
+    * [Page 1](operations/handbooks/partners/page-1.md)
   * [📓 🚧 Resource Allocation](operations/handbooks/resource-allocation/README.md)
     * [📓 🚧 Evaluation](operations/handbooks/resource-allocation/evaluation.md)
     * [📓 🚧 Procurement](operations/handbooks/procurement.md)
