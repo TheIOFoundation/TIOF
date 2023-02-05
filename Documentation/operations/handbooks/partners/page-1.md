@@ -6,7 +6,7 @@ description: Version 1.2
 
 ![](<../../../.gitbook/assets/\[TIOF] Comms \[I] The IO Foundation Header ENG v1.6.png>)
 
-## About this Memorandum of Understanding (MoU)
+## 1. About this Memorandum of Understanding (MoU)
 
 This Memorandum of Understanding, _hereinafter_ The MoU, is to be subscribed between
 
@@ -36,10 +36,8 @@ This Memorandum of Understanding, _hereinafter_ The MoU, is to be subscribed bet
 | <p>TIOF's Purposes<br><code>TIOF Purposes</code>                               </p><p>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                                       <em></em>           <br>                                            <code></code>                                            <br>                                            <code></code>                                            <br>                                            <code></code>                                            </p>    | _hereinafter_ TIOF's Purposes        |
 | _hereinafter_ collectively called The Purposes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                      |
 
-The Parties agree on the following relevant dates:
-
-| <p>Start of MoU</p><p><code>SOM Date</code>                                       <em></em>   </p> | _hereinafter_ The SoM Date |
-| -------------------------------------------------------------------------------------------------- | -------------------------- |
+| <p>Applicable jurisdiction</p><p><code>Applicable jurisdiction</code>                         <em></em>   </p> | _hereinafter_ The Applicable Jurisdiction |
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 
 **Signatures**
 
@@ -56,24 +54,19 @@ _The Partner_, a company duly incorporated in _The Partner's Country_ with regis
 
 _The IO Foundation_, a non-profit duly incorporated in _TIOF's Country_ with registration number _TIOF's Registration_ and having its registered address at TIOF's Address_._
 
+{% hint style="success" %}
 The _Parties_ enter voluntarily this MoU with the intention of achieving the _Purposes_.
+{% endhint %}
 
-## 1. Terms of the MoU
+{% hint style="success" %}
+By signing this Agreement, the Parties agree to comply with all the Terms.
+{% endhint %}
+
+## 2. Terms of the MoU
 
 The _Parties_ wish to collaborate for the purposes of knowledge sharing, potential development of educational programs, explore opportunities for joint activities and training, and increasing exposure to the expertise each party brings in the areas of Communications and Multimedia Industry (CMI) development as described in The Purposes.
 
-## Roles and Responsibilities
-
-The Parties will endeavor to set a joint agenda for the year in January of each year in aid of implementing the Purposes.
-
-In addition to the foregoing, in aid of the Purposes, The Partner will engage in activities to support the annual agenda, such as described in The Partner's Responsibilities.
-
-In addition to the foregoing, in aid of the Purposes, TIOF will engage in activities to support the annual agenda, such as described in TIOF's Responsibilities.
-
-\
-
-
-## Term and Termination
+### 2.1 Term and Termination
 
 The MoU shall be effective as of Start Date and shall be valid for an initial term of two (2) years and upon expiry, it shall be automatically renewed for further two (2) years period successively unless terminated earlier by either party upon sixty (60) days’ written notice.
 
@@ -83,7 +76,27 @@ Upon expiration or early termination, each party shall return to the other party
 
 All such obligations and terms of this MOU that are required to survive the expiration or early termination of this MOU shall survive such event including, but not limited to, those described in Sections IV, V, and VI hereof.
 
-## Intellectual property rights
+### 2.2 Communications between the parties
+
+The Parties have appointed liaison representatives. These two representatives will take charge of all interactions between the Parties. As of the signing date of this MoU, the appointment of the two liaison representatives is as follows:
+
+MTSFB’s liaison representative to will be:
+
+MTSFB Name: Zaleha Abu Bakar Designation: General Manager Address: MCMC Centre of Excellence, Off Persiaran Multimedia, Jalan Impact, 63000 Cyberjaya, Selangor Darul Ehsan, Malaysia Email: admin@mtsfb.org.my
+
+’s liaison representative with MTSFB will be:
+
+Name: Designation: Address:Email:
+
+### 2.3 Roles and Responsibilities
+
+The Parties will endeavor to set a joint agenda for the year in January of each year in aid of implementing the Purposes.
+
+In addition to the foregoing, in aid of the Purposes, The Partner will engage in activities to support the annual agenda, such as described in The Partner's Responsibilities.
+
+In addition to the foregoing, in aid of the Purposes, TIOF will engage in activities to support the annual agenda, such as described in TIOF's Responsibilities.
+
+### 2.4 Intellectual property rights
 
 Each party or its licensor shall continue to own the intellectual property developed by it prior to or independently of this MoU.
 
@@ -105,9 +118,7 @@ If the parties undertake any joint development in the course of providing servic
 
 Solely in connection with the activities related to this MoU and its Purposes, and subject to all applicable branding guidelines, each party grants to the other party a nonexclusive, worldwide, royalty free, revocable license to use its logo/trademarks in associated with this MoU.
 
-
-
-### Confidentiality
+### 2.5 Confidentiality
 
 During the term of this MoU, each Party may disclose to the other its Confidential Information.
 
@@ -121,25 +132,33 @@ Confidential Information shall mean all information marked “Confidential” or
 
 The receiving party shall hold such Confidential Information in strict confidence for the disclosing party and shall not use it except in furtherance of the relationship set forth in this MOU, or except as it may be authorized by the disclosing party in writing. The receiving party shall further be responsible for the compliance of the foregoing by its employees or agents.
 
-
-
-## Representation and Warranties
+### 2.6 Representation and Warranties
 
 Each party represents and warrants that such party has all necessary corporate power and authority, respectively, to enter into this MoU and to perform its obligations hereunder.
 
 Each party warrants to the other party that all materials, data, information and other assistance provided by it shall not, to the best of its knowledge, infringe third party intellectual property rights and agrees to hold the other party fully indemnified and harmless and at all times keep the other party indemnified against any loss, damages, costs and expenses including attorney’s fees, which may be incurred as a result of any action or claim that may be made or initiated against it as result of any action on the part of the first party.
 
-
-
-## Publicity
+### 2.7 Publicity
 
 Any press release, publicity or other promotional activity issued or engaged in by either party regarding this MoU shall be reviewed and approved in writing by the other party prior to release.
 
+Customer is allowed to use its own branding to configure the Instance and in any promotion campaign.
 
+All promotions will have to include the “Powered by TechUp” logo, which TechUp will provide.
 
-## Ad
+Customer will be responsible for all marketing involved with the Instance.
 
-## Additional provisions
+### 2.8 Data privacy and compliance
+
+TechUp will not use the data of the Audience for any purpose (commercial or otherwise) except the necessary for the correct execution of the Services in the Instance.
+
+All Parties will be responsible for the manipulation of the Audience's data in their possession and this in accordance to the applicable legislation.
+
+TechUp provides a reference CoC. Customer may it or resort to its own custom CoC, which will need to be provided as part of the Configuration.
+
+Customer will be responsible to enforce the Instance’s CoC. TechUp shall not be responsible for any breach of CoC.
+
+### 2.9 Additional provisions
 
 The parties understand that nothing herein shall be construed as a binding contract between the parties. In the event the parties seek to enter into a binding contract such an agreement shall be recorded in a written agreement duly authorized representatives of the parties (“Definitive Agreement”). The Definitive Agreement(s) shall include details of the engagement, any additional roles/responsibilities and specific work that needs to be performed by each of the parties. The parties further understand that (i) the activities intended by this MOU may not be successfully completed; and/or (ii) the results achieved may not be as anticipated. Except for breach of confidentiality obligations and intellectual property right infringement indemnification obligations, neither party shall be liable for any indirect, punitive, special, incidental or consequential damages arising out of or in connection with this MOU, whether for breach of this MOU or in torts, including loss of business, data, revenue, profits, or for any third party claims against the other whatsoever. Further, MTSFB and acknowledge and agree that this MOU is a non-exclusive engagement and except as specifically agreed in a Definitive Agreement with respect to an activity, nothing contained herein shall be construed as preventing or restricting either party from pursuing any opportunity with other entities without involving the other party or to enter into similar alliance arrangements with other entities.
 
@@ -157,152 +176,7 @@ This MOU supersedes all prior oral or written communication, discussions and rep
 
 Any notice under this MOU will be in writing and delivered by hand or by registered mail, email, facsimile transmittal, or an express mail with a confirmation of receipt, to the other party at the registered office or as may be substituted by the notice. Notice will be effective on the date of confirmation of receipt.
 
+###
 
 
-
-
-
-
-## Communications between the parties
-
-The Parties have appointed liaison representatives. These two representatives will take charge of all interactions between the Parties. As of the signing date of this MoU, the appointment of the two liaison representatives is as follows:
-
-MTSFB’s liaison representative to will be:
-
-MTSFB Name: Zaleha Abu Bakar Designation: General Manager Address: MCMC Centre of Excellence, Off Persiaran Multimedia, Jalan Impact, 63000 Cyberjaya, Selangor Darul Ehsan, Malaysia Email: admin@mtsfb.org.my
-
-’s liaison representative with MTSFB will be:
-
-Name: Designation: Address:Email:
-
-
-
-
-
-## Ad
-
-### 1. About this Agreement
-
-
-
-1.3 This Agreement can be made void by any of the parties with a prior notice of 1 month to be notified officially through email to TechUP at Techup  Email.
-
-{% hint style="success" %}
-By signing this Agreement, the Parties agree to comply with all the Terms.
-{% endhint %}
-
-#### Branding
-
-Customer is allowed to use its own branding to configure the Instance and in any promotion campaign.
-
-All promotions will have to include the “Powered by TechUp” logo, which TechUp will provide.
-
-#### Commercialization and Subletting / Reselling
-
-Customer can sell access to the Instance, for which it will use its own payment gateway, at the price of its choosing and shall keep all the proceedings.
-
-Customer is authorized to sell virtual booths to other organizations, _hereinafter_ The Vendors.
-
-The Customer may charge at its sole discretion for this service to the Vendor.
-
-The Customer shall pay TechUp for each virtual booth in accordance to the Pricing.
-
-TechUp is allowed to refer Audience and Vendors if it deems it necessary and/or beneficial.
-
-### 2. Services
-
-#### Nature of Services
-
-TechUp provides event hosting services through the Airmeet platforms, _hereinafter_ The Platform.
-
-The Customer has expressed interest in using its own instance of the Platform, _hereinafter_ The Instance.
-
-The Customer will Use the Platform solely for the Activities and in accordance to the Terms of this Agreement.
-
-#### Features available in the Instance
-
-The Customer will have access in its Instance to all the features that TechUp has over the Platform.
-
-The Customer will be given a virtual booth for its use.
-
-#### Management of the Instance
-
-TechUp shall fully manage the Instance, taking responsibility for its Configuration and starting sessions or conferring Co-Host status to the corresponding Speaker when necessary.
-
-TechUp shall also take care of managing its own virtual booth.
-
-#### 2.1 Setup of the Instance
-
-2.1.1 Upon signature of this Agreement, TechUp will prepare a Configuration Template detailing all the information necessary to configure the Platform that will be sent to the customer on CITS Date.
-
-2.1.2 Customer will submit all the Configuration information, _hereinafter_ The Configuration, to TechUp no later than CICS Date. Failure to comply with the above will incur in the same delay of days to be added to PSD Date.
-
-TechUp will configure the Instance in accordance to the Configuration no later than PSD Date. Failure to comply with the above will incur in the Penalties.
-
-Once the Instance delivered, the Customer may request small touch-ups that won't exceed 2h of work. Any further touch up time will be charged as per HoW Price.
-
-Booth configuration will be the responsibility of the Booth’s owner. The Customer may take upon this responsibility should that be agreed with the Vendor. TechUp may take upon this responsibility in accordance to the Pricing
-
-#### Outreach and Promotion
-
-Customer will be responsible for all marketing involved with the Instance.
-
-TechUp is allowed to promote the Instance and reference it on its reports.
-
-In accordance to xxx. any such promotions will carry the "Powered by TechUp" logo.
-
-TechUp will have a booth in the Instance that will be entirely managed by it. The booth will serve as passive promotion for TechUp.
-
-The IO Foundation will have a booth in the Instance that will be entirely managed by it. The booth will serve as passive promotion for The IO Foundation.
-
-#### Execution
-
-The Customer will ensure that the Speakers attend the Training Sessions.
-
-The Customer will ensure that Speakers attend on time (10 minutes before the session) to receive their co-host status.
-
-#### Data privacy and compliance
-
-TechUp will not use the data of the Audience for any purpose (commercial or otherwise) except the necessary for the correct execution of the Services in the Instance.
-
-All Parties will be responsible for the manipulation of the Audience's data in their possession and this in accordance to the applicable legislation.
-
-TechUp provides a reference CoC. Customer may it or resort to its own custom CoC, which will need to be provided as part of the Configuration.
-
-Customer will be responsible to enforce the Instance’s CoC. TechUp shall not be responsible for any breach of CoC.
-
-#### Analytics
-
-TechUp will provide Analytics to Customer on a monthly basis. Ad-hoc will be possible under reasonable circumstances.
-
-#### Instance's Lifecycle
-
-The Instance will be managed according to the following lifecycle:
-
-*   Creation and Configuration
-
-    Upon Payment and until PSD Date
-*   Event Started and running
-
-    From SoE date to EoE date
-*   Event finalized and accessible for replay
-
-    From EoE date to EAU date
-*   Event archived
-
-    From EAU onwards
-
-### Additional Services
-
-Customer may want to use the following additional services for the purpose of marketing or to provide extra value to its Audience.
-
-| Service              | Platform                         | Pricing             |
-| -------------------- | -------------------------------- | ------------------- |
-| Digital Certificates | Certopus                         | RM5 per PAX         |
-| SEO                  | Ranktracker                      | Consult with TechUp |
-| Integrations         | n8n / Pabbly / Integromat / IFFT | Consult with TechUp |
-| SocMed automation    | VBout                            | Consult with TechUp |
-| EDM                  | VBout                            | Consult with TechUp |
-| ShortURL             | Bl.ink                           | RM5 per URL         |
-| Custom videos        | Pictory                          | Consult with TechUp |
 
