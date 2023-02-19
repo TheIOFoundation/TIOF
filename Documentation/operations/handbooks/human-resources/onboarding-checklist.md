@@ -23,18 +23,18 @@ This document will guide you in the steps you need to undertake for your TIOF on
 
 ## TIOF Credentials
 
-### Creation of TIOF Member credentials
+### Creation of TIOF Member Account
 
-The first step in your onboarding process will be to be assigned basic credentials to access TIOF's tools.
+The first step in your onboarding process will be to be assigned basic credentials (TIOF Member Account) to access TIOF's tools.
 
 {% hint style="info" %}
 For the time being, The IO Foundation is using Google Workspace for Nonprofits.
 {% endhint %}
 
-TIOF will do the necessary to create your basic credentials. You will receive an new credentials email (titled "\[TIOF] Your new TIOF Account") once they are ready, which will lead you to this document.
+TIOF will do the necessary to create your basic credentials. You will receive a new credentials email (titled "\[TIOF] Your new TIOF Member Account") once they are ready, which will lead you to this document.
 
 {% hint style="success" %}
-Your credentials will be composed by:
+Your TIOF Member Account will be composed by:
 
 * Username
 * Default Password
@@ -62,14 +62,14 @@ Once you have changed your password, you'll are able to proceed with the Next St
 
 These are the next steps you are invited to undertake for your TIOF onboarding.
 
-| Platform     | TIOF                                             | You                                                                                                                                                                                                                                                                                                                                                                                         |
-| ------------ | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Slack        |                                                  | <ul class="contains-task-list"><li><input type="checkbox">Go to<br><a href="https://tiof.click/Slack">https://TIOF.Click/Slack</a><br>and register using the <br>LOGIN WITH GOOGLE button<br>and your TIOF account.</li><li><input type="checkbox">Enter the Slack space.</li><li><input type="checkbox">Explore the channels structure and get familiar with where to find what.</li></ul> |
-| Google Drive |                                                  | <ul class="contains-task-list"><li><input type="checkbox">Install the Google Drive app on your devices.</li><li><input type="checkbox">Launch the app and link </li><li><input type="checkbox">Explore the folder structure and get familiar with where to find what.</li></ul>                                                                                                             |
-| Raindrop     | We will send you an invite to join the platform. | <ul class="contains-task-list"><li><input type="checkbox">Accept the invites using your TIOF account.</li><li><input type="checkbox">Install the Raindrop.io app on your mobile.</li><li><input type="checkbox">Explore the interface and get familiar with the folder structure. </li></ul>                                                                                                |
-| Basaas       | We will send you an invite to join the platform. | <ul class="contains-task-list"><li><input type="checkbox">Go to<br><a href="https://workspace.theiofoundation.org/">https://workspace.theiofoundation.org/</a><br>and register using the <br>SIGN IN WITH GOOGLE button and your TIOF account.</li><li><input type="checkbox">Explore the interface and get familiar with where are the different tools.</li></ul>                          |
-| Cuttles      | We will send you an invite to join the platform. | <ul class="contains-task-list"><li><input type="checkbox">Accept the invite and sign in to the platform by creating a new user account.<br><strong>Note: Google Login is not possible</strong></li><li><input type="checkbox">Explore the interface and get familiar with where to find the information that is relevant to you.</li></ul>                                                  |
-| ContextMinds | We will send you an invite to join the platform. | <ul class="contains-task-list"><li><input type="checkbox">Accept the invite and register using the <br>SIGN IN WITH GOOGLE button and your TIOF account.</li><li><input type="checkbox">Explore the interface and get familiar with the different mind maps.</li></ul>                                                                                                                      |
+| Platform     | TIOF                                             | You                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------ | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Slack        |                                                  | <ul class="contains-task-list"><li><input type="checkbox">Go to<br><a href="https://tiof.click/Slack">https://TIOF.Click/Slack</a><br>and register using the <br>LOGIN WITH GOOGLE button<br>and your TIOF Member Account.</li><li><input type="checkbox">Enter the Slack space.</li><li><input type="checkbox">Explore the channels structure and get familiar with where to find what.</li></ul> |
+| Google Drive |                                                  | <ul class="contains-task-list"><li><input type="checkbox">Install the Google Drive app on your devices.</li><li><input type="checkbox">Launch the app and link it with your TIOF Member Account.</li><li><input type="checkbox">Explore the folder structure and get familiar with where to find what.</li></ul>                                                                                   |
+| Raindrop     | We will send you an invite to join the platform. | <ul class="contains-task-list"><li><input type="checkbox">Accept the invites using your TIOF Member Account.</li><li><input type="checkbox">Install the Raindrop.io app on your mobile.</li><li><input type="checkbox">Explore the interface and get familiar with the folder structure. </li></ul>                                                                                                |
+| Basaas       | We will send you an invite to join the platform. | <ul class="contains-task-list"><li><input type="checkbox">Go to<br><a href="https://workspace.theiofoundation.org/">https://workspace.theiofoundation.org/</a><br>and register using the <br>SIGN IN WITH GOOGLE button and your TIOF Member Account.</li><li><input type="checkbox">Explore the interface and get familiar with where are the different tools.</li></ul>                          |
+| Cuttles      | We will send you an invite to join the platform. | <ul class="contains-task-list"><li><input type="checkbox">Accept the invite and sign in to the platform by creating a new user account.<br><strong>Note: Google Login is not possible</strong></li><li><input type="checkbox">Explore the interface and get familiar with where to find the information that is relevant to you.</li></ul>                                                         |
+| ContextMinds | We will send you an invite to join the platform. | <ul class="contains-task-list"><li><input type="checkbox">Accept the invite and register using the <br>SIGN IN WITH GOOGLE button and your TIOF Member Account.</li><li><input type="checkbox">Explore the interface and get familiar with the different mind maps.</li></ul>                                                                                                                      |
 
 
 
