@@ -46,7 +46,7 @@ Your credentials will be composed by:
 Please note that the first step you'll have to accomplish is to CHANGE your Default Password.
 {% endhint %}
 
-* [ ] Go to [https://TIOF.Click/TIOFMemberProvisioningChangeDefaultPWD](https://tiof.click/TIOFMemberProvisioningChangeDefaultPWD).a
+* [ ] Go to [https://TIOF.Click/TIOFMemberProvisioningChangeDefaultPWD](https://tiof.click/TIOFMemberProvisioningChangeDefaultPWD).
 * [ ] Log in using the TIOF Username and Default Password that were given to you in the new credentials email.
 * [ ] Change your password.
 
