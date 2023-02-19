@@ -17,13 +17,13 @@ This Handbook responds to the following Policies:
 *
 {% endhint %}
 
-
-
 ## About
 
-This document will guide you in the next steps you need to undertake for your TIOF onboarding.
+This document will guide you in the steps you need to undertake for your TIOF onboarding amd access all the tools that the organization puts at your disposal.
 
 ## TIOF Credentials
+
+### Creation of TIOF Member credentials
 
 The first step in your onboarding process will be to be assigned basic credentials to access TIOF's tools.
 
@@ -31,11 +31,19 @@ The first step in your onboarding process will be to be assigned basic credentia
 For the time being, The IO Foundation is using Google Workspace for Nonprofits.
 {% endhint %}
 
-This will be take care of by TIOF. You will receive an email once your credentials will be ready.
+TIOF will do the necessary to create your basic credentials. You will receive an new credentials email (titled "\[TIOF] Your new TIOF Account") once they are ready, which will lead you to this document.
+
+### Changing your initial password
 
 {% hint style="warning" %}
 Please note that the first step you'll have to accomplish is to CHANGE your default password.
+{% endhint %}
 
+* [ ] Go to [https://TIOF.Click/TIOFMemberOnboardingWizardNextSteps](https://tiof.click/TIOFMemberOnboardingWizardNextSteps)
+* [ ] Log in using the TIOF Username and Default Password that were given to you in the email
+* [ ] Change your password
+
+{% hint style="danger" %}
 Please ensure to create a very strong password and to save it in secure place.
 
 How to: @@@Pending
