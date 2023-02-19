@@ -39,7 +39,7 @@ TIOF will do the necessary to create your basic credentials. You will receive an
 Please note that the first step you'll have to accomplish is to CHANGE your default password.
 {% endhint %}
 
-* [ ] Go to [https://TIOF.Click/TIOFMemberOnboardingWizardNextSteps](https://tiof.click/TIOFMemberOnboardingWizardNextSteps)
+* [ ] Go to [https://TIOF.Click/TIOFMemberProvisioningChangePWD](https://tiof.click/TIOFMemberProvisioningChangePWD)
 * [ ] Log in using the TIOF Username and Default Password that were given to you in the email
 * [ ] Change your password
 
