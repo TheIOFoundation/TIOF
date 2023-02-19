@@ -33,18 +33,25 @@ For the time being, The IO Foundation is using Google Workspace for Nonprofits.
 
 TIOF will do the necessary to create your basic credentials. You will receive an new credentials email (titled "\[TIOF] Your new TIOF Account") once they are ready, which will lead you to this document.
 
-### Changing your initial password
+{% hint style="success" %}
+Your credentials will be composed by:
 
-{% hint style="warning" %}
-Please note that the first step you'll have to accomplish is to CHANGE your default password.
+* Username
+* Default Password
 {% endhint %}
 
-* [ ] Go to [https://TIOF.Click/TIOFMemberProvisioningChangePWD](https://tiof.click/TIOFMemberProvisioningChangePWD)
-* [ ] Log in using the TIOF Username and Default Password that were given to you in the email
-* [ ] Change your password
+### Changing your Default Password
+
+{% hint style="warning" %}
+Please note that the first step you'll have to accomplish is to CHANGE your Default Password.
+{% endhint %}
+
+* [ ] Go to [https://TIOF.Click/TIOFMemberProvisioningChangeDefaultPWD](https://tiof.click/TIOFMemberProvisioningChangeDefaultPWD).a
+* [ ] Log in using the TIOF Username and Default Password that were given to you in the new credentials email.
+* [ ] Change your password.
 
 {% hint style="danger" %}
-Please ensure to create a very strong password and to save it in secure place.
+Please ensure to create a very strong password and to save it in a secure place.
 
 How to: @@@Pending
 {% endhint %}
