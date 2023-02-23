@@ -83,8 +83,35 @@ Back to top
 
 ### Data & Privacy statement
 
-##
+
+
+## Lead Generation
+
+The IO Foundation requires interacting with a number of potential stakeholders and reach out to potential beneficiaries in order to further its advocacy, otherwise known as leads.
+
+Obtaining these leads can be done through a number of methods.
+
+The IO Foundation has a clear policy of not generating leads by methods that infringe this Policy.
+
+### General methodology
+
+
+
+
+
+* Triggers
+  * "Active": Custom alerts, URL monitoring
+  * "Passive": Newsletters
+* Manual acquisition
+
+
+
+
+
+
+
+
 
 ### Cookies Policy
 
-Back to top
+Back to&#x20;
