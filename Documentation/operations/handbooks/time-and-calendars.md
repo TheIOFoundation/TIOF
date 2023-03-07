@@ -37,6 +37,16 @@ General Structure (Outdated)
 
 
 
+## Meetings
+
+### Regular meetings
+
+For practical reasons, the deadline is established on recurrent 3rd Friday of the month.
+
+This should provide ample margin to all TIOF Members to set their own schedule.
+
+
+
 
 
 ## Platforms
