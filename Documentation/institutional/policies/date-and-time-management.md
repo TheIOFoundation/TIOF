@@ -37,6 +37,20 @@ Examples
 
 
 
+## Weeks
+
+Working week is from Monday to Friday.
+
+## Months
+
+Months follow solar cycle.
+
+
+
+
+
+
+
 ### Using other Time zones
 
 In certain cases, the proper Time Zone to be used is different from the Organization's standard.
@@ -52,4 +66,30 @@ All deadlines are to be established based on 00:00:00 UTC+0 of the day immediate
 ## Combined
 
 Format: DD/MM/YYYY or dddd mmmm yyyy
+
+
+
+
+
+## Meetings
+
+
+
+### Regular meetings
+
+All regular meetings need to be set latest 1 week before the beginning of a new month.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
