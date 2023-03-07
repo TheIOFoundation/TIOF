@@ -25,13 +25,14 @@ Obtaining these leads can be done through a number of methods.
 
 The IO Foundation has a clear policy of not generating leads by methods that infringe this Policy.
 
-### Types of Leads
+### Types of Leads / Signals
 
-| Purpose  | Examples                                 | Link |
-| -------- | ---------------------------------------- | ---- |
-| Research | Ongoing projects, etc.                   |      |
-| Reaction | Data breaches, relevant events, etc.     |      |
-| Comms    | In-the-know about mentions of TIOF, etc. |      |
+| Purpose  | Examples                                               | Link |
+| -------- | ------------------------------------------------------ | ---- |
+| Research | Ongoing projects, etc.                                 |      |
+| Reaction | Data breaches, relevant events, etc.                   |      |
+| Comms    | In-the-know about mentions of TIOF, etc.               |      |
+| Security | TIOF Data breaches, login impersonation attempts, etc. |      |
 
 
 
