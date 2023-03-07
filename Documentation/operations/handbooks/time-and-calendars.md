@@ -45,7 +45,7 @@ For practical reasons, the deadline is established on recurrent 3rd Friday of th
 
 This should provide ample margin to all TIOF Members to set their own schedule.
 
-
+\>> Compliant with Policy number XXX
 
 
 
