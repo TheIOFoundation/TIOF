@@ -71,3 +71,20 @@ Plant, property and equipment and intangible assets Property, plant and equipmen
 
 
 
+### Reimbursements
+
+Each such expenditure or costs shall be reimbursed only if:
+
+(i) with respect to costs in excess of EUR50 (or equivalent, based on the exchange reference described in Appendix B), individually, Adviser receives prior approval from the Organization’s CEO or CFO or other authorized executive for such expenditure or cost, and
+
+(ii) with respect to costs in less than EUR50 (or equivalent, based on the exchange reference described in Appendix B), individually, provided Adviser furnishes to Organization adequate records and other documents reasonably acceptable to Organization evidencing such expenditure or cost.
+
+\
+
+
+
+
+
+
+
+
