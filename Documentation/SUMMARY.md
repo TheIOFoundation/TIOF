@@ -34,7 +34,7 @@
   * [🚧 TIOF Network](institutional/structures/tiof-network.md)
   * [🚧 Organizational Chart](institutional/structures/organizational-chart.md)
   * [🚧 Boards](institutional/structures/boards/README.md)
-    * [🚧 Board of Directors](institutional/structures/boards/board-of-directors/README.md)
+    * [🚧 Board of Directors](institutional/structures/board-of-directors.md)
       * [ToR](institutional/structures/boards/board-of-directors/tor.md)
     * [🚧 Board of Advisers](institutional/structures/board-of-advisers.md)
     * [🚧 Board of Consultants](institutional/structures/board-of-consultants.md)
