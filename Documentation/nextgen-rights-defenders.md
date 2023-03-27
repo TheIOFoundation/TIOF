@@ -54,17 +54,17 @@ TIOF has identified the following challenges:
 
 While the UDDR is still a work in progress, The IO Foundation has created the DCDR Principles to act upon **Challenge 1** and guide developers to update some of their paradigms and stepping up as NextGen Rights Defenders.
 
-See more information in the [Data-Centric Digital Rights](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/rG4xcNzldvEoKR9FS7Og/ "mention") documentation.
+See more information in the [Data-Centric Digital Rights](http://localhost:5000/o/-MF3oKZXzZjSRVKTjwWS/s/rG4xcNzldvEoKR9FS7Og/ "mention") documentation.
 
 ### TechUp
 
 Ensuring that DCDR Principles become part of the technologists' toolbox as well as provide them with a space to bootstrap their own Tech NGOs.
 
-See more information in the [TechUp](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K54SuAkrrbCKMqyze/ "mention") documentation.
+See more information in the [TechUp](http://localhost:5000/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K54SuAkrrbCKMqyze/ "mention") documentation.
 
 ### CrowdShape
 
 This initiative aims at acting upon **Challenge 3** by providing tools to quickly and easily bootstrap a Tech NGO. It would also enable some solutions for Challenge 2 by encouraging donations through accountability and transparency by design.
 
-See more information in the [CrowdShape](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/MxkrsyQSraXtP8kYavv2/ "mention") documentation.
+See more information in the [CrowdShape](http://localhost:5000/o/-MF3oKZXzZjSRVKTjwWS/s/MxkrsyQSraXtP8kYavv2/ "mention") documentation.
 
