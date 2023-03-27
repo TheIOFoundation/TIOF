@@ -4,7 +4,7 @@ description: Version 1.3
 
 # 🗒 Memorandum of Understanding with CFM
 
-<figure><img src="../../../.gitbook/assets/[TIOF] Comms [I] The IO Foundation Letterhead ENG v2.0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/[TIOF] Comms [I] The IO Foundation Letterhead ENG v2.0.png" alt=""><figcaption></figcaption></figure>
 
 ## 1. About this Memorandum of Understanding (MoU)
 
@@ -230,4 +230,4 @@ The laws of Malaysia shall govern this MoU. Both parties irrevocably submit to t
 End of the MoU
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/[TIOF] Comms [I] The IO Foundation Footer ENG v2.0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/[TIOF] Comms [I] The IO Foundation Footer ENG v2.0.png" alt=""><figcaption></figcaption></figure>

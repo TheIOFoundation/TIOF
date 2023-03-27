@@ -79,7 +79,8 @@
   * [🍃 Season 2021](institutional/annual-reports/2021.md)
   * [🍃 Season 2022](institutional/annual-reports/2022.md)
   * [🍃 Season 2023](institutional/annual-reports/2023.md)
-* [🚧 Partners and Collaborators](institutional/partners-and-collaborators.md)
+* [🚧 Partners and Collaborators](institutional/partners-and-collaborators/README.md)
+  * [🗒 Memorandum of Understanding with CFM](institutional/partners-and-collaborators/memorandum-of-understanding-with-cfm.md)
 
 ## Operations
 
@@ -120,7 +121,6 @@
   * [📓 🚧 Devs](operations/handbooks/devs.md)
   * [📓 🚧 Legal](operations/handbooks/partners/README.md)
     * [🗒 Memorandum of Understanding](operations/handbooks/partners/page-1.md)
-    * [🗒 Memorandum of Understanding with CFM](operations/handbooks/legal/memorandum-of-understanding-with-cfm.md)
     * [🗃 Memorandum of Understanding](operations/handbooks/legal/memorandum-of-understanding-1.md)
   * [📓 🚧 Resource Allocation](operations/handbooks/resource-allocation/README.md)
     * [📓 🚧 Evaluation](operations/handbooks/resource-allocation/evaluation.md)
