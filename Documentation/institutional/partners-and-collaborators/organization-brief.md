@@ -80,8 +80,6 @@ The BHR in Tech initiative aims at encouraging a shift towards the adoption and 
 
 ## [TechUp](http://localhost:5000/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K54SuAkrrbCKMqyze/ "mention")
 
-![](<../../.gitbook/assets/\[TIOF TU] Comms \[P] LinkedIn - Event Header ENG v1.0.jpg>)
-
 TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital by engaging technologists in a meaningful way.
 
 Through its activities, TechUp strives to bring together the tech community to become the agents of change that digital societies need right now.
