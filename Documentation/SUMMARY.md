@@ -80,7 +80,7 @@
   * [🍃 Season 2022](institutional/annual-reports/2022.md)
   * [🍃 Season 2023](institutional/annual-reports/2023.md)
 * [🚧 Partners and Collaborators](institutional/partners-and-collaborators/README.md)
-  * [Untitled](institutional/partners-and-collaborators/untitled.md)
+  * [ORGANIZATION BRIEF](institutional/partners-and-collaborators/organization-brief.md)
   * [🗒 Memorandum of Understanding with CFM](institutional/partners-and-collaborators/memorandum-of-understanding-with-cfm.md)
 
 ## Operations
