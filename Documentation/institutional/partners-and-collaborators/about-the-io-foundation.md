@@ -54,7 +54,33 @@ The following diagram provides an overview on how each of the initiatives suppor
 
 ## [Data-Centric Digital Rights](http://localhost:5000/o/-MF3oKZXzZjSRVKTjwWS/s/rG4xcNzldvEoKR9FS7Og/ "mention")
 
-Advancing the supporting the DCDR advocacy through research and knowledge dissemination.
+TIOF views the technology as currently non-correlated with all working understandings and practices as to how any public-consumption industry functions traditionally where a clear separation is made between:
+
+* Experts, who understand the complexities to design and build products that are compliant with applicable legislation and
+* Citizens, who are solely tasked for being responsible users of the product
+
+{% hint style="info" %}
+As core stakeholders, technologists play a critical role as the [Next Generation of Rights Defenders](https://tiof.click/TIOFNextGen) and need to orient themselves through new design and implementation paradigms focused on protecting data. The [DCDR Principles](https://tiof.click/DCDRPrinciples) put forward by The IO Foundation are concepts that help them navigate the intricacies of applying Human and Digital Rights in digital infrastructures, products and services.
+{% endhint %}
+
+In essence, DCDR is a framework for technologists composed by Principles, Taxonomies and other technical tools. It enables them to develop a deeper understanding about the nature of data, the digital twins that emerge from it and make possible for them to embrace their role as [NextGen Rights Defenders](https://tiof.click/TIOFNextGen).
+
+{% hint style="success" %}
+By understanding that [_we are our data_](https://tiof.click/DCDRPrinciple1), technologists may architect Digital Spaces that aim at [_ending remedy_](https://tiof.click/DCDRPrinciple2) and build it so that they implement [_Rights by design_](https://tiof.click/DCDRPrinciple3).
+{% endhint %}
+
+### Objectives
+
+The DCDR initiative aims at encouraging a shift in the current technology paradigms by providing
+
+* [DCDR Principles](https://tiof.click/DCDRPrinciples)
+* [Sagan Oath](https://tiof.click/DCDRSaganOath)
+* Generating the necessary body of work for
+  * A [DCDR framework](https://tiof.click/DCDRFramework)
+  * A set of taxonomies for
+    * [Digital Harms](https://tiof.click/DCDRDigitalHarms)
+    * [Digital Rights](https://tiof.click/DCDRDigitalRights)
+    * [Use Cases](https://tiof.click/DCDRUseCases)
 
 [Get involved](https://tiof.click/DCDRDocs)
 
@@ -78,8 +104,6 @@ A platform to support technologists wanting to make and impact and support the g
 
 [Get involved](https://tiof.click/CSDocs)
 
-
-
 ## [Universal Declaration of Digital Rights](http://localhost:5000/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K4xk\_xBCdMTs3EMBi/ "mention")
 
 Advancing the development, proclamation and adoption of a Universal Declaration of Digital Rights.
@@ -89,8 +113,6 @@ Advancing the development, proclamation and adoption of a Universal Declaration 
 ## Publications
 
 The IO Foundation regularly publishes articles, research papers and other documents such as comments on public consultations related to its advocacy. [Check out TIOF's publications](https://tiof.click/TIOFPublications).
-
-##
 
 {% hint style="success" %}
 You can support The IO Foundation by
