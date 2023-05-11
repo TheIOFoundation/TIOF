@@ -38,11 +38,10 @@ _hereinafter_ collectively called The Parties.
 
 ### &#x20;1.2 Purpose
 
-_The Parties_ agree to enter this MoU for the following purposes:
+_The Parties_ agree to enter this MoU for the following purposes, in accordance to their respective mandates, which shall support at all times each Party's mission:
 
-| <ul><li>Support all Parties in the realization of their mission</li><li>Knowledge sharing</li><li>Potential development of educational programs</li><li>Explore opportunities for joint activities and training</li><li>Exchange information between both organizations with a view to share best practices and identify possible areas for co-operation</li><li>Participation of both organizations in industry events and congresses, etc. (e.g. for branding purposes) organized by both entities or where one has active participation</li><li>Participation from one <em>Party</em> in the other’s publications (e.g. articles, marketing material)</li><li>Explore potential research projects and corresponding funding opportunities</li><li>Explore potential engagement activities and corresponding funding opportunities</li><li>To join efforts to disseminate across each Party's network those events that the Parties may organize or participate in</li></ul> | _hereinafter_ The Purposes |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
-| _hereinafter_ collectively called The Purposes.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                            |
+| <ul><li>Knowledge sharing</li><li>Potential development of educational programs</li><li>Explore opportunities for joint activities and training</li><li>Exchange information between both organizations with a view to share best practices and identify possible areas for co-operation</li><li>Participation of both organizations in industry events and congresses, etc. (e.g. for branding purposes) organized by both entities or where one has active participation</li><li>Participation from one <em>Party</em> in the other’s publications (e.g. articles, marketing material)</li><li>Explore potential research projects and corresponding funding opportunities</li><li>Explore potential engagement activities and corresponding funding opportunities</li><li>To join efforts to disseminate across each Party's network those events that the Parties may organize or participate in</li></ul> | _hereinafter_ collectively called The Purposes. |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 
 ### 1.3 Commitments
 
@@ -59,10 +58,10 @@ _The Parties_ agree to enter this MoU committing to the following:
 
 ### **1.4 Signatures**
 
-| <p>For the Partner<br><code></code>Partner<code>Representative Name</code><br><code></code>Partner<code>Representative Title</code><br><code></code>Partner<code>Representative Signature</code></p> |                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| <p>For The IO Foundation<br>Jean F. Queralt<br>Founder &#x26; CEO<br><code>TIOF Representative Signature</code></p>                                                                                  |                                  |
-| <p>Signed on the </p><p><code>Signature Date</code>                                     <em></em>   </p>                                                                                             | _hereinafter_ The Signature Date |
+| <p>For the Partner<br>Partner<code>Representative Name</code><br>Partner<code>Representative Title</code><br>Partner<code>Representative Signature</code></p> |                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| <p>For The IO Foundation<br>Jean F. Queralt<br>Founder &#x26; CEO<br><code>TIOF Representative Signature</code></p>                                           |                                  |
+| <p>Signed on the </p><p><code>Signature Date</code>                                     </p>                                                                  | _hereinafter_ The Signature Date |
 
 This non-binding MoU will enter in effect immediately from _Signature Date_, by and between:
 
@@ -176,7 +175,7 @@ By signing this Agreement, _The Parties_ agree to comply with all the Terms.
 
 2.9.1 _The Parties_ will be responsible for the manipulation, in accordance to the applicable legislation, of any user data obtained, or otherwise manipulated, resulting from this MoU.&#x20;
 
-2.9.2 TIOF observes a Code of Conduct for all of its activities.
+2.9.2 TIOF observes a [Code of Conduct](https://tiof.click/TIOFPolicyCoC) for all of its activities.
 
 2.9.3 _The Partner_ may suggest the use of a different Code of Conduct for the activities co-organized with, but not limited to, TIOF for activities under this MoU. Such Code of Conduct will be agreed upon by all _Parties_ on a separate document.
 
@@ -186,7 +185,7 @@ By signing this Agreement, _The Parties_ agree to comply with all the Terms.
 
 3.1.1 _The Parties_ understand that nothing herein shall be construed as a binding contract between them.
 
-3.1.2 In the event that _The Parties_ seek to enter into a binding contract such an agreement shall be recorded in a written agreement, hereinafter “Definitive Agreement”, duly authorized by _The Representatives_ of _The parties_ ().
+3.1.2 In the event that _The Parties_ seek to enter into a binding contract such an agreement shall be recorded in a written agreement, hereinafter “Definitive Agreement”, duly authorized by _The Representatives_ of _The parties_.
 
 3.1.3 The Definitive Agreement(s) shall include details of the engagement, any additional roles/commitments and specific work that needs to be performed by each of _The Parties_.
 
@@ -216,7 +215,7 @@ By signing this Agreement, _The Parties_ agree to comply with all the Terms.
 
 ### 3.3 Governing Law
 
-The laws of Malaysia shall govern this MoU. Both parties irrevocably submit to the exclusive jurisdiction of the Courts of Malaysia for any action or proceeding regarding this MoU including, but not limited to, those related to Sections IV, V and VI of this MoU.
+The laws of Malaysia shall govern this MoU. Both parties irrevocably submit to the exclusive jurisdiction of the Courts of Malaysia for any action or proceeding regarding this MoU including, but not limited to, those related to Sections 2.5, 2.6 and 2.8 of this MoU.
 
 ### 3.4 Final considerations
 
