@@ -4,7 +4,7 @@ description: >-
   Foundation.
 ---
 
-# The IO Foundation MTÜ
+# 🇪🇪 The IO Foundation MTÜ
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -36,10 +36,11 @@ The IO Foundation's governance is based by 3 documents the following sequence.
 
 The following is a list of other registrations and certifications for The IO Foundation.
 
-| Registration                                                                                                                                                      | ID            | Verification Link |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------------- |
-| United Nations                                                                                                                                                    | **`Ongoing`** | N/A               |
-| DUNS                                                                                                                                                              | 536406268     | N/A               |
-| [NACE Code](https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST\_CLS\_DLD\&StrNom=NACE\_REV2\&StrLanguageCode=EN\&StrLayoutCode=HIERARCHIC) | 62.09         | N/A               |
-| NCAGE                                                                                                                                                             | 010BJ         | N/A               |
+| Registration                                                                                                                                                      | ID            | Verification Link                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------- |
+| United Nations                                                                                                                                                    | **`Ongoing`** | N/A                                                                                 |
+| SAM Unique Entity ID                                                                                                                                              | DMW1GZS2H5S5  | N/A                                                                                 |
+| DUNS                                                                                                                                                              | 536406268     | N/A                                                                                 |
+| [NACE Code](https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST\_CLS\_DLD\&StrNom=NACE\_REV2\&StrLanguageCode=EN\&StrLayoutCode=HIERARCHIC) | 62.09         | N/A                                                                                 |
+| NCAGE                                                                                                                                                             | 010BJ         | [Check online](https://eportal.nspa.nato.int/Codification/CageTool/cage-view/010BJ) |
 
