@@ -104,6 +104,8 @@ Overview of Stats
 
 ## Editorial process
 
+\>> Pending flow diagram
+
 ### Creating an Article
 
 ### Editing an Article
@@ -148,7 +150,23 @@ Overview of Stats
 
 
 
+### Updating the Article's stage
 
+
+
+| Stage       | Meaning                                                     | Who                           |
+| ----------- | ----------------------------------------------------------- | ----------------------------- |
+| Draft       | The Article is a draft with rough ideas.                    | <p>Writer<br>Collaborator</p> |
+| In Progress | The Article is being written.                               | <p>Writer<br>Collaborator</p> |
+| For Review  | The Article is ready for evaluation by an Editor.           | <p>Writer<br>Collaborator</p> |
+| Reviewed    | The Article is considered ready tu publish.                 | Editor                        |
+| Published   | The Article has been published or scheduled for publishing. | Editor                        |
+
+
+
+
+
+## Publishing Articles
 
 
 
