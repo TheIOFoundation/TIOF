@@ -31,13 +31,7 @@ Playbook
 
 ## Required information
 
-| Field     | Description            | Responsible | Source   |
-| --------- | ---------------------- | ----------- | -------- |
-| **Who**   | Who has been  featured | Proposer    | Request  |
-| **What**  | What does it do?       | Proposer    | Request  |
-| **Where** | URL of the release     | Proposer    | Request  |
-| **CTA**   | Call To Action         | Comms       | Template |
-|           |                        |             |          |
+<table><thead><tr><th width="150">Field</th><th width="210.33333333333331">Description</th><th>Responsible</th><th>Source</th></tr></thead><tbody><tr><td><strong>Who</strong></td><td>Who has been  featured</td><td>Proposer</td><td>Request</td></tr><tr><td><strong>What</strong></td><td>What does it do?</td><td>Proposer</td><td>Request</td></tr><tr><td><strong>Where</strong></td><td>URL of the release</td><td>Proposer</td><td>Request</td></tr><tr><td><strong>CTA</strong></td><td>Call To Action</td><td>Comms</td><td>Template</td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 
 

@@ -1,7 +1,7 @@
 # 📓 🚧 Volunteer
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFHBVolunteer) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFHBVolunteer) **| Playbook | Assistant**
 {% endhint %}
 
 

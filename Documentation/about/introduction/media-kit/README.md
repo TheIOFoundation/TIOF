@@ -5,7 +5,7 @@ description: Version 1.0 | This Media Kit was approved on 01 February 2019.
 # 🎨 Media Kit
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFMediaKit) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)****
+[**ShortURL**](https://tiof.click/TIOFMediaKit) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)
 {% endhint %}
 
 ## Introduction
@@ -87,7 +87,7 @@ Please note the capitalization
 
 **About the DCDR advocacy**
 
-****[Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) advocates to establish the necessary technical standards to transparently protect citizen's [digital twins](https://tiof.click/DCDRTerminology#digital-twin) and enable technologists to create better and safer digital societies through embracing their role as [NextGen Rights Defenders](https://tiof.click/TIOFNextGen).
+[Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) advocates to establish the necessary technical standards to transparently protect citizen's [digital twins](https://tiof.click/DCDRTerminology#digital-twin) and enable technologists to create better and safer digital societies through embracing their role as [NextGen Rights Defenders](https://tiof.click/TIOFNextGen).
 
 The IO Foundation focuses its efforts towards programmers and in the proclamation of a [Universal Declaration of Digital Rights (UDDR)](https://tiof.click/UDDRWeb).
 
@@ -183,25 +183,13 @@ For more information, please refer to [TIOF's Branding Guidelines](https://tiof.
 
 The following are the official colors composing The IO Foundation's color palette**.**
 
-| **Color**  | **Light gray**                                                                                                                                                                                       | **Dark gray**                                                                                                                                                                                       | **Orange**                                                                                                                                                                                     |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Code**   | LG                                                                                                                                                                                                   | DG                                                                                                                                                                                                  | O                                                                                                                                                                                              |
-| **Sample** | <img src="https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/[TIOF]%20Comms%20[P]%20Color%20Palette%20-%20Light%20gray%20XXX%20v1.0.png" alt="" data-size="line"> | <img src="https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/[TIOF]%20Comms%20[P]%20Color%20Palette%20-%20Dark%20gray%20XXX%20v1.0.png" alt="" data-size="line"> | <img src="https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/[TIOF]%20Comms%20[P]%20Color%20Palette%20-%20Orange%20XXX%20v1.0.png" alt="" data-size="line"> |
-| **RGB**    | 137, 137, 142                                                                                                                                                                                        | 78, 80, 86                                                                                                                                                                                          | 247, 149, 82                                                                                                                                                                                   |
-| **HSL**    | 240, 2.2, 54.7                                                                                                                                                                                       | 225, 4.9, 32.2                                                                                                                                                                                      | 24, 91.2, 64.5                                                                                                                                                                                 |
-| **Hex**    | #89898E                                                                                                                                                                                              | #4E5056                                                                                                                                                                                             | #F79552                                                                                                                                                                                        |
+<table data-header-hidden><thead><tr><th width="150"></th><th width="150"></th><th width="150"></th><th width="150"></th></tr></thead><tbody><tr><td><strong>Color</strong></td><td><strong>Light gray</strong></td><td><strong>Dark gray</strong></td><td><strong>Orange</strong></td></tr><tr><td><strong>Code</strong></td><td>LG</td><td>DG</td><td>O</td></tr><tr><td><strong>Sample</strong></td><td><img src="https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/[TIOF]%20Comms%20[P]%20Color%20Palette%20-%20Light%20gray%20XXX%20v1.0.png" alt="" data-size="line"></td><td><img src="https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/[TIOF]%20Comms%20[P]%20Color%20Palette%20-%20Dark%20gray%20XXX%20v1.0.png" alt="" data-size="line"></td><td><img src="https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/[TIOF]%20Comms%20[P]%20Color%20Palette%20-%20Orange%20XXX%20v1.0.png" alt="" data-size="line"></td></tr><tr><td><strong>RGB</strong></td><td>137, 137, 142</td><td>78, 80, 86</td><td>247, 149, 82</td></tr><tr><td><strong>HSL</strong></td><td>240, 2.2, 54.7</td><td>225, 4.9, 32.2</td><td>24, 91.2, 64.5</td></tr><tr><td><strong>Hex</strong></td><td>#89898E</td><td>#4E5056</td><td>#F79552</td></tr></tbody></table>
 
-| **Color**  | **Light blue**                                                                                                                                                                                       | **Dark blue**                                                                                                                                                                                       |   |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| **Code**   | LB                                                                                                                                                                                                   | DB                                                                                                                                                                                                  |   |
-| **Sample** | <img src="https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/[TIOF]%20Comms%20[P]%20Color%20Palette%20-%20Light%20blue%20XXX%20v1.0.png" alt="" data-size="line"> | <img src="https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/[TIOF]%20Comms%20[P]%20Color%20Palette%20-%20Dark%20blue%20XXX%20v1.0.png" alt="" data-size="line"> |   |
-| **RGB**    | 102, 181, 197                                                                                                                                                                                        | 80, 145, 158                                                                                                                                                                                        |   |
-| **HSL**    | 190, 45.0, 58.6                                                                                                                                                                                      | 190, 32.8, 46.7                                                                                                                                                                                     |   |
-| **Hex**    | #66B5C5                                                                                                                                                                                              | #50919F                                                                                                                                                                                             |   |
+<table data-header-hidden><thead><tr><th width="189.48194984202962"></th><th width="186.29844531826296"></th><th width="150"></th><th></th></tr></thead><tbody><tr><td><strong>Color</strong></td><td><strong>Light blue</strong></td><td><strong>Dark blue</strong></td><td></td></tr><tr><td><strong>Code</strong></td><td>LB</td><td>DB</td><td></td></tr><tr><td><strong>Sample</strong></td><td><img src="https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/[TIOF]%20Comms%20[P]%20Color%20Palette%20-%20Light%20blue%20XXX%20v1.0.png" alt="" data-size="line"></td><td><img src="https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/[TIOF]%20Comms%20[P]%20Color%20Palette%20-%20Dark%20blue%20XXX%20v1.0.png" alt="" data-size="line"></td><td></td></tr><tr><td><strong>RGB</strong></td><td>102, 181, 197</td><td>80, 145, 158</td><td></td></tr><tr><td><strong>HSL</strong></td><td>190, 45.0, 58.6</td><td>190, 32.8, 46.7</td><td></td></tr><tr><td><strong>Hex</strong></td><td>#66B5C5</td><td>#50919F</td><td></td></tr></tbody></table>
 
 {% hint style="warning" %}
 **Note**\
-****Due to Google Calendar limitations, TIOF's [Public Event Calendar](https://tiof.click/EventsCal) uses their _Graphite_ color coding.
+Due to Google Calendar limitations, TIOF's [Public Event Calendar](https://tiof.click/EventsCal) uses their _Graphite_ color coding.
 {% endhint %}
 
 {% hint style="info" %}
@@ -255,22 +243,13 @@ Any other Media Channel not listed here is to be considered not affiliated with 
 
 The following is the official website for The IO Foundation and its initiatives.
 
-| **URL**              | [https://TheIOFoundation.org](https://theiofoundation.org)                                                                                      |
-| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Alternative URLs** | [.com](https://theiofoundation.com) [.net](https://theiofoundation.net) [.eu](https://theiofoundation.eu) [.asia](https://theiofoundation.asia) |
-| **Short URL**        | [https://TIOF.Click/TIOFWeb](https://tiof.click/TIOFWeb)                                                                                        |
-| **Contents**         | Publishing of general information about TIOF and its advocacy + Initiatives Presentation + Publications + Events                                |
-| **Usage**            | Primary reference to The IO Foundation                                                                                                          |
+<table data-header-hidden><thead><tr><th width="178.56812431847231"></th><th></th></tr></thead><tbody><tr><td><strong>URL</strong></td><td><a href="https://theiofoundation.org">https://TheIOFoundation.org</a></td></tr><tr><td><strong>Alternative URLs</strong></td><td><a href="https://theiofoundation.com">.com</a> <a href="https://theiofoundation.net">.net</a> <a href="https://theiofoundation.eu">.eu</a> <a href="https://theiofoundation.asia">.asia</a></td></tr><tr><td><strong>Short URL</strong></td><td><a href="https://tiof.click/TIOFWeb">https://TIOF.Click/TIOFWeb</a></td></tr><tr><td><strong>Contents</strong></td><td>Publishing of general information about TIOF and its advocacy + Initiatives Presentation + Publications + Events</td></tr><tr><td><strong>Usage</strong></td><td>Primary reference to The IO Foundation</td></tr></tbody></table>
 
 ### Official Documentation
 
 The following is the official documentation site for The IO Foundation and its initiatives.
 
-| **URL**              | [https://Docs.TheIOFoundation.org](https://docs.theiofoundation.org)                                        |
-| -------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Alternative URLs** | None                                                                                                        |
-| **Short URL**        | [https://TIOF.Click/TIOFDocs](https://tiof.click/TIOFDocs)                                                  |
-| **Contents**         | Publishing of all documentation (policies, handbooks, operations and others) relative to The IO Foundation. |
+<table data-header-hidden><thead><tr><th width="178.56812431847231"></th><th></th></tr></thead><tbody><tr><td><strong>URL</strong></td><td><a href="https://docs.theiofoundation.org">https://Docs.TheIOFoundation.org</a></td></tr><tr><td><strong>Alternative URLs</strong></td><td>None</td></tr><tr><td><strong>Short URL</strong></td><td><a href="https://tiof.click/TIOFDocs">https://TIOF.Click/TIOFDocs</a></td></tr><tr><td><strong>Contents</strong></td><td>Publishing of all documentation (policies, handbooks, operations and others) relative to The IO Foundation.</td></tr></tbody></table>
 
 ### URL Shorteners
 
@@ -290,13 +269,7 @@ Check here the full catalogue of [TIOF's shortURLs](https://tiof.click/shortURLs
 
 The following are the official repositories used by The IO Foundation.
 
-| **Type**             | [TIOF Profile on GH](http://tiof.click/TIOFGitHub)                         | [TIOF Repository on GH](http://tiof.click/TIOFRepo)                                |
-| -------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| **Alternative URLs** | None                                                                       | None                                                                               |
-| **Short URL**        | [https://TIOF.Click/TIOFGitHub](https://tiof.click/TIOFGitHub)             | [https://TIOF.Click/TIOFRepo](https://tiof.click/TIOFRepo)                         |
-| **Full URL**         | [https://github.com/TheIOFoundation/](https://github.com/TheIOFoundation/) | [https://github.com/TheIOFoundation/TIOF](https://github.com/TheIOFoundation/TIOF) |
-| **Content**          | Official profile of TIOF in GitHub.                                        | Public repository showcasing TIOF's work.                                          |
-| **Usage**            | Consolidation of all GH presence for TIOF.                                 | Organization Management + Community Collaboration + Transparency platform          |
+<table data-header-hidden><thead><tr><th width="168.40434927892022"></th><th width="150"></th><th></th></tr></thead><tbody><tr><td><strong>Type</strong></td><td><a href="http://tiof.click/TIOFGitHub">TIOF Profile on GH</a></td><td><a href="http://tiof.click/TIOFRepo">TIOF Repository on GH</a></td></tr><tr><td><strong>Alternative URLs</strong></td><td>None</td><td>None</td></tr><tr><td><strong>Short URL</strong></td><td><a href="https://tiof.click/TIOFGitHub">https://TIOF.Click/TIOFGitHub</a></td><td><a href="https://tiof.click/TIOFRepo">https://TIOF.Click/TIOFRepo</a></td></tr><tr><td><strong>Full URL</strong></td><td><a href="https://github.com/TheIOFoundation/">https://github.com/TheIOFoundation/</a></td><td><a href="https://github.com/TheIOFoundation/TIOF">https://github.com/TheIOFoundation/TIOF</a></td></tr><tr><td><strong>Content</strong></td><td>Official profile of TIOF in GitHub.</td><td>Public repository showcasing TIOF's work.</td></tr><tr><td><strong>Usage</strong></td><td>Consolidation of all GH presence for TIOF.</td><td>Organization Management + Community Collaboration + Transparency platform</td></tr></tbody></table>
 
 ### Email
 
@@ -306,16 +279,11 @@ The following are the official email domains used by The IO Foundation.
 Only email received from these domains are to be considered originated by TIOF or its members.
 {% endhint %}
 
-| **Domains**             | @TheIOFoundation.org                                                      |
-| ----------------------- | ------------------------------------------------------------------------- |
-| **Alternative Domains** | None                                                                      |
-| **Usage**               | Official communications from TIOF Members both internally and externally. |
+<table data-header-hidden><thead><tr><th width="150"></th><th></th></tr></thead><tbody><tr><td><strong>Domains</strong></td><td>@TheIOFoundation.org</td></tr><tr><td><strong>Alternative Domains</strong></td><td>None</td></tr><tr><td><strong>Usage</strong></td><td>Official communications from TIOF Members both internally and externally.</td></tr></tbody></table>
 
 The following are the official public email addresses used by The IO Foundation.
 
-| **Email** | [Contact@TheIOFoundation.org](mailto://Contact@TheIOFoundation.org) | [Media@TheIOFoundation.org](mailto://Media@TheIOFoundation.org) |
-| --------- | ------------------------------------------------------------------- | --------------------------------------------------------------- |
-| **Usage** | Official communications and inquiries                               | Media related communications and inquiries                      |
+<table data-header-hidden><thead><tr><th width="159.54054054054055"></th><th width="223.82547411160982"></th><th></th></tr></thead><tbody><tr><td><strong>Email</strong></td><td><a href="mailto://Contact@TheIOFoundation.org">Contact@TheIOFoundation.org</a></td><td><a href="mailto://Media@TheIOFoundation.org">Media@TheIOFoundation.org</a></td></tr><tr><td><strong>Usage</strong></td><td>Official communications and inquiries</td><td>Media related communications and inquiries</td></tr></tbody></table>
 
 ### Social Media
 

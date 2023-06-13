@@ -14,13 +14,7 @@ description: >-
 
 The following is basic institutional information about The IO Foundation.
 
-| Item                      | Value                                              |
-| ------------------------- | -------------------------------------------------- |
-| **Official Name**         | <p>The IO Foundation Mittetulundusühing</p><p></p> |
-| **Public use name**       | The IO Foundation                                  |
-| **Date of establishment** | 05 / 04 / 2018                                     |
-| **Registration ID**       | 80549272                                           |
-| EMTAK Code                | 62091                                              |
+<table><thead><tr><th width="150">Item</th><th>Value</th></tr></thead><tbody><tr><td><strong>Official Name</strong></td><td><p>The IO Foundation Mittetulundusühing</p><p></p></td></tr><tr><td><strong>Public use name</strong></td><td>The IO Foundation</td></tr><tr><td><strong>Date of establishment</strong></td><td>05 / 04 / 2018</td></tr><tr><td><strong>Registration ID</strong></td><td>80549272</td></tr><tr><td>EMTAK Code</td><td>62091</td></tr></tbody></table>
 
 ## Governance
 

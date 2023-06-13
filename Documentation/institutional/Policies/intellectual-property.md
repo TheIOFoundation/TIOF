@@ -5,7 +5,7 @@ description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 # 🚧 Intellectual Property
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFPolicyIP) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFPolicyIP) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}

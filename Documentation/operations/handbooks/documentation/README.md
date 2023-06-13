@@ -1,7 +1,7 @@
-# 📓 🚧 Documentation Guidelines
+# 📓 🚧 Documentation
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFHBDG) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFHBDG) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="success" %}

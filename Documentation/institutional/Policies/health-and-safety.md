@@ -5,7 +5,7 @@ description: Version 1.0 | This Policy was approved on 30 May 2022.
 # 📜 Health and Safety
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFPolicyHS) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFPolicyHS) **| Playbook | Assistant**
 {% endhint %}
 
 ## Introduction

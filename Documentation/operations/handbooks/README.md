@@ -1,7 +1,7 @@
 # 📚 Handbooks
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFHB) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFHB) **| Playbook | Assistant**
 {% endhint %}
 
 ## About

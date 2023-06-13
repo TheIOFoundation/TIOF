@@ -155,7 +155,7 @@ Adviser shall provide his services (hereinafter the “Services”) as reasonabl
 
 **b. Independent Contractor;**
 
-****
+
 
 **No Conflict**
 
@@ -292,7 +292,7 @@ The parties agree that in the event of any breach or threatened breach of any of
 
 **f**
 
-****
+
 
 ## Communications
 
@@ -304,7 +304,7 @@ The Organization shall, with prior written approval by Adviser, have the right t
 
 
 
-****
+
 
 ### **IT Services**
 

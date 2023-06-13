@@ -7,7 +7,7 @@ description: >-
 # ⏩ Initiatives
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFInitiatives) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFInitiatives) **| Playbook | Assistant**
 {% endhint %}
 
 ## The TIOF Initiatives

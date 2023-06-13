@@ -1,7 +1,7 @@
 # 📓 🚧 Health and Safety
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFHBHS) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFHBHS) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}

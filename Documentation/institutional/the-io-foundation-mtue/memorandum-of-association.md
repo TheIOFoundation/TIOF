@@ -5,7 +5,7 @@ description: Version 1.0
 # 🔷 Memorandum of Association
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFLegalMemorandumOfAssociation) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFLegalMemorandumOfAssociation) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="info" %}

@@ -1,7 +1,7 @@
 # ⏩ NextGen Rights Defenders
 
 {% hint style="info" %}
-****[**ShortURL**](http://tiof.click/TIOFNextGen) **| Playbook | Assistant**
+[**ShortURL**](http://tiof.click/TIOFNextGen) **| Playbook | Assistant**
 {% endhint %}
 
 ## Engaging the correct stakeholders
@@ -18,7 +18,7 @@ At The IO Foundation, _we recognize technologists, and most importantly programm
 While TIOF recognizes that all technologists play an equally important part in building better and safer digital spaces, we concentrate our efforts towards programmers.
 
 **Why?**\
-****Because any technology always has a last layer of software through which citizens interact with it. Helping programmers accelerates the impact of the DCDR advocacy.
+Because any technology always has a last layer of software through which citizens interact with it. Helping programmers accelerates the impact of the DCDR advocacy.
 {% endhint %}
 
 {% hint style="success" %}

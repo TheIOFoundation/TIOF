@@ -5,7 +5,7 @@ description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 # 📜 Whistleblowing
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFPolicyWhistleblowing) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFPolicyWhistleblowing) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}

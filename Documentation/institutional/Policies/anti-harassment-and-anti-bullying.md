@@ -5,7 +5,7 @@ description: Version 1.0 | This Policy was approved on 01 March 2022.
 # 📜 Anti harassment & Anti bullying
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFPolicyAHAB) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFPolicyAHAB) **| Playbook | Assistant**
 {% endhint %}
 
 ## Introduction

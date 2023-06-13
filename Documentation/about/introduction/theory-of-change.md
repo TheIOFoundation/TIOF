@@ -5,7 +5,7 @@ description: Version 1.0 | This Theory of Change was approved on DD MMMM YYYY.
 # 🔀 Theory of Change
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFTofC) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFTofC) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}

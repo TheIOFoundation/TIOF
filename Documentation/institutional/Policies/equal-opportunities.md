@@ -5,7 +5,7 @@ description: Version 1.0 | This Policy was approved on 01 March 2022.
 # 📜 Equal Opportunities
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFPolicyEO) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFPolicyEO) **| Playbook | Assistant**
 {% endhint %}
 
 ## Introduction
@@ -118,5 +118,5 @@ If you believe that you have suffered discrimination you can raise the matter th
 
 {% hint style="danger" %}
 **You shall not be retaliated against for complaining about discrimination.**\
-****However, making a false allegation deliberately and in bad faith will be treated as misconduct and dealt with under our [Disciplinary Procedure](https://tiof.click/TIOFHBHR#disciplinary-procedures) with the same determination as the allegation.
+However, making a false allegation deliberately and in bad faith will be treated as misconduct and dealt with under our [Disciplinary Procedure](https://tiof.click/TIOFHBHR#disciplinary-procedures) with the same determination as the allegation.
 {% endhint %}

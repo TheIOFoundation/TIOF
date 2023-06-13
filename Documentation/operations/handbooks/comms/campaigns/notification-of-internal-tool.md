@@ -10,15 +10,7 @@ Informing that a new product is available and providing the necessary informatio
 
 ## Required information
 
-| Field     | Description         | Responsible    | Source    |
-| --------- | ------------------- | -------------- | --------- |
-| **Name**  | Name of the product | Purchaser      | CRM       |
-| **Icon**  | Icon                | Purchaser      | Storage   |
-| **What**  | What does it do?    | Purchaser      | Request   |
-| **Why**   | Why is it useful?   | Purchaser      | Request   |
-| **Where** | Where to find it?   | Infrastructure | Dashboard |
-| **CTA**   | Call To Action      | Purchaser      | Template  |
-|           |                     |                |           |
+<table><thead><tr><th width="150">Field</th><th width="210.33333333333331">Description</th><th>Responsible</th><th>Source</th></tr></thead><tbody><tr><td><strong>Name</strong></td><td>Name of the product</td><td>Purchaser</td><td>CRM</td></tr><tr><td><strong>Icon</strong></td><td>Icon</td><td>Purchaser</td><td>Storage</td></tr><tr><td><strong>What</strong></td><td>What does it do?</td><td>Purchaser</td><td>Request</td></tr><tr><td><strong>Why</strong></td><td>Why is it useful?</td><td>Purchaser</td><td>Request</td></tr><tr><td><strong>Where</strong></td><td>Where to find it?</td><td>Infrastructure</td><td>Dashboard</td></tr><tr><td><strong>CTA</strong></td><td>Call To Action</td><td>Purchaser</td><td>Template</td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 
 

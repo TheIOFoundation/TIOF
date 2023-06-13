@@ -5,7 +5,7 @@ description: Version 1.0 | This Policy was approved on 03 May 2022.
 # 📜 Sickness Absence
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFPolicySA) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFPolicySA) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}

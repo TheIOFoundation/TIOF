@@ -5,7 +5,7 @@ description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 # 🚧 Transparency & Accountability
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFPolicyTA) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFPolicyTA) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}

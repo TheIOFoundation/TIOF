@@ -1,7 +1,7 @@
 # 🗃 Terminology
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFTerminology) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)****
+[**ShortURL**](https://tiof.click/TIOFTerminology) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)
 {% endhint %}
 
 {% hint style="warning" %}
@@ -158,6 +158,6 @@ Examples of spaces:
 
 A set of legal and technical standards to ensure the observance, compliance and implementation of Digital Rights.
 
-### ****
+###
 
-### ****
+###

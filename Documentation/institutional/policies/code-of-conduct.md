@@ -5,7 +5,7 @@ description: Version 1.5 | This Code of Conduct was approved on 01 January 2021.
 # 📜 Code of Conduct
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFPolicyCoC) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFPolicyCoC) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="info" %}

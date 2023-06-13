@@ -1,7 +1,7 @@
 # 🚧 Partners and Collaborators
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFPartners) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFPartners) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}

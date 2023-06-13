@@ -5,7 +5,7 @@ description: Version 1.0 | This Statute was approved on 01 April 2022.
 # 🔷 Organization Statute
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFStatute) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFStatute) **| Playbook | Assistant**
 {% endhint %}
 
 ## Introduction
@@ -353,13 +353,7 @@ The Organization structures its governance through a number of Boards.
 
 The Organization has a Board of Directors (BoD) that is the highest structure of the organization. It is composed of 5 members that will serve for a term of 2 years.
 
-|              |                                                                                            |
-| ------------ | ------------------------------------------------------------------------------------------ |
-| Composition  | 5 members                                                                                  |
-| Term         | <p>2 natural years<br>Start on date of Signature<br>End on December of the second year</p> |
-| Renewal      | No limit                                                                                   |
-| Attributions | <ul><li>Drive the organization</li><li>No executive capacities</li></ul>                   |
-| Meetings     | <ul><li>General Meeting (1x)</li><li>BoD Status Meeting (1x)</li></ul>                     |
+<table><thead><tr><th width="202"></th><th></th></tr></thead><tbody><tr><td>Composition</td><td>5 members</td></tr><tr><td>Term</td><td>2 natural years<br>Start on date of Signature<br>End on December of the second year</td></tr><tr><td>Renewal</td><td>No limit</td></tr><tr><td>Attributions</td><td><ul><li>Drive the organization</li><li>No executive capacities</li></ul></td></tr><tr><td>Meetings</td><td><ul><li>General Meeting (1x)</li><li>BoD Status Meeting (1x)</li></ul></td></tr></tbody></table>
 
 {% hint style="info" %}
 The Board of Directors is managed by its corresponding Board Lifecycle.
@@ -373,13 +367,7 @@ See here the members of the Boards of Directors.
 
 The Organization has a Board of Advisers (BoA) that advises the Global Management in order to implement the Yearly Strategy.
 
-|              |                                                                                                                          |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| Composition  | Unlimited members                                                                                                        |
-| Term         | <p>2 natural years<br>Start on date of Signature<br>End on December of the second year</p>                               |
-| Renewal      | No limit                                                                                                                 |
-| Attributions | <ul><li>Advise the organization in matters related to their areas of expertise</li><li>No executive capacities</li></ul> |
-| Meetings     | <ul><li>Strat Meeting (1x)</li><li>BoA Status Meeting (1x)</li></ul>                                                     |
+<table><thead><tr><th width="202"></th><th></th></tr></thead><tbody><tr><td>Composition</td><td>Unlimited members</td></tr><tr><td>Term</td><td>2 natural years<br>Start on date of Signature<br>End on December of the second year</td></tr><tr><td>Renewal</td><td>No limit</td></tr><tr><td>Attributions</td><td><ul><li>Advise the organization in matters related to their areas of expertise</li><li>No executive capacities</li></ul></td></tr><tr><td>Meetings</td><td><ul><li>Strat Meeting (1x)</li><li>BoA Status Meeting (1x)</li></ul></td></tr></tbody></table>
 
 {% hint style="info" %}
 The Board of Advisers is managed by its corresponding Board Lifecycle.
@@ -393,13 +381,7 @@ See here the members of the Boards of Advisers.
 
 The Organization must have a Board of Auditors comprised by external professionals, either individuals or organizations, tasked to verify its compliance with applicable legislations.
 
-|              |                                                                                                     |
-| ------------ | --------------------------------------------------------------------------------------------------- |
-| Composition  | <p>Unlimited members in areas of</p><ul><li>Legal compliance</li><li>Financial compliance</li></ul> |
-| Term         | <p>As per contract<br>Start on date of Signature<br>End on December of the second year</p>          |
-| Renewal      | No limit                                                                                            |
-| Attributions | <ul><li>Audit and ensure compliance in the covered areas </li><li>No executive capacities</li></ul> |
-| Meetings     | <ul><li>On demand</li></ul>                                                                         |
+<table><thead><tr><th width="202"></th><th></th></tr></thead><tbody><tr><td>Composition</td><td><p>Unlimited members in areas of</p><ul><li>Legal compliance</li><li>Financial compliance</li></ul></td></tr><tr><td>Term</td><td>As per contract<br>Start on date of Signature<br>End on December of the second year</td></tr><tr><td>Renewal</td><td>No limit</td></tr><tr><td>Attributions</td><td><ul><li>Audit and ensure compliance in the covered areas </li><li>No executive capacities</li></ul></td></tr><tr><td>Meetings</td><td><ul><li>On demand</li></ul></td></tr></tbody></table>
 
 New areas to be covered will be decided as needed by the Board of Directors during the General Meeting.
 
@@ -415,13 +397,7 @@ See here the members of the Boards of Auditors.
 
 The Organization implements a number of initiatives, each of which has a Board of Consultants (BoC) that advises in areas of interest that will help it to pursue its impact.
 
-|              |                                                                                                                        |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| Composition  | Unlimited members                                                                                                      |
-| Term         | <p>2 natural years<br>Start on date of Signature<br>End on December of the second year</p>                             |
-| Renewal      | No limit                                                                                                               |
-| Attributions | <ul><li>Advise the initiative in matters related to their areas of expertise</li><li>No executive capacities</li></ul> |
-| Meetings     | <ul><li>Strat Meeting (1x)</li><li>Initiative Status Meeting (4x)</li></ul>                                            |
+<table><thead><tr><th width="202"></th><th></th></tr></thead><tbody><tr><td>Composition</td><td>Unlimited members</td></tr><tr><td>Term</td><td>2 natural years<br>Start on date of Signature<br>End on December of the second year</td></tr><tr><td>Renewal</td><td>No limit</td></tr><tr><td>Attributions</td><td><ul><li>Advise the initiative in matters related to their areas of expertise</li><li>No executive capacities</li></ul></td></tr><tr><td>Meetings</td><td><ul><li>Strat Meeting (1x)</li><li>Initiative Status Meeting (4x)</li></ul></td></tr></tbody></table>
 
 {% hint style="info" %}
 The Boards of Consultants are managed by their corresponding Board Lifecycle.
@@ -435,13 +411,7 @@ See the corresponding initiative's documentation for the full list of members of
 
 The Organization has a Global Management, which is charged with executing the mandates established by the Board of Directors and approved during the General Assembly, in accordance to the actions determined in the Strat Meet.
 
-|              |                                                                                                                                                                              |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Composition  | <ul><li>Chief Executive Officer<br>or</li><li>Executive Director</li><li>Programs Manager</li><li>Finance Manager</li></ul>                                                  |
-| Term         | <p>As per Engagement Document<br>Start on date of Signature<br>End on December of the second year</p>                                                                        |
-| Renewal      | No limit                                                                                                                                                                     |
-| Attributions | <ul><li>Execute the actions determined in the Strat Meet</li><li>Report progress to corresponding Boards and other TIOF members </li><li>Full executive capacities</li></ul> |
-| Meetings     | <ul><li>General Meeting (1x)</li><li>Strat Meeting (1x)</li><li>BoA Status Meeting (1x)</li></ul>                                                                            |
+<table><thead><tr><th width="202"></th><th></th></tr></thead><tbody><tr><td>Composition</td><td><ul><li>Chief Executive Officer<br>or</li><li>Executive Director</li><li>Programs Manager</li><li>Finance Manager</li></ul></td></tr><tr><td>Term</td><td>As per Engagement Document<br>Start on date of Signature<br>End on December of the second year</td></tr><tr><td>Renewal</td><td>No limit</td></tr><tr><td>Attributions</td><td><ul><li>Execute the actions determined in the Strat Meet</li><li>Report progress to corresponding Boards and other TIOF members </li><li>Full executive capacities</li></ul></td></tr><tr><td>Meetings</td><td><ul><li>General Meeting (1x)</li><li>Strat Meeting (1x)</li><li>BoA Status Meeting (1x)</li></ul></td></tr></tbody></table>
 
 {% hint style="info" %}
 The Board of Advisers is managed by its corresponding Board Lifecycle.
@@ -487,19 +457,7 @@ The Organization holds a General Meeting to guide and monitor the progress of it
 
 Serves to approve past year's KPIs, set the next ones and gives the direction for the next year.
 
-|                          |                                                                                                         |
-| ------------------------ | ------------------------------------------------------------------------------------------------------- |
-| Date                     | <p>3rd Week of November<br>In any case, 2 weeks before the Strat Meet.</p>                              |
-| Regularity               | Annual                                                                                                  |
-| Notifications            | <ul><li>1 month in advance</li><li>2 weeks in advance</li><li>1 day in advance</li></ul>                |
-| Materials ready          | <ul><li>2 weeks in advance</li></ul>                                                                    |
-| Minutes & Mandates ready | <ul><li>1 week after</li></ul>                                                                          |
-| Mandatory Participants   | <ul><li>Board of Directors</li><li>Global Management</li></ul>                                          |
-| Optional Participants    | <ul><li>Board of Advisers</li><li>Board of Auditors</li></ul>                                           |
-| Guests                   | Any TIOF Member may be invited by the Mandatory Participants                                            |
-| Quorum                   | 50% of Mandatory Participants                                                                           |
-| Approvals                | 50% + 1 of attendance                                                                                   |
-| Attributions             | <ul><li>Analyze results from Current Year</li><li>Plan direction and objectives for Next Year</li></ul> |
+<table><thead><tr><th width="202"></th><th></th></tr></thead><tbody><tr><td>Date</td><td>3rd Week of November<br>In any case, 2 weeks before the Strat Meet.</td></tr><tr><td>Regularity</td><td>Annual</td></tr><tr><td>Notifications</td><td><ul><li>1 month in advance</li><li>2 weeks in advance</li><li>1 day in advance</li></ul></td></tr><tr><td>Materials ready</td><td><ul><li>2 weeks in advance</li></ul></td></tr><tr><td>Minutes &#x26; Mandates ready</td><td><ul><li>1 week after</li></ul></td></tr><tr><td>Mandatory Participants</td><td><ul><li>Board of Directors</li><li>Global Management</li></ul></td></tr><tr><td>Optional Participants</td><td><ul><li>Board of Advisers</li><li>Board of Auditors</li></ul></td></tr><tr><td>Guests</td><td>Any TIOF Member may be invited by the Mandatory Participants</td></tr><tr><td>Quorum</td><td>50% of Mandatory Participants</td></tr><tr><td>Approvals</td><td>50% + 1 of attendance</td></tr><tr><td>Attributions</td><td><ul><li>Analyze results from Current Year</li><li>Plan direction and objectives for Next Year</li></ul></td></tr></tbody></table>
 
 {% hint style="info" %}
 The General Meeting is managed by its corresponding General Meeting Lifecycle.
@@ -513,19 +471,7 @@ See here the Template for the General Meeting.
 
 The Organization holds a Strat Meet to establish the concrete actions to implement and monitor the mandates established by the General Meeting for the Next Year.
 
-|                            |                                                                                                         |
-| -------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Date                       | <p>1st Week of November<br>In any case, 2 weeks before the Strat Meet.</p>                              |
-| Regularity                 | Annual                                                                                                  |
-| Notifications              | <ul><li>1 month in advance</li><li>2 weeks in advance</li><li>1 day in advance</li></ul>                |
-| Materials ready            | <ul><li>2 weeks in advance</li></ul>                                                                    |
-| Minutes & Activities ready | <ul><li>2 weeks after</li></ul>                                                                         |
-| Mandatory Participants     | <ul><li>Board of Directors</li><li>Global Management</li></ul>                                          |
-| Optional Participants      | <ul><li>Board of Advisers</li><li>Board of Auditors</li></ul>                                           |
-| Guests                     | Any TIOF Member may be invited by the Mandatory Participants                                            |
-| Quorum                     | 50% of Mandatory Participants                                                                           |
-| Approvals                  | 50% + 1 of attendance                                                                                   |
-| Attributions               | <ul><li>Analyze results from Current Year</li><li>Plan direction and objectives for Next Year</li></ul> |
+<table><thead><tr><th width="202"></th><th></th></tr></thead><tbody><tr><td>Date</td><td>1st Week of November<br>In any case, 2 weeks before the Strat Meet.</td></tr><tr><td>Regularity</td><td>Annual</td></tr><tr><td>Notifications</td><td><ul><li>1 month in advance</li><li>2 weeks in advance</li><li>1 day in advance</li></ul></td></tr><tr><td>Materials ready</td><td><ul><li>2 weeks in advance</li></ul></td></tr><tr><td>Minutes &#x26; Activities ready</td><td><ul><li>2 weeks after</li></ul></td></tr><tr><td>Mandatory Participants</td><td><ul><li>Board of Directors</li><li>Global Management</li></ul></td></tr><tr><td>Optional Participants</td><td><ul><li>Board of Advisers</li><li>Board of Auditors</li></ul></td></tr><tr><td>Guests</td><td>Any TIOF Member may be invited by the Mandatory Participants</td></tr><tr><td>Quorum</td><td>50% of Mandatory Participants</td></tr><tr><td>Approvals</td><td>50% + 1 of attendance</td></tr><tr><td>Attributions</td><td><ul><li>Analyze results from Current Year</li><li>Plan direction and objectives for Next Year</li></ul></td></tr></tbody></table>
 
 {% hint style="info" %}
 The General Meeting is managed by its corresponding General Meeting Lifecycle.

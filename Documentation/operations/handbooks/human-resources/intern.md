@@ -1,7 +1,7 @@
 # 📓 🚧 Intern
 
 {% hint style="info" %}
-****[**ShortURL**](http://tiof.click/TIOFHBIntern) **| Playbook | Assistant**
+[**ShortURL**](http://tiof.click/TIOFHBIntern) **| Playbook | Assistant**
 {% endhint %}
 
 

@@ -1,7 +1,7 @@
 # 📓 🚧 Comms
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)****
+**ShortURL | Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)
 {% endhint %}
 
 
@@ -154,11 +154,7 @@ Pass to Dooly Playbooks
 
 HR Communications (HRCom)
 
-| Name     | URL | Usage |
-| -------- | --- | ----- |
-| Facebook |     | Icons |
-|          |     |       |
-|          |     |       |
+<table><thead><tr><th>Name</th><th width="249.33333333333331">URL</th><th>Usage</th></tr></thead><tbody><tr><td>Facebook</td><td></td><td>Icons</td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 Iconography:
 
@@ -217,7 +213,7 @@ Iconography:
 
 ## Communication Types
 
-Source of page: [https://docs.google.com/document/d/1fjgsKHfU7qQC2Q0dkLtVuMRnnCI3\_XAInawCvQvgsAs/edit#](https://docs.google.com/document/d/1fjgsKHfU7qQC2Q0dkLtVuMRnnCI3\_XAInawCvQvgsAs/edit#)
+Source of page: [https://docs.google.com/document/d/1fjgsKHfU7qQC2Q0dkLtVuMRnnCI3\_XAInawCvQvgsAs/edit#](https://docs.google.com/document/d/1fjgsKHfU7qQC2Q0dkLtVuMRnnCI3\_XAInawCvQvgsAs/edit)
 
 
 

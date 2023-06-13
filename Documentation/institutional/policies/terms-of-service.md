@@ -5,7 +5,7 @@ description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 # 🚧 Terms of Service
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFPolicyToSS) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFPolicyToSS) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}

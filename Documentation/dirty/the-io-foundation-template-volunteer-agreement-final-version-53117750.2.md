@@ -28,7 +28,7 @@ This letter sets out what we can each reasonably expect from your volunteering r
 
 #### Your role shall be as a volunteer for the Foundation on the terms of this Volunteer Agreement (which shall include (but not be limited to) \[_insert role details_]) \[relating to "Project Lockdown"] ("**Volunteering**"). The Volunteering shall commence on \[_insert date_].
 
-#### We hope that you will be able to volunteer with us for at least \[_specify preferred time commitment_] __ so that we can each get the most from the Volunteering experience. However, we are flexible about when you work so please let us know if you would prefer a different arrangement.
+#### We hope that you will be able to volunteer with us for at least \[_specify preferred time commitment_] so that we can each get the most from the Volunteering experience. However, we are flexible about when you work so please let us know if you would prefer a different arrangement.
 
 #### We expect you to perform your role to the best of your ability and follow our procedures and standards, including health and safety and equal opportunities, and to comply with the relevant policies contained in The IO Foundation Staff Handbook in force from time to time. You can expect us to deal with you in accordance with our equal opportunities policy in force from time to time.
 

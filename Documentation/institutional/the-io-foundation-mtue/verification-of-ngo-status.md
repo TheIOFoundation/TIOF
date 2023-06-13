@@ -5,7 +5,7 @@ description: Version 1.3
 # ☑ Verification of NGO Status
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFRegistration) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFRegistration) **| Playbook | Assistant**
 {% endhint %}
 
 ## About

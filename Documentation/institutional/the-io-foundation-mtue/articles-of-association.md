@@ -5,7 +5,7 @@ description: Version 1.2
 # 🔷 Articles of Association
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFLegalArticlesOfAssociation) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFLegalArticlesOfAssociation) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="info" %}

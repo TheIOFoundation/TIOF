@@ -5,7 +5,7 @@ description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 # 🚧 Partnerships
 
 {% hint style="info" %}
-****[**ShortURL**](http://tiof.click/TIOFPolicyPartnerships) **| Playbook | Assistant**
+[**ShortURL**](http://tiof.click/TIOFPolicyPartnerships) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}

@@ -1,7 +1,7 @@
 # 📓 🚧 Template contents
 
 {% hint style="info" %}
-****[**ShortURL**](https://tiof.click/TIOFChannels) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFChannels) **| Playbook | Assistant**
 {% endhint %}
 
 
