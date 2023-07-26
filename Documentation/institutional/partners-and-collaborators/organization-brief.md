@@ -36,7 +36,7 @@ The following diagram provides an overview on how each of the initiatives suppor
 
 {% embed url="https://cawemo.com/share/6f586512-627b-4d70-bdc6-f4a4a9ad6e65" %}
 
-## [Data-Centric Digital Rights](http://localhost:5000/o/-MF3oKZXzZjSRVKTjwWS/s/rG4xcNzldvEoKR9FS7Og/ "mention")
+## [Data-Centric Digital Rights](http://127.0.0.1:5000/o/-MF3oKZXzZjSRVKTjwWS/s/rG4xcNzldvEoKR9FS7Og/ "mention")
 
 TIOF views the technology as currently non-correlated with all working understandings and practices as to how any public-consumption industry functions traditionally where a clear separation is made between:
 
@@ -66,7 +66,7 @@ DCDR aims at encouraging a shift in the current technology paradigms by providin
 
 [More information](https://tiof.click/DCDRDocs)
 
-## [BHR in Tech](http://localhost:5000/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K57zbBbwulYcIf9UU/ "mention")
+## [BHR in Tech](http://127.0.0.1:5000/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K57zbBbwulYcIf9UU/ "mention")
 
 The BHR in Tech initiative aims at encouraging a shift towards the adoption and implementation of the [United Nations' Guiding Principles in Business and Human Rights](https://tiof.click/BITUNGP) in the Tech sector by
 
@@ -78,7 +78,7 @@ The BHR in Tech initiative aims at encouraging a shift towards the adoption and 
 
 [More information](https://tiof.click/BiTDocs)
 
-## [TechUp](http://localhost:5000/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K54SuAkrrbCKMqyze/ "mention")
+## [TechUp](http://127.0.0.1:5000/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K54SuAkrrbCKMqyze/ "mention")
 
 TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital by engaging technologists in a meaningful way.
 
@@ -86,13 +86,13 @@ Through its activities, TechUp strives to bring together the tech community to b
 
 [More information](https://tiof.click/TUDocs)
 
-## [CrowdShape](http://localhost:5000/o/-MF3oKZXzZjSRVKTjwWS/s/MxkrsyQSraXtP8kYavv2/ "mention")
+## [CrowdShape](http://127.0.0.1:5000/o/-MF3oKZXzZjSRVKTjwWS/s/MxkrsyQSraXtP8kYavv2/ "mention")
 
 The CrowdShape (CS) initiative intends to be a model for crowd collaboration based on transparent processes and accountable management. It is aimed at enabling technologists to start and run their own tech NGOs by providing familiar tools to enable the collaboration and reward of participants, attracting talent and financial support.
 
 [More information](https://tiof.click/CSDocs)
 
-## [Universal Declaration of Digital Rights](http://localhost:5000/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K4xk\_xBCdMTs3EMBi/ "mention")
+## [Universal Declaration of Digital Rights](http://127.0.0.1:5000/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K4xk\_xBCdMTs3EMBi/ "mention")
 
 The UDDR initiative is a multi-stakeholder initiative promoted by The IO Foundation to promote and achieve the proclamation of a Universal Declaration of Digital Rights.
 

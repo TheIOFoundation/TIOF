@@ -73,7 +73,7 @@ Pull Requests
 
 * Templates
 
-***
+
 
 ## Abstract
 

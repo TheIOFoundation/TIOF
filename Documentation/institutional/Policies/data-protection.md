@@ -120,11 +120,11 @@ The policies and procedures set out in this document apply to all TIOF Members u
 
 This document applies within all TIOF spaces, including (although not limited to) management activities, project contributions or events, and also applies when an individual is officially representing the broader community in public spaces. Examples of representing our community include (although not limited to) using an official e-mail address, posting via an official social media account or acting as an appointed representative at an event (online or offline).
 
-***
+\\
 
-***
 
-***
+
+
 
 1. **Interpretation**
 

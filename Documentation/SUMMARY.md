@@ -42,7 +42,7 @@
     * [🚧 Board of Auditors](institutional/structures/boards/board-of-auditors.md)
   * [🚧 Global Management](institutional/structures/global-management.md)
   * [🚧 Teams](institutional/structures/teams.md)
-  * [🚧 Positions](institutional/structures/positions.md)
+  * [🚧 Roles](institutional/structures/roles.md)
 * [📜 🚧 Policies](institutional/Policies/README.md)
   * [📲 Dhatham House Rule](institutional/Policies/dhatham-house-rule.md)
   * [📜 Code of Conduct](institutional/policies/code-of-conduct.md)

@@ -15,9 +15,9 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
-***
 
-***
+
+
 
 1. GUIDELINES IN CONDUCTING ACTIVITIES
 
@@ -55,43 +55,42 @@ Note: Internal terminology, Events refers to those organized by 3rd parties.
 \
 
 
-***
 
-***
 
-***
 
-- ***
-  - ***
-  - ***
-- ***
-  - ***
-  - ***
 
-***
+Types of events
 
-***
+* Organized by TIOF
+  * \[TIOF] Where TIOF acts as organized and content creator (Type A)
+  * \[TIOF] Where TIOF acts as manager for other orgs (Type B)
+* Organized by 3rd Parties
+  * \[3PT] Where TIOF will participate as content creators (Type C)
+  * \[3PT] Where TIOF will participate as audience (Type D)
 
-***
+TIOF needs to be able to differentiate these type of events with an easy visual method based on text, colors or icons.
 
-***
 
-***
 
-***
 
-***
 
-***
+Event Evaluation Form
 
-***
+Requirements for participating in a 3PT event
 
-***
 
-***
 
-***
+Requirements for events&#x20;
 
-***
 
-***
+
+
+
+
+
+
+
+
+
+
+
