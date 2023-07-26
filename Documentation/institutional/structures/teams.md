@@ -50,6 +50,10 @@ The following skills are expected and/or hoped from any TIOF Member:
 
 ## Administration Teams \[ADM]
 
+### Team Management
+
+
+
 ### Team Legal
 
 Ensuring that the initiative remains law-abiding at all times.
