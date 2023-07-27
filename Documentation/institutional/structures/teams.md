@@ -290,6 +290,13 @@ Making the application more awesome in both back-end and front-end.
 
 The aim of the team is to develop and maintain solutions that relate to code, making sure that the features and ideas desired by the other teams get implemented and work in a stable and fruitful manner.
 
+Team Description
+
+
+
+\
+
+
 {% hint style="success" %}
 Specific Skills
 
@@ -371,6 +378,10 @@ Human Rights are at the forefront of everything we do on the editing team; we ar
 
 
 
+
+
+
+
 {% hint style="success" %}
 Specific Skills
 
@@ -393,6 +404,17 @@ Related Handbooks
 
 𝗧𝗲𝗮𝗺 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲: Shaping our data points to create positive impact.\
 Team Data Science is comprised of dedicated and qualified volunteers in the fields of data science, human rights, and statistics. The focus of our work is on data-related projects at Project Lockdown. Currently, the Data Science Team is responsible for a host of work, ranging from researching new interventions against COVID-19 and to defining dataset layers, to establishing standards for codifying human-rights violations and reaching out to other researchers and COVID data users. The Data Science Team is constantly taking on new projects and establishing novel additions to Project Lockdown, as we work together to present the world with clear and transparently-sourced lockdown data.
+
+Team Description
+
+The Data Science team is comprised of dedicated and qualified volunteers in the fields of data science, human rights, and statistics. The focus of the Data Science team is on data-related projects at Project Lockdown. Currently, the Data Science Team is responsible for researching new interventions against COVID-19, defining dataset layers, establishing standards for codifying human-rights violations, reaching out to other researchers and COVID data users, and more. The Data Science Team is constantly taking on new projects and establishing novel additions to Project Lockdown as they work together to present the world with clear and transparently-sourced lockdown data.
+
+\
+
+
+
+
+
 
 
 
