@@ -50,9 +50,15 @@ The following skills are expected and/or hoped from any TIOF Member:
 
 ## Administration Teams \[ADM]
 
+
+
+
+
+
+
 ### Team Management
 
-
+Managing team members, coordinating tasks and ensuring smooth operations overall.
 
 ### Team Legal
 
