@@ -367,7 +367,7 @@ The following is a list of TIOF's initiatives and a quick link to their correspo
 |                                                                                                                         |                   |                                              |
 | ----------------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------- |
 | <img src="../../../.gitbook/assets/[TIOF] Comms [P] Hex Logo TIOF FC T HiRes XXX v1.6 (1).png" alt="" data-size="line"> | The IO Foundation | This document                                |
-| <mark style="color:orange;">**\[PENDING]**</mark>                                                                       | DCDR              | [Media Kit](https://tiof.click/DCDRMediaKit) |
+| <img src="../../../.gitbook/assets/DCDR Icon-01.png" alt="" data-size="line">                                           | DCDR              | [Media Kit](https://tiof.click/DCDRMediaKit) |
 | <img src="../../../.gitbook/assets/[TIOF BiT] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">          | BHR in Tech       | [Media Kit](https://tiof.click/BiTMediaKit)  |
 | <img src="../../../.gitbook/assets/CrowdShape-01.png" alt="" data-size="line">                                          | CrowdShape        | [Media Kit](https://tiof.click/CSMediaKit)   |
 | <img src="../../../.gitbook/assets/[TIOF PLD] Comms [P] Lock Logo LM T HiRes XXX v1.0.png" alt="" data-size="line">     | Project Lockdown  | [Media Kit](https://tiof.click/PLDMediaKit)  |
