@@ -444,6 +444,12 @@ A priori, emergency leaves shall be approved immediately. Supporting documents w
 
 Used days under properly documented emergency leave shall not discount the available days in the work leave.
 
+### Parental Leave
+
+\>> Add it to the lifecycle
+
+
+
 ## Career paths
 
 TIOF Members are&#x20;
