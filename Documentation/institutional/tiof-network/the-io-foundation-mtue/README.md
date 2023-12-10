@@ -18,7 +18,7 @@ The following is the basic institutional information about The IO Foundation.
 
 ## Governance
 
-The IO Foundation's governance is based by 3 documents in the following sequence:
+The IO Foundation's governance adheres to the following documents:
 
 | Document                                                               | Usage                                    |
 | ---------------------------------------------------------------------- | ---------------------------------------- |

@@ -1,219 +1,30 @@
-# Bylaws
+---
+description: Version 1.0
+---
 
-NONPROFIT BYLAWS&#x20;
+# 🔷 Bylaws
 
-\
+{% hint style="info" %}
+[**ShortURL**](https://tiof.click/TIONUSBylaws) **|** ~~Playbook~~ **|** ~~Assistant~~
+{% endhint %}
 
+{% hint style="success" %}
+These Bylaws were registered on 01 December 2023.
+{% endhint %}
 
-OF
+## Article 1 - Organization
 
-\
+### 1.1 Principal Office
 
+The principal office of the Corporation will be determined by the Board of Directors.   Other offices may also be established at such places that the Board deems necessary for the conduct of business.   A copy of these bylaws will be kept at the principal office.
 
-The IO Network US Foundation
+### 1.2 REGISTERED AGENT
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
+The name and address of the Registered Agent is provided in the Articles of Incorporation that was filed with the Secretary of State.  The Registered Agent may only be changed by filling out the appropriate paperwork with the Secretary of State.  Each change of Registered Agent must be approved by the Board of Directors.
 
+1.3 GOVERNING INSTRUMENTS
 
-These are general Bylaws that have been customized with your company’s information.  These Bylaws should be reviewed and edited by the company’s Board of Directors and/or attorney to meet your company’s specific needs and to conform to any statutory changes before adoption.
-
-\
-
-
-The IO Network US Foundation / 61-2106784
-
-\
-
-
-Table of Contents
-
-&#x20;
-
-\
-
-
-Article 1 - Organization
-
-1.1 Principal Office 4
-
-1.2 Registered Agent 4
-
-1.3 Governing Instruments 4
-
-\
-
-
-&#x20;
-
-Article 2 - Purpose, Objectives, and Membership
-
-2.1     Statement of Purpose 4
-
-2.2   Inurement of Income 4
-
-2.3     Political Activities 5
-
-2.4     Operational Limitations 5 2.5     Nondiscrimination Policy 5 2.6     Membership 5
-
-\
-
-
-&#x20;Article 3 - Board of Director Meetings
-
-3.1     Meeting Location 5
-
-3.2     Regular Meetings 5
-
-3.3     Special Meetings 5
-
-3.4   Telephone Meetings 5
-
-3.5     Action Without a Meeting 6
-
-3.6     Quorum 6
-
-\
-
-
-&#x20;
-
-Article 4 - Directors
-
-4.1     Authority 6
-
-4.2     Election 6
-
-4.3     Number of Directors 6
-
-4.4     Resignation 6
-
-4.5     Vacancies 6
-
-4.6     Compensation 7
-
-\
-\
-\
-
-
-The IO Network US Foundation / 61-2106784
-
-Article 5 - Officers
-
-5.1     Number of Officers 7
-
-5.2     Election 7
-
-5.3     Removal and Resignation 7
-
-5.4     President 7
-
-5.5     Secretary 7
-
-5.6     Compensation 7
-
-\
-
-
-&#x20;
-
-Article 6 - Authority to Execute
-
-6.1     Binding Power 7
-
-6.2     Signatories 8
-
-\
-
-
-&#x20;
-
-Article 7 - Dissolution             8
-
-\
-
-
-&#x20;
-
-Article 8 - Corporate Records
-
-8.1 Corporate Minutes 8
-
-8.2 Financial Records 8
-
-8.3 Inspection of Records 8
-
-8.4 Fiscal Year 8
-
-&#x20;
-
-Article 9 - Indemnification and Insurance
-
-9.1 Indemnification 8
-
-9.2 Insurance 9
-
-&#x20;
-
-\
-
-
-Article 10 - Adoption 9
-
-\
-\
-\
-\
-
-
-The IO Network US Foundation / 61-2106784
-
-\
-
-
-NONPROFIT BYLAWS&#x20;
-
-\
-
-
-OF
-
-\
-
-
-The IO Network US Foundation
-
-\
-\
-\
-\
-
-
-Article 1 - Organization
-
-\
-
-
-1.1 PRINCIPAL OFFICE.    The principal office of the Corporation will be determined by the Board of Directors.   Other offices may also be established at such places that the Board deems necessary for the conduct of business.   A copy of these bylaws will be kept at the principal office.
-
-\
-
-
-1.2 REGISTERED AGENT.    The name and address of the Registered Agent is provided in the Articles of Incorporation that was filed with the Secretary of State.  The Registered Agent may only be changed by filling out the appropriate paperwork with the Secretary of State.  Each change of Registered Agent must be approved by the Board of Directors.
-
-\
-\
-
-
-1.3 GOVERNING INSTRUMENTS.    The Corporation will operate under the requirements set forth in its Articles of Incorporation and Bylaws.  The Bylaws may be amended by the Board of Directors. &#x20;
+The Corporation will operate under the requirements set forth in its Articles of Incorporation and Bylaws.  The Bylaws may be amended by the Board of Directors. &#x20;
 
 \
 \

@@ -8,7 +8,7 @@ description: Version 1.0
 [**ShortURL**](https://tiof.click/TIOFLegalMemorandumOfAssociation) **| Playbook | Assistant**
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 This Memorandum of Association was registered on 05 April 2018.
 {% endhint %}
 

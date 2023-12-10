@@ -8,7 +8,7 @@ description: Version 1.2
 [**ShortURL**](https://tiof.click/TIOFLegalArticlesOfAssociation) **| Playbook | Assistant**
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="success" %}
 These Articles of Association was approved on 08 July 2020.
 {% endhint %}
 

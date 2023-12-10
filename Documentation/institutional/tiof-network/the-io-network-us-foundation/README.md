@@ -26,7 +26,7 @@ The following is the basic institutional information about The IO Network US.
 
 ## Governance
 
-The IO Network US's governance is based by 3 documents the following sequence.
+The IO Network US's governance adheres to the following documents:
 
 | Document                                                                                         | Usage                                    |
 | ------------------------------------------------------------------------------------------------ | ---------------------------------------- |

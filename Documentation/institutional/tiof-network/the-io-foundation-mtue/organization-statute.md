@@ -197,7 +197,7 @@ The Board of Directors will be managed as indicated in the Organization Statue.
 
 #### Article 2
 
-`The purpose of the Association is to promote, protect, develop and enhance digital rights.`
+`The purpose of the Association is to promote, protect, develop and enhance Data-Centric Digital Rights.`
 
 **Overwrite**\
 The purpose of the non-profit association is "To promote, protect and provide solutions for Data-Centric Digital Rights, support programmers in their role as NextGen Rights Defenders and promote the creation of a Universal Declaration of Digital Rights (UDDR).".\

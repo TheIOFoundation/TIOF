@@ -18,13 +18,9 @@ The following is the basic institutional information about The IO Network MY.
 
 ## Governance
 
-The IO Network MY's governance is based by 3 documents the following sequence.
+The IO Network MY's governance adheres to the following documents:
 
-| Document                                                                                      | Usage                                    |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| [memorandum-of-association.md](the-io-foundation-mtue/memorandum-of-association.md "mention") | Legal incorporation of the organization. |
-| [articles-of-association.md](the-io-foundation-mtue/articles-of-association.md "mention")     | Basic Governance provisions.             |
-| [organization-statute.md](the-io-foundation-mtue/organization-statute.md "mention")           | Complete Governance provisions.          |
+🚧 Work in progress
 
 ## Other Registrations & Certifications
 
