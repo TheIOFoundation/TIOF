@@ -37,11 +37,7 @@ These cornerstone values underpin our commitment to devising solutions that are 
 
 The following is a list of the existing policies guiding The IO Foundation. Each policy is described in its own separate document.
 
-<table><thead><tr><th>Global Policy</th><th>Summary</th><th data-hidden>Description</th><th data-hidden>Localized Policies</th><th data-hidden>Code</th></tr></thead><tbody><tr><td><a href="https://tiof.click/TIOFPolicyACAB">Anti corruption &#x26; Anti bribery</a></td><td>Outlines The IO Foundation's zero-tolerance policy towards bribery and corruption, specifying definitions, scope, procedures and guidelines for reporting and handling such incidents.</td><td></td><td></td><td>ACAB</td></tr><tr><td><a href="https://tiof.click/TIOFPolicyAHAB">Anti harassment &#x26; Anti bullying</a></td><td>Outlines The IO Foundation's policies and procedures against harassment and bullying, including definitions, scope, reporting mechanisms and disciplinary actions for violations.</td><td></td><td></td><td></td></tr><tr><td><a href="https://tiof.click/TIOFPolicyCoI">Conflict of Interest</a></td><td>Outlines The IO Foundation's policy on identifying, disclosing, and managing conflicts of interest among its directors, officers and other members.</td><td></td><td></td><td></td></tr><tr><td><a href="https://tiof.click/TIOFPolicyEO">Equal Opportunities</a></td><td>Outlines The IO Foundation's commitment to equal opportunities and non-discrimination in all aspects of employment, including recruitment, training and promotion.</td><td></td><td></td><td></td></tr><tr><td><a href="https://tiof.click/TIOFPolicyHS">Health and Safety</a></td><td>Outlines The IO Foundation's commitment to health and safety, detailing responsibilities, procedures and guidelines for ensuring a safe working environment for all TIOF Members and Contributors.</td><td></td><td></td><td></td></tr><tr><td><a href="https://tiof.click/TIOFPolicySA">Sickness Absence</a></td><td>Outlines The IO Foundation's stance on sickness absence, including procedures for reporting, evidence of incapacity, sick pay arrangements and handling long-term or persistent absence.</td><td></td><td></td><td></td></tr><tr><td><a href="https://tiof.click/TIOFPolicyWhistleblowing">Whistleblowing</a></td><td>Outlines the procedures and protections for reporting suspected wrongdoing within The IO Foundation, emphasizing confidentiality, standards and the safeguarding of whistleblowers against retaliation.</td><td>Outlines the procedures and protections for reporting suspected wrongdoing within The IO Foundation, emphasizing confidentiality, standards and safeguarding whistleblowers against retaliation.</td><td></td><td>WB</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
-
-
-
-
+<table><thead><tr><th>Global Policy</th><th>Summary</th><th data-hidden>Description</th><th data-hidden>Localized Policies</th><th data-hidden>Code</th></tr></thead><tbody><tr><td><a href="https://tiof.click/TIOFPolicyACAB">Anti corruption &#x26; Anti bribery</a></td><td>Outlines The IO Foundation's zero-tolerance policy towards bribery and corruption, specifying definitions, scope, procedures and guidelines for reporting and handling such incidents.</td><td></td><td></td><td>ACAB</td></tr><tr><td><a href="https://tiof.click/TIOFPolicyAHAB">Anti harassment &#x26; Anti bullying</a></td><td>Outlines The IO Foundation's policies and procedures against harassment and bullying, including definitions, scope, reporting mechanisms and disciplinary actions for violations.</td><td></td><td></td><td></td></tr><tr><td><a href="https://tiof.click/TIOFPolicyCoI">Conflict of Interest</a></td><td>Outlines The IO Foundation's policy on identifying, disclosing, and managing conflicts of interest among its directors, officers and other members.</td><td></td><td></td><td></td></tr><tr><td><a href="https://tiof.click/TIOFPolicyEO">Equal Opportunities</a></td><td>Outlines The IO Foundation's commitment to equal opportunities and non-discrimination in all aspects of employment, including recruitment, training and promotion.</td><td></td><td></td><td></td></tr><tr><td><a href="https://tiof.click/TIOFPolicyHS">Health and Safety</a></td><td>Outlines The IO Foundation's commitment to health and safety, detailing responsibilities, procedures and guidelines for ensuring a safe working environment for all TIOF Members and Contributors.</td><td></td><td></td><td></td></tr><tr><td><a href="https://tiof.click/TIOFPolicySA">Sickness Absence</a></td><td>Outlines The IO Foundation's stance on sickness absence, including procedures for reporting, evidence of incapacity, sick pay arrangements and handling long-term or persistent absence.</td><td></td><td></td><td></td></tr><tr><td><a href="https://tiof.click/TIOFPolicyWhistleblowing">Whistleblowing</a></td><td>Outlines the procedures and protections for reporting suspected wrongdoing within The IO Foundation, emphasizing confidentiality, standards and the safeguarding of whistleblowers against retaliation.</td><td>Outlines the procedures and protections for reporting suspected wrongdoing within The IO Foundation, emphasizing confidentiality, standards and safeguarding whistleblowers against retaliation.</td><td></td><td>WB</td></tr><tr><td>🚧 [Final list in progress]</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ## Additional scopes
 
@@ -50,56 +46,4 @@ The IO Foundation operates as a global network, guided by a cohesive framework o
 Taking into account that the international landscape is complex, with various jurisdictions imposing their own legal and regulatory requirements, there are circumstances where our policies might require adaptations with local regulations. As a result, specific policies may partially be overridden or modified in order to achieve compliance with the applicable laws and regulations.
 
 The IO Foundation is dedicated to not only maintaining compliance but also to providing a clear understanding of how its policies apply within different legal contexts. Whenever such customizations may be necessary, they will be clearly documented. These exceptions will be noted directly within the text of the corresponding organization's policy documents
-
-
-
-
-
-
-
-
-
-
-
-
-
-#### Example 1
-
-Welcome to The IO Foundation.&#x20;
-
-*
-
-
-
-#### Example 2
-
-
-
-*
-
-
-
-#### Example 3
-
-
-
-*
-
-
-
-#### Example 4
-
-
-
-*
-
-
-
-#### Example 5
-
-
-
-*
-
-
 
