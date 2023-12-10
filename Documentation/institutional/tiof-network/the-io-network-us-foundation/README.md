@@ -28,11 +28,9 @@ The following is the basic institutional information about The IO Network US.
 
 The IO Network US's governance adheres to the following documents:
 
-| Document                                                                                         | Usage                                    |
-| ------------------------------------------------------------------------------------------------ | ---------------------------------------- |
-| [memorandum-of-association.md](../the-io-foundation-mtue/memorandum-of-association.md "mention") | Legal incorporation of the organization. |
-| [articles-of-association.md](../the-io-foundation-mtue/articles-of-association.md "mention")     | Basic Governance provisions.             |
-| [organization-statute.md](../the-io-foundation-mtue/organization-statute.md "mention")           | Complete Governance provisions.          |
+| Document                         | Usage                                                              |
+| -------------------------------- | ------------------------------------------------------------------ |
+| [bylaws.md](bylaws.md "mention") | Legal incorporation and Governance provisions of the organization. |
 
 ## Other Registrations & Certifications
 
