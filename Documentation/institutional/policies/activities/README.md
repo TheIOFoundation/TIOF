@@ -2,10 +2,10 @@
 description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 ---
 
-# 🚧 Partnerships
+# 🚧 Activities
 
 {% hint style="info" %}
-[**ShortURL**](http://tiof.click/TIOFPolicyPartnerships) **| Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFPolicyEvents) **| Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
@@ -14,6 +14,8 @@ description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
+
+
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFPolicyFunding) **| Playbook | Assistant**
@@ -43,7 +45,7 @@ For a structure of The IO Foundation, please visit
 
 ### About this document
 
-This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of **Anti-corruption and Anti-bribery** that you will need to be aware of while being a TIOF Member. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
+This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of **Activities** conducted by and participated in by The IO Foundation that you will need to be aware of while being a TIOF Member. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
 
 Any Member who breaches this Policy will face disciplinary action, which could result in dismissal for gross misconduct. Any non-employee who breaches this Policy may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
 
@@ -80,72 +82,93 @@ This policy shall be reviewed regularly to ensure its continued relevance and ef
 
 ### Anti corruption and Anti bribery statement
 
-## About
+
+
+GUIDELINES IN CONDUCTING ACTIVITIES
 
 
 
-## What are Partnerships
-
-Any contractual / agreement relationships not involving TIOF Members.
 
 
 
-1. PARTNERSHIPS
+
+
+
+
+
+
 
 \
 
 
-Organizations who desire to collaborate with TIOF on specific activities or projects can be considered as partners. When necessary a partnership agreement can be drawn out to formalize such partnerships and to clarify various roles in implementing activities related to such partnership.&#x20;
+Note: Internal terminology, Activity refers to those organized by TIOF.
 
 \
 
 
-Any member from TIOF can be approached for partnership. The person must immediately report such a request or idea to the CEO. The CEO responds to the partnership and assigns the necessary next steps.
+Each activity conducted in the name of TIOF must be proposed in writing addressed to the CEO following the TIOF Activity Design Format. Only after respective deliberation, and when approved, shall the activity be implemented.&#x20;
 
 \
 
 
-It has to be noted that partnerships must be beneficial to TIOF and does not put the organization into a situation that can adversely impact its stature.
+1. TIOF stands for quality. Every activity should reflect this distinguishing characteristic—from planning to implementation, monitoring and evaluation, as well as in liaising with other individuals/groups/institutions;
+2. Every activity should be responding to TIOF’s Operational Framework;&#x20;
+3. Activities should aim to achieve high impact with the lowest cost possible;
+4. Diligent coordination is highly expected from the organizer or partner;
+5. Activity reports follow every activity implementation which includes evaluation;
+6. Should a TIOF representative be needed in the activity, this shall be represented by its CEO or the respective personnel as delegated.
 
 \
-\##
-
-### Levels
-
-\>> Indicate which ones require MoU, NDAs, etc.
+\
 
 
+2. GUIDELINES IN ATTENDING EVENTS
+
+\
 
 
+Note: Internal terminology, Events refers to those organized by 3rd parties.
+
+\
 
 
+***
 
+***
 
+Types of events
 
-{% hint style="info" %}
-TIOF Member relationships are covered under TIOF's Human Resources Policy.
-{% endhint %}
+* Organized by TIOF
+  * \[TIOF] Where TIOF acts as organized and content creator (Type A)
+  * \[TIOF] Where TIOF acts as manager for other orgs (Type B)
+* Organized by 3rd Parties
+  * \[3PT] Where TIOF will participate as content creators (Type C)
+  * \[3PT] Where TIOF will participate as audience (Type D)
 
-&#x20;
+TIOF needs to be able to differentiate these type of events with an easy visual method based on text, colors or icons.
 
-## Partnerships
+***
 
-Probation Period: 3 months
+***
 
+Event Evaluation Form
 
+Requirements for participating in a 3PT event
 
-### Offers
+***
 
-Validity\
-Unless otherwise specified, any Offer will have a validity of 15 natural days.
+Requirements for events&#x20;
 
+***
 
+***
 
+***
 
+***
 
+***
 
+***
 
-
-
-
-
+***

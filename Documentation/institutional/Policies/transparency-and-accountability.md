@@ -56,6 +56,11 @@ The policies set out in this document apply to all [TIOF Members](https://tiof.c
 
 This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#spaces), including (although not limited to) management activities, contributions or events; it and also applies when an individual is officially representing the organization in public spaces. Examples of representing the organization include (although not limited to) using an official e-mail address, posting via any official channel or acting as an appointed representative at an event.
 
+{% hint style="warning" %}
+**Review and Amendments**\
+This policy shall be reviewed regularly to ensure its continued relevance and effectiveness. Amendments may be made to adapt to new legal requirements, changing circumstances or to better serve the organization's Mission.
+{% endhint %}
+
 ## Policy details
 
 ### Transparency and Accountability statement

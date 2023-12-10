@@ -15,6 +15,17 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
+##
+
+{% hint style="warning" %}
+**Review and Amendments**\
+This policy shall be reviewed regularly to ensure its continued relevance and effectiveness. Amendments may be made to adapt to new legal requirements, changing circumstances or to better serve the organization's Mission.
+{% endhint %}
+
+
+
+##
+
 ## Introduction
 
 ### Definitions
