@@ -7,18 +7,18 @@ description: >-
 # 🇪🇪 The IO Foundation MTÜ
 
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+[**ShortURL**](https://tiof.click/TIOFInfo) **|** ~~Playbook~~ **|** ~~Assistant~~
 {% endhint %}
 
 ## About
 
-The following is basic institutional information about The IO Foundation.
+The following is the basic institutional information about The IO Foundation.
 
-<table><thead><tr><th width="150">Item</th><th>Value</th></tr></thead><tbody><tr><td><strong>Official Name</strong></td><td><p>The IO Foundation Mittetulundusühing</p><p></p></td></tr><tr><td><strong>Public use name</strong></td><td>The IO Foundation</td></tr><tr><td><strong>Date of establishment</strong></td><td>05 / 04 / 2018</td></tr><tr><td><strong>Registration ID</strong></td><td>80549272</td></tr><tr><td>EMTAK Code</td><td>62091</td></tr></tbody></table>
+<table><thead><tr><th width="150">Item</th><th>Value</th></tr></thead><tbody><tr><td><strong>Country</strong></td><td>Estonia</td></tr><tr><td><strong>Official Name</strong></td><td>The IO Foundation Mittetulundusühing</td></tr><tr><td><strong>Type</strong></td><td>Non profit</td></tr><tr><td><strong>Public use name</strong></td><td>The IO Foundation</td></tr><tr><td><strong>Date of establishment</strong></td><td>05 / 04 / 2018</td></tr><tr><td><strong>Registration ID</strong></td><td>80549272</td></tr><tr><td></td><td></td></tr><tr><td><strong>TIOF Code</strong></td><td>TIOF</td></tr></tbody></table>
 
 ## Governance
 
-The IO Foundation's governance is based by 3 documents the following sequence.
+The IO Foundation's governance is based by 3 documents in the following sequence:
 
 | Document                                                               | Usage                                    |
 | ---------------------------------------------------------------------- | ---------------------------------------- |
@@ -30,11 +30,12 @@ The IO Foundation's governance is based by 3 documents the following sequence.
 
 The following is a list of other registrations and certifications for The IO Foundation.
 
-| Registration                                                                                                                                                      | ID            | Verification Link                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------- |
-| United Nations                                                                                                                                                    | **`Ongoing`** | N/A                                                                                 |
-| SAM Unique Entity ID                                                                                                                                              | DMW1GZS2H5S5  | N/A                                                                                 |
-| DUNS                                                                                                                                                              | 536406268     | N/A                                                                                 |
-| [NACE Code](https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST\_CLS\_DLD\&StrNom=NACE\_REV2\&StrLanguageCode=EN\&StrLayoutCode=HIERARCHIC) | 62.09         | N/A                                                                                 |
-| NCAGE                                                                                                                                                             | 010BJ         | [Check online](https://eportal.nspa.nato.int/Codification/CageTool/cage-view/010BJ) |
+| Registration                                                                                                                                                      | ID (Verification link when available)                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [EMTAK Code](https://www.rik.ee/en/e-business-registry/emtak-fields-activities)                                                                                   | [62091](https://emtak.rik.ee/EMTAK/pages/klassifikaatorOtsing.jspx)                        |
+| United Nations                                                                                                                                                    | **`Ongoing`**                                                                              |
+| SAM Unique Entity ID                                                                                                                                              | [DMW1GZS2H5S5](https://unitedstatesbusinessregistration.us/check-sam-registration-status/) |
+| DUNS                                                                                                                                                              | 536406268                                                                                  |
+| [NACE Code](https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST\_CLS\_DLD\&StrNom=NACE\_REV2\&StrLanguageCode=EN\&StrLayoutCode=HIERARCHIC) | [62.09](https://nacev2.com/en/search?q=62.09)                                              |
+| [NCAGE](https://eportal.nspa.nato.int/Codification/Support/en/Products/NCAGE/)                                                                                    | [010BJ](https://eportal.nspa.nato.int/Codification/CageTool/cage-view/010BJ)               |
 
