@@ -70,4 +70,17 @@ Accountability is critical to ensure that the organization acts in a respectful 
 The organization expects its Members to uphold these values at all given times.
 {% endhint %}
 
-###
+
+
+
+
+### Statements of Conflict of Interest
+
+#### Statements of Interest
+
+####
+
+
+
+
+

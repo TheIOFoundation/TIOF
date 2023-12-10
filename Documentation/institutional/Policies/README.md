@@ -33,13 +33,13 @@ The IO Foundation’s policy framework is a tapestry woven with the threads of E
 
 These cornerstone values underpin our commitment to devising solutions that are effective and human-centric as much as technically robust and anchored in the bedrock of objective reality.
 
-
-
-
-
-
-
 ## Policies
+
+The following is a list of the existing policies guiding The IO Foundation. Each policy is described in its own separate document.
+
+<table><thead><tr><th>Global Policy</th><th data-hidden>Description</th><th data-hidden>Localized Policies</th><th data-hidden>Code</th></tr></thead><tbody><tr><td>Anti corruption &#x26; Anti bribery</td><td></td><td></td><td>ACAB</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td><a href="https://tiof.click/TIOFPolicyWhistleblowing">Whistleblowing</a></td><td>Outlines the procedures and protections for reporting suspected wrongdoing within The IO Foundation, emphasizing confidentiality, standards and safeguarding whistleblowers against retaliation.</td><td></td><td>WB</td></tr></tbody></table>
+
+
 
 
 
