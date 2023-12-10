@@ -1,4 +1,8 @@
-# 🚧 Conflict of Interest
+---
+description: Version 1.0 | This Policy was approved on 01 December 2023.
+---
+
+# 📜 Conflict of Interest
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFPolicyCoI) **|** ~~Playbook~~ **|** ~~Assistant~~
@@ -86,122 +90,39 @@ After disclosure of the financial interest and all material facts, and after any
 
 ### Violations of the Conflict of Interest Policy
 
-\
+1. If the board of directors or committee has reasonable cause to believe a member has failed to disclose actual or possible conflicts of interest, it shall inform the member of the basis for such belief and afford the member an opportunity to explain the alleged failure to disclose.
+2. If, after hearing the member’s response and after making further investigation as warranted by the circumstances, the board of directors or committee determines the member has failed to disclose an actual or possible conflict of interest, it shall take appropriate disciplinary and corrective action.
 
-
-a. If the board of directors or committee has reasonable cause to believe a member has failed to disclose actual or possible conflicts of interest, it shall inform the member of the basis for such belief and afford the member an opportunity to explain the alleged failure to disclose.
-
-\
-
-
-b. If, after hearing the member’s response and after making further investigation as warranted by the circumstances, the board of directors or committee determines the member has failed to disclose an actual or possible conflict of interest, it shall take appropriate disciplinary and corrective action.
-
-\
-
-
-ARTICLE IV\
-RECORDS OF PROCEEDINGS
+### Records of Proceedings
 
 The minutes of the board of directors and all committees with board delegated powers shall contain:
 
-\
+1. The names of the persons who disclosed or otherwise were found to have a financial interest in connection with an actual or possible conflict of interest, the nature of the financial interest, any action taken to determine whether a conflict of interest was present, and the board of directors’ or committee’s decision as to whether a conflict of interest in fact existed.
+2. The names of the persons who were present for discussions and votes relating to the transaction or arrangement, the content of the discussion, including any alternatives to the proposed transaction or arrangement, and a record of any votes taken in connection with the proceedings.
 
-
-a. The names of the persons who disclosed or otherwise were found to have a financial interest in connection with an actual or possible conflict of interest, the nature of the financial interest, any action taken to determine whether a conflict of interest was present, and the board of directors’ or committee’s decision as to whether a conflict of interest in fact existed.
-
-\
-
-
-b. The names of the persons who were present for discussions and votes relating to the transaction or arrangement, the content of the discussion, including any alternatives to the proposed transaction or arrangement, and a record of any votes taken in connection with the proceedings.
-
-\
-
-
-ARTICLE V\
-COMPENSATION
+### Compensation
 
 1. A voting member of the board of directors who receives compensation, directly or indirectly, from the Organization for services is precluded from voting on matters pertaining to that member’s compensation.
-
-\
-
-
 2. A voting member of any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from the Organization for services is precluded from voting on matters pertaining to that member’s compensation.
-
-\
-
-
 3. No voting member of the board of directors or any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from the Organization, either individually or collectively, is prohibited from providing information to any committee regarding compensation.
 
-\
-
-
-ARTICLE VI\
-ANNUAL STATEMENTS
+### Annual statements
 
 Each director, principal officer and member of a committee with board of directors’ delegated powers shall annually sign a statement which affirms such person:
 
-\
+1. Has received a copy of the conflicts of interest policy;
+2. Has read and understands the policy;
+3. Has agreed to comply with the policy; and
+4. Understands the Organization is charitable and in order to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of its tax-exempt purposes.
 
-
-a. Has received a copy of the conflicts of interest policy;
-
-\
-
-
-b. Has read and understands the policy;
-
-\
-
-
-c. Has agreed to comply with the policy; and
-
-\
-
-
-d. Understands the Organization is charitable and in order to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of its tax-exempt purposes.
-
-\
-\
-\
-
-
-ARTICLE VII\
-PERIODIC REVIEWS
+### Periodic reviews
 
 To ensure the Organization operates in a manner consistent with charitable purposes and does not engage in activities that could jeopardize its tax-exempt status, periodic reviews shall be conducted.  The periodic reviews shall, at a minimum, include the following subjects:
 
-\>> Execute during AGMs.\
-
-
 1. Whether compensation arrangements and benefits are reasonable, based on competent survey information and the result of arm’s length bargaining.
-
-\
-
-
 2. Whether partnerships, joint ventures, and arrangements with management organizations conform to the Organization’s written policies, are properly recorded, reflect reasonable investment or payments for goods and services, further charitable purposes and do not result in inurement, impermissible private benefit or in an excess benefit transaction.
 
-\
-
-
-ARTICLE VIII\
-USE OF OUTSIDE EXPERTS
+### Use of outside experts
 
 When conducting the periodic reviews as provided for in Article VII, the Organization may, but need not, use outside advisors.  If outside experts are used, their use shall not relieve the board of directors of its responsibility for ensuring periodic reviews are conducted.
-
-\
-
-
-CERTIFICATE OF ADOPTION OF
-
-CONFLICT OF INTEREST POLICY AND AGREEMENT
-
-\
-
-
-I do hereby certify that the above stated Conflict of Interest Policy for the Organization was approved and adopted by the board of directors on the date indicated below and constitutes a complete copy of the Conflict of Interest Policy of the corporation.&#x20;
-
-\
-
-
-
 
