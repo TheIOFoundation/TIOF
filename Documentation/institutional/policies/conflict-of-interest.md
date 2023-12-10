@@ -1,10 +1,8 @@
 # 🚧 Conflict of Interest
 
 {% hint style="info" %}
-**ShortURL |** ~~Playbook~~ **|** ~~Assistant~~
+[**ShortURL**](https://tiof.click/TIOFPolicyCoI) **|** ~~Playbook~~ **|** ~~Assistant~~
 {% endhint %}
-
-
 
 ## Introduction
 
@@ -19,7 +17,7 @@ For a structure of The IO Foundation, please visit
 
 ### About this document
 
-This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of **Anti-corruption and Anti-bribery** that you will need to be aware of while being a TIOF Member. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
+This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of **Conflicts of Interest** that you will need to be aware of while being a TIOF Member. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
 
 Any Member who breaches this Policy will face disciplinary action, which could result in dismissal for gross misconduct. Any non-employee who breaches this Policy may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
 
@@ -47,122 +45,46 @@ This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#
 
 ## Policy details
 
-### Anti corruption and Anti bribery statement
+### Conflict of Interest statement
 
 {% hint style="success" %}
-The IO Foundation is committed to conducting its advocacy and all of its initiatives in an honest and ethical manner. We take a zero-tolerance approach to bribery and corruption and are committed to acting professionally, transparently, fairly, with integrity and under the observance of the law in our advocacy, operations, financial management and relationships.
+The IO Foundation is committed to maintaining the highest standards of integrity and transparency. Because conflicts of interest can compromise the efficacy of our organization, erode public trust and contradict our core values the organizations maintains a proactive avoidance of conflicts of interest among its members.&#x20;
 {% endhint %}
 
-### What is bribery?
+### Definitions
 
-
-
-ARTICLE I\
-PURPOSE
-
-The purpose of the conflict of interest policy is to protect The IO Network US Foundation (the “Organization”) interest when it is contemplating entering into a transaction or arrangement that might benefit the private interest of an officer or director of the Organization or might result in a possible excess benefit transaction.  This policy is intended to supplement but not replace any applicable state and federal laws governing conflict of interest applicable to nonprofit and charitable organizations.
-
-\
-
-
-ARTICLE II\
-DEFINITIONS
-
-1\. Interested Person
-
-\
-
+#### Interested Person
 
 Any director, principal officer, or member of a committee with the board of director’s delegated powers, who has a direct or indirect financial interest, as defined below, is an interested person.
 
-\
-
-
-2\. Financial Interest
-
-\
-
+#### Financial Interest
 
 A person has a financial interest if the person has, directly or indirectly, through business, investment, or family:
 
-\
-
-
-a. An ownership or investment interest in any entity with which the Organization has a transaction or arrangement;
-
-\
-
-
-b. A compensation arrangement with the Organization or with any entity or individual with which the Organization has a transaction or arrangement; or
-
-\
-
-
-c. A potential ownership or investment interest in, or compensation arrangement with, any entity or individual with which the Organization is negotiating a transaction or arrangement.
-
-\
-
+1. An ownership or investment interest in any entity with which the Organization has a transaction or arrangement;
+2. compensation arrangement with the Organization or with any entity or individual with which the Organization has a transaction or arrangement; or
+3. A potential ownership or investment interest in, or compensation arrangement with, any entity or individual with which the Organization is negotiating a transaction or arrangement.
 
 Compensation includes direct and indirect remuneration as well as gifts or favors that are not insubstantial.
 
-\
-
-
 A financial interest is not necessarily a conflict of interest.  Under Article III, Section 2, a person who has a financial interest may have a conflict of interest only if the board of directors or the appropriate governing committee decides that a conflict of interest exists.
 
-\
-
-
-ARTICLE III\
-PROCEDURES
-
-1\. Duty to Disclose
+### Duty to Disclose
 
 In connection with any actual or possible conflict of interest, an interested person must disclose the existence of the financial interest and be given the opportunity to disclose all material facts to the directors and members of committees with board of directors delegated powers considering the proposed transaction or arrangement.
 
-\>> Create the procedure.\
-
-
-\>> Create an ICANN-equivalent SoI.
-
-
-
-2\. Determining Whether a Conflict of Interest Exists
-
-\
-
+### Determining Whether a Conflict of Interest Exists
 
 After disclosure of the financial interest and all material facts, and after any discussion with the interested person, he/she shall leave the board of directors or committee meeting while the determination of a conflict of interest is discussed and voted upon.  The remaining board or committee members shall decide if a conflict of interest exists.
 
-\
+### Procedures for Addressing the Conflict of Interest
 
+1. An interested person may make a presentation at the board of directors or committee meeting, but after the presentation, he/she shall leave the meeting during the discussion of, and the vote on, the transaction or arrangement involving the possible conflict of interest.
+2. The chairperson of the board of directors or committee shall, if appropriate, appoint a disinterested person or committee to investigate alternatives to the proposed transaction or arrangement.
+3. After exercising due diligence, the board of directors or committee shall determine whether the Organization can obtain with reasonable efforts a more advantageous transaction or arrangement from a person or entity that would not give rise to a conflict of interest.
+4. If a more advantageous transaction or arrangement is not reasonably possible under circumstances not producing a conflict of interest, the board of directors or committee shall determine by a majority vote of the disinterested directors whether the transaction or arrangement is in the Organization’s best interest, for its own benefit, and whether it is fair and reasonable.  In conformity with the above determination, it shall make its decision as to whether to enter into the transaction or arrangement.
 
-3\. Procedures for Addressing the Conflict of Interest
-
-\
-
-
-a. An interested person may make a presentation at the board of directors or committee meeting, but after the presentation, he/she shall leave the meeting during the discussion of, and the vote on, the transaction or arrangement involving the possible conflict of interest.
-
-\
-
-
-b. The chairperson of the board of directors or committee shall, if appropriate, appoint a disinterested person or committee to investigate alternatives to the proposed transaction or arrangement.
-
-\
-
-
-c. After exercising due diligence, the board of directors or committee shall determine whether the Organization can obtain with reasonable efforts a more advantageous transaction or arrangement from a person or entity that would not give rise to a conflict of interest.
-
-\
-
-
-d. If a more advantageous transaction or arrangement is not reasonably possible under circumstances not producing a conflict of interest, the board of directors or committee shall determine by a majority vote of the disinterested directors whether the transaction or arrangement is in the Organization’s best interest, for its own benefit, and whether it is fair and reasonable.  In conformity with the above determination, it shall make its decision as to whether to enter into the transaction or arrangement.
-
-\
-
-
-4\. Violations of the Conflict of Interest Policy
+### Violations of the Conflict of Interest Policy
 
 \
 
