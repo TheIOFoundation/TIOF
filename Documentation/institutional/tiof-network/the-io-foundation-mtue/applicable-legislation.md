@@ -1,7 +1,7 @@
 # ➡ Applicable legislation
 
 {% hint style="info" %}
-~~**ShortURL**~~** | Playbook | Assistant**
+~~ShortURL~~ **|** ~~Playbook~~ **|** ~~Assistant~~
 {% endhint %}
 
 ## About
@@ -20,6 +20,6 @@ These documents are provided by the [Official Journal of Estonia](https://www.ri
 * [General Part of the Civil Code Act](https://www.riigiteataja.ee/en/eli/ee/528032014002/consolide/current)
 * [Accounting Act](https://www.riigiteataja.ee/en/eli/ee/501042014003/consolide/current)
 
-{% hint style="info" %}
+{% hint style="warning" %}
 This is not an exhaustive list.
 {% endhint %}
