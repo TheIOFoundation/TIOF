@@ -40,3 +40,10 @@ Taking into account that the international landscape is complex, with various ju
 
 The IO Foundation is dedicated to not only maintaining compliance but also to providing a clear understanding of how its policies apply within different legal contexts. Whenever such customizations may be necessary, they will be clearly documented. These exceptions will be noted directly within the text of the corresponding organization's policy documents
 
+## Future improvements
+
+The IO Foundation is committed to implement the following improvements on its policies:
+
+* Optimizing them to be reusable by other organizations
+* Expanding their documentation with process-driven diagrams
+* Making them machine-readable
