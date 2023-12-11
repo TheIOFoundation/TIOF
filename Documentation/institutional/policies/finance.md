@@ -4,6 +4,16 @@
 
 
 
+
+
+
+
+Auditors for each jurisdiction are to be appointed and given access to the organization's accounts.
+
+
+
+
+
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFPolicyFunding) **| Playbook | Assistant**
 {% endhint %}
