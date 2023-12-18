@@ -80,9 +80,34 @@ This policy shall be reviewed regularly to ensure its continued relevance and ef
 
 ### Anti corruption and Anti bribery statement
 
-###
+
+
+
+
+## Channels
 
 ###
+
+The organization will register domain names to protect its image and reputation.
+
+This includes:
+
+* The organization's main domain name
+* Domain names that may be similar in writing and/or sounding
+* Social Media platforms
+* Other relevant platforms
+
+
+
+### Domain Names
+
+
+
+
+
+
+
+***
 
 ### Presentations
 
