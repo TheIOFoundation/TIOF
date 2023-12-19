@@ -91,3 +91,35 @@ This policy shall be reviewed regularly to ensure its continued relevance and ef
 
 
 
+## Other compensations
+
+## Activities
+
+For activities Type A
+
+* Transportation
+
+For activities Type B
+
+* Transportation
+* Accommodation
+* Per Diem
+
+\>> Make a table
+
+
+
+Per Diems & Cost of Accommodation shall be clearly stipulated in the Financial Handbook.
+
+
+
+
+
+
+
+
+
+
+
+
+
