@@ -91,6 +91,34 @@ This policy shall be reviewed regularly to ensure its continued relevance and ef
 
 
 
+## Implementation
+
+All TIOF Policies are to be implemented through their corresponding Handbook.
+
+
+
+## Fiscal Years
+
+Always natural year.
+
+1st January to 31st December
+
+## Timelines
+
+The organization shall clearly establish a yearly timeline that reflects all relevant activities, processes and deadlines in accordance to their corresponding jurisdictions and must be strictly followed.
+
+The Finance Handbook will specify the details for each organization.
+
+
+
+
+
+
+
+
+
+
+
 ## Other compensations
 
 ## Activities
