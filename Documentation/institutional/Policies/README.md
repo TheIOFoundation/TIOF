@@ -10,7 +10,7 @@ This section contains the list of Policies that guide The IO Foundation as an or
 
 ## Guiding values
 
-The IO Foundation’s policy framework is a tapestry woven with the threads of European Enlightenment, a period marked by the burgeoning of reason, individualism and a pursuit for knowledge. Our policies are constructed upon a foundation of timeless values that have been pivotal in shaping modern society.&#x20;
+The IO Foundation’s policy framework is a tapestry woven with the threads of European Enlightenment, a period marked by the burgeoning of reason, individualism and a pursuit for knowledge. Our policies are constructed upon a foundation of timeless values that have been pivotal in shaping modern societies.
 
 {% hint style="success" %}
 **Humanism and the Value of human life:**  We emphasize the importance of each individual's dignity and worth by cherishing the intrinsic value of human life, human rights and equality of opportunity.
@@ -38,7 +38,11 @@ The IO Foundation operates as a global network, guided by a cohesive framework o
 
 Taking into account that the international landscape is complex, with various jurisdictions imposing their own legal and regulatory requirements, there are circumstances where our policies might require adaptations with local regulations. As a result, specific policies may partially be overridden or modified in order to achieve compliance with the applicable laws and regulations.
 
-The IO Foundation is dedicated to not only maintaining compliance but also to providing a clear understanding of how its policies apply within different legal contexts. Whenever such customizations may be necessary, they will be clearly documented. These exceptions will be noted directly within the text of the corresponding organization's policy documents
+The IO Foundation is dedicated to not only maintaining compliance but also to providing a clear understanding of how its policies apply within different legal contexts. Whenever such customizations may be necessary, they will be clearly documented. These exceptions will be noted directly within the text of the corresponding organization's policy documents.
+
+## Implementation
+
+TIOF's Policies are implemented through corresponding Handbooks, which are referenced in their text.
 
 ## Future improvements
 

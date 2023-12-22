@@ -6,7 +6,7 @@
 
 ## About
 
-The following section contains the list of official operational handbooks (Standard Operational Procedures - SOPs) for The IO Foundation.
+The following section contains the list of official operational Handbooks that collect all Standard Operational Procedures (SOPs) for The IO Foundation network.
 
 {% hint style="warning" %}
 All SOPs need to comply with [TIOF's Policies](https://tiof.click/TIOFPolicies) at all times.

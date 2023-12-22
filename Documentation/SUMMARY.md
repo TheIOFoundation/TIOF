@@ -69,6 +69,7 @@
   * [🚧 Disciplinary and Capability](institutional/policies/disciplinary-and-capability.md)
   * [🚧 Data & Privacy](institutional/Policies/data-and-privacy.md)
   * [🚧 Date & Time Management](institutional/policies/date-and-time-management.md)
+  * [Project Management](institutional/policies/project-management.md)
   * [🚧 Data Protection](institutional/Policies/data-protection.md)
   * [🚧 Partnerships](institutional/policies/partnerships.md)
   * [🚧 ICT Systems](institutional/Policies/ict-systems.md)
