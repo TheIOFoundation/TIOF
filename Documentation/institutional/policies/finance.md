@@ -113,7 +113,7 @@ The Finance Handbook will specify the details for each organization.
 
 ## Payment Cycles
 
-* 15th day of the month (or Second Friday? >> Propose to Finance)
+* Second Friday of the month
 * Any pending per diems or other expenses to be refunded: 1 week before FYE
   * Otherwise the funds will be donated to TIOF.
 
