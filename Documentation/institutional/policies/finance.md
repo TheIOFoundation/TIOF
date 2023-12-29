@@ -119,7 +119,9 @@ The Finance Handbook will specify the details for each organization.
 
 
 
+### Bank Statements
 
+To be extracted quarterly and stored on TIOF's Team Finance Storage.
 
 
 
