@@ -461,6 +461,12 @@ TIOF Members are&#x20;
 
 Equal opportunities policy
 
+
+
+The organization commits to providing regular training to its Members.
+
+
+
 ### Performance evaluation
 
 ## Grievances
