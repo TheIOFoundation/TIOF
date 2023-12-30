@@ -8,7 +8,7 @@ The IO Foundation (TIOF) is a global for-impact NGO born from a fundamental conc
 
 TIOF aims to raise awareness of the importance of [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) in collaboration with stakeholders ranging from civil society, programmer communities, bodies of governance and corporate and work together to achieve the proclamation and adoption of a [Universal Declaration of Digital Rights](https://tiof.click/UDDRWeb).
 
-TIOF advances its [Data-Centric Digital Rights advocacy](https://tiof.click/DCDRAdvocacy) through the implementation of a number of [initiatives](../../initiatives.md).
+TIOF advances its [Data-Centric Digital Rights advocacy](https://tiof.click/DCDRAdvocacy) through the implementation of a number of [initiatives](../../about/portfolio/initiatives.md).
 
 ## The observed problem(s)
 

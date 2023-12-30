@@ -61,7 +61,7 @@ Target Audience
 
 The target audience consists of users searching for clarity, objectivity, and reliability. The voice of PL on any platform should respond to these goals.
 
-
+***
 
 Voice & Tone
 
@@ -93,7 +93,7 @@ Tweet this: South Africa, Nigeria, and Kenya have implemented martial law in the
 
 Not this: Increased restrictions are being reported in Africa.
 
-
+***
 
 Twitter Best Practices
 
@@ -109,7 +109,7 @@ Don’t:
 
 Respond in a confrontational manner to user questions or comments Use confusing jargon or terminology without elaborating or clarifying Link tweets to unverified or potentially unreliable information Ignore communications regarding the potential in inaccuracy of information on the product: PL is open to suggestions and corrections Infuse tweets with the personality of the individual tweeting or replying Use emojis or humorous GIFs
 
-
+***
 
 Style Guide
 
@@ -119,7 +119,7 @@ Basic Rules
 
 Use active voice instead of passive Be mindful of all users, who have varying prior knowledge and come from different backgrounds Keep it simple and consistent Maintain a neutral, unbiased voice
 
-
+***
 
 Pass to Dooly Playbooks
 
@@ -132,15 +132,15 @@ Pass to Dooly Playbooks
 * Add Shortlink to AboutUs (@@@See Handbook)
 * Create corresponding Media Channel Procedures Wiki page when necessary (@@@See Handbook)
 
+***
 
+***
 
+***
 
+***
 
-
-
-
-
-
+***
 
 ## Official Channels
 
@@ -173,7 +173,7 @@ Each
 
 must have
 
-*   Introduction to audiences
+-   Introduction to audiences
 
     *   Presentations \[Slides]
 
@@ -187,7 +187,7 @@ must have
 
         *   https://TIOF.Click/{ORG/INITIATIVE}SlidesRepo
 
-
+            ***
         * A general introductory presentation + ShortURL
 
     Naming
@@ -195,21 +195,21 @@ must have
     * \[{ORG} {INITIATIVE}] Comms \[P] {ORG} Organization Presentation {LANG} {VERSION}
     * \[{ORG} {INITIATIVE}] Comms \[P] {INITIATIVE} Initiative Presentation {LANG} {VERSION}
 
-
+    ***
 
     ShortURL
 
     * https://TIOF.Click/{ORG/INITIATIVE}Presentation
-*
+- ***
   * Presentations \[Video]
 
+***
 
+***
 
+***
 
-
-
-
-
+***
 
 ## Communication Types
 
@@ -233,7 +233,8 @@ For more i
 
 
 
+***
 
+***
 
-
-
+***

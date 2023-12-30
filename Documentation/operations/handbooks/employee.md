@@ -27,7 +27,7 @@ This Handbook responds to the following Policies:
 
 ## PLEASE NOTE THAT THIS IS A WORK IN PROGRESS DOCUMENT
 
-
+***
 
 ## Staff's Handbook
 

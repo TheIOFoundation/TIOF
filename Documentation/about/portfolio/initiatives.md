@@ -6,6 +6,8 @@ description: >-
 
 # ⏩ Initiatives
 
+
+
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFInitiatives) **| Playbook | Assistant**
 {% endhint %}
@@ -18,7 +20,7 @@ The IO Foundation advances its [Data-Centric Digital Rights advocacy](https://ti
 
 The following diagram provides an overview on how each of the initiatives support each other to advance TIOF's [Mission](https://tiof.click/TIOFMission) in realizing its [Vision](https://tiof.click/TIOFVision).
 
-{% embed url="https://cawemo.com/share/6f586512-627b-4d70-bdc6-f4a4a9ad6e65" %}
+{% embed url="https://cawemo.com/share/6f586512-627b-4d70-bdc6-f4a4a9ad6e65" fullWidth="true" %}
 
 ## [Data-Centric Digital Rights](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/rG4xcNzldvEoKR9FS7Og/ "mention")
 
@@ -34,7 +36,7 @@ Supporting the adoption and implementation of the [United Nations' Guiding Princ
 
 ## [TechUp](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K54SuAkrrbCKMqyze/ "mention")
 
-![](<.gitbook/assets/\[TIOF TU] Comms \[P] LinkedIn - Event Header ENG v1.0.jpg>)
+![](<../../.gitbook/assets/\[TIOF TU] Comms \[P] LinkedIn - Event Header ENG v1.0.jpg>)
 
 Supporting programmers as the Next Generation of Rights defenders for our digital societies.
 
