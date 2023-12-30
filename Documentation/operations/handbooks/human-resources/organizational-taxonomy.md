@@ -1,4 +1,4 @@
-# 🚧 Board of Consultants
+# 🚧 Organizational Taxonomy
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -12,3 +12,16 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 {% endhint %}
 
 ## About
+
+
+
+## Organization Taxonomy
+
+{% embed url="https://tiof.click/OrgTaxonomy" %}
+
+
+
+
+
+
+

@@ -1,4 +1,4 @@
-# 🚧 Organizational Chart
+# 🌟 Governance
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -13,49 +13,17 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 ## About
 
-## Full Organization Chart
+The governance structure of The IO Foundation outlines the roles, relationships, and responsibilities of various boards and its Executive Team, ensuring effective management, accountability, and alignment with the organization's mission and objectives.
 
-
+## Organizational Chart
 
 {% embed url="https://tiof.click/TIOFOrgChart" %}
-
-## Organization Taxonomy
-
-
+The IO Foundation's Organizational Chart
+{% endembed %}
 
 
 
-## Employees
-
-
-
-## Members of a Board
-
-
-
-### Board of Directors
-
-
-
-### Board of Advisers
-
-
-
-### Board of Consultants
-
-
-
-
-
-## Interns
-
-
-
-## Volunteers
-
-
-
-
+##
 
 
 

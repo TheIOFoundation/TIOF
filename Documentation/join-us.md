@@ -28,7 +28,7 @@ There are 2 ways to proceed:
 
 ### Participate as a TIOF Member
 
-By joining as a TIOF Member you will officially join one of the TIOF [Teams](institutional/structures/teams.md), participate in organized tasks and have access to tools and other resources as well as training.
+By joining as a TIOF Member you will officially join one of the TIOF [Teams](operations/handbooks/human-resources/teams.md), participate in organized tasks and have access to tools and other resources as well as training.
 
 TIOF Members can be:
 
@@ -45,8 +45,6 @@ As an active TIOF Member, you must be able to commit according to the responsibi
 
 Orebela Gbenga
 {% endhint %}
-
-
 
 {% embed url="https://tiof.click/TIOFJoinUs" %}
 <mark style="color:orange;">**Check the available positions @ The IO Foundation**</mark>

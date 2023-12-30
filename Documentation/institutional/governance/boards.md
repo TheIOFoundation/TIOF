@@ -14,21 +14,23 @@ They provide oversight and guidance, making key decisions on budgeting, activiti
 
 The Board of Directors is responsible for the overall governance of the organization, making key strategic decisions and ensuring that The IO Foundation adheres to its mission and legal responsibilities.
 
-|                                                                                     |                 |   |
-| ----------------------------------------------------------------------------------- | --------------- | - |
-| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JFQ BW.T XXX v1.0.png>) | Jean F. Queralt |   |
-| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] John Duenas.jpg>)                  | John Duenas     |   |
-|                                                                                     |                 |   |
+Directors shall also represent TIOF in events and actively seek for support from local stakeholders.
+
+|                                                                                  |                 |   |
+| -------------------------------------------------------------------------------- | --------------- | - |
+| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JFQ BW.T XXX v1.0.png>) | Jean F. Queralt |   |
+| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] John Duenas.jpg>)                  | John Duenas     |   |
+|                                                                                  |                 |   |
 
 ## Board of Advisers
 
 The Board of Advisers provides expert guidance and advice to The IO Foundation, offering insights and recommendations to inform strategic direction and operational effectiveness.
 
-|                                                                                           |                 |   |
-| ----------------------------------------------------------------------------------------- | --------------- | - |
-| ![](<../../../.gitbook/assets/\[TIOF] Avatar.png>)                                        | Dr. Ahmad Azhar |   |
-| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic.DO BW Circle.T XXX v1.0.png>) | Denis Oakley    |   |
-|                                                                                           |                 |   |
+|                                                                                        |                 |   |
+| -------------------------------------------------------------------------------------- | --------------- | - |
+| ![](<../../.gitbook/assets/\[TIOF] Avatar.png>)                                        | Dr. Ahmad Azhar |   |
+| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic.DO BW Circle.T XXX v1.0.png>) | Denis Oakley    |   |
+|                                                                                        |                 |   |
 
 ## Board of Consultants
 

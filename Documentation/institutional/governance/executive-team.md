@@ -1,4 +1,4 @@
-# 🚧 Global Management
+# 💠 Executive Team
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
