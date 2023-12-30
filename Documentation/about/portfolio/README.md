@@ -38,19 +38,19 @@ The following diagram provides an overview on how each of the initiatives suppor
 
 {% embed url="https://cawemo.com/share/57ff3a8b-5baa-4e97-9fb7-d770b8de6890" %}
 
-## <img src="../../.gitbook/assets/DCDR Icon-01.png" alt="" data-size="line"> [Data-Centric Digital Rights](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/rG4xcNzldvEoKR9FS7Og/ "mention")
+## <img src="../../.gitbook/assets/DCDR Icon-01.png" alt="" data-size="line"> Data-Centric Digital Rights
 
 Advancing the supporting the DCDR advocacy through research and knowledge dissemination.
 
 [Get involved](https://tiof.click/DCDRDocs)
 
-## <img src="../../.gitbook/assets/[TIOF BiT] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line"> [BHR in Tech](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K57zbBbwulYcIf9UU/ "mention")
+## <img src="../../.gitbook/assets/[TIOF BiT] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line"> BHR in Tech
 
 Supporting the adoption and implementation of the [United Nations' Guiding Principles on Business and Human Rights](https://dothe.click/Ext6) in the Tech sector.
 
 [Get involved](https://tiof.click/BiTDocs)
 
-## <img src="../../.gitbook/assets/[TIOF TU] Comms [P] U Logo FC T HiRes XXX v1.0.png" alt="" data-size="line"> [TechUp](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K54SuAkrrbCKMqyze/ "mention")
+## <img src="../../.gitbook/assets/[TIOF TU] Comms [P] U Logo FC T HiRes XXX v1.0.png" alt="" data-size="line"> TechUp
 
 ![](<../../.gitbook/assets/\[TIOF TU] Comms \[P] LinkedIn - Event Header ENG v1.0.jpg>)
 
@@ -58,19 +58,19 @@ Supporting programmers as the Next Generation of Rights defenders for our digita
 
 [Get involved](https://tiof.click/TUDocs)
 
-## <img src="../../.gitbook/assets/CrowdShape-01.png" alt="" data-size="line"> [CrowdShape](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/MxkrsyQSraXtP8kYavv2/ "mention")
+## <img src="../../.gitbook/assets/CrowdShape-01.png" alt="" data-size="line"> CrowdShape
 
 A platform to support technologists wanting to make and impact and support the growth of the Tech NGO ecosystem by quickly and efficiently bootstrap their own Tech NGO.
 
 [Get involved](https://tiof.click/CSDocs)
 
-## <img src="../../.gitbook/assets/[TIOF PLD] Comms [P] Lock Logo LM T HiRes XXX v1.0.png" alt="" data-size="line"> [Project Lockdown](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-MF3niuejuN6L2E3JNhU/ "mention")
+## <img src="../../.gitbook/assets/[TIOF PLD] Comms [P] Lock Logo LM T HiRes XXX v1.0.png" alt="" data-size="line"> Project Lockdown
 
 A civic tech, interactive platform providing an overview of the state of Human and Digital Rights around the globe by monitoring the impact of governments' policies
 
 [Get involved](https://tiof.click/PLDDocs)
 
-## <img src="../../.gitbook/assets/[TIOF UDDR] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line"> [Universal Declaration of Digital Rights](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K4xk\_xBCdMTs3EMBi/ "mention")
+## <img src="../../.gitbook/assets/[TIOF UDDR] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line"> Universal Declaration of Digital Rights
 
 Advancing the development, proclamation and adoption of a Universal Declaration of Digital Rights.
 
