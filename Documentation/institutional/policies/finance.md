@@ -119,6 +119,22 @@ The Finance Handbook will specify the details for each organization.
 
 
 
+
+
+### Roles
+
+Roles for each position are to be defined with precision. Overlapping of roles that may lead to financial mismanagement are to be made not possible.
+
+
+
+
+
+### Approvals
+
+All payments require at least one approval.
+
+
+
 ### Bank Statements
 
 To be extracted quarterly and stored on TIOF's Team Finance Storage.
