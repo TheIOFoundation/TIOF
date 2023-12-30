@@ -16,7 +16,11 @@ The Board of Directors is responsible for the overall governance of the organiza
 
 <figure><img src="../../../.gitbook/assets/[TIOF] Comms [P] ProfilePic JFQ BW.T XXX v1.0.png" alt="" width="188"><figcaption></figcaption></figure>
 
-
+|                                                                                     |   |   |
+| ----------------------------------------------------------------------------------- | - | - |
+| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JFQ BW.T XXX v1.0.png>) |   |   |
+| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] John Duenas.jpg>)                  |   |   |
+|                                                                                     |   |   |
 
 ## Board of Advisers
 
