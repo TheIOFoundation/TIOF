@@ -1,4 +1,4 @@
-# ⏩ NextGen Rights Defenders
+# 🛡 NextGen Rights Defenders
 
 {% hint style="info" %}
 [**ShortURL**](http://tiof.click/TIOFNextGen) **| Playbook | Assistant**

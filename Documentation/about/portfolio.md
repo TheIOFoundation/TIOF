@@ -4,7 +4,7 @@ description: >-
   Foundation's Programs, initiatives and Projects.
 ---
 
-# Portfolio
+# 🔠 Portfolio
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -16,15 +16,15 @@ The IO Foundation's programs are dedicated to advocating for Data-Centric Digita
 
 Every Initiative is composed of a combination of activities under the following 3 Programs:
 
-### <img src="../../.gitbook/assets/Section-Strategicv2.png" alt="" data-size="line"> Strategic
+### <img src="../.gitbook/assets/Section-Strategicv2.png" alt="" data-size="line"> Strategic
 
 The Strategic program implements for the long-term protection of Data-Centric Digital Rights by influencing technical standards and policies at various levels. These actions are directed towards ensuring that societies demand appropriate technical standards and policies for the observance of these rights, guided by the Universal Declaration of Digital Rights as the ultimate strategic document.
 
-### <img src="../../.gitbook/assets/Section-Awareness.png" alt="" data-size="line"> Awareness
+### <img src="../.gitbook/assets/Section-Awareness.png" alt="" data-size="line"> Awareness
 
 The Awareness program focuses on activities designed to enhance understanding and literacy in Data-Centric Digital Rights, educating citizens (technologists and users alike) on their importance for effective self-protection in the digital realm. Its primary goal is to heighten awareness and responsiveness towards these rights, fostering a deeper commitment to respecting and safeguarding the DCDR Principles within the digital space.
 
-### <img src="../../.gitbook/assets/Section-Action.png" alt="" data-size="line"> Engagement
+### <img src="../.gitbook/assets/Section-Action.png" alt="" data-size="line"> Engagement
 
 The Engagement program, advancing beyond awareness, encompasses activities that develop technological solutions addressing current and future challenges in the digital realm. These activities are specifically designed to offer practical solutions for the challenges citizens encounter in protecting their Data-Centric Digital Rights, either as builders or as users.
 
@@ -36,7 +36,7 @@ The following diagram provides an overview on how each of the initiatives suppor
 
 {% embed url="https://cawemo.com/share/57ff3a8b-5baa-4e97-9fb7-d770b8de6890" %}
 
-## <img src="../../.gitbook/assets/DCDR Icon-01.png" alt="" data-size="line"> Data-Centric Digital Rights
+### <img src="../.gitbook/assets/DCDR Icon-01.png" alt="" data-size="line"> Data-Centric Digital Rights
 
 Advancing the supporting the DCDR advocacy through research and knowledge dissemination.
 
@@ -48,7 +48,7 @@ Advancing the supporting the DCDR advocacy through research and knowledge dissem
 
 
 
-## <img src="../../.gitbook/assets/[TIOF BiT] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line"> BHR in Tech
+### <img src="../.gitbook/assets/[TIOF BiT] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line"> BHR in Tech
 
 Supporting the adoption and implementation of the [United Nations' Guiding Principles on Business and Human Rights](https://dothe.click/Ext6) in the Tech sector.
 
@@ -60,9 +60,9 @@ Supporting the adoption and implementation of the [United Nations' Guiding Princ
 
 
 
-## <img src="../../.gitbook/assets/[TIOF TU] Comms [P] U Logo FC T HiRes XXX v1.0.png" alt="" data-size="line"> TechUp
+### <img src="../.gitbook/assets/[TIOF TU] Comms [P] U Logo FC T HiRes XXX v1.0.png" alt="" data-size="line"> TechUp
 
-![](<../../.gitbook/assets/\[TIOF TU] Comms \[P] LinkedIn - Event Header ENG v1.0.jpg>)
+![](<../.gitbook/assets/\[TIOF TU] Comms \[P] LinkedIn - Event Header ENG v1.0.jpg>)
 
 Supporting programmers as the Next Generation of Rights defenders for our digital societies.
 
@@ -74,7 +74,7 @@ Supporting programmers as the Next Generation of Rights defenders for our digita
 
 
 
-## <img src="../../.gitbook/assets/CrowdShape-01.png" alt="" data-size="line"> CrowdShape
+### <img src="../.gitbook/assets/CrowdShape-01.png" alt="" data-size="line"> CrowdShape
 
 A platform to support technologists wanting to make and impact and support the growth of the Tech NGO ecosystem by quickly and efficiently bootstrap their own Tech NGO.
 
@@ -86,7 +86,7 @@ A platform to support technologists wanting to make and impact and support the g
 
 
 
-## <img src="../../.gitbook/assets/[TIOF PLD] Comms [P] Lock Logo LM T HiRes XXX v1.0.png" alt="" data-size="line"> Project Lockdown
+### <img src="../.gitbook/assets/[TIOF PLD] Comms [P] Lock Logo LM T HiRes XXX v1.0.png" alt="" data-size="line"> Project Lockdown
 
 A civic tech, interactive platform providing an overview of the state of Human and Digital Rights around the globe by monitoring the impact of governments' policies
 
@@ -98,7 +98,7 @@ A civic tech, interactive platform providing an overview of the state of Human a
 
 
 
-## <img src="../../.gitbook/assets/[TIOF UDDR] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line"> Universal Declaration of Digital Rights
+### <img src="../.gitbook/assets/[TIOF UDDR] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line"> Universal Declaration of Digital Rights
 
 Advancing the development, proclamation and adoption of a Universal Declaration of Digital Rights.
 
