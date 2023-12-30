@@ -16,15 +16,15 @@ The IO Foundation's programs are dedicated to advocating for Data-Centric Digita
 
 Every Initiative is composed of a combination of activities under the following 3 Programs:
 
-### <img src="../../.gitbook/assets/DCDR Icon-01.png" alt="" data-size="line"> Strategic
+### <img src="../../.gitbook/assets/Section-Strategicv2.png" alt="" data-size="line"> Strategic
 
 The Strategic program implements for the long-term protection of Data-Centric Digital Rights by influencing technical standards and policies at various levels. These actions are directed towards ensuring that societies demand appropriate technical standards and policies for the observance of these rights, guided by the Universal Declaration of Digital Rights as the ultimate strategic document.
 
-### <img src="../../.gitbook/assets/DCDR Icon-01.png" alt="" data-size="line"> Awareness
+### <img src="../../.gitbook/assets/Section-Awareness.png" alt="" data-size="line"> Awareness
 
 The Awareness program focuses on activities designed to enhance understanding and literacy in Data-Centric Digital Rights, educating citizens (technologists and users alike) on their importance for effective self-protection in the digital realm. Its primary goal is to heighten awareness and responsiveness towards these rights, fostering a deeper commitment to respecting and safeguarding the DCDR Principles within the digital space.
 
-### <img src="../../.gitbook/assets/DCDR Icon-01.png" alt="" data-size="line"> Engagement
+### <img src="../../.gitbook/assets/Section-Action.png" alt="" data-size="line"> Engagement
 
 The Engagement program, advancing beyond awareness, encompasses activities that develop technological solutions addressing current and future challenges in the digital realm. These activities are specifically designed to offer practical solutions for the challenges citizens encounter in protecting their Data-Centric Digital Rights, either as builders or as users.
 
