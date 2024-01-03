@@ -172,3 +172,36 @@ Requirements for events&#x20;
 ***
 
 ***
+
+
+
+## Variables
+
+Start Location
+
+Activity Location
+
+End Location
+
+Accommodation Location
+
+Transportation Mode
+
+
+
+## Per Diem
+
+What does this category involve:
+
+* Transportation in and out from Start Location to airport, train station or bus station
+* Transportation in and out from airport, train station or bus station Accommodation&#x20;
+* Communications while at Activity Location
+* Tourist taxes at Activity Location, when applicable
+* Local transportation at Activity Location
+* F\&B at Activity Location
+*
+
+
+
+
+
