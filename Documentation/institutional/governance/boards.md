@@ -26,11 +26,15 @@ Directors shall also represent TIOF in events and actively seek for support from
 
 The Board of Advisers provides expert guidance and advice to The IO Foundation, offering insights and recommendations to inform strategic direction and operational effectiveness.
 
-|                                                                                        |                 |   |
-| -------------------------------------------------------------------------------------- | --------------- | - |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic AA BW Circle.T XXX v1.0.png>) | Dr. Ahmad Azhar |   |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic.DO BW Circle.T XXX v1.0.png>) | Denis Oakley    |   |
-|                                                                                        |                 |   |
+|                                                                                        |                     |                          |
+| -------------------------------------------------------------------------------------- | ------------------- | ------------------------ |
+| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic AA BW Circle.T XXX v1.0.png>) | Dr. Ahmad Azhar     | Telecom Ecosystem        |
+| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic.DO BW Circle.T XXX v1.0.png>) | Denis Oakley        | Global Strategy          |
+| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JR BW Circle.T XXX v1.0.png>) | Javier Ramirez      | Innovation & IP          |
+| ![](<../../.gitbook/assets/\[TIOF] Avatar-modified.png>)                               | Maya Vandenbroeck   | Organization Development |
+| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic MZ BW Circle.T XXX v1.0.png>) | Maznuddin Zainuddin | Corporate Strategy (MYS) |
+| ![](<../../.gitbook/assets/\[TIOF] Avatar-modified (2).png>)                           | Tevanraj Elengoe    | Tech Ecosystem (MYS)     |
+| ![](<../../.gitbook/assets/\[TIOF] Avatar-modified (1).png>)                           | Norina Yahya        | Policy Strategy          |
 
 ## Board of Consultants
 
@@ -40,10 +44,10 @@ The Board of Consultants consists of specialists who offer detailed, technical a
 
 The Board of Auditors is tasked with overseeing the financial practices and transparency of The IO Foundation, ensuring accuracy, compliance and integrity in financial reporting and management.
 
-|                                                                                        |            |   |
-| -------------------------------------------------------------------------------------- | ---------- | - |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic LK BW Circle.T XXX v1.0.png>) | Lauri Kurs |   |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic KR BW Circle.T XXX v1.0.png>) | Karin Rand |   |
+|                                                                                        |            |                   |
+| -------------------------------------------------------------------------------------- | ---------- | ----------------- |
+| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic LK BW Circle.T XXX v1.0.png>) | Lauri Kurs | Legal (Estonia)   |
+| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic KR BW Circle.T XXX v1.0.png>) | Karin Rand | Finance (Estonia) |
 
 ### Rights and Responsibilities
 
