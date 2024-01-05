@@ -2,7 +2,7 @@
 description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 ---
 
-# 🚧 Document Management
+# 🚧 Knowledge Management
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFPolicyEvents) **| Playbook | Assistant**
@@ -102,7 +102,11 @@ Documents will be properly Tagged.
 
 
 
+### File naming
 
+Files need to be named in a way that allows for clearly understanding their content and this across platforms.
+
+The use of Metadata, while not prohibited, is discouraged as certitude of compliance across platforms can't be enforced.
 
 
 

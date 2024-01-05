@@ -67,7 +67,7 @@
   * [🚧 Media](institutional/Policies/media.md)
   * [🚧 Activities](institutional/policies/activities/README.md)
     * [PENDING \[TIOF\] Operational Manual v1.0](institutional/policies/activities/pending-tiof-operational-manual-v1.0.md)
-  * [🚧 Document Management](institutional/policies/document-management.md)
+  * [🚧 Knowledge Management](institutional/policies/knowledge-management.md)
   * [🚧 Communications](institutional/policies/communications.md)
   * [🚧 Information Management](institutional/policies/information-management.md)
   * [🚧 Terms of Service](institutional/policies/terms-of-service.md)
