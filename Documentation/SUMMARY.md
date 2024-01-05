@@ -121,6 +121,7 @@
   * [📓 🚧 Documentation](operations/handbooks/documentation/README.md)
     * [📓 🚧 Documenting interactions](operations/handbooks/documentation/documenting-interactions.md)
   * [📓 🚧 Devs](operations/handbooks/devs.md)
+  * [📓 🚧 Knowledge Management](operations/handbooks/knowledge-management.md)
   * [📓 🚧 Legal](operations/handbooks/partners/README.md)
     * [🗒 Memorandum of Understanding](operations/handbooks/partners/page-1.md)
     * [🗃 Memorandum of Understanding](operations/handbooks/legal/memorandum-of-understanding-1.md)

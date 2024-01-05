@@ -5,7 +5,7 @@ description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 # 🚧 Knowledge Management
 
 {% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIOFPolicyEvents) **| Playbook | Assistant**
+**ShortURL | Playbook | Assistant**
 {% endhint %}
 
 {% hint style="warning" %}
@@ -15,20 +15,7 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
-{% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIOFPolicyFunding) **| Playbook | Assistant**
-{% endhint %}
 
-{% hint style="warning" %}
-**NOTICE**
-
-This documentation page is under construction.\
-Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
-{% endhint %}
-
-{% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIOFPolicyACAB) **|** ~~Playbook~~ **|** ~~Assistant~~
-{% endhint %}
 
 ## Introduction
 
@@ -104,9 +91,41 @@ Documents will be properly Tagged.
 
 ### File naming
 
+File names should be consistent across the organization for ease in storing, searching, and identifying files.
+
+As all information is contextual, in order to understand it we require not only the information itself but also the context under which it has been generated and that it will be applied to.
+
 Files need to be named in a way that allows for clearly understanding their content and this across platforms.
 
 The use of Metadata, while not prohibited, is discouraged as certitude of compliance across platforms can't be enforced.
+
+As a result, the only universal, cross-platform nomenclature system is the file name.
+
+\
+
+
+When reading a filename, a user must be able to easily know:
+
+* Which organization is the source of the document
+* Which Initiative (relative to TIOF) it is associated to
+* Which Team it belongs to
+* The general idea of the content
+* The related date (when it is necessary for context or file sorting)
+* Language the document uses
+* Its version
+* Whether it contains signatures&#x20;
+
+
+
+
+
+## Folders
+
+Folders need to fo
+
+Seasons: Every 10x year (2020, 2030, 2040) 10 more Seasons are to be created using the corresponding Season Folder Template.
+
+
 
 
 
