@@ -34,6 +34,8 @@
   * [🇲🇾 The IO Network MY Sdn. Bhd.](institutional/tiof-network/the-io-network-my-sdn.-bhd..md)
     * [🚧 Organization Statute](institutional/tiof-network/the-io-network-my-sdn.-bhd./organization-statute.md)
     * [➡ Applicable legislation](institutional/tiof-network/the-io-network-my-sdn.-bhd./applicable-legislation.md)
+    * [📜 Policies](institutional/tiof-network/the-io-network-my-sdn.-bhd./policies/README.md)
+      * [Reporting of Beneficial Ownership of shares in the company](institutional/tiof-network/the-io-network-my-sdn.-bhd./policies/reporting-of-beneficial-ownership-of-shares-in-the-company.md)
   * [🇺🇸 The IO Network US Foundation](institutional/tiof-network/the-io-network-us-foundation/README.md)
     * [🔷 Bylaws](institutional/tiof-network/the-io-network-us-foundation/bylaws.md)
 * [🌟 Governance](institutional/governance/README.md)
