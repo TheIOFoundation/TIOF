@@ -201,6 +201,47 @@ What does this category involve:
 * F\&B at Activity Location
 *
 
+## From Operations Manual
+
+All flights booked on economy seats unless no seats are available. Airline regulation only applies to the funding partner requirement.
+
+
+
+Per person accommodation are to be in not more than 4-star hotels based on the following:
+
+
+
+| Country | Maximum Amount |
+| ------- | -------------- |
+| Level 1 | 250            |
+| Level 2 | 150            |
+| Level 3 | 80             |
+
+\
+\
+
+
+Level 1: Washington DC, London, Geneva
+
+Level 2: Germany, Paris, etc
+
+Level 3: Global South
+
+\
+
+
+\
+
+
+Level 1: Washington DC, London, Geneva
+
+Level 2: Germany, Paris, etc
+
+Level 3: Global South
+
+\
+
+
 
 
 

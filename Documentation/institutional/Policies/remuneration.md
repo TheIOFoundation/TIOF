@@ -161,6 +161,12 @@ On 15th day of the month or immediately previous working day.
 
 
 
+
+
+
+
+
+
 ### Number of payments
 
 12 unless specified in the corresponding jurisdiction.
@@ -192,6 +198,46 @@ Back to top
 ### Taxes
 
 Back to top
+
+
+
+## From Operations Manual
+
+1. Staff payment
+
+
+
+Organizational staff are paid in full or partial from project funds. The percentage breakdown can be monitored via TIOF’s Labour Distribution Matrix.
+
+
+
+TIOF staff is free to donate part of their salary back to the organization, at their sole discretion.
+
+\
+
+
+
+
+1. Internal Control
+
+To ensure internal control in finances, each project must have:
+
+1. a project concept and corresponding project budget following TIOF Fiscal Calendar (31 December)&#x20;
+2. the project budget must have been approved by the CEO and the funding partner before implementation
+3. the Finance Manager verifies expenses based on the approved project budget and monitor burn rate using the Fund Monitoring System
+
+###
+
+## Honoraria
+
+All honoraria shall be paid once a month only and every 20th of the month. All payments shall be in US Dollars.\
+
+
+
+
+
+
+
 
 ### Data Protection statement
 

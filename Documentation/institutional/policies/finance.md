@@ -116,6 +116,7 @@ The Finance Handbook will specify the details for each organization.
 * Second Friday of the month
 * Any pending per diems or other expenses to be refunded: 1 week before FYE
   * Otherwise the funds will be donated to TIOF.
+  * Any reimbursement claims must be submitted latest 3rd day of next payment cycle month
 
 
 
@@ -154,6 +155,7 @@ For activities Type B
 * Transportation
 * Accommodation
 * Per Diem
+* Communications (SIM)
 
 \>> Make a table
 
@@ -165,6 +167,28 @@ Per Diems & Cost of Accommodation shall be clearly stipulated in the Financial H
 
 
 
+
+
+## From Operations Manual
+
+### Accounting workflow is as follows:
+
+1. Cash Advances for Activities and Payments
+2. Liquidation of Cash Advances\\
+3. Honoraria
+4. Per Diem Regulations; Maximum Amount
+   1. Guidelines to per diem and hotel accommodation may change when the project partner requires otherwise. Subsequent consultation and agreement shall be made with the Executive Secretariat. Additionally, in the period of its initial years, expenses for logistics i.e. accommodation, travel and board, shall be negotiated with the staff as needed.
+5. Hotel Accommodation
+6. Travel Regulation
+7. Procurement
+
+
+
+## Budgeting
+
+Expenses shall be implemented based on the approved project budget.&#x20;
+
+\
 
 
 
