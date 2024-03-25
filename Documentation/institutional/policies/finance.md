@@ -128,6 +128,28 @@ Roles for each position are to be defined with precision. Overlapping of roles t
 
 
 
+## Audits
+
+(Maybe put this under Contracted Parties?)
+
+Auditors must comply with the following:
+
+* Be external to the organization
+* Do not have a conflict of interest with any Board or managerial  members of the organization
+* Sign an SoI upon contracting
+
+The organization must contract the necessary external auditors
+
+* As required by legislation
+* To fully implement the organizations' accountability and transparency commitments
+* To implement project evaluations, when necessary
+
+The organization will ensure that Auditors:
+
+* Are provided with a clear definition of their auditing mandate
+* Are provided with all the information they require to fulfill their mandates
+* Are provided with all the tools the organization has available to perform their mandate
+
 
 
 ### Approvals
