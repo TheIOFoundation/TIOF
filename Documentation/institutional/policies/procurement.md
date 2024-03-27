@@ -13,7 +13,7 @@ All purchases – goods or services – must undergo a respective procurement pr
 Minimum of 3 quotations must be presented in procuring goods and services greater than $5000.
 
 \
-
+\#Procurement Purchases online (Appsumo, Kualo, etc.) should be acquired by an assigned person (label to be provided) and reimbursed on a quarterly basis.
 
 
 

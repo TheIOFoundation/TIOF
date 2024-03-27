@@ -155,6 +155,16 @@ Back to top
 
 
 
+For TIOF Members
+
+Bank same provider than TIOF.
+
+For non TIOF Members
+
+Any other bank.
+
+
+
 ## Execution of payment
 
 On 15th day of the month or immediately previous working day.
@@ -232,6 +242,24 @@ To ensure internal control in finances, each project must have:
 
 All honoraria shall be paid once a month only and every 20th of the month. All payments shall be in US Dollars.\
 
+
+
+
+
+
+### Expenses & claims
+
+Q >> Has expenses
+
+Q + 1
+
+1 Week Finance to receive notification to list pending receipts
+
+2 Week Deadline for final list of pending receipts Teams to receive notification
+
+3 Week Teams to receive reminder
+
+4 Week Deadline for all TIOF members to provide pending receipts
 
 
 

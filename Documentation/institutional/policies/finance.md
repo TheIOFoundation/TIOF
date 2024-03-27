@@ -158,6 +158,12 @@ All payments require at least one approval.
 
 
 
+#### Crypto
+
+Conversions needs to be approved by the Board.
+
+
+
 ### Bank Statements
 
 To be extracted quarterly and stored on TIOF's Team Finance Storage.

@@ -162,6 +162,7 @@
     * [📓 🚧 Time & Calendars](operations/handbooks/time-and-calendars.md)
     * [🚧 Repositories](operations/handbooks/infrastructure/repositories/README.md)
       * [Template Repo](operations/handbooks/infrastructure/repositories/template-repo.md)
+  * [Donations](operations/handbooks/donations.md)
   * [📓 🚧 Finance](operations/handbooks/finance.md)
     * [📓 🚧 Banking](operations/handbooks/banking.md)
 * [🚧 Codefield](operations/codefield/README.md)

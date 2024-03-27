@@ -4,6 +4,74 @@ description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 
 # 🚧 Security
 
+### Anti corruption and Anti bribery statement
+
+### Password:
+
+Complexity levels
+
+
+
+MFA
+
+Always enabled when possible.
+
+
+
+
+
+
+
+Post-quantum considerations
+
+
+
+### Software
+
+The organization will provide with a password vault that all members will have to use.
+
+The organization will allow members to use the Vault for personal use as a perk.
+
+
+
+###
+
+### Anti corruption and Anti bribery statement
+
+&#x20; \
+1\. \[Introduction]\(#introduction)\
+\- \[Definitions]\(#definitions)\
+\- \[About this document]\(#about-this-document)\
+\- \[Scope]\(#scope)\
+2\. \[Policy details]\(#policy-details)\
+\- \[Organization Taxonomy] (#organization-taxonomy)\
+\- \[Organization Chart] (#organization-chart)\
+\- \[Salary Matrix]\(#salary-matrix)\
+\- \[Global calculations] (#global-calculations)\
+\- \[Other considerations] (#other-considerations)\
+\- \[Taxes] (#taxes)
+
+
+
+
+
+
+
+
+
+\
+1\. \[Introduction]\(#introduction)\
+\- \[Definitions]\(#definitions)\
+\- \[About this document]\(#about-this-document)\
+\- \[Scope]\(#scope)\
+2\. \[Policy details]\(#policy-details)\
+\- \[Organization Taxonomy] (#organization-taxonomy)\
+\- \[Organization Chart] (#organization-chart)\
+\- \[Salary Matrix]\(#salary-matrix)\
+\- \[Global calculations] (#global-calculations)\
+\- \[Other considerations] (#other-considerations)\
+\- \[Taxes] (#taxes)
+
 
 
 {% hint style="info" %}

@@ -27,6 +27,12 @@ Structure:
 
 
 
+Salaries:
+
+All same provider than TIOF. Wise, in particular. All payments are done INSIDE Wise. TIOF Members need to have a Wise account for payments.
+
+
+
 
 
 ## Bank accounts
