@@ -84,9 +84,51 @@ This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#
 
 ## Policy details
 
+###
+
+### Password:
+
+Complexity levels
+
+
+
+MFA
+
+Always enabled when possible.
+
+
+
+
+
+
+
+Post-quantum considerations
+
+
+
+### Software
+
+The organization will provide with a password vault that all members will have to use.
+
+The organization will allow members to use the Vault for personal use as a perk.
+
+
+
+###
+
 ### Anti corruption and Anti bribery statement
 
-&#x20; \
+&#x20;&#x20;
+
+
+
+
+
+
+
+
+
+\
 1\. \[Introduction]\(#introduction)\
 \- \[Definitions]\(#definitions)\
 \- \[About this document]\(#about-this-document)\
