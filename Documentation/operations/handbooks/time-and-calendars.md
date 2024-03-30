@@ -35,6 +35,20 @@ General Structure (Outdated)
 
 ![](https://lh5.googleusercontent.com/0uPp7H2MvqkD5fbFUymdCQzYE81sy7ZQgYeiw2wg\_6zRtgG4iopDSFRVgC7Np\_6WlMJJntwD9\_SqbeD5Ysm8hvDEScqLFnN7E9OUgAA0g\_9pdi1FrkXKVGnDXR7knDpA9JMBrBrO)
 
+## Time Zones
+
+
+
+### Time zone viewer & planner
+
+
+
+Winter time: [https://www.worldtimebuddy.com/?pl=1\&lid=100,1735161,1261481,2988507,2643743,5128581,5368361\&h=100\&date=1/1/2024%7C3\&hf=0](https://www.worldtimebuddy.com/?pl=1\&lid=100,1735161,1261481,2988507,2643743,5128581,5368361\&h=100\&date=1/1/2024%7C3\&hf=0)
+
+Sumer time: [https://www.worldtimebuddy.com/?pl=1\&lid=100,1735161,1261481,2988507,2643743,5128581,5368361\&h=100\&date=1/1/2024%7C3\&hf=0](https://www.worldtimebuddy.com/?pl=1\&lid=100,1735161,1261481,2988507,2643743,5128581,5368361\&h=100\&date=1/1/2024%7C3\&hf=0)
+
+
+
 
 
 ## Meetings
@@ -52,6 +66,12 @@ This should provide ample margin to all TIOF Members to set their own schedule.
 ## Platforms
 
 The following are a list of platform and tools that TIOF Members have access to for their time management.
+
+## Time zone planner
+
+{% embed url="https://www.worldtimebuddy.com/" %}
+
+
 
 ### Google Calendar
 
