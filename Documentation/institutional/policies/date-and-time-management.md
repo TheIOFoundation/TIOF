@@ -107,6 +107,16 @@ Months follow solar cycle.
 
 
 
+## Time zones
+
+
+
+Reference days
+
+Winter Time: 1st January
+
+Summer Time: 1st Jul7
+
 
 
 ### Using other Time zones
