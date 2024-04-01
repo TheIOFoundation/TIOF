@@ -44,7 +44,7 @@ Advancing the supporting the DCDR advocacy through research and knowledge dissem
 
 **List of projects under this Initiative:**
 
-<table><thead><tr><th>Name</th><th>Code</th><th>Summary</th><th data-type="select">Status</th></tr></thead><tbody><tr><td>DCDR Framework</td><td>DCDR-FW</td><td>Theoretical working framework for applied DCDR.</td><td></td></tr><tr><td>Codefield</td><td>DCDR-CF</td><td>Campaigns to enhance awareness about DCDR.</td><td></td></tr><tr><td>First, we take your data</td><td>DCDR-1D</td><td>More information soon.</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Name</th><th>Code</th><th>Summary</th><th>Status<select><option value="f2c4d22c55244665a263ef75a54e35a1" label="Active" color="blue"></option><option value="c95e101e4d6a4cc0b2ebca5eb0f49a0a" label="Paused" color="blue"></option><option value="479b1dccbb2e4796a19f7b9667756bab" label="Finished" color="blue"></option><option value="c81cdc122abb4982911c470369196dd7" label="Design" color="blue"></option></select></th></tr></thead><tbody><tr><td>DCDR Framework</td><td>DCDR-FW</td><td>Theoretical working framework for applied DCDR.</td><td><span data-option="f2c4d22c55244665a263ef75a54e35a1">Active</span></td></tr><tr><td>Codefield</td><td>DCDR-CF</td><td>Campaigns to enhance awareness about DCDR.</td><td><span data-option="f2c4d22c55244665a263ef75a54e35a1">Active</span></td></tr><tr><td>First, we take your data</td><td>DCDR-1D</td><td>More information soon.</td><td><span data-option="c81cdc122abb4982911c470369196dd7">Design</span></td></tr></tbody></table>
 
 
 
@@ -56,7 +56,7 @@ Supporting the adoption and implementation of the [United Nations' Guiding Princ
 
 **List of projects under this Initiative:**
 
-<table><thead><tr><th>Name</th><th>Code</th><th>Summary</th><th data-type="select">Status</th></tr></thead><tbody><tr><td>ProtocolWatch</td><td>BiT.PW</td><td>Monitoring SDOs to counter authoritarian actions.</td><td></td></tr><tr><td>RepairSafe</td><td>BiT-RS</td><td>More information soon.</td><td></td></tr><tr><td>BHR in Tech in MY</td><td>BiT.MY</td><td><em>Technology</em> as cross-cutting issue on Malaysia's NAP.</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Name</th><th>Code</th><th>Summary</th><th>Status<select><option value="f2c4d22c55244665a263ef75a54e35a1" label="Active" color="blue"></option><option value="c95e101e4d6a4cc0b2ebca5eb0f49a0a" label="Paused" color="blue"></option><option value="479b1dccbb2e4796a19f7b9667756bab" label="Finished" color="blue"></option><option value="c81cdc122abb4982911c470369196dd7" label="Design" color="blue"></option></select></th></tr></thead><tbody><tr><td>ProtocolWatch</td><td>BiT.PW</td><td>Monitoring SDOs to counter authoritarian actions.</td><td><span data-option="f2c4d22c55244665a263ef75a54e35a1">Active</span></td></tr><tr><td>RepairSafe</td><td>BiT-RS</td><td>More information soon.</td><td><span data-option="c81cdc122abb4982911c470369196dd7">Design</span></td></tr><tr><td>BHR in Tech in MY</td><td>BiT.MY</td><td><em>Technology</em> as cross-cutting issue on Malaysia's NAP.</td><td><span data-option="479b1dccbb2e4796a19f7b9667756bab">Finished</span></td></tr></tbody></table>
 
 
 
@@ -70,7 +70,7 @@ Supporting programmers as the Next Generation of Rights defenders for our digita
 
 **List of projects under this Initiative:**
 
-<table><thead><tr><th>Name</th><th>Code</th><th>Summary</th><th data-type="select">Status</th></tr></thead><tbody><tr><td>TU Fellowship</td><td>TU-FE</td><td>Training the Next Generation of Rights Defenders.</td><td></td></tr><tr><td>Coder Network</td><td>TU-CN</td><td>More information soon.</td><td></td></tr><tr><td>::Assembly</td><td>TU-ASM</td><td>More information soon.</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Name</th><th>Code</th><th>Summary</th><th>Status<select><option value="f2c4d22c55244665a263ef75a54e35a1" label="Active" color="blue"></option><option value="c95e101e4d6a4cc0b2ebca5eb0f49a0a" label="Paused" color="blue"></option><option value="479b1dccbb2e4796a19f7b9667756bab" label="Finished" color="blue"></option><option value="c81cdc122abb4982911c470369196dd7" label="Design" color="blue"></option></select></th></tr></thead><tbody><tr><td>TU Fellowship</td><td>TU-FE</td><td>Training the Next Generation of Rights Defenders.</td><td><span data-option="f2c4d22c55244665a263ef75a54e35a1">Active</span></td></tr><tr><td>Coder Network</td><td>TU-CN</td><td>More information soon.</td><td><span data-option="c81cdc122abb4982911c470369196dd7">Design</span></td></tr><tr><td>::Assembly</td><td>TU-ASM</td><td>More information soon.</td><td><span data-option="c81cdc122abb4982911c470369196dd7">Design</span></td></tr></tbody></table>
 
 
 
@@ -82,7 +82,7 @@ A platform to support technologists wanting to make and impact and support the g
 
 **List of projects under this Initiative:**
 
-<table><thead><tr><th>Name</th><th>Code</th><th>Summary</th><th data-type="select">Status</th></tr></thead><tbody><tr><td>Platform</td><td>CS-PLT</td><td>More information soon.</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Name</th><th>Code</th><th>Summary</th><th>Status<select><option value="f2c4d22c55244665a263ef75a54e35a1" label="Active" color="blue"></option><option value="c95e101e4d6a4cc0b2ebca5eb0f49a0a" label="Paused" color="blue"></option><option value="479b1dccbb2e4796a19f7b9667756bab" label="Finished" color="blue"></option><option value="c81cdc122abb4982911c470369196dd7" label="Design" color="blue"></option></select></th></tr></thead><tbody><tr><td>Platform</td><td>CS-PLT</td><td>More information soon.</td><td><span data-option="c81cdc122abb4982911c470369196dd7">Design</span></td></tr></tbody></table>
 
 
 
@@ -94,7 +94,7 @@ A civic tech, interactive platform providing an overview of the state of Human a
 
 **List of projects under this Initiative:**
 
-<table><thead><tr><th>Name</th><th>Code</th><th>Summary</th><th data-type="select">Status</th></tr></thead><tbody><tr><td>Platform</td><td>PLD-PLT</td><td>Monitoring of NPIs and their impact on Rights.</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Name</th><th>Code</th><th>Summary</th><th>Status<select><option value="f2c4d22c55244665a263ef75a54e35a1" label="Active" color="blue"></option><option value="c95e101e4d6a4cc0b2ebca5eb0f49a0a" label="Paused" color="blue"></option><option value="479b1dccbb2e4796a19f7b9667756bab" label="Finished" color="blue"></option><option value="c81cdc122abb4982911c470369196dd7" label="Design" color="blue"></option></select></th></tr></thead><tbody><tr><td>Platform</td><td>PLD-PLT</td><td>Monitoring of NPIs and their impact on Rights.</td><td><span data-option="479b1dccbb2e4796a19f7b9667756bab">Finished</span></td></tr></tbody></table>
 
 
 
@@ -106,5 +106,5 @@ Advancing the development, proclamation and adoption of a Universal Declaration 
 
 **List of projects under this Initiative:**
 
-<table><thead><tr><th>Name</th><th>Code</th><th>Summary</th><th data-type="select">Status</th></tr></thead><tbody><tr><td>UDDR - Doc L</td><td>UDDR-DOCL</td><td>Legal document of the UDDR.</td><td></td></tr><tr><td>UDDR - Doc T</td><td>UDDR-DOCT</td><td>More information soon.</td><td></td></tr><tr><td>UDDR SDK</td><td>UDDR-SDK</td><td>More information soon.</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Name</th><th>Code</th><th>Summary</th><th>Status<select><option value="f2c4d22c55244665a263ef75a54e35a1" label="Active" color="blue"></option><option value="c95e101e4d6a4cc0b2ebca5eb0f49a0a" label="Paused" color="blue"></option><option value="479b1dccbb2e4796a19f7b9667756bab" label="Finished" color="blue"></option><option value="c81cdc122abb4982911c470369196dd7" label="Design" color="blue"></option></select></th></tr></thead><tbody><tr><td>UDDR - Doc L</td><td>UDDR-DOCL</td><td>Legal document of the UDDR.</td><td><span data-option="f2c4d22c55244665a263ef75a54e35a1">Active</span></td></tr><tr><td>UDDR - Doc T</td><td>UDDR-DOCT</td><td>More information soon.</td><td><span data-option="c81cdc122abb4982911c470369196dd7">Design</span></td></tr><tr><td>UDDR SDK</td><td>UDDR-SDK</td><td>More information soon.</td><td><span data-option="c81cdc122abb4982911c470369196dd7">Design</span></td></tr></tbody></table>
 
