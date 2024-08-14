@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🚧 Partners and Collaborators
 
 {% hint style="info" %}
