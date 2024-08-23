@@ -6,7 +6,12 @@
 
 ## About
 
-This section contains all annual reports issued by The IO Foundation, organized by fiscal year.
+This section contains all annual reports issued by The IO Foundation, organized by Seasions (fiscal years).
+
+{% hint style="info" %}
+* Fiscal years comprise from 1st January to 31st December of a natural year.
+* The IO Foundation labels its fiscal years _**Seasons**_.
+{% endhint %}
 
 ## Institutional Reports
 
@@ -26,7 +31,7 @@ The Strat Meeting report provides an account of the annual Strat Meeting that ta
 
 ## Operational Reports
 
-Equally in line to its transparency and accountability commitment, The IO Foundation publishes the following operational reports that provide an account of how did the organization implemented the Season's strategies and its measured outcomes.
+Equally in line to its transparency and accountability commitment, The IO Foundation strives to publish the following operational reports that provide an account of how did the organization implemented the Season's strategies and its measured outcomes.
 
 ### Financial Reports
 
@@ -44,6 +49,6 @@ At the date of writing this has been impossible due to lack of resources and con
 
 The organization is nonetheless actively working on this subject and will make all possible efforts to issue an Impact Report as soon as possible.
 
-{% hint style="info" %}
-Following the same timing as its Fiscal Year, TIOF's Impact Reports range from 1st January to 31st December of the reviewed year, which are qualified as Seasons.
+{% hint style="warning" %}
+Please note that the reports are organized through tabs in the corresponding Season page.
 {% endhint %}
