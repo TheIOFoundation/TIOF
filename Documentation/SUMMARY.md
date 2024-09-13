@@ -91,8 +91,7 @@
 ## Operations
 
 * [📚 Handbooks](operations/handbooks/README.md)
-  * [📓 🚧 Initiatives](operations/handbooks/initiatives/README.md)
-    * [🚧 New Initiative Template](operations/handbooks/initiatives/new-initiative-template.md)
+  * [📓 🚧 Initiatives](operations/handbooks/initiatives.md)
   * [📓 🚧 Tasks](operations/handbooks/tasks/README.md)
     * [📓 🚧 Meetings](operations/handbooks/tasks/meetings.md)
   * [📓 🚧 Comms](operations/handbooks/comms/README.md)
@@ -126,7 +125,6 @@
   * [📓 🚧 Documentation](operations/handbooks/documentation/README.md)
     * [📓 🚧 Documenting interactions](operations/handbooks/documentation/documenting-interactions.md)
   * [📓 🚧 Devs](operations/handbooks/devs.md)
-  * [📓 🚧 Knowledge Management](operations/handbooks/knowledge-management.md)
   * [📓 🚧 Legal](operations/handbooks/partners/README.md)
     * [🗒️ Memorandum of Understanding](operations/handbooks/partners/page-1.md)
     * [🗃️ Memorandum of Understanding](operations/handbooks/legal/memorandum-of-understanding-1.md)
@@ -165,8 +163,6 @@
     * [🚧 Repositories](operations/handbooks/infrastructure/repositories/README.md)
       * [Template Repo](operations/handbooks/infrastructure/repositories/template-repo.md)
   * [Donations](operations/handbooks/donations.md)
-  * [📓 🚧 Finance](operations/handbooks/finance.md)
-    * [📓 🚧 Banking](operations/handbooks/banking.md)
 * [🚧 Codefield](operations/codefield/README.md)
   * [🚧 Publications](operations/codefield/publications/README.md)
     * [🚧 Storipress](operations/codefield/publications/storipress.md)
