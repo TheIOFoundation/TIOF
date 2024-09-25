@@ -159,7 +159,6 @@
       * [🚧 LinkedIn](operations/handbooks/infrastructure/apps/linkedin.md)
       * [🚧 Airmeet](operations/handbooks/infrastructure/apps/airmeet.md)
       * [🚧 Slack](operations/handbooks/infrastructure/apps/slack.md)
-    * [📓 🚧 Time & Calendars](operations/handbooks/time-and-calendars.md)
     * [🚧 Repositories](operations/handbooks/infrastructure/repositories/README.md)
       * [Template Repo](operations/handbooks/infrastructure/repositories/template-repo.md)
   * [Donations](operations/handbooks/donations.md)
