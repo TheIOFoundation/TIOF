@@ -33,6 +33,23 @@ Migrate all contents from:
 
 {% embed url="https://docs.google.com/document/d/17kahyj5dtZonRW1JkPWIS1NkhI1CuuC8iU9W5YVrqLA/edit#" %}
 
+Current info here: [https://docs.google.com/spreadsheets/d/1Wbj5CCliXb8HXx3cOXKA7fJ3xCYNF1Wnb5dcaoXokFs/edit?gid=2029326434#gid=2029326434](https://docs.google.com/spreadsheets/d/1Wbj5CCliXb8HXx3cOXKA7fJ3xCYNF1Wnb5dcaoXokFs/edit?gid=2029326434#gid=2029326434)
+
+
+
+
+
+
+
+## Nomenclatures
+
+| Element    | Format                                  | Where |
+| ---------- | --------------------------------------- | ----- |
+| Group Name | \[ORG INI] %PROJECT-CODE - in Team      |       |
+| Group ID   | {ORG}.{INI}.{PROJ}.{USERType}.in{WHERE} |       |
+|            |                                         |       |
+|            |                                         |       |
+
 
 
 
