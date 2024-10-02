@@ -1,5 +1,6 @@
 ---
 description: Version 1.0 | This Business Plan was approved on DD MMMM YYYY.
+hidden: true
 ---
 
 # 📊 Business Plan

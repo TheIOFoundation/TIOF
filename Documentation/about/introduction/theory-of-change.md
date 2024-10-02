@@ -1,5 +1,6 @@
 ---
 description: Version 1.0 | This Theory of Change was approved on DD MMMM YYYY.
+hidden: true
 ---
 
 # 🔀 Theory of Change
