@@ -16,6 +16,18 @@ This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
 
+
+
+
+
+Samples
+
+{% embed url="https://www.worldbenchmarkingalliance.org/theory-of-change/" %}
+
+
+
+##
+
 ## About
 
 This section describes the Theory of Change that guides The IO Foundation and its impact.
