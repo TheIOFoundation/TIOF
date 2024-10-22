@@ -49,6 +49,7 @@
   * [📜 Conflict of Interest](institutional/policies/conflict-of-interest.md)
   * [📜 Equal Opportunities](institutional/Policies/equal-opportunities.md)
   * [📜 Antiterrorism](institutional/policies/funding.md)
+  * [📜 Economic Sanctions](institutional/policies/funding-1.md)
   * [📜 Health and Safety](institutional/Policies/health-and-safety.md)
   * [📜 Sickness Absence](institutional/Policies/sickness-absence.md)
   * [📜 Whistleblowing](institutional/Policies/whistleblowing.md)

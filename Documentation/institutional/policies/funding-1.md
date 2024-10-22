@@ -1,8 +1,8 @@
 ---
-description: Version 1.0 | This Policy was approved on 30 May 2022.
+description: Version 1.0 | This Policy was approved on 20 October 2024.
 ---
 
-# 📜 Antiterrorism
+# 📜 Economic Sanctions
 
 {% hint style="warning" %}
 **NOTICE**
@@ -12,7 +12,7 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 {% endhint %}
 
 {% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIOFPolicyAT) **|** ~~Playbook~~ **|** ~~Assistant~~
+**ShortURL |** ~~Playbook~~ **|** ~~Assistant~~
 {% endhint %}
 
 ## Introduction
@@ -28,7 +28,7 @@ For a structure of The IO Foundation, please visit
 
 ### About this document
 
-This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of **Antiterrorism** that you will need to be aware of while being a TIOF Member. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
+This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of applicable **Economic Sanctions** that you will need to be aware of while being a TIOF Member. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
 
 Any Member who breaches this Policy will face disciplinary action, which could result in dismissal for gross misconduct. Any non-employee who breaches this Policy may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
 
@@ -63,15 +63,13 @@ This policy shall be reviewed regularly to ensure its continued relevance and ef
 
 ### Definitions
 
-* **Terrorism:** The unlawful use of violence and intimidation, especially against civilians, to achieve political or ideological objectives.
-* **Terrorist Activity:** Any act that is intended to intimidate or coerce a civilian population or to influence the policy of a government.
+* **Sanctions:** Measures imposed by governments or international organizations that restrict trade, investment and other economic activities with specific countries, individuals or entities.
+* **Sanctioned Entities:** Individuals, organizations or countries that are subject to restrictions as specified by applicable regulations.
 
-### Antiterrorism statement
+### Economic Sanctions statement
 
 {% hint style="success" %}
-The IO Foundation unequivocally condemns terrorism and will not knowingly support any individual, organization or entity involved in terrorist activities.&#x20;
-
-The organization equally recognizes its responsibility to ensure that the steps undertaken for the advancement and achievement of its advocacy do not inadvertently contribute to the financing or facilitation of terrorism.
+The IO Foundation at no point will engage in any activities that violate applicable sanctions laws in the advancement and achievement of its advocacy. The organization is dedicated to ensuring that its resources are not used to support or facilitate transactions with sanctioned individuals, organizations or countries.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -80,18 +78,17 @@ The provisions described in this policy must comply at all times with The IO Fou
 
 ### Implementation process
 
-The IO Foundation will actively observe this policy in all of its processes, with particular attention to funding sources. Among others, the organization will undertake:&#x20;
+The IO Foundation will actively observe this policy in all of its processes, with particular attention to its financial and programmatic activities. Among others, the organization will undertake:&#x20;
 
-* **Risk Assessments:** Regularly conducting assessments to identify potential risks related to terrorism and take appropriate actions to mitigate those risks.
-* **Due Diligence:** Implement thorough vetting processes for funding sources, partners, contractors and beneficiaries to ensure they do not have ties to terrorist organizations or activities.
-* **Training and Awareness:** Provide training for employees on recognizing and reporting suspicious activities related to terrorism.
-* **Reporting Obligations:** Establish clear organizational procedures for reporting any suspected terrorist activities or associations to the appropriate authorities.
-* **Monitoring and Compliance:** Regularly monitor operations and partnerships to ensure compliance with this policy and applicable regulations.
+* **Risk Assessment:** Assess potential risks related to sanctions compliance and implement measures to avoid those risks.
+* **Due Diligence:** Conduct thorough vetting of all partners, contractors and beneficiaries to ensure they are not listed on applicable sanctions lists.
+* **Training and Awareness:** Provide training to [TIOF Members](https://tiof.click/TIOFTerminology#members), [TIOF Contributors](https://tiof.click/TIOFTerminology#contributors) and TIOF Beneficiaries regarding applicable sanctions laws and internal compliance procedures.
+* **Reporting Obligations:** Establish procedures for reporting any suspected violations of this policy or sanctions laws to the appropriate authorities.
+* **Monitoring and Compliance:** Monitor operations with [TIOF Contributors](https://tiof.click/TIOFTerminology#contributors) and TIOF Beneficiaries to ensure compliance with this policy and applicable regulations.
 
 ### Additional considerations
 
 The IO Foundation will carefully analyze, be mindful of and comply with:
 
-* Specific funder's considerations, requirements or otherwise limitations
+* Specific funder's considerations
 * All relevant antiterrorism laws and regulations specific to the jurisdictions in which it operates
-
