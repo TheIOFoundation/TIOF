@@ -180,18 +180,14 @@ When engaging third-party data processors to process personal data on its behalf
 
 The IO Foundation does not knowingly collect personal data from children under the age of 13 (in the U.S.) or under the relevant age of consent as defined by applicable local laws without verifiable parental consent. Should the organization discover that it has inadvertently collected data from a child without consent, it will take steps to delete such data promptly.
 
+{% hint style="info" %}
+For more information about The IO Foundation's commitment to protecting children, please refer to [TIOF's Children's Protection policy](https://tiof.click/TIOFPolicyCP).
+{% endhint %}
 
+### **Changes to this Policy**
 
-#### **13. Changes to this Policy**
+The IO Foundation reserves the right to amend this policy at any time to ensure continued compliance with applicable laws. Any significant changes to this policy will be communicated to data subjects through appropriate means, including website updates or direct communication where applicable.
 
-We reserve the right to amend this policy at any time to ensure continued compliance with relevant laws. Any significant changes to this policy will be communicated to data subjects through appropriate means, including website updates or direct communication where applicable.
+## **Contact Information**
 
-#### **14. Contact Information**
-
-For any questions, concerns, or requests related to this policy or the processing of personal data, please contact:
-
-**Data Protection Officer**\
-\[NGO Name]\
-\[Address]\
-\[Email Address]\
-\[Phone Number]
+For any questions, concerns, or requests related to this policy or the processing of personal data, please contact The IO Foundation via email to: Privacy@TheIOFoundation.org
