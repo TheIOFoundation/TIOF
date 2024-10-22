@@ -47,7 +47,7 @@
   * [📜 Anti corruption & Anti bribery](institutional/Policies/anti-corruption-and-anti-bribery.md)
   * [📜 Anti harassment & Anti bullying](institutional/Policies/anti-harassment-and-anti-bullying.md)
   * [📜 Conflict of Interest](institutional/policies/conflict-of-interest.md)
-  * [📜 Data Privacy and Personal Privacy](institutional/policies/data-privacy-data-protection.md)
+  * [📜 Personal Privacy and Data Protection](institutional/policies/personal-privacy-data-protection.md)
   * [📜 Equal Opportunities](institutional/Policies/equal-opportunities.md)
   * [📜 Antiterrorism](institutional/policies/antiterrorism.md)
   * [📜 Economic Sanctions](institutional/policies/economic-sanctions.md)
