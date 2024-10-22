@@ -2,10 +2,10 @@
 description: Version 1.0 | This Policy was approved on 01 December 2023.
 ---
 
-# 📜 Data Privacy and Personal Privacy
+# 📜 Personal Privacy and Data Protection
 
 {% hint style="info" %}
-**ShortURL |** ~~Playbook~~ **|** ~~Assistant~~
+[**ShortURL**](https://tiof.click/TIOFPPDP) **|** ~~Playbook~~ **|** ~~Assistant~~
 {% endhint %}
 
 ## Introduction
