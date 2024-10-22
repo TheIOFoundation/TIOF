@@ -138,7 +138,7 @@ Should the investigation conclude that the accusation was false, the matter will
 
 Information about a complaint by or about a Member may be placed on the Member's personnel file, along with a record of the outcome and of any notes or other documents compiled during the process.
 
-These will be processed in accordance with our [Data Protection Policy](https://tiof.click/TIOFPolicyDP).
+These will be processed in accordance with [The IO Foundation's Personal Privacy and Data Protection Policy](https://tiof.click/TIOFPPDP).
 
 {% hint style="info" %}
 Members are always welcome to request access to their personnel file by requesting it to their corresponding Team Human Resources Manager.
