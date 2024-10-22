@@ -68,7 +68,3 @@ You can support The IO Foundation by
 * [Join our team](https://tiof.click/TIOFJoinUs)
 * [Partner with us](https://tiof.click/TIOFPartnersSuggest)
 {% endhint %}
-
-{% hint style="info" %}
-Check our [Partners and Collaborators](https://tiof.click/TIOFPartners).
-{% endhint %}
