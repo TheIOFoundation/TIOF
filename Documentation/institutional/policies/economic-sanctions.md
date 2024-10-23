@@ -4,13 +4,6 @@ description: Version 1.0 | This Policy was approved on 20 October 2024.
 
 # 📜 Economic Sanctions
 
-{% hint style="warning" %}
-**NOTICE**
-
-This documentation page is under construction.\
-Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
-{% endhint %}
-
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFPolicyEconS) **|** ~~Playbook~~ **|** ~~Assistant~~
 {% endhint %}
