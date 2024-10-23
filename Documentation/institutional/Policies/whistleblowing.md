@@ -1,5 +1,5 @@
 ---
-description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
+description: Version 1.0 | This Policy was approved on 01 March 2022.
 ---
 
 # 📜 Whistleblowing

@@ -59,10 +59,8 @@ This policy shall be reviewed regularly to ensure its continued relevance and ef
 ### Equal opportunities statement
 
 {% hint style="success" %}
-The IO Foundation is committed to promoting equal opportunities for all individuals to become TIOF Members.
-
-\
-You and any other applicants, irrespective of the position or type of engagement, will receive equal treatment regardless of any personal immutable characteristic dimension that essentially amplifies differences among people instead of embracing their similarities.
+The IO Foundation is committed to promoting equal opportunities for all individuals to become TIOF Members.\
+Any applicants, irrespective of their position or type of engagement, will receive equal treatment regardless of any personal immutable characteristic dimension that essentially amplifies differences among people instead of embracing their similarities.
 {% endhint %}
 
 ### Discrimination

@@ -252,6 +252,12 @@ The IO Foundation was created in the pursuit of creating better and safer digita
 
 Except to upgrade this Ethos these concepts cannot be changed.
 
+{% hint style="info" %}
+**Statement of independence**
+
+The IO Foundation unequivocally assets its status as an independent entity. The organization's strategic direction, operational decisions and governance are determined by its own internal policies, bylaws and guiding principles, without undue external influence.
+{% endhint %}
+
 ### 4.4 Values
 
 In order to implement its initiatives, The IO Foundation adheres to the following values:
