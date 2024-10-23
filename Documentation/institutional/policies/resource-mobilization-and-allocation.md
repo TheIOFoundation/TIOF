@@ -5,7 +5,7 @@ description: Version 1.2 | This Policy was approved on 18 April 2019.
 # 📜 Resource Mobilization and Allocation
 
 {% hint style="info" %}
-**ShortURL |** ~~Playbook~~ **|** ~~Assistant~~
+[**ShortURL**](https://tiof.click/TIOFPolicyRMA) **|** ~~Playbook~~ **|** ~~Assistant~~
 {% endhint %}
 
 ## Introduction
