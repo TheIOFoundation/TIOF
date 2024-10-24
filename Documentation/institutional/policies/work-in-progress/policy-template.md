@@ -2,7 +2,7 @@
 description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 ---
 
-# 🚧 Communications
+# Policy Template
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -21,9 +21,11 @@ For a structure of The IO Foundation, please visit
 
 ### About this document
 
-This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of **Anti-corruption and Anti-bribery** that you will need to be aware of while being a TIOF Member. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
+This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of **Whistleblowing** that you will need to be aware of while being a TIOF Member. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
 
-Any Member who breaches this Policy will face disciplinary action, which could result in dismissal for gross misconduct. Any non-employee who breaches this Policy may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
+This Policy sets out TIOF's approach to the necessary arrangements for sick pay and for reporting and managing sickness absence.
+
+Any Member who breaches this Policy will face disciplinary action, which could result in dismissal for gross misconduct. In particular, failure to protect a whistleblower or interfere with any such related ongoing investigation will be treated as misconduct under our [Disciplinary Procedures](http://tiof.click/ProcedureDisciplinary). Any non-employee who breaches this Policy may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
 
 {% hint style="info" %}
 This document complements [TIOF's Code of Conduct](https://tiof.click/TIOFPolicyCoC).
@@ -52,76 +54,7 @@ This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#
 This policy shall be reviewed regularly to ensure its continued relevance and effectiveness. Amendments may be made to adapt to new legal requirements, changing circumstances or to better serve the organization's Mission.
 {% endhint %}
 
-
-
 ## Policy details
 
+### XXXX statement
 
-
-
-
-## Channels
-
-###
-
-The organization will register domain names to protect its image and reputation.
-
-This includes:
-
-* The organization's main domain name
-* Domain names that may be similar in writing and/or sounding
-* Social Media platforms
-* Other relevant platforms
-
-
-
-### Domain Names
-
-
-
-
-
-
-
-***
-
-### Presentations
-
-Each
-
-* Organization in the TIOF Network
-* Initiative
-
-must have
-
-* Introduction to audiences
-  * Presentations \[Slides]
-    * A repository of slides + ShortURL
-    * A general introductory presentation + ShortURL
-  * Presentations \[Video]
-
-***
-
-***
-
-***
-
-## Accessibility
-
-
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***
-
-***

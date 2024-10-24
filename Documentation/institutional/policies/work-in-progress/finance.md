@@ -18,17 +18,6 @@ Auditors for each jurisdiction are to be appointed and given access to the organ
 [**ShortURL**](https://tiof.click/TIOFPolicyFunding) **| Playbook | Assistant**
 {% endhint %}
 
-{% hint style="warning" %}
-**NOTICE**
-
-This documentation page is under construction.\
-Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
-{% endhint %}
-
-{% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIOFPolicyACAB) **|** ~~Playbook~~ **|** ~~Assistant~~
-{% endhint %}
-
 ## Introduction
 
 ### Definitions

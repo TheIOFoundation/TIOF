@@ -8,13 +8,6 @@ description: Version 1.0 | This Policy was approved on 01 March 2022.
 [**ShortURL**](https://tiof.click/TIOFPolicyWhistleblowing) **| Playbook | Assistant**
 {% endhint %}
 
-{% hint style="warning" %}
-**NOTICE**
-
-This documentation page is under construction.\
-Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
-{% endhint %}
-
 ## Introduction
 
 ### Definitions

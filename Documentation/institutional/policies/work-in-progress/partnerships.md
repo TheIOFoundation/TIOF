@@ -5,29 +5,7 @@ description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 # 🚧 Partnerships
 
 {% hint style="info" %}
-[**ShortURL**](http://tiof.click/TIOFPolicyPartnerships) **| Playbook | Assistant**
-{% endhint %}
-
-{% hint style="warning" %}
-**NOTICE**
-
-This documentation page is under construction.\
-Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
-{% endhint %}
-
-{% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIOFPolicyFunding) **| Playbook | Assistant**
-{% endhint %}
-
-{% hint style="warning" %}
-**NOTICE**
-
-This documentation page is under construction.\
-Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
-{% endhint %}
-
-{% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIOFPolicyACAB) **|** ~~Playbook~~ **|** ~~Assistant~~
+**ShortURL | Playbook | Assistant**
 {% endhint %}
 
 ## Introduction
@@ -78,9 +56,15 @@ This policy shall be reviewed regularly to ensure its continued relevance and ef
 
 ## Policy details
 
-### Anti corruption and Anti bribery statement
-
 ## About
+
+
+
+
+
+
+
+
 
 
 
