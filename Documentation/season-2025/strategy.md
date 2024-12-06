@@ -1,7 +1,7 @@
 # 🍃 Strategy
 
 {% hint style="info" %}
-**ShortURL |&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
+[**ShortURL**](https://tiof.click/Season2025) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
 
 ## About
@@ -10,9 +10,9 @@ This page contains describes the The IO Foundation's strategy corresponding for 
 
 ## Introduction
 
-The IO Foundation is committed to establishing **Data-Centric Digital Rights** as a cornerstone of citizen's digital life. As technology becomes increasingly integrated into every aspect of life, the management and protection of data and, most importantly, the algorithms that act upon it have long become critical to ensuring individual freedoms and societal trust. During Season 2025, TIOF's mission remains to provide technologists, end users and organizations with the knowledge, tools and frameworks needed to understand and manage their digital life responsibly.
+The IO Foundation is committed to establishing its [**Data-Centric Digital Rights**](https://tiof.click/DCDRAdvocacy) advocacy as a cornerstone of citizen's digital life. As technology becomes increasingly integrated into every aspect of life, the management and protection of data and, most importantly, **the algorithms that act upon it** have long become critical to ensuring individual freedoms and societal trust. During Season 2025, TIOF's mission remains to provide technologists, end users and organizations with the knowledge, tools and frameworks needed to understand and manage their digital life responsibly.
 
-Through education, research and practical solutions, The IO Foundation advocates for a world where rights are clearly defined and respected in the development and application of technology under the guide of the DCDR Principles.
+Through education, research and practical solutions, The IO Foundation advocates for a world where rights are clearly defined and respected in the development and application of technology under the guide of the [DCDR Principles](https://tiof.click/DCDRPrinciples).
 
 ## **Key Objectives**
 
@@ -33,9 +33,5 @@ For Season 2025, The IO Foundation will focus its resources in achieving the fol
 
 For Season 2025, The IO Foundation will focus on the following Initiatives and Projects:
 
-<table><thead><tr><th width="283">Initiative</th><th width="293">Project</th><th>Notes</th></tr></thead><tbody><tr><td>Business and Human Rights in Technology<br>[BiT]</td><td>ProtocolWatch</td><td></td></tr><tr><td></td><td>Countering Internet Fragmentation (CIF - Phase 2)</td><td>PENDING APPROVAL</td></tr><tr><td>Data-Centric Digital Rights<br>[DCDR]</td><td>DCDR Framework</td><td></td></tr><tr><td>TechUp<br>[TU]</td><td>TechUp Academy</td><td></td></tr></tbody></table>
-
-
-
-## &#x20;
+<table><thead><tr><th width="283">Initiative</th><th width="293">Project</th><th>Notes</th></tr></thead><tbody><tr><td><a href="https://tiof.click/BiTDocs">Business and Human Rights in Technology<br>[BiT]</a></td><td>ProtocolWatch</td><td></td></tr><tr><td></td><td>Countering Internet Fragmentation (CIF - Phase 2)</td><td>PENDING APPROVAL</td></tr><tr><td><a href="https://tiof.click/DCDRDocs">Data-Centric Digital Rights<br>[DCDR]</a></td><td>DCDR Framework</td><td></td></tr><tr><td><a href="https://tiof.click/TUDocs">TechUp<br>[TU]</a></td><td>TechUp Academy</td><td></td></tr></tbody></table>
 
