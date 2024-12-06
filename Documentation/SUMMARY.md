@@ -22,6 +22,11 @@
 
 * [🚧 Stakeholders](stakeholders/stakeholders.md)
 
+## SEASON 2025
+
+* [🍃 Strategy](season-2025/strategy.md)
+* [📆 Activities](season-2025/activities.md)
+
 ## Institutional
 
 * [🌐 TIOF Network](institutional/tiof-network/README.md)
