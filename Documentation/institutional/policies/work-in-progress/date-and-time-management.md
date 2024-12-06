@@ -140,6 +140,19 @@ All regular meetings need to be set latest 1 week before the beginning of a new 
 
 
 
+### Schduling meetings
+
+The IO Foundation requires the coordinated efforts of TIOF Members who are located in different countries around the world. In addition, several countries observe Daylight Saving Time (DST) when local times shift by one hour forward or back depending on the season. This adds more complexity to coordinating meetings. The total number of potential time zones means that setting meeting times agreed upon creates a complex problem.&#x20;
+
+To reduce the difficulties of finding mutually convenient meeting times TIOF shall implement a  scheduling platform that will simplify these processes no matter how many attendees there are or where they are located.
+
+\
+
+
+
+
+
+
 
 
 
