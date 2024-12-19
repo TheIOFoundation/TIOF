@@ -181,7 +181,7 @@ For more information, please refer to [TIOF's Branding Guidelines](https://tiof.
 
 ### Color palette
 
-The following are the official colors composing The IO Foundation's color palette**.**
+The following are the official colors composing The IO Foundation's color palett&#x65;**.**
 
 <table data-header-hidden><thead><tr><th width="150"></th><th width="150"></th><th width="150"></th><th width="150"></th></tr></thead><tbody><tr><td><strong>Color</strong></td><td><strong>Light gray</strong></td><td><strong>Dark gray</strong></td><td><strong>Orange</strong></td></tr><tr><td><strong>Code</strong></td><td>LG</td><td>DG</td><td>O</td></tr><tr><td><strong>Sample</strong></td><td><img src="https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/[TIOF]%20Comms%20[P]%20Color%20Palette%20-%20Light%20gray%20XXX%20v1.0.png" alt="" data-size="line"></td><td><img src="https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/[TIOF]%20Comms%20[P]%20Color%20Palette%20-%20Dark%20gray%20XXX%20v1.0.png" alt="" data-size="line"></td><td><img src="https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/[TIOF]%20Comms%20[P]%20Color%20Palette%20-%20Orange%20XXX%20v1.0.png" alt="" data-size="line"></td></tr><tr><td><strong>RGB</strong></td><td>137, 137, 142</td><td>78, 80, 86</td><td>247, 149, 82</td></tr><tr><td><strong>HSL</strong></td><td>240, 2.2, 54.7</td><td>225, 4.9, 32.2</td><td>24, 91.2, 64.5</td></tr><tr><td><strong>Hex</strong></td><td>#89898E</td><td>#4E5056</td><td>#F79552</td></tr></tbody></table>
 
@@ -295,16 +295,18 @@ The IO Foundation, in general, uses social media reluctantly.
 To learn more about TIOF's position on this matter, check our [Hey Big Tech! declaration.](https://tiof.click/HeyBigTech)
 {% endhint %}
 
-| Channels  | Full URL                                                                                                               | ShortURL                                                             |
-| --------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| LinkedIn  | [https://www.linkedin.com/company/the-io-foundation](https://www.linkedin.com/company/the-io-foundation)               | [https://TIOF.Click/TIOFLinkedIn](https://tiof.click/TIOFLinkedIn)   |
-| Twitter   | [https://twitter.com/TheIOFoundation](https://twitter.com/TheIOFoundation)                                             | [https://TIOF.Click/TIOFTwitter](https://tiof.click/TIOFTwitter)     |
-| Facebook  | [https://www.facebook.com/TheI0Foundation/](https://www.facebook.com/TheI0Foundation/)                                 | [https://TIOF.Click/TIOFFacebook](https://tiof.click/TIOFFacebook)   |
-| Instagram | [https://www.instagram.com/theiofoundation/](https://www.instagram.com/theiofoundation/)                               | [https://TIOF.Click/TIOFInstagram](https://tiof.click/TIOFInstagram) |
-| Youtube   | [https://www.youtube.com/channel/UCT\_uLJimWw9TLRPHtAtoPyQ](https://www.youtube.com/channel/UCT\_uLJimWw9TLRPHtAtoPyQ) | [https://TIOF.Click/TIOFYoutube](https://tiof.click/TIOFYoutube)     |
-| Rumble    | [https://rumble.com/c/c-1383496](https://rumble.com/c/c-1383496)                                                       | [https://TIOF.Click/TIOFRumble](https://tiof.click/TIOFRumble)       |
-| GAB       | [https://gab.com/TIOF](https://gab.com/TIOF)                                                                           | [https://TIOF.Click/TIOFGAB](https://tiof.click/TIOFGAB)             |
-| Pinterest | [https://www.pinterest.com/TheIOFoundation/](https://www.pinterest.com/TheIOFoundation/)                               | [https://TIOF.Click/TIOFPinterest](https://tiof.click/TIOFPinterest) |
+| Channels                      | @Handle                                                                  | Full URL                                                                                                  | ShortURL                                                             |
+| ----------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| LinkedIn                      | @[the-io-foundation](https://www.linkedin.com/company/the-io-foundation) | [https://www.linkedin.com/company/the-io-foundation/](https://www.linkedin.com/company/the-io-foundation) | [https://TIOF.Click/TIOFLinkedIn](https://tiof.click/TIOFLinkedIn)   |
+| <p>X <br>(former Twitter)</p> | @[TheIOFoundation](https://twitter.com/TheIOFoundation)                  | [https://twitter.com/TheIOFoundation/](https://twitter.com/TheIOFoundation)                               | [https://TIOF.Click/TIOFTwitter](https://tiof.click/TIOFTwitter)     |
+| Facebook                      | @[TheI0Foundation](https://www.facebook.com/TheI0Foundation/)            | [https://www.facebook.com/TheI0Foundation/](https://www.facebook.com/TheI0Foundation/)                    | [https://TIOF.Click/TIOFFacebook](https://tiof.click/TIOFFacebook)   |
+| Instagram                     | @[theiofoundation](https://www.instagram.com/theiofoundation/)           | [https://www.instagram.com/theiofoundation/](https://www.instagram.com/theiofoundation/)                  | [https://TIOF.Click/TIOFInstagram](https://tiof.click/TIOFInstagram) |
+| Youtube                       | @[TheIOFoundation](https://www.youtube.com/@TheIOFoundation/)            | [https://www.youtube.com/@TheIOFoundation/](https://www.youtube.com/@TheIOFoundation/)                    | [https://TIOF.Click/TIOFYoutube](https://tiof.click/TIOFYoutube)     |
+| Rumble                        |                                                                          | [https://rumble.com/c/c-1383496](https://rumble.com/c/c-1383496)                                          | [https://TIOF.Click/TIOFRumble](https://tiof.click/TIOFRumble)       |
+| GAB                           |                                                                          | [https://gab.com/TIOF](https://gab.com/TIOF)                                                              | [https://TIOF.Click/TIOFGAB](https://tiof.click/TIOFGAB)             |
+| Pinterest                     |                                                                          | [https://www.pinterest.com/TheIOFoundation/](https://www.pinterest.com/TheIOFoundation/)                  | [https://TIOF.Click/TIOFPinterest](https://tiof.click/TIOFPinterest) |
+
+
 
 {% hint style="warning" %}
 The IO Foundation has profiles in other platforms, sometimes in preparation for its use, sometimes to avoid impersonation.
