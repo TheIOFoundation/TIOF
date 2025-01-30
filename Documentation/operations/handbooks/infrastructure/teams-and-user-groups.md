@@ -43,6 +43,22 @@ Current info here: [https://docs.google.com/spreadsheets/d/1Wbj5CCliXb8HXx3cOXKA
 
 ## Nomenclatures
 
+
+
+Google Groups
+
+
+
+
+
+
+
+
+
+
+
+DELETE?---------------------------------------------------------------------------------------------------------
+
 | Element    | Format                                  | Where |
 | ---------- | --------------------------------------- | ----- |
 | Group Name | \[ORG INI] %PROJECT-CODE - in Team      |       |
@@ -50,7 +66,7 @@ Current info here: [https://docs.google.com/spreadsheets/d/1Wbj5CCliXb8HXx3cOXKA
 |            |                                         |       |
 |            |                                         |       |
 
-
+\------------------------------------------------------------------------------------------------------------------------
 
 
 
