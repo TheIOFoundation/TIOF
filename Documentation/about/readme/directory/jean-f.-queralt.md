@@ -1,4 +1,6 @@
 ---
+description: CV for Jean F. Queralt - Founder & CEO @ The IO Foundation
+icon: alien
 cover: ../../../.gitbook/assets/Grayscaleimage69493.jpg
 coverY: 0
 layout:
@@ -41,7 +43,11 @@ Because he regards technologists as the [next generation of rights defenders](ht
 {% endtab %}
 
 {% tab title="💼 Experience" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>2018- Present, Estonia</td><td><strong>FOUNDER &#x26; CEO</strong></td><td>The IO Foundation </td><td><p>Manage the full organization and promote the Data-Centric Digital Rights advocacy. </p><p>Lead manager for the following initiatives:  </p><ul><li>DCDR Framework</li><li>TechUp</li><li>Crowdshape </li></ul><p><br></p></td></tr></tbody></table>
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>2018 - Present, Malaysia</td><td><strong>FOUNDER &#x26; CEO</strong></td><td>The IO Foundation </td><td><p>Manage the full organization and promote the Data-Centric Digital Rights advocacy. </p><p>Lead manager for the following initiatives:  </p><ul><li>DCDR Framework</li><li>TechUp</li><li>Crowdshape </li></ul><p><br></p></td></tr><tr><td>2012 - Present, Malaysia</td><td><strong>IT CONSULTANT</strong></td><td>Freelance</td><td>Evaluate IT needs in organizations.<br>Design IT strategies according to the organization's plans. Supervise the implementation of IT projects. Provide remote and onsite support.</td></tr><tr><td>2002 - 2012, Spain</td><td>European School of Alicante</td><td><strong>SYSTEMS ADMINISTRATOR</strong></td><td>School belonging to the European Commission structure. Responsible to manage the whole networking and services infrastructure of the campus. Liaise with Brussels at IT level.</td></tr></tbody></table>
+
+
 {% endtab %}
 
 {% tab title="🎤" %}

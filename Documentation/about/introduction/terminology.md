@@ -1,4 +1,4 @@
-# 🗃 Terminology
+# 📑 Terminology
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFTerminology) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)
@@ -33,7 +33,7 @@ A list of approved #Tags for use in Content produced by TIOF can be found [here]
 
 ### 3rd Party Content
 
-Any [Content](terminology.md#content), [Comment](terminology.md#comment) or [Reaction](terminology.md#\_lx909vczyqa8) shared by an organization or an individual other than The IO Foundation.
+Any [Content](terminology.md#content), [Comment](terminology.md#comment) or [Reaction](terminology.md#_lx909vczyqa8) shared by an organization or an individual other than The IO Foundation.
 
 ### Adviser
 
@@ -77,13 +77,13 @@ Find all the information the [DCDR initiative on its documentation site](https:/
 
 ### Digital Credential
 
-### Digital Right <a href="#_ucc4bfe9jq5z" id="_ucc4bfe9jq5z"></a>
+### Digital Right <a href="#ucc4bfe9jq5z" id="ucc4bfe9jq5z"></a>
 
 {% hint style="success" %}
 See the definition in the DCDR terminology :: [Digital Right](https://tiof.click/DCDRTerminology#digital-right-dr)
 {% endhint %}
 
-### Digital Society <a href="#_tcy4cfguqqg8" id="_tcy4cfguqqg8"></a>
+### Digital Society <a href="#tcy4cfguqqg8" id="tcy4cfguqqg8"></a>
 
 {% hint style="success" %}
 See the definition in the DCDR terminology :: Digital Society
@@ -127,9 +127,9 @@ Any person officially involved in the implementation of initiatives under The IO
 
 ### Project Lockdown
 
-### Reaction <a href="#_lx909vczyqa8" id="_lx909vczyqa8"></a>
+### Reaction <a href="#lx909vczyqa8" id="lx909vczyqa8"></a>
 
-### Representational Entity <a href="#_lx909vczyqa8" id="_lx909vczyqa8"></a>
+### Representational Entity <a href="#lx909vczyqa8" id="lx909vczyqa8"></a>
 
 The digital representation of people and objects in Digital Spaces.
 
@@ -154,7 +154,7 @@ Examples of spaces:
 
 ### Volunteers
 
-### Universal Declaration of Digital Rights (UDDR) <a href="#_ghzu2gba7md3" id="_ghzu2gba7md3"></a>
+### Universal Declaration of Digital Rights (UDDR) <a href="#ghzu2gba7md3" id="ghzu2gba7md3"></a>
 
 A set of legal and technical standards to ensure the observance, compliance and implementation of Digital Rights.
 
