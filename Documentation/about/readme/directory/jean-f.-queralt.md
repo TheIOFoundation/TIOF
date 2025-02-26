@@ -39,7 +39,15 @@ Because he regards technologists as the [next generation of rights defenders](ht
 |                                                                                     |                                                                                                                   |   |
 |                                                                                     |                                                                                                                   |   |
 
+Languages
 
+🇫🇷 Native
+
+🇪🇸 Native
+
+🇪🇸 Fluent
+
+Catalan Advanced
 {% endtab %}
 
 {% tab title="🎓 Education" %}
