@@ -42,10 +42,14 @@ Because he regards technologists as the [next generation of rights defenders](ht
 
 {% endtab %}
 
+{% tab title="🎓 Education" %}
+
+{% endtab %}
+
 {% tab title="💼 Experience" %}
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>2018 - Present, Malaysia</td><td><strong>FOUNDER &#x26; CEO</strong></td><td>The IO Foundation </td><td><p>Manage the full organization and promote the Data-Centric Digital Rights advocacy. </p><p>Lead manager for the following initiatives:  </p><ul><li>DCDR Framework</li><li>TechUp</li><li>Crowdshape </li></ul><p><br></p></td></tr><tr><td>2012 - Present, Malaysia</td><td><strong>IT CONSULTANT</strong></td><td>Freelance</td><td>Evaluate IT needs in organizations.<br>Design IT strategies according to the organization's plans. Supervise the implementation of IT projects. Provide remote and onsite support.</td></tr><tr><td>2002 - 2012, Spain</td><td>European School of Alicante</td><td><strong>SYSTEMS ADMINISTRATOR</strong></td><td>School belonging to the European Commission structure. Responsible to manage the whole networking and services infrastructure of the campus. Liaise with Brussels at IT level.</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>2018 - Present, Malaysia</td><td><strong>FOUNDER &#x26; CEO</strong></td><td>The IO Foundation </td><td><p>Manage the full organization and promote the Data-Centric Digital Rights advocacy. </p><p>Lead manager for the following initiatives:  </p><ul><li>DCDR Framework</li><li>TechUp</li><li>Crowdshape </li></ul><p><br></p></td></tr><tr><td>2012 - Present, Malaysia</td><td><strong>IT CONSULTANT</strong></td><td>Freelance</td><td>Evaluate IT needs in organizations.<br>Design IT strategies according to the organization's plans. Supervise the implementation of IT projects. Provide remote and onsite support.</td></tr><tr><td>2002 - 2012, Spain</td><td><strong>SYSTEMS ADMINISTRATOR</strong></td><td>European School of Alicante</td><td>School belonging to the European Commission structure. Responsible to manage the whole networking and services infrastructure of the campus. Liaise with Brussels at IT level.</td></tr><tr><td>1995 - 2002, Spain</td><td>SOFTWARE DEVELOPER</td><td>Animatic &#x26; University of Alicante</td><td>Co-developed the 1rst SMS-based contest platform. <br>Developed web-based platforms for several departments at the University of Alicante. Developed medical software.</td></tr><tr><td>1995 - 1995, Spain</td><td>IT INTERN</td><td>Caja de Ahorros del Mediterraneo (CAM)</td><td>IT maintenance (networks, servers, users). Research on neural networks applied to stock markets.</td></tr></tbody></table>
 
 
 {% endtab %}
@@ -66,6 +70,10 @@ Because he regards technologists as the [next generation of rights defenders](ht
 ## Other Publications
 {% endtab %}
 {% endtabs %}
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>2000 - 2002, Spain</td><td><strong>DEGREE IN TELECOMMUNICATIONS - NETWORKING</strong></td><td>ETI Telecomunicaciones, UP Valencia, Alcoy Campus</td></tr><tr><td>1993 - 1996, Spain</td><td><strong>DEGREE IN TELECOMMUNICATIONS</strong></td><td>ETSI Telecomunicaciones, UP Valencia</td></tr><tr><td>1978 - 993 , Spain</td><td><strong>BACCALAUREATE C (Maths + Physics)</strong></td><td>Lycée Français d'Alicante</td></tr></tbody></table>
+
+
 
 
 
