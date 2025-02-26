@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/Grayscaleimage69493.jpg
+coverY: 0
+---
+
 # Jean F. Queralt
 
 
