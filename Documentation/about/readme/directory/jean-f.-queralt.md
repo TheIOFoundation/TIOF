@@ -1,6 +1,6 @@
 ---
-description: CV for Jean F. Queralt - Founder & CEO @ The IO Foundation
 icon: alien
+description: CV for Jean F. Queralt - Founder & CEO @ The IO Foundation
 cover: ../../../.gitbook/assets/Grayscaleimage69493.jpg
 coverY: 0
 layout:
@@ -50,8 +50,10 @@ Because he regards technologists as the [next generation of rights defenders](ht
 
 {% endtab %}
 
-{% tab title="🎤" %}
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
+{% tab title="🎤 Engagements" %}
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>24th February 2025</td><td>Coop-SIG on WSIS+20 Process</td><td>APRICOT 2025</td><td><a href="https://www.youtube.com/live/qbh2GDVmSa8">https://www.youtube.com/live/qbh2GDVmSa8</a></td><td><a href="../../../.gitbook/assets/JFQ Coop-SIG.jpg">JFQ Coop-SIG.jpg</a></td></tr></tbody></table>
 
 
 {% endtab %}
