@@ -28,7 +28,7 @@ He is actively involved in Standard Developing Organizations such as the [ITU](h
 Because he regards technologists as the [next generation of rights defenders](https://tiof.click/TIOFNextGen), he works to raise awareness on the importance of these organizations across the technical community and facilitates their participation in them.
 
 {% tabs %}
-{% tab title="Basics" %}
+{% tab title="🤵 Basics" %}
 <div align="left"><figure><img src="../../../.gitbook/assets/[TIOF] Comms [P] ProfilePic JFQ BW.T XXX v1.0.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 |                                                                                     |                                                                                                                   |   |
@@ -40,17 +40,17 @@ Because he regards technologists as the [next generation of rights defenders](ht
 
 {% endtab %}
 
-{% tab title="Experience" %}
+{% tab title="💼 Experience" %}
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>2018- Present, Estonia</td><td><strong>FOUNDER &#x26; CEO</strong></td><td>The IO Foundation </td><td><p>Manage the full organization and promote the Data-Centric Digital Rights advocacy. </p><p>Lead manager for the following initiatives:  </p><ul><li>DCDR Framework</li><li>TechUp</li><li>Crowdshape </li></ul><p><br></p></td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Untitled" %}
+{% tab title="🎤" %}
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
 
 
 {% endtab %}
 
-{% tab title="Publications" %}
+{% tab title="📖 Publications" %}
 ## Relevant Publications
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
