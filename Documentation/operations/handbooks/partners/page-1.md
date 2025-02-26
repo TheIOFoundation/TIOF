@@ -2,13 +2,9 @@
 description: Version 1.3
 ---
 
-# 🗒 Memorandum of Understanding
+# 🗒️ Memorandum of Understanding
 
-<div align="center">
-
-<img src="../../../.gitbook/assets/[TIOF] Comms [I] The IO Foundation Header ENG v1.6.png" alt="">
-
-</div>
+<div align="center"><img src="../../../.gitbook/assets/[TIOF] Comms [I] The IO Foundation Header ENG v1.6.png" alt=""></div>
 
 ## 1. About this Memorandum of Understanding (MoU)
 
@@ -48,7 +44,7 @@ _The Partner_, a company duly incorporated in _The Partner's Country_ with regis
 
 &#x20;and
 
-_The IO Foundation_, a non-profit duly incorporated in _TIOF's Country_ with registration number _TIOF's Registration_ and having its registered address at TIOF's Address_._
+_The IO Foundation_, a non-profit duly incorporated in _TIOF's Country_ with registration number _TIOF's Registration_ and having its registered address at TIOF's Addres&#x73;_._
 
 {% hint style="success" %}
 _The Parties_ enter voluntarily this MoU with the intention of achieving _The Commitments_ guided by _The Purposes_.

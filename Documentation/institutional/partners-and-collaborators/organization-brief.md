@@ -25,7 +25,7 @@ TIOF advances its [Data-Centric Digital Rights advocacy](https://tiof.click/DCDR
 
 {% hint style="success" %}
 At The IO Foundation we regard technologists, and developers in particular, as the \
-_Next Generation of Rights Defenders._
+&#xNAN;_&#x4E;ext Generation of Rights Defenders._
 {% endhint %}
 
 ## Initiatives
@@ -66,7 +66,7 @@ DCDR aims at encouraging a shift in the current technology paradigms by providin
 
 [More information](https://tiof.click/DCDRDocs)
 
-## [BHR in Tech](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K57zbBbwulYcIf9UU/ "mention")
+## [BHR in Tech](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M_K57zbBbwulYcIf9UU/ "mention")
 
 The BHR in Tech initiative aims at encouraging a shift towards the adoption and implementation of the [United Nations' Guiding Principles in Business and Human Rights](https://tiof.click/BITUNGP) in the Tech sector by
 
@@ -78,7 +78,7 @@ The BHR in Tech initiative aims at encouraging a shift towards the adoption and 
 
 [More information](https://tiof.click/BiTDocs)
 
-## [TechUp](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K54SuAkrrbCKMqyze/ "mention")
+## [TechUp](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M_K54SuAkrrbCKMqyze/ "mention")
 
 TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital by engaging technologists in a meaningful way.
 
@@ -92,7 +92,7 @@ The CrowdShape (CS) initiative intends to be a model for crowd collaboration bas
 
 [More information](https://tiof.click/CSDocs)
 
-## [Universal Declaration of Digital Rights](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K4xk\_xBCdMTs3EMBi/ "mention")
+## [Universal Declaration of Digital Rights](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M_K4xk_xBCdMTs3EMBi/ "mention")
 
 The UDDR initiative is a multi-stakeholder initiative promoted by The IO Foundation to promote and achieve the proclamation of a Universal Declaration of Digital Rights.
 
