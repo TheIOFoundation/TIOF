@@ -55,7 +55,7 @@ You will be required to change your password:
   \- Go to [https://bitwarden.com/password-generator/](https://bitwarden.com/password-generator/)\
   \- Select the following parameters as in the image below
 
-<figure><img src="../../../.gitbook/assets/Random.png" alt=""><figcaption><p>Minimal password requirements.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Random.png" alt=""><figcaption><p>Minimal password requirements.</p></figcaption></figure>
 
 {% hint style="danger" %}
 **IMPORTANT**\

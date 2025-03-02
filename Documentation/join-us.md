@@ -28,7 +28,7 @@ There are 2 ways to proceed:
 
 ### Participate as a TIOF Member
 
-By joining as a TIOF Member you will officially join one of the TIOF [Teams](operations/handbooks/human-resources/teams.md), participate in organized tasks and have access to tools and other resources as well as training.
+By joining as a TIOF Member you will officially join one of the TIOF [Teams](broken-reference), participate in organized tasks and have access to tools and other resources as well as training.
 
 TIOF Members can be:
 
@@ -65,7 +65,7 @@ In response to your commitment towards our [values](https://tiof.click/TIOFValue
 Check out what are we up to and pick tasks you feel you can contribute with.
 
 {% hint style="info" %}
-How to contribute on tasks? **Check the** [**Tasks Handbook**](operations/handbooks/tasks/)**.**
+How to contribute on tasks? **Check the** [**Tasks Handbook**](broken-reference)**.**
 {% endhint %}
 
 {% embed url="https://tiof.click/TIOFTasks" %}
