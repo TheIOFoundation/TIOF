@@ -4,6 +4,12 @@ hidden: true
 
 # 🚧 Stakeholders
 
+## GLOBAL STACK
+
+Show how these stakeholders are organized in the Global Stack.
+
+
+
 ## About
 
 The following section provides an overview of the different stakeholders that The IO Foundation has identified to its DCDR advocacy and initiatives.

@@ -3,6 +3,7 @@
 ## About
 
 * [🌟 Introduction](README.md)
+  * [ORGANIZATION BRIEF](about/readme/organization-brief.md)
   * [🔀 Theory of Change](about/introduction/theory-of-change.md)
   * [📊 Business Plan](about/introduction/business-plan.md)
   * [📈 Implementation](about/introduction/quick-monitor.md)
@@ -100,11 +101,9 @@
   * [🍃 Season 2019](institutional/annual-reports/2019.md)
   * [🍃 Season 2018](institutional/annual-reports/2018.md)
 * [Registrations](institutional/registrations.md)
-* [🚧 Partners and Collaborators](institutional/partners-and-collaborators/README.md)
-  * [ORGANIZATION BRIEF](institutional/partners-and-collaborators/organization-brief.md)
-  * [🗒️ Memorandum of Understanding with CFM](institutional/partners-and-collaborators/memorandum-of-understanding-with-cfm.md)
+* [🚧 Partners and Collaborators](institutional/partners-and-collaborators.md)
 
 ## Operations
 
 * [📚 Handbooks](operations/handbooks/README.md)
-  * [📓 🚧 Onboarding checklist](operations/handbooks/onboarding-checklist.md)
+  * [📓 🚧 Onboarding checklist](operations/handbooks/human-resources/onboarding-checklist.md)
