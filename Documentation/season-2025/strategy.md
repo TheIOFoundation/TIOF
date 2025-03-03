@@ -33,5 +33,5 @@ For Season 2025, The IO Foundation will focus its resources in achieving the fol
 
 For Season 2025, The IO Foundation will focus on the following Initiatives and Projects:
 
-<table><thead><tr><th width="283">Initiative</th><th width="293">Project</th><th>Notes</th></tr></thead><tbody><tr><td><a href="https://tiof.click/BiTDocs">Business and Human Rights in Technology<br>[BiT]</a></td><td>ProtocolWatch</td><td></td></tr><tr><td></td><td>Countering Internet Fragmentation (CIF - Phase 2)</td><td>PENDING APPROVAL</td></tr><tr><td><a href="https://tiof.click/DCDRDocs">Data-Centric Digital Rights<br>[DCDR]</a></td><td>DCDR Framework</td><td></td></tr><tr><td><a href="https://tiof.click/TUDocs">TechUp<br>[TU]</a></td><td>TechUp Academy</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="283">Initiative</th><th width="293">Project</th><th>Notes</th></tr></thead><tbody><tr><td><a href="https://tiof.click/BiTDocs">Business and Human Rights in Technology<br>[BiT]</a></td><td>ProtocolWatch</td><td></td></tr><tr><td></td><td>Preventing Internet Fragmentation (PIF)</td><td>PENDING APPROVAL</td></tr><tr><td><a href="https://tiof.click/DCDRDocs">Data-Centric Digital Rights<br>[DCDR]</a></td><td>DCDR Framework</td><td></td></tr><tr><td><a href="https://tiof.click/TUDocs">TechUp<br>[TU]</a></td><td>TechUp Academy</td><td></td></tr></tbody></table>
 
