@@ -29,6 +29,7 @@
 
 * [🍃 Strategy](season-2025/strategy.md)
 * [📆 Activities](season-2025/activities.md)
+* [🗓️ Activities](https://docs.theiofoundation.org/activities)
 
 ## Institutional
 
