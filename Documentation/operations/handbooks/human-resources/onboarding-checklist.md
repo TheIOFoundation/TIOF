@@ -1,4 +1,4 @@
-# 📓 🚧 Onboarding checklist
+# 📋 🚧 Onboarding checklist
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -7,14 +7,7 @@
 {% hint style="warning" %}
 **NOTICE**
 
-This documentation page is under construction.\
-Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
-{% endhint %}
-
-{% hint style="success" %}
-This Handbook responds to the following Policies:
-
-*
+This documentation page is under construction and will be soon incorporated into our LMS.
 {% endhint %}
 
 ## About

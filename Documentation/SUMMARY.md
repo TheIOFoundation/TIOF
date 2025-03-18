@@ -107,4 +107,4 @@
 ## Operations
 
 * [📚 Handbooks](operations/handbooks/README.md)
-  * [📓 🚧 Onboarding checklist](operations/handbooks/human-resources/onboarding-checklist.md)
+  * [📋 🚧 Onboarding checklist](operations/handbooks/human-resources/onboarding-checklist.md)
