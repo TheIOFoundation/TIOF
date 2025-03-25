@@ -100,11 +100,11 @@
   * [🍃 Season 2020](institutional/annual-reports/2020.md)
   * [🍃 Season 2019](institutional/annual-reports/2019.md)
   * [🍃 Season 2018](institutional/annual-reports/2018.md)
-* [📑 References](institutional/references.md)
 * [Registrations](institutional/registrations.md)
 * [🚧 Partners and Collaborators](institutional/partners-and-collaborators/README.md)
 
-## Operations
+## Operational
 
-* [📚 Handbooks](operations/handbooks/README.md)
-  * [📋 🚧 Onboarding checklist](operations/handbooks/human-resources/onboarding-checklist.md)
+* [📑 References](operational/references.md)
+* [📚 Handbooks](operational/handbooks/README.md)
+  * [📋 🚧 Onboarding checklist](operational/handbooks/onboarding-checklist.md)

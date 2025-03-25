@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 📚 Handbooks
 
 {% hint style="info" %}
