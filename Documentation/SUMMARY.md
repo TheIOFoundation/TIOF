@@ -29,7 +29,6 @@
 
 * [🍃 Strategy](season-2025/strategy.md)
 * [🗓️ Activities](https://docs.theiofoundation.org/activities)
-* [📑 References](season-2025/references.md)
 
 ## Institutional
 
@@ -101,6 +100,7 @@
   * [🍃 Season 2020](institutional/annual-reports/2020.md)
   * [🍃 Season 2019](institutional/annual-reports/2019.md)
   * [🍃 Season 2018](institutional/annual-reports/2018.md)
+* [📑 References](institutional/references.md)
 * [Registrations](institutional/registrations.md)
 * [🚧 Partners and Collaborators](institutional/partners-and-collaborators/README.md)
 
