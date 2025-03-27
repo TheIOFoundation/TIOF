@@ -4,19 +4,17 @@ description: Version 1.3
 
 # ☑️ Verification of NGO Status
 
+{% tabs %}
+{% tab title="Quick Resources" %}
 {% hint style="info" %}
 [**ShortURL**](https://short.theiofoundation.org/tiofregistrationcheck) **| Playbook | Assistant**
 {% endhint %}
-
-{% tabs %}
-{% tab title="Quick Resources" %}
-[**ShortURL**](https://short.theiofoundation.org/tiofregistrationcheck) **| Playbook | Assistant**
 {% endtab %}
 
-{% tab title="QR Code" %}
-<figure><img src="../../../.gitbook/assets/TIOFVerificationofNGOstatus_4096x4096.png" alt="" width="375"><figcaption></figcaption></figure>
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
 
-
+<figure><img src="../../../.gitbook/assets/TIOFVerificationofNGOstatus_4096x4096.png" alt="" width="375"><figcaption><p>QR Code for this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -49,4 +47,3 @@ The direct link to the Foundation's info page is:
 {% hint style="info" %}
 For any doubts, feel free to [**contact us**](mailto://Contact@TheIOFoundation.org).
 {% endhint %}
-
