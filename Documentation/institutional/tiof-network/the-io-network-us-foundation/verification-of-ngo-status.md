@@ -47,6 +47,12 @@ This document provides methods to verify the legal nonprofit status of The IO Ne
 
 {% endhint %}
 
+{% file src="../../../.gitbook/assets/[TION-US] Legal [I] 2024-07-10 IRS State Notice 501(c)(3) ENG v1.0.pdf" %}
+IRS Notice for positive determination of 501(c)3 status
+{% endfile %}
+
+
+
 {% hint style="info" %}
 For any doubts, feel free to [**contact us**](mailto://Contact@TheIOFoundation.org).
 {% endhint %}
