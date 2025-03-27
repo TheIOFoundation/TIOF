@@ -14,7 +14,7 @@ HOW TO USE
 {% tabs %}
 {% tab title="Quick Resources" %}
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+[**ShortURL**](https://short.theiofoundation.org/TIOFOrgBoards) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
 {% endtab %}
 

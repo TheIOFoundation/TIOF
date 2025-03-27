@@ -1,8 +1,18 @@
 # 👥 Boards
 
+{% tabs %}
+{% tab title="Quick Resources" %}
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+[**ShortURL**](https://short.theiofoundation.org/TIOFOrgBoards) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../../.gitbook/assets/TIOFOrganizationBoards_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 ## About
 
@@ -10,16 +20,18 @@ The different Boards participating in The IO Foundation play a crucial role in i
 
 They provide oversight and guidance, making key decisions on budgeting, activities and long-term planning, while also serving as ambassadors to the broader stakeholder community to garner support and resources.
 
+
+
 ## Board of Directors
 
 The Board of Directors is responsible for the overall governance of the organization, making key strategic decisions and ensuring that The IO Foundation adheres to its mission and legal responsibilities.
 
 Directors shall also represent TIOF in events and actively seek for support from local stakeholders.
 
-|                                                                                         |                 |   |
-| --------------------------------------------------------------------------------------- | --------------- | - |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JFQ BW Circle.T XXX v1.0.png>) | Jean F. Queralt |   |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JD BW Circle.T XXX v1.0.png>)  | John Duenas     |   |
+|                                                                                         |                 |             |
+| --------------------------------------------------------------------------------------- | --------------- | ----------- |
+| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JFQ BW Circle.T XXX v1.0.png>) | Jean F. Queralt | France      |
+| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JD BW Circle.T XXX v1.0.png>)  | John Duenas     | Philippines |
 
 ## Board of Advisers
 
