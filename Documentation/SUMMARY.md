@@ -46,6 +46,7 @@
       * [Reporting of Beneficial Ownership of shares in the company](institutional/tiof-network/the-io-network-my-sdn.-bhd./policies/reporting-of-beneficial-ownership-of-shares-in-the-company.md)
   * [🇺🇸 The IO Network US Foundation](institutional/tiof-network/the-io-network-us-foundation/README.md)
     * [🔷 Bylaws](institutional/tiof-network/the-io-network-us-foundation/bylaws.md)
+    * [☑️ Verification of NGO Status](institutional/tiof-network/the-io-network-us-foundation/verification-of-ngo-status.md)
 * [🌟 Governance](institutional/governance/README.md)
   * [👥 Boards](institutional/governance/boards.md)
   * [💠 Executive Team](institutional/governance/executive-team.md)
