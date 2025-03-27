@@ -7,7 +7,7 @@ description: Version 1.3
 {% tabs %}
 {% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://short.theiofoundation.org/tiofregistrationcheck) **| Playbook | Assistant**
+[**ShortURL**](https://short.theiofoundation.org/tiofregistrationcheck) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
 {% endtab %}
 
@@ -47,3 +47,5 @@ The direct link to the Foundation's info page is:
 {% hint style="info" %}
 For any doubts, feel free to [**contact us**](mailto://Contact@TheIOFoundation.org).
 {% endhint %}
+
+{% include "../../../.gitbook/includes/shorturl-or-playbook-or-assis....md" %}

@@ -7,7 +7,7 @@ description: Version 1.1
 {% tabs %}
 {% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://short.theiofoundation.org/tionusregistrationcheck) **| Playbook | Assistant**
+[**ShortURL**](https://short.theiofoundation.org/tionusregistrationcheck) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
 {% endtab %}
 

@@ -6,9 +6,19 @@ description: >-
 
 # 🇪🇪 The IO Foundation MTÜ
 
+{% tabs %}
+{% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIOFInfo) **|** ~~Playbook~~ **|** ~~Assistant~~
+[**ShortURL**](https://short.theiofoundation.org/TIOFOrgInfo) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../../../.gitbook/assets/TIOFOrganizationInfo_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 ## About
 
@@ -30,12 +40,12 @@ The IO Foundation's governance adheres to the following documents:
 
 The following is a list of other registrations and certifications for The IO Foundation.
 
-| Registration                                                                                                                                                      | ID (Verification link when available)                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [EMTAK Code](https://www.rik.ee/en/e-business-registry/emtak-fields-activities)                                                                                   | [62091](https://emtak.rik.ee/EMTAK/pages/klassifikaatorOtsing.jspx)                        |
-| United Nations                                                                                                                                                    | **`Ongoing`**                                                                              |
-| SAM Unique Entity ID                                                                                                                                              | [DMW1GZS2H5S5](https://unitedstatesbusinessregistration.us/check-sam-registration-status/) |
-| DUNS                                                                                                                                                              | 536406268                                                                                  |
-| [NACE Code](https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST\_CLS\_DLD\&StrNom=NACE\_REV2\&StrLanguageCode=EN\&StrLayoutCode=HIERARCHIC) | [62.09](https://nacev2.com/en/search?q=62.09)                                              |
-| [NCAGE](https://eportal.nspa.nato.int/Codification/Support/en/Products/NCAGE/)                                                                                    | [010BJ](https://eportal.nspa.nato.int/Codification/CageTool/cage-view/010BJ)               |
+| Registration                                                                                                                                                   | ID (Verification link when available)                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [EMTAK Code](https://www.rik.ee/en/e-business-registry/emtak-fields-activities)                                                                                | [62091](https://emtak.rik.ee/EMTAK/pages/klassifikaatorOtsing.jspx)                        |
+| United Nations                                                                                                                                                 | **`Ongoing`**                                                                              |
+| SAM Unique Entity ID                                                                                                                                           | [DMW1GZS2H5S5](https://unitedstatesbusinessregistration.us/check-sam-registration-status/) |
+| DUNS                                                                                                                                                           | 536406268                                                                                  |
+| [NACE Code](https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_CLS_DLD\&StrNom=NACE_REV2\&StrLanguageCode=EN\&StrLayoutCode=HIERARCHIC) | [62.09](https://nacev2.com/en/search?q=62.09)                                              |
+| [NCAGE](https://eportal.nspa.nato.int/Codification/Support/en/Products/NCAGE/)                                                                                 | [010BJ](https://eportal.nspa.nato.int/Codification/CageTool/cage-view/010BJ)               |
 
