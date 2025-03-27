@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 💠 Executive Team
 
 {% hint style="info" %}

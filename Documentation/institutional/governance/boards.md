@@ -20,7 +20,6 @@ Directors shall also represent TIOF in events and actively seek for support from
 | --------------------------------------------------------------------------------------- | --------------- | - |
 | ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JFQ BW Circle.T XXX v1.0.png>) | Jean F. Queralt |   |
 | ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JD BW Circle.T XXX v1.0.png>)  | John Duenas     |   |
-|                                                                                         |                 |   |
 
 ## Board of Advisers
 
