@@ -5,7 +5,7 @@ description: Version 1.0 | This Policy was approved on 01 December 2023.
 # 📜 Personal Privacy and Data Protection
 
 {% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIOFPPDP) **|** ~~Playbook~~ **|** ~~Assistant~~
+[**ShortURL**](https://short.theiofoundation.org/PoliciesPPDP) **|** ~~Playbook~~ **|** ~~Assistant~~
 {% endhint %}
 
 ## Introduction
