@@ -26,10 +26,11 @@ The IO Network MY's governance adheres to the following documents:
 
 The following is a list of other registrations and certifications for The IO Foundation.
 
-| Registration                                                                                                                                                      | ID (Verification link when available)                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| SAM Unique Entity ID                                                                                                                                              | [K866ZUERGRR3](https://unitedstatesbusinessregistration.us/check-sam-registration-status/) |
-| DUNS                                                                                                                                                              | 659310323                                                                                  |
-| [NACE Code](https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST\_CLS\_DLD\&StrNom=NACE\_REV2\&StrLanguageCode=EN\&StrLayoutCode=HIERARCHIC) | [62.09](https://nacev2.com/en/search?q=62.09)                                              |
-| [NCAGE](https://eportal.nspa.nato.int/Codification/Support/en/Products/NCAGE/)                                                                                    | [Y0599](https://eportal.nspa.nato.int/Codification/CageTool/cage-view/Y0599)               |
+| Registration                                                                                                                                                   | ID (Verification link when available)                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| HRDCorp                                                                                                                                                        | Training Provider (Since 25/03/2024)                                                       |
+| SAM Unique Entity ID                                                                                                                                           | [K866ZUERGRR3](https://unitedstatesbusinessregistration.us/check-sam-registration-status/) |
+| DUNS                                                                                                                                                           | 659310323                                                                                  |
+| [NACE Code](https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_CLS_DLD\&StrNom=NACE_REV2\&StrLanguageCode=EN\&StrLayoutCode=HIERARCHIC) | [62.09](https://nacev2.com/en/search?q=62.09)                                              |
+| [NCAGE](https://eportal.nspa.nato.int/Codification/Support/en/Products/NCAGE/)                                                                                 | [Y0599](https://eportal.nspa.nato.int/Codification/CageTool/cage-view/Y0599)               |
 
