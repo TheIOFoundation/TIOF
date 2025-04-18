@@ -56,7 +56,7 @@
   * [📜 Conflict of Interest](institutional/policies/conflict-of-interest.md)
   * [📜 Economic Sanctions](institutional/policies/economic-sanctions.md)
   * [📜 Equal Opportunities](institutional/Policies/equal-opportunities.md)
-  * [📜 Finance](institutional/policies/equal-opportunities-1.md)
+  * [📜 Finance](institutional/policies/finance.md)
   * [📜 Health and Safety](institutional/Policies/health-and-safety.md)
   * [📜 Personal Privacy and Data Protection](institutional/policies/personal-privacy-data-protection.md)
   * [📜 Resource Mobilization and Allocation](institutional/policies/resource-mobilization-and-allocation.md)
