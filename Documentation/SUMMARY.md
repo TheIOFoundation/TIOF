@@ -7,12 +7,10 @@
   * [🎨 Media Kit](about/introduction/media-kit/README.md)
   * [🔀 Theory of Change](about/introduction/theory-of-change.md)
   * [📊 Business Plan](about/introduction/business-plan.md)
-  * [📈 Implementation](about/introduction/quick-monitor.md)
-  * [🚧 Stakeholders](about/readme/stakeholders.md)
   * [🚧 Partners & Collaborators](about/introduction/partners-and-collaborators.md)
   * [❓ Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
 * [🔠 Portfolio](about/portfolio.md)
-* [🗃️ Directory](about/directory.md)
+* [🗃️ Directory](about/introduction/directory.md)
 * [🛡️ NextGen Rights Defenders](about/nextgen-rights-defenders.md)
 * [📣 Hey Big Tech! declaration](about/hey-big-tech-declaration.md)
 * [🎯 DCDR Principles](https://tiof.click/Principles)
@@ -102,7 +100,7 @@
 
 ## Operational
 
-* [📑 Terminology](operational/terminology.md)
+* [📑 Terminology](about/introduction/terminology.md)
 * [📑 References](operational/references.md)
 * [📚 Handbooks](operational/handbooks/README.md)
   * [📋 🚧 Onboarding checklist](operational/handbooks/onboarding-checklist.md)
