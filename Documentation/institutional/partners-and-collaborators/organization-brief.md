@@ -1,4 +1,4 @@
-# ORGANIZATION BRIEF
+# 🗒️ Organization Brief
 
 <figure><img src="../../.gitbook/assets/[TIOF] Comms [I] The IO Foundation Letterhead ENG v2.0.png" alt=""><figcaption></figcaption></figure>
 
@@ -8,7 +8,7 @@ The IO Foundation (TIOF) is a global for-impact NGO born from a fundamental conc
 
 TIOF aims to raise awareness of the importance of [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) in collaboration with stakeholders ranging from civil society, programmer communities, bodies of governance and corporate and work together to achieve the proclamation and adoption of a [Universal Declaration of Digital Rights](https://tiof.click/UDDRWeb).
 
-TIOF advances its [Data-Centric Digital Rights advocacy](https://tiof.click/DCDRAdvocacy) through the implementation of a number of [initiatives](broken-reference).
+TIOF advances its [Data-Centric Digital Rights advocacy](https://tiof.click/DCDRAdvocacy) through the implementation of a number of [initiatives](organization-brief.md#initiatives).
 
 ## The observed problem(s)
 
@@ -36,7 +36,7 @@ The following diagram provides an overview on how each of the initiatives suppor
 
 {% embed url="https://cawemo.com/share/6f586512-627b-4d70-bdc6-f4a4a9ad6e65" %}
 
-## [Data-Centric Digital Rights](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/rG4xcNzldvEoKR9FS7Og/ "mention")
+## Data-Centric Digital Rights
 
 TIOF views the technology as currently non-correlated with all working understandings and practices as to how any public-consumption industry functions traditionally where a clear separation is made between:
 
@@ -66,7 +66,7 @@ DCDR aims at encouraging a shift in the current technology paradigms by providin
 
 [More information](https://tiof.click/DCDRDocs)
 
-## [BHR in Tech](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M_K57zbBbwulYcIf9UU/ "mention")
+## BHR in Tech
 
 The BHR in Tech initiative aims at encouraging a shift towards the adoption and implementation of the [United Nations' Guiding Principles in Business and Human Rights](https://tiof.click/BITUNGP) in the Tech sector by
 
@@ -78,7 +78,7 @@ The BHR in Tech initiative aims at encouraging a shift towards the adoption and 
 
 [More information](https://tiof.click/BiTDocs)
 
-## [TechUp](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M_K54SuAkrrbCKMqyze/ "mention")
+## TechUp
 
 TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital by engaging technologists in a meaningful way.
 
@@ -86,13 +86,13 @@ Through its activities, TechUp strives to bring together the tech community to b
 
 [More information](https://tiof.click/TUDocs)
 
-## [CrowdShape](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/MxkrsyQSraXtP8kYavv2/ "mention")
+## CrowdShape
 
 The CrowdShape (CS) initiative intends to be a model for crowd collaboration based on transparent processes and accountable management. It is aimed at enabling technologists to start and run their own tech NGOs by providing familiar tools to enable the collaboration and reward of participants, attracting talent and financial support.
 
 [More information](https://tiof.click/CSDocs)
 
-## [Universal Declaration of Digital Rights](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M_K4xk_xBCdMTs3EMBi/ "mention")
+## Universal Declaration of Digital Rights
 
 The UDDR initiative is a multi-stakeholder initiative promoted by The IO Foundation to promote and achieve the proclamation of a Universal Declaration of Digital Rights.
 

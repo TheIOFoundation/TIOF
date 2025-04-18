@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ❓ Frequently Asked Questions
 
 {% hint style="info" %}
