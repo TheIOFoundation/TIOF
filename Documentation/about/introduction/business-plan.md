@@ -1,6 +1,5 @@
 ---
 description: Version 1.0 | This Business Plan was approved on DD MMMM YYYY.
-hidden: true
 ---
 
 # 📊 Business Plan
@@ -37,7 +36,7 @@ In accordance to its Resource Mobilization and Allocation policy, The IO Foundat
 
 ## **Unrestricted and Restricted resources**
 
-In accordance to its Finance Policy, The IO Foundation categorizes all mobilized resources into two distinct categories:
+In accordance to its [Finance Policy](https://short.theiofoundation.org/TIOFPoliciesFinance), The IO Foundation categorizes all mobilized resources into two distinct categories:
 
 ### **Unrestricted resources**
 
@@ -58,10 +57,3 @@ This budget plan is fully compliant with [The IO Foundation's policies](https://
 Budget plans are not currently made public (although it is on our roadmap) due to resource constraints.
 
 Nonetheless, you can consult the organization's [Annual Reports](https://short.theiofoundation.org/TIOFAnnualReports) which are public.
-
-
-
-
-
-
-
