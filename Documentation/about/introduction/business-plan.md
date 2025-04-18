@@ -18,7 +18,7 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 
 ## About
 
-This section provides all the information about The IO Foundation's business plan.
+This section provides all the information about how The IO Foundation finances its advocacy and operations.
 
 \[Work in Progress]
 
@@ -36,36 +36,7 @@ This budgeting plan is fully compliant with [The IO Foundation's policies](https
 
 
 
-## Progress Markers
-
-
-
-| Progress Marker | Relationship status      |
-| --------------- | ------------------------ |
-| Expect to see   | Early positive responses |
-|                 |                          |
-| Like to see     | Active engagement        |
-|                 |                          |
-| Love to see     | Deep transformation      |
-
-
-
-## Partners
-
-
-
-### Partners Engagement
-
-| Stage       | Relationship status                                                  | Progress Marker |
-| ----------- | -------------------------------------------------------------------- | --------------- |
-| Unknown     | The partner is not in TIOF's radar.                                  | N/A             |
-| Unrelated   | The partner is known by TIOF. Reaching out has not been strategized. | N/A             |
-| Target      | Reaching has been strategized.                                       | N/A             |
-| Network     |                                                                      | Expect & Like   |
-| Integrate   | Comp                                                                 | Expect & Like   |
-| Collaborate | Symbiotic.                                                           | Love            |
-
-
+## Funders
 
 
 
