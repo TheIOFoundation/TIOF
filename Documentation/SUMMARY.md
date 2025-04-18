@@ -39,7 +39,7 @@
     * [🔷 Organization Statute](institutional/tiof-network/the-io-foundation-mtue/organization-statute.md)
     * [☑️ Verification of NGO Status](institutional/tiof-network/the-io-foundation-mtue/verification-of-ngo-status.md)
     * [➡️ Applicable legislation](institutional/tiof-network/the-io-foundation-mtue/applicable-legislation.md)
-  * [🇲🇾 The IO Network MY Sdn. Bhd.](institutional/tiof-network/the-io-network-my-sdn.-bhd..md)
+  * [🇲🇾 The IO Network MY Sdn Bhd](institutional/tiof-network/the-io-network-my-sdn.-bhd..md)
     * [🚧 Organization Statute](institutional/tiof-network/the-io-network-my-sdn.-bhd./organization-statute.md)
     * [➡️ Applicable legislation](institutional/tiof-network/the-io-network-my-sdn.-bhd./applicable-legislation.md)
     * [📜 Policies](institutional/tiof-network/the-io-network-my-sdn.-bhd./policies/README.md)
