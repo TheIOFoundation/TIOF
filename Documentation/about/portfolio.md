@@ -2,6 +2,7 @@
 description: >-
   This page provides a quick overview of and direct access to The IO
   Foundation's Programs, initiatives and Projects.
+hidden: true
 ---
 
 # 🔠 Portfolio

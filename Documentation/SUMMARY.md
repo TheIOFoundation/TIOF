@@ -4,10 +4,10 @@
 
 * [🌟 Introduction](README.md)
   * [🗒️ Organization Brief](institutional/partners-and-collaborators/organization-brief.md)
+  * [🎨 Media Kit](about/introduction/media-kit/README.md)
   * [🔀 Theory of Change](about/introduction/theory-of-change.md)
   * [📊 Business Plan](about/introduction/business-plan.md)
   * [📈 Implementation](about/introduction/quick-monitor.md)
-  * [🎨 Media Kit](about/introduction/media-kit/README.md)
   * [📑 Terminology](about/introduction/terminology.md)
   * [🗃️ Directory](about/readme/directory.md)
   * [❓ Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
