@@ -14,7 +14,7 @@ description: Version 1.0 | This Business Plan was approved on 22 September 2023.
 {% tab title="Share this page" %}
 Use this QR Code to quickly share this page.
 
-<figure><img src="../../.gitbook/assets/TIOFTIOFBusinessPlan_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/TIOFTIOFBusinessPlan_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
