@@ -78,7 +78,7 @@ The BHR in Tech initiative aims at encouraging a shift towards the adoption and 
 
 [More information](https://tiof.click/BiTDocs)
 
-## [TechUp](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M_K54SuAkrrbCKMqyze/ "mention")
+## TechUp
 
 TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital by engaging technologists in a meaningful way.
 
@@ -86,13 +86,13 @@ Through its activities, TechUp strives to bring together the tech community to b
 
 [More information](https://tiof.click/TUDocs)
 
-## [CrowdShape](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/MxkrsyQSraXtP8kYavv2/ "mention")
+## CrowdShape
 
 The CrowdShape (CS) initiative intends to be a model for crowd collaboration based on transparent processes and accountable management. It is aimed at enabling technologists to start and run their own tech NGOs by providing familiar tools to enable the collaboration and reward of participants, attracting talent and financial support.
 
 [More information](https://tiof.click/CSDocs)
 
-## [Universal Declaration of Digital Rights](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M_K4xk_xBCdMTs3EMBi/ "mention")
+## Universal Declaration of Digital Rights
 
 The UDDR initiative is a multi-stakeholder initiative promoted by The IO Foundation to promote and achieve the proclamation of a Universal Declaration of Digital Rights.
 
