@@ -3,22 +3,23 @@
 ## About
 
 * [🌟 Introduction](README.md)
-  * [🗒️ Organization Brief](institutional/partners-and-collaborators/organization-brief.md)
+  * [🗒️ Organization Brief](about/introduction/organization-brief.md)
   * [🎨 Media Kit](about/introduction/media-kit/README.md)
   * [🔀 Theory of Change](about/introduction/theory-of-change.md)
   * [📊 Business Plan](about/introduction/business-plan.md)
   * [📈 Implementation](about/introduction/quick-monitor.md)
   * [📑 Terminology](about/introduction/terminology.md)
-  * [🗃️ Directory](about/readme/directory.md)
+  * [🗃️ Directory](about/introduction/directory.md)
   * [❓ Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
+  * [🗒️ Partners & Collaborators](about/introduction/partners-and-collaborators.md)
 * [🔠 Portfolio](about/portfolio.md)
-* [🛡️ NextGen Rights Defenders](nextgen-rights-defenders.md)
-* [📣 Hey Big Tech! declaration](hey-big-tech-declaration.md)
+* [🛡️ NextGen Rights Defenders](about/nextgen-rights-defenders.md)
+* [📣 Hey Big Tech! declaration](about/hey-big-tech-declaration.md)
 * [🎯 DCDR Principles](https://tiof.click/Principles)
-* [🖖 Join us](join-us.md)
-* [💰 Support Us](donate.md)
+* [🖖 Join us](about/join-us.md)
+* [💰 Support Us](about/donate.md)
 * [🏆 Awards](about/awards.md)
-* [🗄️ Media Archive](comms/media-archive.md)
+* [🗄️ Media Archive](about/media-archive.md)
 
 ## Stakeholders
 
