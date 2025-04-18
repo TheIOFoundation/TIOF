@@ -11,7 +11,7 @@
   * [📑 Terminology](about/introduction/terminology.md)
   * [🗃️ Directory](about/introduction/directory.md)
   * [❓ Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
-  * [🗒️ Partners & Collaborators](about/introduction/partners-and-collaborators.md)
+  * [🚧 Partners & Collaborators](about/introduction/partners-and-collaborators.md)
 * [🔠 Portfolio](about/portfolio.md)
 * [🛡️ NextGen Rights Defenders](about/nextgen-rights-defenders.md)
 * [📣 Hey Big Tech! declaration](about/hey-big-tech-declaration.md)
@@ -101,8 +101,6 @@
   * [🍃 Season 2020](institutional/annual-reports/2020.md)
   * [🍃 Season 2019](institutional/annual-reports/2019.md)
   * [🍃 Season 2018](institutional/annual-reports/2018.md)
-* [Registrations](institutional/registrations.md)
-* [🚧 Partners and Collaborators](institutional/partners-and-collaborators/README.md)
 
 ## Operational
 
