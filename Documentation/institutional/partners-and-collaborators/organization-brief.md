@@ -1,4 +1,4 @@
-# ORGANIZATION BRIEF
+# 🗒️ Organization Brief
 
 <figure><img src="../../.gitbook/assets/[TIOF] Comms [I] The IO Foundation Letterhead ENG v2.0.png" alt=""><figcaption></figcaption></figure>
 
