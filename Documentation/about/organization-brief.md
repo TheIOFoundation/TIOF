@@ -1,6 +1,22 @@
+---
+description: Organization Brief on The IO Foundation.
+---
+
 # 🗒️ Organization Brief
 
-<figure><img src="../.gitbook/assets/[TIOF] Comms [I] The IO Foundation Letterhead ENG v2.0.png" alt=""><figcaption></figcaption></figure>
+{% tabs %}
+{% tab title="Quick Resources" %}
+{% hint style="info" %}
+[**ShortURL**](https://short.theiofoundation.org/TIOFDocsOrgBrief) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
+{% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../.gitbook/assets/TIOFDocsTIOFsBrief_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 ## The organization
 
@@ -122,5 +138,3 @@ The UDDR initiative aims at encouraging a shift in the current technology paradi
 ## Publications
 
 For more information, [see TIOF's publications](https://tiof.click/TIOFPublications).
-
-<figure><img src="../.gitbook/assets/[TIOF] Comms [I] The IO Foundation Footer ENG v2.0.png" alt=""><figcaption></figcaption></figure>
