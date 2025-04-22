@@ -1,3 +1,7 @@
+---
+description: Join The IO Foundation!
+---
+
 # 🖖 Join us
 
 {% tabs %}

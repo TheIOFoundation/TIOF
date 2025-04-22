@@ -1,8 +1,22 @@
+---
+description: Support The IO Foundation!
+---
+
 # 💰 Support Us
 
+{% tabs %}
+{% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://tiof.click/SupportUs) **| Playbook | Assistant**
+[**ShortURL**](https://short.theiofoundation.org/TIOFDocsSupportUs) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../.gitbook/assets/TIOFSupportTheIOFoundation_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 ![Support TIOF](<../.gitbook/assets/\[TIOF] Comms \[P] TIOF Website Donate ENG v1.0.png>)
 
@@ -26,16 +40,10 @@ TIOF is an independent civil society organization and will remain so regardless 
 
 ### Fiat currencies
 
-You can donate using fiat currencies.
-
-{% embed url="https://tiof.click/TIOFDonateFiat" %}
-<mark style="color:orange;">**Donate to TIOF through Fiat currency**</mark>
-{% endembed %}
+You can donate using fiat currencies.\
+(We are updating our donation platform - Thank you for your patience.)
 
 ### Crypto currencies
 
-You can donate using crypto currencies.
-
-{% embed url="https://tiof.click/TIOFDonateCrypto" %}
-<mark style="color:orange;">**Donate to TIOF through Crypto currency**</mark>
-{% endembed %}
+You can donate using crypto currencies.\
+(Coming soon)

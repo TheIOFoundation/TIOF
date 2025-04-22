@@ -16,7 +16,7 @@
 * [📣 Hey Big Tech! declaration](about/hey-big-tech-declaration.md)
 * [🎯 DCDR Principles](https://tiof.click/Principles)
 * [🖖 Join us](about/join-us.md)
-* [💰 Support Us](about/supportus.md)
+* [💰 Support Us](about/support-us.md)
 * [🏆 Awards](about/awards.md)
 * [🗄️ Media Archive](about/media-archive.md)
 
