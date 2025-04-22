@@ -1,20 +1,34 @@
+---
+description: Annual Reports of The IO Foundation.
+---
+
 # 📗 Annual Reports
 
+{% tabs %}
+{% tab title="Quick Resources" %}
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+[**ShortURL**](https://short.theiofoundation.org/TIOFAnnualReports) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../../.gitbook/assets/TIOFDocsTIOFsAnnualReports_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 ## About
 
-This section contains all annual reports issued by The IO Foundation, organized by Seasions (fiscal years).
+This section contains all annual reports issued by The IO Foundation, organized by Seasons (fiscal years).
 
 {% hint style="info" %}
 * Fiscal years comprise from 1st January to 31st December of a natural year.
-* The IO Foundation labels its fiscal years _**Seasons**_.
+* The IO Foundation labels its fiscal years as _**Seasons**_.
 {% endhint %}
 
 {% hint style="warning" %}
-Please note that the reports are organized through tabs in the corresponding Season page.
+Please note that the reports are organized through tabs in the corresponding Season's page.
 {% endhint %}
 
 ## 📕 Institutional Reports
@@ -35,7 +49,7 @@ The IO Foundation equally wishes to issue annual reports on its activities and i
 
 At the date of writing this has been impossible due to lack of resources and concentrating efforts in producing research and generating impact.
 
-The organization is nonetheless actively working on this subject and will make all possible efforts to issue an Impact Report as soon as possible.
+The organization is nonetheless actively working on this subject and will make all possible efforts to issue a Impact Reports as soon as possible.
 
 ## 📘 Operational Reports
 
@@ -46,9 +60,11 @@ Equally in line to its transparency and accountability commitment, The IO Founda
 In compliance with the Estonian law, TIOF files an annual financial report to the Estonian authorities which is previously verified by an Estonian-licensed auditor.
 
 {% hint style="info" %}
-The IO Foundation is a registered non-profit in Estonia. It's fiscal year is defined from 1st January to 31st December.
+* The IO Foundation is a registered non-profit in Estonia. It's fiscal year is defined from 1st January to 31st December.
+* The IO Network MY Sdn. Bhd. is a registered company in Malaysia. It's fiscal year is defined from 1st January to 31st December.
+* The IO Network US Foundation is a registered non-profit in the United States of America. It's fiscal year is defined from 1st January to 31st December.
 {% endhint %}
 
 ### 📑 Strat Meeting
 
-The Strat Meeting report provides an account of the annual Strat Meeting that takes place annually and as described in the organization's Statute.
+The Strat Meeting report provides an account of The IO Foundation's annual strategic gathering where objectives are set for the following Season.
