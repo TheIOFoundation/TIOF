@@ -59,7 +59,7 @@ As an active TIOF Member, you must be able to commit according to the responsibi
 &#x20;                                                                                                                                                                      Orebela Gbenga
 {% endhint %}
 
-<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:orange;"><strong>Check the available positions @ The IO Foundation</strong></mark></td><td><a href="../.gitbook/assets/image.png">image.png</a></td><td><a href="https://short.theiofoundation.org/TIOFJoinUs">https://Short.TheIOFoundation.org/TIOFJoinUs</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:orange;"><strong>Check the available positions @ The IO Foundation</strong></mark></td><td><a href="../.gitbook/assets/image.png">image.png</a></td><td><a href="https://short.theiofoundation.org/TIOFJoinUs">https://Short.TheIOFoundation.org/TIOFJoinUs</a></td></tr></tbody></table>
 
 ### Participate as a Collaborator
 
