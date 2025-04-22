@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🏆 Awards
 
 {% hint style="info" %}
@@ -13,3 +17,5 @@ The IO Foundation has not received any award to this date.
 
 If you are aware of an award or competition that we should explore, [let us know](https://tiof.click/TIOFAwardsSuggest).
 {% endhint %}
+
+> EU vs Virus award
