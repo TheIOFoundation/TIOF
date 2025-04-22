@@ -4,9 +4,19 @@ description: Version 1.0 | This Media Kit was approved on 01 February 2019.
 
 # 🎨 Media Kit
 
+{% tabs %}
+{% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIOFMediaKit) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)
+[**ShortURL**](https://short.theiofoundation.org/TIOFDocsMediaKit) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~**&#x20;|** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)
 {% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../.gitbook/assets/TIOFDocsTIOFsMediaKit_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 ## Introduction
 
