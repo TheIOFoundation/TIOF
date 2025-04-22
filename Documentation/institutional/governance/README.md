@@ -1,8 +1,18 @@
 # 🌟 Governance
 
+{% tabs %}
+{% tab title="Quick Resources" %}
 {% hint style="info" %}
-**ShortURL | Playbook | Assistant**
+[**ShortURL**](https://short.theiofoundation.org/TIOFDocsGovernance) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../../.gitbook/assets/TIOFDocsTIOFsGovernance_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 {% hint style="warning" %}
 **NOTICE**
@@ -20,10 +30,6 @@ The governance structure of The IO Foundation outlines the roles, relationships,
 {% embed url="https://tiof.click/TIOFOrgChart" %}
 The IO Foundation's Organizational Chart
 {% endembed %}
-
-
-
-##
 
 
 

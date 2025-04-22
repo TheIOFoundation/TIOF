@@ -1,3 +1,7 @@
+---
+description: The IO Foundation's governance boards.
+---
+
 # 👥 Boards
 
 {% tabs %}
@@ -19,8 +23,6 @@ Use this QR Code to quickly share this page.
 The different Boards participating in The IO Foundation play a crucial role in its governance as well as setting its strategic direction and policies to ensure the organization's mission and goals are effectively pursued.
 
 They provide oversight and guidance, making key decisions on budgeting, activities and long-term planning, while also serving as ambassadors to the broader stakeholder community to garner support and resources.
-
-
 
 ## Board of Directors
 
@@ -45,7 +47,6 @@ The Board of Advisers provides expert guidance and advice to The IO Foundation, 
 | ![](<../../.gitbook/assets/\[TIOF] Avatar-modified.png>)                               | Maya Vandenbroeck   | Organization Development |
 | ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic MZ BW Circle.T XXX v1.0.png>) | Maznuddin Zainuddin | Corporate Strategy (MYS) |
 | ![](<../../.gitbook/assets/\[TIOF] Avatar-modified (2).png>)                           | Tevanraj Elengoe    | Tech Ecosystem (MYS)     |
-| ![](<../../.gitbook/assets/\[TIOF] Avatar-modified (1).png>)                           | Norina Yahya        | Policy Strategy          |
 
 ## Board of Consultants
 
