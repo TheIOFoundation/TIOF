@@ -1,8 +1,18 @@
 # 🖖 Join us
 
+{% tabs %}
+{% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIOFJoinUs) **| Playbook | Assistant**
+[**ShortURL**](https://short.theiofoundation.org/DocsJoinTIOF) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../.gitbook/assets/TIOFDocsJoinTheIOFoundation_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 ## Joining The IO Foundation
 
@@ -33,6 +43,9 @@ By joining as a TIOF Member you will officially join one of the TIOF [Teams](bro
 TIOF Members can be:
 
 * [Employees](https://tiof.click/TIOFOrgChartDocs#employees)
+* Associates (coming soon)
+* Fellows (coming soon)
+* Alumns (coming soon)
 * [Interns](https://tiof.click/TIOFOrgChartDocs#interns)
 * [Volunteers](https://tiof.click/TIOFOrgChartDocs#volunteers)
 * [Members of a Board](https://tiof.click/TIOFOrgChartDocs#members-of-a-board)
@@ -41,14 +54,20 @@ TIOF Members can be:
 As an active TIOF Member, you must be able to commit according to the responsibilities acquired.
 
 \
-**Commitment means staying loyal to what you said you were going to do long after the mood you said it in has left you.**
+&#xNAN;_**Commitment means staying loyal to what you said you were going to do long after the mood you said it in has left you.**_
 
-Orebela Gbenga
+&#x20;                                                                                                                                                                      Orebela Gbenga
 {% endhint %}
 
 {% embed url="https://tiof.click/TIOFJoinUs" %}
 <mark style="color:orange;">**Check the available positions @ The IO Foundation**</mark>
 {% endembed %}
+
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:orange;"><strong>Check the available positions @ The IO Foundation</strong></mark></td><td><a href="../.gitbook/assets/image.png">image.png</a></td><td><a href="https://short.theiofoundation.org/TIOFJoinUs">https://Short.TheIOFoundation.org/TIOFJoinUs</a></td></tr></tbody></table>
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption><p><mark style="color:orange;"><strong>Check the available positions @ The IO Foundation</strong></mark></p></figcaption></figure>
+
+{% embed url="https://short.theiofoundation.org/TIOFJoinUs" %}
 
 ### Participate as a Collaborator
 

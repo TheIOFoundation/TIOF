@@ -7,6 +7,7 @@
   * [🔠 Portfolio](about/readme/portfolio.md)
   * [🚧 Partners & Collaborators](about/introduction/partners-and-collaborators.md)
   * [❓ Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
+* [Page](about/page.md)
 * [🗒️ Organization Brief](about/organization-brief.md)
 * [📊 Business Plan](about/business-plan.md)
 * [🎨 Media Kit](about/media-kit.md)
