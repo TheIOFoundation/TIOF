@@ -105,5 +105,5 @@
 * [📑 Terminology](about/introduction/terminology.md)
 * [📑 References](operational/references.md)
 * [Handbooks](operational/handbooks/README.md)
-  * [Onboarding checklist](operational/handbooks/onboarding-checklist/README.md)
+  * [Onboarding checklist](operational/handbooks/onboarding-checklist.md)
     * [Temp (To review and maybe delete)](operational/handbooks/onboarding-checklist/temp-to-review-and-maybe-delete.md)
