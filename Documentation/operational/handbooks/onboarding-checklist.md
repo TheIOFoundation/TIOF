@@ -30,11 +30,7 @@ This document will guide you in the steps you need to undertake for your TIOF on
 
 The onboarding procedure is divided into the following steps:
 
-| Step                                                                                                                                          | Actions by TIOF                                                                                                                                                                             | Actions by You                                                                                                                                                                                                                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ol><li><a href="onboarding-checklist.md#creation-of-your-basic-tiof-credentials">Creation of your basic TIOF Credentials</a></li></ol>       | <ul class="contains-task-list"><li><input type="checkbox">TIOF will create your basic organization account and sent your default credentials.</li></ul>                                     | <ul class="contains-task-list"><li><input type="checkbox"><strong>Keep the credentials safe.</strong></li></ul>                                                                                                                                                                                                                                       |
-| <ol start="2"><li><a href="onboarding-checklist.md#id-2.-preparation-for-onboarding-session">Preparation for Onboarding Session</a></li></ol> | <ul class="contains-task-list"><li><input type="checkbox">TIOF will generate some internal credentials for the Onboarding Session.</li></ul>                                                | <ul class="contains-task-list"><li><input type="checkbox"><p>Review the list of apps below:</p><ul class="contains-task-list"><li><input type="checkbox"><a href="onboarding-checklist.md#mandatory-installs">Mandatory</a></li><li><input type="checkbox"><a href="onboarding-checklist.md#recommended-installs">Recommended</a></li></ul></li></ul> |
-| <ol start="3"><li><a href="onboarding-checklist.md#id-3.-onboarding-session">Onboarding Session</a></li></ol>                                 | <ul class="contains-task-list"><li><input type="checkbox">TIOF will guide you to the full set of steps needed to onboard you and grant you access to all the tools you will need.</li></ul> | <ul class="contains-task-list"><li><input type="checkbox"> Follow the instructions during the Onboarding Session.</li></ul>                                                                                                                                                                                                                           |
+<table><thead><tr><th width="203">Step</th><th>Actions by TIOF</th><th>Actions by You</th></tr></thead><tbody><tr><td><ol><li><a href="onboarding-checklist.md#creation-of-your-basic-tiof-credentials">Creation of your basic TIOF Credentials</a></li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox">TIOF will create your basic organization account and sent your default credentials.</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox"><strong>Keep the credentials safe.</strong></li></ul></td></tr><tr><td><ol start="2"><li><a href="onboarding-checklist.md#id-2.-preparation-for-onboarding-session">Preparation for Onboarding Session</a></li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox">TIOF will generate some internal credentials for the Onboarding Session.</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox"><p>Review the list of apps below:</p><ul class="contains-task-list"><li><input type="checkbox"><a href="onboarding-checklist.md#mandatory-installs">Mandatory</a></li><li><input type="checkbox"><a href="onboarding-checklist.md#recommended-installs">Recommended</a></li></ul></li></ul></td></tr><tr><td><ol start="3"><li><a href="onboarding-checklist.md#id-3.-onboarding-session">Onboarding Session</a></li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox">TIOF will guide you to the full set of steps needed to onboard you and grant you access to all the tools you will need.</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox"> Follow the instructions during the Onboarding Session.</li></ul></td></tr></tbody></table>
 
 ## 1. Creation of your basic TIOF Credentials
 
@@ -42,6 +38,14 @@ The first step in your onboarding process will be to be assigned basic credentia
 
 {% hint style="info" %}
 For the time being, The IO Foundation is using Google Workspace for Nonprofits.
+{% endhint %}
+
+{% hint style="success" %}
+## When does this Step happen?
+
+If you are reading this guide, you will have received an introduction email from The IO Foundation.
+
+**Your TIOF Credentials are already created. You can proceed to the next Step.**
 {% endhint %}
 
 TIOF will do the necessary to create your basic credentials. You will receive a new credentials email (titled "\[TIOF] Your new TIOF Member Account") once they are ready, which will lead you to this document.
@@ -54,6 +58,14 @@ Your TIOF Member Account will be composed by:
 {% endhint %}
 
 ## 2. Preparation for Onboarding Session
+
+{% hint style="success" %}
+## When does this Step happen?
+
+If you are reading this Step, you are ready to prepare for your Onboarding Session.
+
+**You can proceed to the installs detailed in this Step.**
+{% endhint %}
 
 ### Mandatory installs
 
@@ -78,6 +90,14 @@ The following are recommended browser extensions that will do your daily tasks e
 | <p>Event Merge for Google Calendar™<br>+<br>Gradient Merge for Google Calendar™ Events</p> | <ul class="contains-task-list"><li><input type="checkbox"><p>Install these <em>TWO</em> browser extensions on your Brave browser.</p><ul class="contains-task-list"><li><input type="checkbox"><a href="https://chromewebstore.google.com/detail/event-merge-for-google-ca/idehaflielbgpaokehlhidbjlehlfcep?hl=en">Event Merge for Google Calendar™</a></li><li><input type="checkbox"><a href="https://chromewebstore.google.com/detail/gradient-merge-for-google/jcgbfnkjigkdllodnaecmdipcojhopfc">Gradient Merge for Google Calendar™ Events</a></li></ul></li></ul> | <p>These extensions will help consolidate visually the events shown by TIOF Calendars in one single event.<br><br>Please note that both are required to work in tandem to enable the proper helping effect.</p> |
 
 ## 3. Onboarding Session
+
+{% hint style="success" %}
+## When does this Step happen?
+
+You can only proceed with this Step during the actual Onboarding Session.
+
+Follow the instructions you must have received in your email to book it.
+{% endhint %}
 
 The following are the core steps that you'll undertake during your Onboarding Session:
 
