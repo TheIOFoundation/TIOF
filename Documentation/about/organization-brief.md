@@ -50,7 +50,7 @@ At The IO Foundation we regard technologists, and developers in particular, as t
 
 The following diagram provides an overview on how each of the initiatives support each other to advance TIOF's [Mission](https://tiof.click/TIOFMission) in realizing its [Vision](https://tiof.click/TIOFVision).
 
-{% embed url="https://cawemo.com/share/6f586512-627b-4d70-bdc6-f4a4a9ad6e65" %}
+{% embed url="https://modeler.camunda.io/share/ea8eb8f5-81ad-45b2-8c43-95f95170201c" %}
 
 ## Data-Centric Digital Rights
 
