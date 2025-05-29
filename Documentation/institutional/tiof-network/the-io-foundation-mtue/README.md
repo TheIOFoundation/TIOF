@@ -24,7 +24,11 @@ Use this QR Code to quickly share this page.
 
 The following is the basic institutional information about The IO Foundation.
 
-<table><thead><tr><th width="150">Item</th><th>Value</th></tr></thead><tbody><tr><td><strong>Country</strong></td><td>Estonia</td></tr><tr><td><strong>Official Name</strong></td><td>The IO Foundation Mittetulundusühing</td></tr><tr><td><strong>Type</strong></td><td>Non profit</td></tr><tr><td><strong>Public use name</strong></td><td>The IO Foundation</td></tr><tr><td><strong>Date of establishment</strong></td><td>05 / 04 / 2018</td></tr><tr><td><strong>Registration ID</strong></td><td>80549272</td></tr><tr><td></td><td></td></tr><tr><td><strong>TIOF Code</strong></td><td>TIOF</td></tr></tbody></table>
+{% hint style="info" %}
+You may use this information for invoicing purposes.
+{% endhint %}
+
+<table><thead><tr><th width="150">Item</th><th>Value</th></tr></thead><tbody><tr><td><strong>Country</strong></td><td>Estonia</td></tr><tr><td><strong>Official Name</strong></td><td>The IO Foundation Mittetulundusühing</td></tr><tr><td><strong>Type</strong></td><td>Non profit</td></tr><tr><td><strong>Public use name</strong></td><td>The IO Foundation</td></tr><tr><td><strong>Date of establishment</strong></td><td>05 / 04 / 2018</td></tr><tr><td><strong>Registration ID</strong></td><td>80549272</td></tr><tr><td><strong>VAT number</strong></td><td>N/A</td></tr><tr><td><strong>Correspondence &#x26;</strong><br><strong>Invoicing Address</strong></td><td>Rataskaevu tn 2<br>Kesklinna linnaosa<br>10123 Tallinn<br>Harju maakond<br>Estonia</td></tr><tr><td><strong>Trading Address</strong></td><td>Co-labs The Starling<br>6, Jalan SS 21/37<br>Damansara Utama<br>47400 Petaling Jaya<br>Malaysia</td></tr><tr><td><strong>TIOF Code</strong></td><td>TIOF</td></tr></tbody></table>
 
 ## Governance
 
