@@ -6,6 +6,8 @@ description: >-
 
 # 🇪🇪 The IO Foundation MTÜ
 
+
+
 {% tabs %}
 {% tab title="Quick Resources" %}
 {% hint style="info" %}
@@ -16,7 +18,7 @@ description: >-
 {% tab title="Share this page" %}
 Use this QR Code to quickly share this page.
 
-<figure><img src="../../../.gitbook/assets/TIOFOrganizationInfo_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/TIOFOrganizationInfo_4096x4096.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -24,7 +26,7 @@ Use this QR Code to quickly share this page.
 
 The following is the basic institutional information about The IO Foundation.
 
-{% hint style="info" %}
+{% hint style="success" %}
 You may use this information for invoicing purposes.
 {% endhint %}
 

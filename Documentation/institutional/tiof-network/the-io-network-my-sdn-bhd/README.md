@@ -6,15 +6,25 @@ description: >-
 
 # 🇲🇾 The IO Network MY Sdn. Bhd.
 
+{% tabs %}
+{% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIONMYInfo) **|** ~~Playbook~~ **|** ~~Assistant~~
+[**ShortURL**](https://short.theiofoundation.org/TIONMYOrgInfo) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../../../.gitbook/assets/TIOFMYTheIONetworkMYInfoPage_4096x4096.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 ## About
 
 The following is the basic institutional information about The IO Network MY.
 
-{% hint style="info" %}
+{% hint style="success" %}
 You may use this information for invoicing purposes.
 {% endhint %}
 
