@@ -1,8 +1,22 @@
+---
+description: This page contains all the basic information about The IO Foundation Network.
+---
+
 # 🌐 TIOF Network
 
+{% tabs %}
+{% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIOFNetworkInfo) **|** ~~Playbook~~ **|** ~~Assistant~~
+[**ShortURL**](https://short.theiofoundation.org/TIOFNetworkInfo) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../../.gitbook/assets/TIOFTheTIOFNetworkInfoPage_4096x4096.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 ## About
 
@@ -14,35 +28,9 @@ Despite the geographic spread, The IO Foundation operates as a singular, cohesiv
 
 The following is a list of the organizations composing The IO Foundation network. Please find more exhaustive information about each organization in their corresponding section.
 
-| The IO Foundation                                    | Item                      | Value                                |
-| ---------------------------------------------------- | ------------------------- | ------------------------------------ |
-| [View full information](https://tiof.click/TIOFInfo) | **Country**               | Estonia                              |
-|                                                      | **Official Name**         | The IO Foundation Mittetulundusühing |
-|                                                      | **Type**                  | Non profit                           |
-|                                                      | **Date of establishment** | 05 / 04 / 2018                       |
-|                                                      | **Registration ID**       | 80549272                             |
-|                                                      | **TIOF Code**             | TION MY                              |
+{% hint style="info" %}
+You can click on the corresponding organization to see all of its information.
+{% endhint %}
 
-
-
-| The IO Network MY                                      | Item                      | Value                       |
-| ------------------------------------------------------ | ------------------------- | --------------------------- |
-| [View full information](https://tiof.click/TIONMYInfo) | **Country**               | Malaysia                    |
-|                                                        | **Official Name**         | The IO Network MY Sdn. Bhd. |
-|                                                        | **Type**                  | Private Limited Company     |
-|                                                        | **Date of establishment** | 22 / 02 / 2019              |
-|                                                        | **Registration ID**       | 201901006042                |
-|                                                        | **Registration ID (Old)** | 1315369-A                   |
-|                                                        | **TIOF Code**             | TION MY                     |
-
-
-
-| The IO Network US                                      | Item                      | Value                        |
-| ------------------------------------------------------ | ------------------------- | ---------------------------- |
-| [View full information](https://tiof.click/TIONUSInfo) | **Country**               | United States (Delaware)     |
-|                                                        | **Official Name**         | The IO Network US Foundation |
-|                                                        | **Type**                  | Non profit                   |
-|                                                        | **Date of establishment** | 01 / 08 / 2023               |
-|                                                        | **Registration number**   | 7597974                      |
-|                                                        | **TIOF Code**             | TION US                      |
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>The IO Foundation</td><td>Estonia</td><td><a href="../../.gitbook/assets/[TIOF] Comms [P] Dotted Map EST LoRes XXX v1.0.jpg">[TIOF] Comms [P] Dotted Map EST LoRes XXX v1.0.jpg</a></td><td><a href="the-io-foundation-mtue/">the-io-foundation-mtue</a></td></tr><tr><td>The IO Network US</td><td>United States</td><td><a href="../../.gitbook/assets/[TIOF] Comms [P] Dotted Map USA MedRes XXX v1.0.png">[TIOF] Comms [P] Dotted Map USA MedRes XXX v1.0.png</a></td><td><a href="the-io-network-us-foundation/">the-io-network-us-foundation</a></td></tr><tr><td>The IO Network MY</td><td>Malaysia</td><td><a href="../../.gitbook/assets/[TIOF] Comms [P] Dotted Map MYS LoRes XXX v1.0.jpg">[TIOF] Comms [P] Dotted Map MYS LoRes XXX v1.0.jpg</a></td><td><a href="the-io-network-my-sdn-bhd/">the-io-network-my-sdn-bhd</a></td></tr></tbody></table>
 
