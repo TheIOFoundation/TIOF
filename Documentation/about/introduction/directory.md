@@ -1,8 +1,9 @@
 ---
 hidden: true
+icon: address-book
 ---
 
-# 🗃️ Directory
+# Directory
 
 {% tabs %}
 {% tab title="Quick Resources" %}

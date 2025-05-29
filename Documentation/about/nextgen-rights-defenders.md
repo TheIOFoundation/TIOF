@@ -1,4 +1,8 @@
-# 🛡 NextGen Rights Defenders
+---
+icon: user-shield
+---
+
+# NextGen Rights Defenders
 
 {% hint style="info" %}
 [**ShortURL**](http://tiof.click/TIOFNextGen) **| Playbook | Assistant**
@@ -60,7 +64,7 @@ See more information in the [Data-Centric Digital Rights](https://app.gitbook.co
 
 Ensuring that DCDR Principles become part of the technologists' toolbox as well as provide them with a space to bootstrap their own Tech NGOs.
 
-See more information in the [TechUp](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M\_K54SuAkrrbCKMqyze/ "mention") documentation.
+See more information in the [TechUp](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M_K54SuAkrrbCKMqyze/ "mention") documentation.
 
 ### CrowdShape
 

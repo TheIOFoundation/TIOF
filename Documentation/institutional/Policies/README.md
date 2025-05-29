@@ -1,4 +1,8 @@
-# 📜 Policies
+---
+icon: scroll-old
+---
+
+# Policies
 
 {% tabs %}
 {% tab title="Quick Resources" %}

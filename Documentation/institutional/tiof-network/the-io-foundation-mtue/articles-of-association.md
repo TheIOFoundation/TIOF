@@ -1,8 +1,9 @@
 ---
 description: Version 1.2
+icon: file-signature
 ---
 
-# 🔷 Articles of Association
+# Articles of Association
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFLegalArticlesOfAssociation) **| Playbook | Assistant**

@@ -1,4 +1,8 @@
-# 📑 References
+---
+icon: file-plus-minus
+---
+
+# References
 
 ## About
 

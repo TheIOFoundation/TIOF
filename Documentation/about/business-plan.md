@@ -1,8 +1,9 @@
 ---
 description: Version 1.0 | This Business Plan was approved on 22 September 2023.
+icon: chart-mixed-up-circle-dollar
 ---
 
-# 📊 Business Plan
+# Business Plan
 
 {% tabs %}
 {% tab title="Quick Resources" %}

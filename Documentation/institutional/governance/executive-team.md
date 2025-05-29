@@ -1,8 +1,9 @@
 ---
 hidden: true
+icon: people-group
 ---
 
-# 💠 Executive Team
+# Executive Team
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**

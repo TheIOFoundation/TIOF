@@ -1,8 +1,9 @@
 ---
 description: Version 1.0 | This Policy was approved on 20 October 2024.
+icon: scroll
 ---
 
-# 📜 Economic Sanctions
+# Economic Sanctions
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFPolicyEconS) **|** ~~Playbook~~ **|** ~~Assistant~~

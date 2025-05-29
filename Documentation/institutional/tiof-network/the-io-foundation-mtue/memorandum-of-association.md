@@ -1,8 +1,9 @@
 ---
 description: Version 1.0
+icon: memo
 ---
 
-# 🔷 Memorandum of Association
+# Memorandum of Association
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFLegalMemorandumOfAssociation) **| Playbook | Assistant**

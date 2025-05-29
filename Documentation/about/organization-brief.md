@@ -1,8 +1,9 @@
 ---
 description: Organization Brief on The IO Foundation.
+icon: building-ngo
 ---
 
-# 🗒️ Organization Brief
+# Organization Brief
 
 {% tabs %}
 {% tab title="Quick Resources" %}

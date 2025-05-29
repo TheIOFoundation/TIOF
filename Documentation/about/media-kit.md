@@ -1,8 +1,9 @@
 ---
 description: Version 1.0 | This Media Kit was approved on 01 February 2019.
+icon: palette
 ---
 
-# 🎨 Media Kit
+# Media Kit
 
 {% tabs %}
 {% tab title="Quick Resources" %}

@@ -1,4 +1,8 @@
-# 📣 Hey Big Tech! declaration
+---
+icon: bullhorn
+---
+
+# Hey Big Tech! declaration
 
 
 

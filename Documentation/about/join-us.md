@@ -1,8 +1,9 @@
 ---
 description: Join The IO Foundation!
+icon: hand-spock
 ---
 
-# 🖖 Join us
+# Join us
 
 {% tabs %}
 {% tab title="Quick Resources" %}

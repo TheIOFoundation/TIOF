@@ -1,8 +1,9 @@
 ---
 hidden: true
+icon: spell-check
 ---
 
-# 📑 Terminology
+# Terminology
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFTerminology) **| Playbook | Assistant |** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)

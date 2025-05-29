@@ -1,4 +1,8 @@
-# 🌟 Governance
+---
+icon: landmark
+---
+
+# Governance
 
 {% tabs %}
 {% tab title="Quick Resources" %}

@@ -1,8 +1,9 @@
 ---
 description: Version 1.0 | This Policy was approved on 01 December 2023.
+icon: scroll
 ---
 
-# 📜 Conflict of Interest
+# Conflict of Interest
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFPolicyCoI) **|** ~~Playbook~~ **|** ~~Assistant~~

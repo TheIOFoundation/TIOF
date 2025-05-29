@@ -1,8 +1,9 @@
 ---
 description: Version 1.0 | This Policy was approved on 15 April 2020.
+icon: scroll
 ---
 
-# 📜 Children Protection
+# Children Protection
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFPolicyCP) **| Playbook | Assistant**

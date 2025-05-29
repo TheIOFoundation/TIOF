@@ -1,8 +1,9 @@
 ---
 description: Archive of mentions about The IO Foundation in media.
+icon: cabinet-filing
 ---
 
-# 🗄️ Media Archive
+# Media Archive
 
 {% tabs %}
 {% tab title="Quick Resources" %}

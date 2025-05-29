@@ -1,5 +1,6 @@
 ---
 description: Version 1.0 | This Policy was approved on 23 February 2024.
+icon: scroll
 ---
 
 # Reporting of Beneficial Ownership of shares in the company

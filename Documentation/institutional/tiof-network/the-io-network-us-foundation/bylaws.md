@@ -1,8 +1,9 @@
 ---
 description: Version 1.0
+icon: memo
 ---
 
-# 🔷 Bylaws
+# Bylaws
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIONUSBylaws) **|** ~~Playbook~~ **|** ~~Assistant~~

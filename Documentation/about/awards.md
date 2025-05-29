@@ -1,8 +1,9 @@
 ---
 hidden: true
+icon: award
 ---
 
-# 🏆 Awards
+# Awards
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFAwards) **| Playbook | Assistant**

@@ -1,8 +1,9 @@
 ---
 description: Version 1.0 | This Policy was approved on 01 March 2022.
+icon: scroll
 ---
 
-# 📜 Finance
+# Finance
 
 {% tabs %}
 {% tab title="Quick Resources" %}

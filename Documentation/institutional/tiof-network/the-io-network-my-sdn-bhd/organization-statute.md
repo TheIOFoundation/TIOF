@@ -1,5 +1,6 @@
 ---
 description: Version 1.0 | This Statute was approved on 01 April 2022.
+hidden: true
 ---
 
 # 🚧 Organization Statute

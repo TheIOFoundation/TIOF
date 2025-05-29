@@ -1,8 +1,9 @@
 ---
 description: Support The IO Foundation!
+icon: hand-holding-seedling
 ---
 
-# 💰 Support Us
+# Support Us
 
 {% tabs %}
 {% tab title="Quick Resources" %}

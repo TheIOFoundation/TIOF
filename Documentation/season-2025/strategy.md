@@ -1,4 +1,8 @@
-# 🍃 Strategy
+---
+icon: pagelines
+---
+
+# Strategy
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/Season2025) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~

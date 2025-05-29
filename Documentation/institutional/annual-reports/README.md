@@ -1,8 +1,9 @@
 ---
 description: Annual Reports of The IO Foundation.
+icon: file-chart-column
 ---
 
-# 📗 Annual Reports
+# Annual Reports
 
 {% tabs %}
 {% tab title="Quick Resources" %}

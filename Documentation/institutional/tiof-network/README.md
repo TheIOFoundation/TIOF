@@ -1,8 +1,9 @@
 ---
 description: This page contains all the basic information about The IO Foundation Network.
+icon: chart-network
 ---
 
-# 🌐 TIOF Network
+# TIOF Network
 
 {% tabs %}
 {% tab title="Quick Resources" %}
@@ -32,5 +33,5 @@ The following is a list of the organizations composing The IO Foundation network
 You can click on the corresponding organization to see all of its information.
 {% endhint %}
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>The IO Foundation</td><td>Estonia</td><td><a href="../../.gitbook/assets/[TIOF] Comms [P] Dotted Map EST LoRes XXX v1.0.jpg">[TIOF] Comms [P] Dotted Map EST LoRes XXX v1.0.jpg</a></td><td><a href="the-io-foundation-mtue/">the-io-foundation-mtue</a></td></tr><tr><td>The IO Network US</td><td>United States</td><td><a href="../../.gitbook/assets/[TIOF] Comms [P] Dotted Map USA MedRes XXX v1.0.png">[TIOF] Comms [P] Dotted Map USA MedRes XXX v1.0.png</a></td><td><a href="the-io-network-us-foundation/">the-io-network-us-foundation</a></td></tr><tr><td>The IO Network MY</td><td>Malaysia</td><td><a href="../../.gitbook/assets/[TIOF] Comms [P] Dotted Map MYS LoRes XXX v1.0.jpg">[TIOF] Comms [P] Dotted Map MYS LoRes XXX v1.0.jpg</a></td><td><a href="the-io-network-my-sdn-bhd/">the-io-network-my-sdn-bhd</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>The IO Foundation</td><td>Estonia</td><td><a href="../../.gitbook/assets/[TIOF] Comms [P] Dotted Map EST MedRes XXX v1.0.png">[TIOF] Comms [P] Dotted Map EST MedRes XXX v1.0.png</a></td><td><a href="the-io-foundation-mtue/">the-io-foundation-mtue</a></td></tr><tr><td>The IO Network US</td><td>United States</td><td><a href="../../.gitbook/assets/[TIOF] Comms [P] Dotted Map USA MedRes XXX v1.0 (1).png">[TIOF] Comms [P] Dotted Map USA MedRes XXX v1.0 (1).png</a></td><td><a href="the-io-network-us-foundation/">the-io-network-us-foundation</a></td></tr><tr><td>The IO Network MY</td><td>Malaysia</td><td><a href="../../.gitbook/assets/[TIOF] Comms [P] Dotted Map MYS MedRes XXX v1.0.png">[TIOF] Comms [P] Dotted Map MYS MedRes XXX v1.0.png</a></td><td><a href="the-io-network-my-sdn-bhd/">the-io-network-my-sdn-bhd</a></td></tr></tbody></table>
 

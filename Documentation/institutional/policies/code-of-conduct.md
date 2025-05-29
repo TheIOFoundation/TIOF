@@ -1,8 +1,9 @@
 ---
 description: Version 1.5 | This Code of Conduct was approved on 01 January 2021.
+icon: scroll
 ---
 
-# 📜 Code of Conduct
+# Code of Conduct
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFPolicyCoC) **| Playbook | Assistant**

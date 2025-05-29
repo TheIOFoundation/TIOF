@@ -1,8 +1,9 @@
 ---
 description: Version 1.0 | This Policy was approved on 01 December 2023.
+icon: scroll
 ---
 
-# 📜 Personal Privacy and Data Protection
+# Personal Privacy and Data Protection
 
 {% hint style="info" %}
 [**ShortURL**](https://short.theiofoundation.org/PoliciesPPDP) **|** ~~Playbook~~ **|** ~~Assistant~~

@@ -1,8 +1,9 @@
 ---
 description: The IO Foundation's governance boards.
+icon: users-rectangle
 ---
 
-# 👥 Boards
+# Boards
 
 {% tabs %}
 {% tab title="Quick Resources" %}

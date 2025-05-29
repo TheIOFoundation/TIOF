@@ -1,4 +1,8 @@
-# ➡ Applicable legislation
+---
+icon: file-check
+---
+
+# Applicable legislation
 
 {% hint style="info" %}
 ~~ShortURL~~ **|** ~~Playbook~~ **|** ~~Assistant~~

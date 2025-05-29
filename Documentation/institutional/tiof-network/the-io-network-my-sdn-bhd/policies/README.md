@@ -1,4 +1,8 @@
-# 📜 Policies
+---
+icon: scroll-old
+---
+
+# Specific Policies
 
 {% hint style="info" %}
 **ShortURL |** ~~Playbook~~ **|** ~~Assistant~~

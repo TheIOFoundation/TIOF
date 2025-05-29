@@ -1,8 +1,9 @@
 ---
 description: Version 1.3
+icon: file-certificate
 ---
 
-# ☑️ Verification of NGO Status
+# Verification of NGO Status
 
 {% tabs %}
 {% tab title="Quick Resources" %}

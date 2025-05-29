@@ -1,8 +1,9 @@
 ---
 description: Version 1.1 | This Dhatham House Rule was published on 01 January 2019.
+icon: cloud-exclamation
 ---
 
-# 📲 Dhatham House Rule
+# Dhatham House Rule
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/Dhatham) **| Playbook | Assistant**
