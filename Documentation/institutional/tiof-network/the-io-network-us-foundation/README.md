@@ -28,17 +28,17 @@ The following is the basic institutional information about The IO Network US.
 You may use this information for invoicing purposes.
 {% endhint %}
 
-| Item                                                                                | Value                                                                                                      |
-| ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Country**                                                                         | United States (Delaware)                                                                                   |
-| **Official Name**                                                                   | The IO Network US Foundation                                                                               |
-| **Type**                                                                            | Non profit                                                                                                 |
-| **Public use name**                                                                 | The IO Foundation                                                                                          |
-| **Date of establishment**                                                           | 01 / 08 / 2023                                                                                             |
-| **Registration number**                                                             | 7597974                                                                                                    |
-| <p><strong>Correspondence &#x26;</strong><br><strong>Invoicing Address</strong></p> | <p>8 The Green, STE B<br>Kent County<br>Dover<br>Delaware DE 19901<br>United States</p>                |
-| **Trading Address**                                                                 | <p>Co-labs The Starling<br>6, Jalan SS 21/37<br>Damansara Utama<br>47400 Petaling Jaya<br>Malaysia</p> |
-| **TIOF Code**                                                                       | TION US                                                                                                    |
+| Item                                                                                | Value                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Country**                                                                         | United States (Delaware)                                                                                                                                                  |
+| **Official Name**                                                                   | The IO Network US Foundation                                                                                                                                              |
+| **Type**                                                                            | Non profit                                                                                                                                                                |
+| **Public use name**                                                                 | The IO Foundation                                                                                                                                                         |
+| **Date of establishment**                                                           | 01 / 08 / 2023                                                                                                                                                            |
+| **Registration number**                                                             | 7597974                                                                                                                                                                   |
+| <p><strong>Correspondence &#x26;</strong><br><strong>Invoicing Address</strong></p> | <p>8 The Green, STE B<br>Kent County<br>Dover<br>Delaware DE 19901<br>United States</p>                                                                               |
+| **Trading Address**                                                                 | <p><strong>Co-labs Coworking The Starling Plus</strong><br>Lot PT 207, Level 4, Uptown, 7, Jalan SS 21/39 Damansara Utama, 47400 Petaling Jaya<br>Selangor, Malaysia</p> |
+| **TIOF Code**                                                                       | TION US                                                                                                                                                                   |
 
 ## Governance
 
