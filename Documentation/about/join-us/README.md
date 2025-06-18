@@ -51,7 +51,7 @@ TIOF Members can be:
 * [Employees](https://tiof.click/TIOFOrgChartDocs#employees)
 * Associates (coming soon)
 * Fellows (coming soon)
-* Alumns (coming soon)
+* Alumni (coming soon)
 * [Interns](https://tiof.click/TIOFOrgChartDocs#interns)
 * [Volunteers](https://tiof.click/TIOFOrgChartDocs#volunteers)
 
