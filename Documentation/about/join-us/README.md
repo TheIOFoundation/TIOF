@@ -15,7 +15,7 @@ icon: hand-spock
 {% tab title="Share this page" %}
 Use this QR Code to quickly share this page.
 
-<figure><img src="../.gitbook/assets/TIOFDocsJoinTheIOFoundation_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/TIOFDocsJoinTheIOFoundation_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -47,13 +47,13 @@ By joining as a TIOF Member you will officially join one of the TIOF [Teams](bro
 
 TIOF Members can be:
 
+* [Members of a Board](https://tiof.click/TIOFOrgChartDocs#members-of-a-board)
 * [Employees](https://tiof.click/TIOFOrgChartDocs#employees)
 * Associates (coming soon)
 * Fellows (coming soon)
 * Alumns (coming soon)
 * [Interns](https://tiof.click/TIOFOrgChartDocs#interns)
 * [Volunteers](https://tiof.click/TIOFOrgChartDocs#volunteers)
-* [Members of a Board](https://tiof.click/TIOFOrgChartDocs#members-of-a-board)
 
 {% hint style="warning" %}
 As an active TIOF Member, you must be able to commit according to the responsibilities acquired.
@@ -64,7 +64,7 @@ As an active TIOF Member, you must be able to commit according to the responsibi
 &#x20;                                                                                                                                                                      Orebela Gbenga
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:orange;"><strong>Check the available positions @ The IO Foundation</strong></mark></td><td><a href="../.gitbook/assets/image.png">image.png</a></td><td><a href="https://short.theiofoundation.org/TIOFJoinUs">https://Short.TheIOFoundation.org/TIOFJoinUs</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:orange;"><strong>Check the available positions @ The IO Foundation</strong></mark></td><td><a href="../../.gitbook/assets/image.png">image.png</a></td><td><a href="https://short.theiofoundation.org/TIOFJoinUs">https://Short.TheIOFoundation.org/TIOFJoinUs</a></td></tr></tbody></table>
 
 ### Participate as a Collaborator
 
@@ -82,4 +82,4 @@ Check out what are we up to and pick tasks you feel you can contribute with.
 How to contribute on tasks? **Check the Tasks Handbook (coming soon).**
 {% endhint %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:orange;"><strong>Check the available tasks @ The IO Foundation</strong></mark></td><td><a href="../.gitbook/assets/image (6).png">image (6).png</a></td><td><a href="https://short.theiofoundation.org/TIOFTasks">https://Short.TheIOFoundation.org/TIOFTasks</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><mark style="color:orange;"><strong>Check the available tasks @ The IO Foundation</strong></mark></td><td><a href="../../.gitbook/assets/image (6).png">image (6).png</a></td><td><a href="https://short.theiofoundation.org/TIOFTasks">https://Short.TheIOFoundation.org/TIOFTasks</a></td></tr></tbody></table>
