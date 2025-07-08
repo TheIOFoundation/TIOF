@@ -101,6 +101,7 @@
     * [🚧 Intellectual Property](institutional/policies/work-in-progress/intellectual-property.md)
     * [🚧 ICT Systems](institutional/policies/work-in-progress/ict-systems.md)
 * [Annual Reports](institutional/annual-reports/README.md)
+  * [Season 2024](institutional/annual-reports/2024.md)
   * [Season 2023](institutional/annual-reports/2023.md)
   * [Season 2022](institutional/annual-reports/2022.md)
   * [Season 2021](institutional/annual-reports/2021.md)
