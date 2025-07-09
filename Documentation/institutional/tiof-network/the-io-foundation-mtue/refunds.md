@@ -1,13 +1,34 @@
 ---
+description: Refund procedure for The IO Foundation
 hidden: true
 icon: money-bill-transfer
 ---
 
 # Refunds
 
+{% tabs %}
+{% tab title="Quick Resources" %}
+{% hint style="info" %}
+[**ShortURL**](https://short.theiofoundation.org/TIOFRefunds-Info) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
+{% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF QR Code Refund Information XXX v1.0.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
 ## About
 
 The following are the instructions necessary to proceed with a refund for The IO Foundation.
+
+{% hint style="info" %}
+## Do you have questions?
+
+Feel free to contact us at [Finance@TheIOFoundation.org](mailto:Finance@TheIOFoundation.org).
+{% endhint %}
 
 ## Procedure
 
