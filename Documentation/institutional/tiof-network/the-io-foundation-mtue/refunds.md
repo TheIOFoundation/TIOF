@@ -120,15 +120,23 @@ NY, 11421, United States
 
 
 
+
+
+
+
+<details>
+
+<summary></summary>
+
+
+
+
+
+</details>
+
 {% columns %}
-{% column %}
-```
-// Some code
-```
-
-
-
-
+{% column width="50%" %}
+## Domestic Transfers
 
 {% code title="NAME" %}
 ```
@@ -157,12 +165,12 @@ NY, 11421, United States
 
 ```
 {% endcode %}
+
+
 {% endcolumn %}
 
 {% column %}
-
-
-
+## International Transfers
 
 {% code title="NAME" %}
 ```
@@ -194,17 +202,19 @@ NY, 11421, United States
 {% endcolumn %}
 {% endcolumns %}
 
-
-
 {% columns %}
-{% column %}
+{% column width="33.33333333333333%" %}
 
 {% endcolumn %}
 
 {% column %}
+
+
 
 {% endcolumn %}
 {% endcolumns %}
+
+
 
 
 
