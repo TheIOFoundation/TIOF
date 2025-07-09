@@ -1,12 +1,28 @@
 ---
-description: Version 1.0 | This Statute was approved on 01 April 2022.
+description: Version 1.0
 icon: file-lines
 ---
 
 # Organization Statute
 
+{% tabs %}
+{% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIOFStatute) **| Playbook | Assistant**
+[**ShortURL**](https://short.theiofoundation.org/TIOFLegalStatute) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
+{% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF QR Code Legal - Statute XXX v1.0.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+{% hint style="success" %}
+## INFORMATION
+
+This Statute was approved on 01 April 2022.
 {% endhint %}
 
 ## Introduction
