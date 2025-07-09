@@ -95,9 +95,9 @@ The IO Foundation
 
 {% code title="BANK NAME & ADDRESS" %}
 ```
-Community Federal Savings Bank, 89-16 Jamaica Ave,
-Woodhaven, NY, 11421, United States
-
+Community Federal Savings Bank,
+89-16 Jamaica Ave, Woodhaven,
+NY, 11421, United States
 
 
 ```
