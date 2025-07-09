@@ -74,11 +74,6 @@ BE91967037035976
 ```
 {% endcode %}
 
-{% code title="" %}
-```
-```
-{% endcode %}
-
 {% code title="BANK NAME & ADDRESS" %}
 ```
 Wise,
@@ -154,8 +149,7 @@ The IO Foundation
 ```
 {% endcode %}
 
-{% code title="ROUTING NUMBER
-(for wire and ACH)" %}
+{% code title="ROUTING NUMBER (wire & ACH)" %}
 ```
 026073150
 ```
@@ -191,8 +185,7 @@ The IO Foundation
 ```
 {% endcode %}
 
-{% code title="SWIFT/BIC
-" %}
+{% code title="SWIFT/BIC" %}
 ```
 CMFGUS33
 ```
