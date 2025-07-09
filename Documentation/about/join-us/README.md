@@ -66,13 +66,13 @@ By joining as a TIOF Member you will officially join one of the TIOF [Teams](bro
 
 TIOF Members can be:
 
-* [Members of a Board](https://tiof.click/TIOFOrgChartDocs#members-of-a-board)
-* [Employees](https://tiof.click/TIOFOrgChartDocs#employees)
-* Associates (coming soon)
-* Fellows (coming soon)
-* Alumni (coming soon)
-* [Interns](https://tiof.click/TIOFOrgChartDocs#interns)
-* [Volunteers](https://tiof.click/TIOFOrgChartDocs#volunteers)
+* Members of a Board
+* Employees
+* Associates
+* Fellows
+* Alumni
+* Interns
+* Volunteers
 
 {% hint style="warning" %}
 As an active TIOF Member, you must be able to commit according to the responsibilities acquired.
