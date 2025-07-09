@@ -44,7 +44,6 @@
     * [Verification of NGO Status](institutional/tiof-network/the-io-foundation-mtue/verification-of-ngo-status.md)
     * [Applicable legislation](institutional/tiof-network/the-io-foundation-mtue/applicable-legislation.md)
     * [Refunds](institutional/tiof-network/the-io-foundation-mtue/refunds.md)
-    * [Copy of Refunds](institutional/tiof-network/the-io-foundation-mtue/copy-of-refunds.md)
   * [🇺🇸 The IO Network US Foundation](institutional/tiof-network/the-io-network-us-foundation/README.md)
     * [Bylaws](institutional/tiof-network/the-io-network-us-foundation/bylaws.md)
     * [Verification of NGO Status](institutional/tiof-network/the-io-network-us-foundation/verification-of-ngo-status.md)

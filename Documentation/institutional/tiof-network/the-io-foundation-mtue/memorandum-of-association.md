@@ -5,11 +5,23 @@ icon: memo
 
 # Memorandum of Association
 
+{% tabs %}
+{% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIOFLegalMemorandumOfAssociation) **| Playbook | Assistant**
+[**ShortURL**](https://short.theiofoundation.org/TIOFLegalMoA) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF QR Code Legal - MoA XXX v1.0.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 {% hint style="success" %}
+## INFORMATION
+
 This Memorandum of Association was registered on 05 April 2018.
 {% endhint %}
 
