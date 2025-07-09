@@ -48,5 +48,3 @@ The direct link to the Foundation's info page is:
 {% hint style="info" %}
 For any doubts, feel free to [**contact us**](mailto://Contact@TheIOFoundation.org).
 {% endhint %}
-
-{% include "../../../.gitbook/includes/shorturl-or-playbook-or-assis....md" %}
