@@ -11,12 +11,29 @@ The following are the instructions necessary to proceed with a refund for The IO
 
 ## Procedure
 
+* Find in this page all the information you may need to proceed with the refund
 * Select the currency for the refund (EUR, USD) - See details below
 * In the transfer field, please indicate the reference of the invoice refunded
 * Forward the refund receipt to [Finance@TheIOFoundation.org](mailto:Finance@TheIOFoundation.org)
 
 ## Organizational Information
 
+{% columns %}
+{% column %}
+{% code title="Official Name" %}
+```
+The IO Foundation Mittetulundusühing
+```
+{% endcode %}
+
+{% code title="Registration ID" %}
+```
+80549272
+```
+{% endcode %}
+{% endcolumn %}
+
+{% column %}
 {% code title="TIOF ADDRESS" %}
 ```
 The IO Foundation MTÜ
@@ -28,6 +45,12 @@ Harju maakond
 Estonia
 ```
 {% endcode %}
+
+
+{% endcolumn %}
+{% endcolumns %}
+
+Should you need more information, please visit our [Institutional Information page](./).
 
 ## Banking information
 
@@ -47,14 +70,12 @@ The IO Foundation
 
 {% code title="IBAN" %}
 ```
-BE91 9670 3703 5976
+BE91967037035976
 ```
 {% endcode %}
 
-{% code title="ROUTING NUMBER
-(for wire and ACH)" %}
+{% code title="" %}
 ```
-026073150
 ```
 {% endcode %}
 
@@ -69,6 +90,8 @@ Brussels, 1050, Belgium
 {% endcode %}
 
 
+
+***
 {% endcolumn %}
 
 {% column %}
@@ -82,7 +105,7 @@ The IO Foundation
 
 {% code title="ACCOUNT NUMBER" %}
 ```
-BE91 9670 3703 5976
+BE91967037035976
 ```
 {% endcode %}
 
@@ -104,6 +127,8 @@ Brussels, 1050, Belgium
 {% endcode %}
 
 
+
+***
 {% endcolumn %}
 {% endcolumns %}
 
@@ -148,7 +173,7 @@ NY, 11421, United States
 
 
 
-
+***
 {% endcolumn %}
 
 {% column %}
@@ -169,7 +194,7 @@ The IO Foundation
 {% code title="SWIFT/BIC
 " %}
 ```
-TRWIBEB1XXX
+CMFGUS33
 ```
 {% endcode %}
 
@@ -185,13 +210,9 @@ NY, 11421, United States
 
 
 
-
+***
 
 
 {% endcolumn %}
 {% endcolumns %}
-
-
-
-
 
