@@ -119,4 +119,5 @@
   * [Onboarding checklist](operational/handbooks/onboarding-checklist.md)
     * [Temp (To review and maybe delete)](operational/handbooks/onboarding-checklist/temp-to-review-and-maybe-delete.md)
   * [TechUp Fellow: IETF Registration checklist (In-person)](operational/handbooks/ietf-registration-fellow-in-person-info.md)
-  * [TechUp Fellow: IETF Registration checklist (Online)](operational/handbooks/ietf-registration-fellow-online-info.md)
+  * [TechUp Fellow: IETF Registration checklist (Online)](operational/handbooks/ietf-registration-fellow-online-info/README.md)
+    * [NOTES](operational/handbooks/ietf-registration-fellow-online-info/notes.md)

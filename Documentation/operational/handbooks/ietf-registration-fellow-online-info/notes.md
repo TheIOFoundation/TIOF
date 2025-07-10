@@ -2,8 +2,8 @@
 description: Version 1.0
 icon: book-open
 cover: >-
-  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header TIOF TU
-  Fellow IETF Registration XXX v1.0.png
+  ../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header TIOF
+  TU Fellow IETF Registration XXX v1.0.png
 coverY: 0
 layout:
   width: default
@@ -22,19 +22,19 @@ layout:
     visible: true
 ---
 
-# TechUp Fellow: IETF Registration checklist (Online)
+# NOTES
 
 {% tabs %}
 {% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://short.theiofoundation.org/TIOFTUFEGuide-IETF-Registration-Fellow-Online-Info) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
+[**ShortURL**](../ietf-registration-fellow-in-person-info.md) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
 {% endtab %}
 
 {% tab title="Share this page" %}
 Use this QR Code to quickly share this page.
 
-<figure><img src="../../.gitbook/assets/[TIOF TU] Comms [P] 0000-00-00 TIOF QR Code FE IETF Meeting Guide Fellows In-Person XXX v1.0.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/[TIOF TU] Comms [P] 0000-00-00 TIOF QR Code FE IETF Meeting Guide Fellows In-Person XXX v1.0.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -73,9 +73,9 @@ If you are participating online, [please follow this guide](https://short.theiof
 {% endcolumn %}
 {% endcolumns %}
 
-The onboarding procedure is divided into the following steps:
+The registration procedure is divided into the following steps:
 
-<table><thead><tr><th width="203">Step</th><th>Actions by You</th><th>Actions by TIOF</th></tr></thead><tbody><tr><td><ol><li><a href="ietf-registration-fellow-online-info.md#id-1.-creation-of-your-ietf-datatracker-account">Creation of your IETF Datatracker Account</a><br>(if needed)</li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox">Create your IETF Datatracker account</li><li><input type="checkbox">Keep the credentials safe</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox">N/A</li></ul></td></tr><tr><td><ol start="2"><li><a href="ietf-registration-fellow-online-info.md#id-2.-registration-to-the-ietf-meeting">Registration to the IETF meeting</a></li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox">Register in the IETF meeting</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox">N/A</li></ul></td></tr><tr><td><ol start="3"><li><a href="ietf-registration-fellow-online-info.md#id-3.-payment">Payment</a></li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox"> N/A</li></ul><p></p></td><td><ul class="contains-task-list"><li><input type="checkbox">TIOF will proceed to make the payment on your behalf</li></ul></td></tr><tr><td><ol start="4"><li><a href="ietf-registration-fellow-online-info.md#id-4.-confirmation">Confirmation</a></li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox">Confirm TIOF that your registration is in order</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox">N/A</li></ul></td></tr><tr><td><ol start="5"><li><a href="ietf-registration-fellow-online-info.md#id-5.-additional-steps">Additional steps</a></li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox">Review optional registrations</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox">N/A</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="203">Step</th><th>Actions by You</th><th>Actions by TIOF</th></tr></thead><tbody><tr><td><ol><li><a href="notes.md#id-1.-creation-of-your-ietf-datatracker-account">Creation of your IETF Datatracker Account</a><br>(if needed)</li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox">Create your IETF Datatracker account</li><li><input type="checkbox">Keep the credentials safe</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox">N/A</li></ul></td></tr><tr><td><ol start="2"><li><a href="notes.md#id-2.-registration-to-the-ietf-meeting">Registration to the IETF meeting</a></li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox">Register in the IETF meeting</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox">N/A</li></ul></td></tr><tr><td><ol start="3"><li><a href="notes.md#id-3.-payment">Payment</a></li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox"> N/A</li></ul><p></p></td><td><ul class="contains-task-list"><li><input type="checkbox">TIOF will proceed to make the payment on your behalf</li></ul></td></tr><tr><td><ol start="4"><li><a href="notes.md#id-4.-confirmation">Confirmation</a></li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox">Confirm TIOF that your registration is in order</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox">N/A</li></ul></td></tr><tr><td><ol start="5"><li><a href="notes.md#id-5.-additional-steps">Additional steps</a></li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox">Review optional registrations</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox">N/A</li></ul></td></tr></tbody></table>
 
 ## 1. Creation of your IETF Datatracker Account
 
@@ -96,7 +96,23 @@ Please make sure to store your credentials in a safe place.
 If you would like help on this matter please contact us.
 {% endhint %}
 
-## 2. Registration to the IETF meeting
+## 2. Obtain your Fee Waiver
+
+
+
+| Field   |                                                                      |   |
+| ------- | -------------------------------------------------------------------- | - |
+| Name    |                                                                      |   |
+| Company |                                                                      |   |
+| Email   | Introduce the email you have used for your IETF Datatracker account. |   |
+
+* [ ] The IETF platform will generate a confirmation with a Comp Code.
+  * [ ] Save that Comp Code\
+    (note that you will also receive an email from the IETF with the Comp Code)
+
+
+
+## 3. Registration to the IETF meeting
 
 * [ ] Go to [https://www.ietf.org/meeting/upcoming/](https://www.ietf.org/meeting/upcoming/) and select the corresponding upcoming meeting
 * [ ] Find the registration page (typically under Meeting **Registration > Register**)
@@ -104,7 +120,20 @@ If you would like help on this matter please contact us.
 * [ ] Login with your IETF Datatracker credentials
 * [ ] Fill up the registration, observing the following recommendations
 
-<table><thead><tr><th width="114.71429443359375">STEP</th><th>QUESTION</th><th>Recommendation</th></tr></thead><tbody><tr><td><strong>INFO</strong></td><td><ul class="contains-task-list"><li><input type="checkbox">Please add me to the new participant mail list</li></ul></td><td>If this is your first time at an IETF meeting, we highly recommend you to join this list.</td></tr><tr><td></td><td><ul class="contains-task-list"><li><input type="checkbox">I would like to subscribe to the attendees mailing list</li></ul></td><td>We recommend all Fellows to join this list as important announcements will be send by IETF from time to time.</td></tr><tr><td></td><td><ul class="contains-task-list"><li><input type="checkbox">I am planning to attend the Code Sprint on Saturday</li></ul></td><td>If you have coding skills, we encourage you to join the Code Sprint.</td></tr><tr><td><strong>OPTIONS</strong></td><td><ul class="contains-task-list"><li><input type="checkbox" checked>Register for Hackathon</li></ul></td><td>Attendance to the Hackathon is mandatory for all in-person Fellows.</td></tr><tr><td><strong>DONATION</strong></td><td>Donate to the IETF Endowment</td><td><p>Should you be able to, please consider this option.</p><p><br><mark style="color:red;"><strong>Please note that The IO Foundation is NOT affiliated with the IETF.</strong></mark></p><p><mark style="color:red;"><strong>This recommendation is purely a private decision and is suggested exclusively to support the IETF and its activities.</strong></mark></p></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+
+NOTES
+
+* We can either pay for the remote participation fee
+* OR
+* Fee Waiver + Pay for Donation
+  * In which case there's the Fee Waiver to obtain and the Comp Code to APPLY.
+
+We need to check what's the best option
+
+
+
+<table><thead><tr><th width="114.71429443359375">STEP</th><th>QUESTION</th><th>Recommendation</th></tr></thead><tbody><tr><td><strong>INFO</strong></td><td><ul class="contains-task-list"><li><input type="checkbox">Please add me to the new participant mail list</li></ul></td><td>If this is your first time at an IETF meeting, we highly recommend you to join this list.</td></tr><tr><td></td><td><ul class="contains-task-list"><li><input type="checkbox">I would like to subscribe to the attendees mailing list</li></ul></td><td>We recommend all Fellows to join this list as important announcements will be send by IETF from time to time.</td></tr><tr><td><strong>DONATION</strong></td><td>Donate to the IETF Endowment</td><td><p>Should you be able to, please consider this option.</p><p><br><mark style="color:red;"><strong>Please note that The IO Foundation is NOT affiliated with the IETF.</strong></mark></p><p><mark style="color:red;"><strong>This recommendation is purely a private decision and is suggested exclusively to support the IETF and its activities.</strong></mark></p></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 * [ ] When reaching the PAYMENT step,
   * [ ] Select the option **Forward to 3rd party for payment**
@@ -163,3 +192,6 @@ Depending on how many IETF meetings you have participated in, we recommend you t
 
 Now that you are registered in the IETF meeting, it's time to check your schedule and prepare to get the most out of your participation.
 {% endhint %}
+
+
+
