@@ -76,8 +76,6 @@ The IO Foundation Mittetulundusühing
 {% column %}
 {% code title="TIOF ADDRESS" %}
 ```
-The IO Foundation MTÜ
-(Reg. 80549272)
 Rataskaevu tn 2
 Kesklinna linnaosa
 10123 Tallinn

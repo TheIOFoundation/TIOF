@@ -41,7 +41,7 @@ Use this QR Code to quickly share this page.
 
 ## About
 
-The following are the instructions necessary to proceed with a refund for The IO Foundation.
+The following are the instructions necessary to proceed with a refund for The IO Network US Foundation.
 
 {% hint style="info" %}
 ## Do you have questions?
@@ -62,27 +62,25 @@ Feel free to contact us at [Finance@TheIOFoundation.org](mailto:Finance@TheIOFou
 {% column %}
 {% code title="Official Name" %}
 ```
-The IO Foundation Mittetulundusühing
+The IO Network US Foundation
 ```
 {% endcode %}
 
 {% code title="Registration ID" %}
 ```
-80549272
+7597974
 ```
 {% endcode %}
 {% endcolumn %}
 
 {% column %}
-{% code title="TIOF ADDRESS" %}
+{% code title="TION-US ADDRESS" %}
 ```
-The IO Foundation MTÜ
-(Reg. 80549272)
-Rataskaevu tn 2
-Kesklinna linnaosa
-10123 Tallinn
-Harju maakond
-Estonia
+8 The Green, STE B
+Kent County
+Dover
+Delaware DE 19901
+United States
 ```
 {% endcode %}
 
@@ -94,81 +92,6 @@ Should you need more information, please visit our [Institutional Information pa
 
 ## Banking information
 
-### EURO
-
-The following are the EUR account details for The IO Foundation.
-
-{% columns %}
-{% column %}
-### Domestic Transfers
-
-{% code title="NAME" %}
-```
-The IO Foundation
-```
-{% endcode %}
-
-{% code title="IBAN" %}
-```
-BE91967037035976
-```
-{% endcode %}
-
-{% code title="BANK NAME & ADDRESS" %}
-```
-Wise,
-Rue du Trône 100, 3rd floor,
-Brussels, 1050, Belgium
-
-
-```
-{% endcode %}
-
-
-
-***
-{% endcolumn %}
-
-{% column %}
-### International Transfers
-
-{% code title="NAME" %}
-```
-The IO Foundation
-```
-{% endcode %}
-
-{% code title="ACCOUNT NUMBER" %}
-```
-BE91967037035976
-```
-{% endcode %}
-
-{% code title="SWIFT/BIC
-" %}
-```
-TRWIBEB1XXX
-```
-{% endcode %}
-
-{% code title="BANK NAME & ADDRESS" %}
-```
-Wise,
-Rue du Trône 100, 3rd floor,
-Brussels, 1050, Belgium
-
-
-```
-{% endcode %}
-
-
-
-***
-{% endcolumn %}
-{% endcolumns %}
-
-
-
 ### US DOLLAR
 
 The following are the USD account details for The IO Foundation.
@@ -179,13 +102,13 @@ The following are the USD account details for The IO Foundation.
 
 {% code title="NAME" %}
 ```
-The IO Foundation
+The IO Network US Foundation
 ```
 {% endcode %}
 
 {% code title="ACCOUNT NUMBER (Checking)" %}
 ```
-8310060238
+822000763875
 ```
 {% endcode %}
 
@@ -215,17 +138,18 @@ NY, 11421, United States
 
 {% code title="NAME" %}
 ```
-The IO Foundation
+The IO Network US Foundation
 ```
 {% endcode %}
 
 {% code title="ACCOUNT NUMBER" %}
 ```
-8310060238
+822000763875
 ```
 {% endcode %}
 
-{% code title="SWIFT/BIC" %}
+{% code title="SWIFT/BIC
+" %}
 ```
 CMFGUS33
 ```
@@ -246,6 +170,79 @@ NY, 11421, United States
 ***
 
 
+{% endcolumn %}
+{% endcolumns %}
+
+### EURO
+
+The following are the EUR account details for The IO Foundation.
+
+{% columns %}
+{% column %}
+### Domestic Transfers
+
+{% code title="NAME" %}
+```
+The IO Network US Foundation
+```
+{% endcode %}
+
+{% code title="IBAN" %}
+```
+BE53967737790753
+```
+{% endcode %}
+
+{% code title="BANK NAME & ADDRESS" %}
+```
+Wise,
+Rue du Trône 100, 3rd floor,
+Brussels, 1050, Belgium
+
+
+```
+{% endcode %}
+
+
+
+***
+{% endcolumn %}
+
+{% column %}
+### International Transfers
+
+{% code title="NAME" %}
+```
+The IO Network US Foundation
+```
+{% endcode %}
+
+{% code title="ACCOUNT NUMBER" %}
+```
+BE53967737790753
+```
+{% endcode %}
+
+{% code title="SWIFT/BIC
+" %}
+```
+TRWIBEB1XXX
+```
+{% endcode %}
+
+{% code title="BANK NAME & ADDRESS" %}
+```
+Wise,
+Rue du Trône 100, 3rd floor,
+Brussels, 1050, Belgium
+
+
+```
+{% endcode %}
+
+
+
+***
 {% endcolumn %}
 {% endcolumns %}
 
