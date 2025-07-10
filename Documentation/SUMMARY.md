@@ -118,3 +118,5 @@
 * [Handbooks](operational/handbooks/README.md)
   * [Onboarding checklist](operational/handbooks/onboarding-checklist.md)
     * [Temp (To review and maybe delete)](operational/handbooks/onboarding-checklist/temp-to-review-and-maybe-delete.md)
+  * [TIOF TU Fellow: IETF Registration checklist](operational/handbooks/onboarding-checklist-1/README.md)
+    * [Temp (To review and maybe delete)](operational/handbooks/onboarding-checklist-1/temp-to-review-and-maybe-delete.md)
