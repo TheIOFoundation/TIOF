@@ -28,20 +28,20 @@ layout:
 {% tabs %}
 {% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://short.theiofoundation.org/TIOFRefunds-Info) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
+[**ShortURL**](https://short.theiofoundation.org/TIONMYRefunds-Info) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
 {% endtab %}
 
 {% tab title="Share this page" %}
 Use this QR Code to quickly share this page.
 
-<figure><img src="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF QR Code Refund Information XXX v1.0.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/[TION-MY] Comms [P] 0000-00-00 TION-MY QR Code Refund Information XXX v1.0.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
 ## About
 
-The following are the instructions necessary to proceed with a refund for The IO Foundation.
+The following are the instructions necessary to proceed with a refund for The IO Network MY Sdn. Bhd.
 
 {% hint style="info" %}
 ## Do you have questions?
@@ -52,7 +52,7 @@ Feel free to contact us at [Finance@TheIOFoundation.org](mailto:Finance@TheIOFou
 ## Procedure
 
 * Find in this page all the information you may need to proceed with the refund
-* Select the currency for the refund (EUR, USD) - See details below
+* Select the currency for the refund (MYR, EUR, USD) - See details below
 * In the transfer field, please indicate the reference of the invoice refunded
 * Forward the refund receipt to [Finance@TheIOFoundation.org](mailto:Finance@TheIOFoundation.org)
 
@@ -62,13 +62,14 @@ Feel free to contact us at [Finance@TheIOFoundation.org](mailto:Finance@TheIOFou
 {% column %}
 {% code title="Official Name" %}
 ```
-The IO Foundation Mittetulundusühing
+The IO Network MY Sdn. Bhd.
 ```
 {% endcode %}
 
 {% code title="Registration ID" %}
 ```
-80549272
+201901006042
+(Old format: 1315369-A)
 ```
 {% endcode %}
 {% endcolumn %}
@@ -76,13 +77,11 @@ The IO Foundation Mittetulundusühing
 {% column %}
 {% code title="TIOF ADDRESS" %}
 ```
-The IO Foundation MTÜ
-(Reg. 80549272)
-Rataskaevu tn 2
-Kesklinna linnaosa
-10123 Tallinn
-Harju maakond
-Estonia
+Co-labs The Starling
+6, Jalan SS 21/37
+Damansara Utama
+47400 Petaling Jaya
+Malaysia
 ```
 {% endcode %}
 
@@ -94,9 +93,9 @@ Should you need more information, please visit our [Institutional Information pa
 
 ## Banking information
 
-### EURO
+### MALAYSIAN RINGGIT
 
-The following are the EUR account details for The IO Foundation.
+The following are the MYR account details for The IO Network MY Sdn. Bhd.
 
 {% columns %}
 {% column %}
@@ -104,23 +103,22 @@ The following are the EUR account details for The IO Foundation.
 
 {% code title="NAME" %}
 ```
-The IO Foundation
+THE IO NETWORK MY SDN. BHD.
 ```
 {% endcode %}
 
-{% code title="IBAN" %}
+{% code title="ACCOUNT NUMBER (CURRENT)" %}
 ```
-BE91967037035976
+2223014579
 ```
 {% endcode %}
 
 {% code title="BANK NAME & ADDRESS" %}
 ```
-Wise,
-Rue du Trône 100, 3rd floor,
-Brussels, 1050, Belgium
-
-
+34, Lorong Batu Nilam 4b,
+Bandar Bukit Tinggi,
+41200 Klang, Selangor,
+Malaysia
 ```
 {% endcode %}
 
@@ -134,30 +132,29 @@ Brussels, 1050, Belgium
 
 {% code title="NAME" %}
 ```
-The IO Foundation
+THE IO NETWORK MY SDN. BHD.
 ```
 {% endcode %}
 
 {% code title="ACCOUNT NUMBER" %}
 ```
-BE91967037035976
+2223014579
 ```
 {% endcode %}
 
 {% code title="SWIFT/BIC
 " %}
 ```
-TRWIBEB1XXX
+UOVBMYKL
 ```
 {% endcode %}
 
 {% code title="BANK NAME & ADDRESS" %}
 ```
-Wise,
-Rue du Trône 100, 3rd floor,
-Brussels, 1050, Belgium
-
-
+34, Lorong Batu Nilam 4b,
+Bandar Bukit Tinggi,
+41200 Klang, Selangor,
+Malaysia
 ```
 {% endcode %}
 
@@ -167,85 +164,13 @@ Brussels, 1050, Belgium
 {% endcolumn %}
 {% endcolumns %}
 
+### EURO
 
+(Coming soon.)
 
 ### US DOLLAR
 
-The following are the USD account details for The IO Foundation.
-
-{% columns %}
-{% column %}
-### Domestic Transfers
-
-{% code title="NAME" %}
-```
-The IO Foundation
-```
-{% endcode %}
-
-{% code title="ACCOUNT NUMBER (Checking)" %}
-```
-8310060238
-```
-{% endcode %}
-
-{% code title="ROUTING NUMBER (wire & ACH)" %}
-```
-026073150
-```
-{% endcode %}
-
-{% code title="BANK NAME & ADDRESS" %}
-```
-Community Federal Savings Bank,
-89-16 Jamaica Ave, Woodhaven,
-NY, 11421, United States
+(Coming soon.)
 
 
-```
-{% endcode %}
-
-
-
-***
-{% endcolumn %}
-
-{% column %}
-### International Transfers
-
-{% code title="NAME" %}
-```
-The IO Foundation
-```
-{% endcode %}
-
-{% code title="ACCOUNT NUMBER" %}
-```
-8310060238
-```
-{% endcode %}
-
-{% code title="SWIFT/BIC" %}
-```
-CMFGUS33
-```
-{% endcode %}
-
-{% code title="BANK NAME & ADDRESS" %}
-```
-Community Federal Savings Bank,
-89-16 Jamaica Ave, Woodhaven,
-NY, 11421, United States
-
-
-```
-{% endcode %}
-
-
-
-***
-
-
-{% endcolumn %}
-{% endcolumns %}
 

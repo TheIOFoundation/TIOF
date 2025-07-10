@@ -52,7 +52,7 @@ Feel free to contact us at [Finance@TheIOFoundation.org](mailto:Finance@TheIOFou
 ## Procedure
 
 * Find in this page all the information you may need to proceed with the refund
-* Select the currency for the refund (EUR, USD) - See details below
+* Select the currency for the refund (USD, EUR) - See details below
 * In the transfer field, please indicate the reference of the invoice refunded
 * Forward the refund receipt to [Finance@TheIOFoundation.org](mailto:Finance@TheIOFoundation.org)
 
@@ -94,7 +94,7 @@ Should you need more information, please visit our [Institutional Information pa
 
 ### US DOLLAR
 
-The following are the USD account details for The IO Foundation.
+The following are the USD account details for The IO Network US Foundation.
 
 {% columns %}
 {% column %}
@@ -175,7 +175,7 @@ NY, 11421, United States
 
 ### EURO
 
-The following are the EUR account details for The IO Foundation.
+The following are the EUR account details for The IO Network US Foundation.
 
 {% columns %}
 {% column %}
