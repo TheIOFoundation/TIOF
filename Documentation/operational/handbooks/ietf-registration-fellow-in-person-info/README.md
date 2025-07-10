@@ -156,3 +156,10 @@ Depending on how many IETF meetings you have participated in, we recommend you t
 | **You've participated for less than 5 IETF meetings.** | <mark style="color:yellow;">**{TO BE COMPLETED}**</mark>                                     | <mark style="color:yellow;">**{TO BE COMPLETED}**</mark>                                                                                                                                                                                        |
 | **You've participated for over 5 IETF meetings.**      | <ul class="contains-task-list"><li><input type="checkbox">Guides Program</li></ul>           | <p>If you are confident in your knowledge about the IETF and its processes, we recommend you to volunteer as a Guide.<br>Find more information in the<br><a href="https://www.ietf.org/participate/guides/">IETF Guides Program</a>.</p>        |
 
+
+
+{% hint style="success" %}
+## WHAT NEXT?
+
+Now that you are registered in the IETF meeting, it's time to check your schedule and prepare to get the most out of your participation.
+{% endhint %}
