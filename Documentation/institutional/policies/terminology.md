@@ -29,49 +29,51 @@ This terminology page provides a concise and standardized reference guide for ke
 
 #### **Accommodation**
 
-#### The temporary lodging (e.g., hotel, rental, or dorm) where the member stays during the activity.
+The temporary lodging (e.g., hotel, rental, or dorm) where the member stays during the activity.
 
 #### **Activity Country**
 
-#### The country where the activity or event is held.
+The country where the activity or event is held.
 
 #### **Activity City**
 
 The city where the activity or event takes place.
 
-**Activity Venue**\
+#### **Activity Venue**
+
 The specific location (e.g., conference center, hall, or facility) where the activity occurs.
 
-**Airport / Station / Port**\
+#### **Airport / Station / Port**
+
 The primary transportation hub(s) (e.g., airport, train station, or seaport) used for travel to/from the activity.
 
 
 
-{% code title="Accommodation" %}
+{% code title="Accommodation" overflow="wrap" fullWidth="false" %}
 ```
 The temporary lodging (e.g., hotel, rental, or dorm) where the member stays during the activity
 ```
 {% endcode %}
 
-{% code title="Activity Country" %}
+{% code title="Activity Country" overflow="wrap" %}
 ```
 The country where the activity or event is held.
 ```
 {% endcode %}
 
-{% code title="Activity City" %}
+{% code title="Activity City" overflow="wrap" %}
 ```
 The city where the activity or event takes place.
 ```
 {% endcode %}
 
-{% code title="Activity Venue" %}
+{% code title="Activity Venue" overflow="wrap" %}
 ```
 The specific location (e.g., conference center, hall, or facility) where the activity occurs.
 ```
 {% endcode %}
 
-{% code title="Airport / Station / Port" %}
+{% code title="Airport / Station / Port" overflow="wrap" %}
 ```
 The primary transportation hub(s) (e.g., airport, train station, or seaport) used for travel to/from the activity.
 ```
