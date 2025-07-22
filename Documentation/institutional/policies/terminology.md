@@ -9,7 +9,7 @@ icon: notebook
 
 **About the Terminology Page**
 
-This terminology page serves as a concise reference guide for key terms related to activities and events organized by our organization. It provides clear, standardized definitions for concepts such as member locations, accommodations, transportation, and activity details. Designed to ensure clarity and consistency, this resource supports members in understanding the logistics and responsibilities associated with participation in our events.
+This terminology page provides a concise and standardized reference guide for key terms used in The IO Foundation's procedures.
 
 
 
@@ -27,9 +27,13 @@ This terminology page serves as a concise reference guide for key terms related 
 
 
 
-#### **Accommodation** The temporary lodging (e.g., hotel, rental, or dorm) where the member stays during the activity.
+#### **Accommodation**
 
-#### **Activity Country** The country where the activity or event is held.
+#### The temporary lodging (e.g., hotel, rental, or dorm) where the member stays during the activity.
+
+#### **Activity Country**
+
+#### The country where the activity or event is held.
 
 #### **Activity City**
 
