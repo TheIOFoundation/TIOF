@@ -31,6 +31,9 @@ This terminology page serves as a concise reference guide for key terms related 
 
 **Home:** The primary residence or permanent address where the member lives.
 
+**Home**\
+The primary residence or permanent address where the member lives.
+
 {% code title="Home" %}
 ```
 The primary residence or permanent address where the member lives.
