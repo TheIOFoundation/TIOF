@@ -15,6 +15,69 @@ This terminology page serves as a concise reference guide for key terms related 
 
 ## A
 
+**Accommodation**: The temporary lodging (e.g., hotel, rental, or dorm) where the member stays during the activity.
+
+**Activity Country**: The country where the activity or event is held.
+
+**Activity City**: The city where the activity or event takes place.
+
+**Activity Venue**: The specific location (e.g., conference center, hall, or facility) where the activity occurs.
+
+**Airport / Station / Port**: The primary transportation hub(s) (e.g., airport, train station, or seaport) used for travel to/from the activity.
+
+
+
+**Accommodation**\
+The temporary lodging (e.g., hotel, rental, or dorm) where the member stays during the activity.
+
+**Activity Country**\
+The country where the activity or event is held.
+
+**Activity City**\
+The city where the activity or event takes place.
+
+**Activity Venue**\
+The specific location (e.g., conference center, hall, or facility) where the activity occurs.
+
+**Airport / Station / Port**\
+The primary transportation hub(s) (e.g., airport, train station, or seaport) used for travel to/from the activity.
+
+
+
+{% code title="Accommodation" %}
+```
+The temporary lodging (e.g., hotel, rental, or dorm) where the member stays during the activity
+```
+{% endcode %}
+
+{% code title="Activity Country" %}
+```
+The country where the activity or event is held.
+```
+{% endcode %}
+
+{% code title="Activity City" %}
+```
+The city where the activity or event takes place.
+```
+{% endcode %}
+
+{% code title="Activity Venue" %}
+```
+The specific location (e.g., conference center, hall, or facility) where the activity occurs.
+```
+{% endcode %}
+
+{% code title="Airport / Station / Port" %}
+```
+The primary transportation hub(s) (e.g., airport, train station, or seaport) used for travel to/from the activity.
+```
+{% endcode %}
+
+
+
+
+
 ## B
 
 ## C
@@ -80,11 +143,8 @@ The primary residence or permanent address where the member lives.
 
 
 
-* **Accommodation**: The temporary lodging (e.g., hotel, rental, or dorm) where the member stays during the activity.
-* **Office**: The designated workplace or office location assigned to the member for their regular duties.
-* **Activity Country**: The country where the activity or event is held.
-* **Activity City**: The city where the activity or event takes place.
-* **Activity Venue**: The specific location (e.g., conference center, hall, or facility) where the activity occurs.
-* **Airport / Station / Port**: The primary transportation hub(s) (e.g., airport, train station, or seaport) used for travel to/from the activity.
+
+
 * **Transportation Method**: The mode of transport used to reach the activity (e.g., flight, train, bus, boat, or eHail services like Uber).
+* **Office**: The designated workplace or office location assigned to the member for their regular duties.
 * **Mileage**: The distance traveled (in miles or kilometers) when a member uses their personal vehicle for activity-related travel, often tracked for reimbursement purposes.
