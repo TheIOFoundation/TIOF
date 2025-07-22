@@ -27,13 +27,12 @@ This terminology page serves as a concise reference guide for key terms related 
 
 
 
-**Accommodation**\
-The temporary lodging (e.g., hotel, rental, or dorm) where the member stays during the activity.
+#### **Accommodation** The temporary lodging (e.g., hotel, rental, or dorm) where the member stays during the activity.
 
-**Activity Country**\
-The country where the activity or event is held.
+#### **Activity Country** The country where the activity or event is held.
 
-**Activity City**\
+#### **Activity City**
+
 The city where the activity or event takes place.
 
 **Activity Venue**\
