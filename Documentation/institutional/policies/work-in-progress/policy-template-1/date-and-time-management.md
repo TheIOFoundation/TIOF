@@ -60,7 +60,11 @@ This policy shall be reviewed regularly to ensure its continued relevance and ef
 The IO Foundation is committed to conducting its advocacy and all of its initiatives in an honest and ethical manner. We take a zero-tolerance approach to bribery and corruption and are committed to acting professionally, transparently, fairly, with integrity and under the observance of the law in our advocacy, operations, financial management and relationships.
 {% endhint %}
 
-### What is bribery?
+### DELETE AFTER CHECKING
+
+***
+
+
 
 ## Date
 
@@ -123,6 +127,8 @@ All deadlines are to be established based on 00:00:00 UTC+0 of the day immediate
 ## Combined
 
 Format: DD/MM/YYYY or dddd mmmm yyyy
+
+***
 
 
 
