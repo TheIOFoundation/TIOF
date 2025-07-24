@@ -2,7 +2,7 @@
 description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
 ---
 
-# 🚧 Date & Time Management
+# 🚧 Activities
 
 {% hint style="info" %}
 **ShortURL |** ~~Playbook~~ **|** ~~Assistant~~
@@ -65,70 +65,6 @@ The IO Foundation is committed to conducting its advocacy and all of its initiat
 ***
 
 
-
-## Date
-
-First day of the week: Monday
-
-
-
-## Time
-
-Time format: HH:MM (Military format)
-
-Time zone: UTC+0
-
-
-
-Examples
-
-* Calendars (Organization + Team wide)
-* Deadlines
-* Data
-
-
-
-## Weeks
-
-Working week is from Monday to Friday.
-
-## Months
-
-Months follow solar cycle.
-
-
-
-
-
-## Time zones
-
-
-
-Reference days
-
-Winter Time: 1st January
-
-Summer Time: 1st Jul7
-
-
-
-### Using other Time zones
-
-In certain cases, the proper Time Zone to be used is different from the Organization's standard.
-
-
-
-### Deadlines
-
-All deadlines are to be established based on 00:00:00 UTC+0 of the day immediately after the last day.
-
-
-
-## Combined
-
-Format: DD/MM/YYYY or dddd mmmm yyyy
-
-***
 
 
 
