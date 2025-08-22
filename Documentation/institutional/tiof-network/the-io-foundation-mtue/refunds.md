@@ -41,6 +41,13 @@ Feel free to contact us at [Finance@TheIOFoundation.org](mailto:Finance@TheIOFou
 * In the transfer field, please indicate the reference of the invoice refunded
 * Forward the refund receipt to [Finance@TheIOFoundation.org](mailto:Finance@TheIOFoundation.org)
 
+{% hint style="success" %}
+## Using Wise?
+
+If you are refunding via Wise, you can easily find The IO Foundation with the following Wisetag:\
+theiofoundation
+{% endhint %}
+
 ## Organizational Information
 
 {% columns %}
