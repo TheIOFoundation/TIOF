@@ -3,12 +3,13 @@
 ## About
 
 * [Introduction](README.md)
-  * [🔀 Theory of Change](about/introduction/theory-of-change.md)
   * [🔠 Portfolio](about/readme/portfolio.md)
   * [🚧 Partners & Collaborators](about/introduction/partners-and-collaborators.md)
   * [❓ Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
 * [Page](about/page.md)
-* [Organization Brief](about/organization-brief.md)
+* [Organization Brief](about/organization-brief/README.md)
+  * [Theory of Change](about/organization-brief/theory-of-change.md)
+  * [Initiatives & Projects](about/organization-brief/initiatives-and-projects.md)
 * [Business Plan](about/business-plan.md)
 * [Media Kit](about/media-kit.md)
 * [Directory](about/introduction/directory.md)
@@ -33,6 +34,7 @@
 
 * [Strategy](season-2025/strategy.md)
 * [Activities](https://docs.theiofoundation.org/activities)
+* [Previous Seasons](season-2025/previous-seasons.md)
 
 ## Institutional
 

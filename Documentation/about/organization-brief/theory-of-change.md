@@ -1,9 +1,10 @@
 ---
 description: Version 1.0 | This Theory of Change was approved on DD MMMM YYYY.
 hidden: true
+icon: swap
 ---
 
-# 🔀 Theory of Change
+# Theory of Change
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFTofC) **| Playbook | Assistant**
@@ -15,6 +16,8 @@ hidden: true
 This documentation page is under construction.\
 Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
 {% endhint %}
+
+## Advocacy
 
 
 
