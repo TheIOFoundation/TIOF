@@ -1,5 +1,6 @@
 ---
 description: Archive of mentions about The IO Foundation in media.
+hidden: true
 icon: cabinet-filing
 ---
 

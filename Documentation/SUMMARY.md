@@ -16,6 +16,7 @@
 * [NextGen Rights Defenders](about/nextgen-rights-defenders.md)
 * [Hey Big Tech! declaration](about/hey-big-tech-declaration.md)
 * [DCDR Principles](https://tiof.click/Principles)
+* [Sagan Oath (link)](about/sagan-oath-link.md)
 * [Join us](about/join-us/README.md)
   * [Members of a board](about/join-us/members-of-a-board.md)
   * [Employees](about/join-us/employees.md)
