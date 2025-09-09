@@ -1,0 +1,8 @@
+{
+  "plugins": ["custom-js-css"],
+  "pluginsConfig": {
+    "custom-js-css": {
+      "js": ["../scripts/matomo.js"]
+    }
+  }
+}
