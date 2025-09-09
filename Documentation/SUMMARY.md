@@ -11,7 +11,6 @@
   * [Theory of Change](about/organization-brief/theory-of-change.md)
   * [Initiatives & Projects](about/organization-brief/initiatives-and-projects.md)
 * [Business Plan](about/business-plan.md)
-* [Media Kit](about/media-kit.md)
 * [Directory](about/introduction/directory.md)
 * [NextGen Rights Defenders](about/nextgen-rights-defenders.md)
 * [Hey Big Tech! declaration](about/hey-big-tech-declaration.md)
@@ -28,8 +27,7 @@
 * [Support Us](about/support-us.md)
 * [Awards](about/awards.md)
 * [Media Archive](about/media-archive.md)
-
-## Stakeholders
+* [Media Kit](about/media-kit.md)
 
 ## SEASON 2025
 
