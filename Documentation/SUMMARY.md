@@ -6,7 +6,6 @@
   * [🔠 Portfolio](about/readme/portfolio.md)
   * [🚧 Partners & Collaborators](about/introduction/partners-and-collaborators.md)
   * [❓ Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
-* [Page](about/page.md)
 * [Organization Brief](about/organization-brief/README.md)
   * [Theory of Change](about/organization-brief/theory-of-change.md)
   * [Initiatives & Projects](about/organization-brief/initiatives-and-projects.md)
@@ -124,3 +123,4 @@
   * [TechUp Fellow: IETF Registration checklist (In-person)](operational/handbooks/ietf-registration-fellow-in-person-info.md)
   * [TechUp Fellow: IETF Registration checklist (Online)](operational/handbooks/ietf-registration-fellow-online-info/README.md)
     * [NOTES](operational/handbooks/ietf-registration-fellow-online-info/notes.md)
+* [Reusable Blocks](operational/page.md)
