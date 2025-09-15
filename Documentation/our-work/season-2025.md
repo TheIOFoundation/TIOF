@@ -2,7 +2,7 @@
 icon: leaf
 cover: >-
   ../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Season XXX
-  v1.1.png
+  v1.4.png
 coverY: 0
 layout:
   width: default
@@ -41,7 +41,7 @@ Use this QR Code to quickly share this page.
 
 ## About
 
-This page contains describes the The IO Foundation's strategy for Season 2025.
+This page contains all The IO Foundation's strategy and reporting for Season 2025.
 
 ## Introduction
 
@@ -70,3 +70,8 @@ For Season 2025, The IO Foundation will focus on the following Initiatives and P
 
 <table><thead><tr><th width="283">Initiative</th><th width="293">Project</th><th>Notes</th></tr></thead><tbody><tr><td><a href="https://tiof.click/BiTDocs">Business and Human Rights in Technology<br>[BiT]</a></td><td>ProtocolWatch</td><td></td></tr><tr><td><a href="https://tiof.click/BiTDocs">Technology<br>[BiT]</a></td><td><del>Preventing Internet Fragmentation (PIF)</del></td><td>PROJECT WAS CANCELLED BY GRANTOR</td></tr><tr><td><a href="https://tiof.click/DCDRDocs">Data-Centric Digital Rights<br>[DCDR]</a></td><td>DCDR Framework</td><td></td></tr><tr><td><a href="https://tiof.click/TUDocs">TechUp<br>[TU]</a></td><td>TechUp Academy</td><td></td></tr></tbody></table>
 
+## Annual Reports
+
+{% hint style="info" %}
+The annual reports will be available in 2026.
+{% endhint %}
