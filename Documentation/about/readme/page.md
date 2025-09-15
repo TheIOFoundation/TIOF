@@ -26,7 +26,7 @@ layout:
 
 {% tabs %}
 {% tab title="Now" %}
-<div><figure><img src="../../.gitbook/assets/hosted.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/api-reference.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/no-code.jpg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/no-code.jpg" alt=""><figcaption><p>APrIGF</p></figcaption></figure> <figure><img src="../../.gitbook/assets/hosted.jpg" alt=""><figcaption></figcaption></figure></div>
 {% endtab %}
 
 {% tab title="Activities" %}
