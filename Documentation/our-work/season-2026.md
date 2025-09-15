@@ -3,7 +3,7 @@ hidden: true
 icon: leaf
 cover: >-
   ../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Season XXX
-  v1.2.png
+  v1.4.png
 coverY: 0
 layout:
   width: default
