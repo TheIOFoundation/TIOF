@@ -1,5 +1,26 @@
 ---
 icon: user-shield
+cover: >-
+  ../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header NextGen XXX
+  v1.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # NextGen Rights Defenders
@@ -58,7 +79,7 @@ TIOF has identified the following challenges:
 
 While the UDDR is still a work in progress, The IO Foundation has created the DCDR Principles to act upon **Challenge 1** and guide developers to update some of their paradigms and stepping up as NextGen Rights Defenders.
 
-See more information in the [Data-Centric Digital Rights](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/rG4xcNzldvEoKR9FS7Og/ "mention") documentation.
+See more information in the [DCDR Advocacy](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/rG4xcNzldvEoKR9FS7Og/ "mention") documentation.
 
 ### TechUp
 

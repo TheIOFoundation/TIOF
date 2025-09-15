@@ -1,6 +1,27 @@
 ---
 description: Organization Brief on The IO Foundation.
 icon: building-ngo
+cover: >-
+  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header
+  Organization Brief XXX v2.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Organization Brief

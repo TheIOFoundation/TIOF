@@ -1,6 +1,27 @@
 ---
 description: Version 1.0 | This Business Plan was approved on 22 September 2023.
 icon: chart-mixed-up-circle-dollar
+cover: >-
+  ../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Business Plan
+  XXX v2.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Business Plan
