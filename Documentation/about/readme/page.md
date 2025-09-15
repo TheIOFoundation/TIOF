@@ -1,3 +1,20 @@
+---
+layout:
+  width: wide
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+---
+
 # Page
 
 <h2 align="center">Developer platform template</h2>
