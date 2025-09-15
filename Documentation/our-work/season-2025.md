@@ -4,21 +4,17 @@ icon: leaf
 
 # Season 2025
 
-{% hint style="info" %}
-[**ShortURL**](https://tiof.click/Season2025) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
-{% endhint %}
-
 {% tabs %}
 {% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://short.theiofoundation.org/TIOFOrgBoards) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
+[**ShortURL**](https://short.theiofoundation.org/TIOFSeason2025) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
 {% endtab %}
 
 {% tab title="Share this page" %}
 Use this QR Code to quickly share this page.
 
-<figure><img src="../.gitbook/assets/[TIOF] Comms [P] TIOF Full Logo C T HiRes ENG v1.6.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF QR Code Season 2025 XXX v1.0.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -51,5 +47,5 @@ For Season 2025, The IO Foundation will focus its resources in achieving the fol
 
 For Season 2025, The IO Foundation will focus on the following Initiatives and Projects:
 
-<table><thead><tr><th width="283">Initiative</th><th width="293">Project</th><th>Notes</th></tr></thead><tbody><tr><td><a href="https://tiof.click/BiTDocs">Business and Human Rights in Technology<br>[BiT]</a></td><td>ProtocolWatch</td><td></td></tr><tr><td></td><td>Preventing Internet Fragmentation (PIF)</td><td>PENDING APPROVAL</td></tr><tr><td><a href="https://tiof.click/DCDRDocs">Data-Centric Digital Rights<br>[DCDR]</a></td><td>DCDR Framework</td><td></td></tr><tr><td><a href="https://tiof.click/TUDocs">TechUp<br>[TU]</a></td><td>TechUp Academy</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="283">Initiative</th><th width="293">Project</th><th>Notes</th></tr></thead><tbody><tr><td><a href="https://tiof.click/BiTDocs">Business and Human Rights in Technology<br>[BiT]</a></td><td>ProtocolWatch</td><td></td></tr><tr><td><a href="https://tiof.click/BiTDocs">Technology<br>[BiT]</a></td><td><del>Preventing Internet Fragmentation (PIF)</del></td><td>PROJECT WAS CANCELLED BY GRANTOR</td></tr><tr><td><a href="https://tiof.click/DCDRDocs">Data-Centric Digital Rights<br>[DCDR]</a></td><td>DCDR Framework</td><td></td></tr><tr><td><a href="https://tiof.click/TUDocs">TechUp<br>[TU]</a></td><td>TechUp Academy</td><td></td></tr></tbody></table>
 
