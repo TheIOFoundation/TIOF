@@ -3,6 +3,7 @@
 ## About
 
 * [Introduction](README.md)
+  * [Page](about/readme/page.md)
   * [🔠 Portfolio](about/readme/portfolio.md)
   * [🚧 Partners & Collaborators](about/introduction/partners-and-collaborators.md)
   * [❓ Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
