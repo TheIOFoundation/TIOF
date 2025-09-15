@@ -19,7 +19,7 @@ layout:
 
 {% tabs %}
 {% tab title="Now" %}
-<div><figure><img src="../../.gitbook/assets/no-code.jpg" alt=""><figcaption><p>APrIGF - Kathmandu, Nepal</p></figcaption></figure> <figure><img src="../../.gitbook/assets/hosted.jpg" alt=""><figcaption><p>IETF 124 | Montreal, Canada</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/APrIFG 2025.png" alt=""><figcaption><p>APrIGF - Kathmandu, Nepal</p></figcaption></figure> <figure><img src="../../.gitbook/assets/APrIFG 2025 (1).png" alt=""><figcaption><p>IETF 124 | Montreal, Canada</p></figcaption></figure></div>
 {% endtab %}
 
 {% tab title="Activities" %}
