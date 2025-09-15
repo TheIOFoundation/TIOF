@@ -2,7 +2,7 @@
 description: Annual Reports of The IO Foundation.
 icon: file-chart-column
 cover: >-
-  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header Annual
+  ../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header Annual
   Reports XXX v1.0.png
 coverY: 0
 ---
@@ -19,7 +19,7 @@ coverY: 0
 {% tab title="Share this page" %}
 Use this QR Code to quickly share this page.
 
-<figure><img src="../../.gitbook/assets/TIOFDocsTIOFsAnnualReports_4096x4096.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/TIOFDocsTIOFsAnnualReports_4096x4096.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

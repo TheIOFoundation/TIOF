@@ -28,6 +28,20 @@
 * [Media Archive](about/media-archive.md)
 * [Media Kit](about/media-kit.md)
 
+## OUR WORK
+
+* [Activities](https://docs.theiofoundation.org/activities)
+* [Season 2025](our-work/season-2025.md)
+* [Season 2026](our-work/season-2026.md)
+* [Past Seasons](our-work/past-seasons/README.md)
+  * [Season 2024](our-work/past-seasons/2024.md)
+  * [Season 2023](our-work/past-seasons/2023.md)
+  * [Season 2022](our-work/past-seasons/2022.md)
+  * [Season 2021](our-work/past-seasons/2021.md)
+  * [Season 2020](our-work/past-seasons/2020.md)
+  * [Season 2019](our-work/past-seasons/2019.md)
+  * [Season 2018](our-work/past-seasons/2018.md)
+
 ## SEASON 2025
 
 * [Strategy](season-2025/strategy.md)
@@ -104,14 +118,7 @@
     * [🚧 Security](institutional/policies/work-in-progress/security.md)
     * [🚧 Intellectual Property](institutional/policies/work-in-progress/intellectual-property.md)
     * [🚧 ICT Systems](institutional/policies/work-in-progress/ict-systems.md)
-* [Annual Reports](institutional/annual-reports/README.md)
-  * [Season 2024](institutional/annual-reports/2024.md)
-  * [Season 2023](institutional/annual-reports/2023.md)
-  * [Season 2022](institutional/annual-reports/2022.md)
-  * [Season 2021](institutional/annual-reports/2021.md)
-  * [Season 2020](institutional/annual-reports/2020.md)
-  * [Season 2019](institutional/annual-reports/2019.md)
-  * [Season 2018](institutional/annual-reports/2018.md)
+* [Annual Reports](institutional/annual-reports.md)
 
 ## Operational
 
