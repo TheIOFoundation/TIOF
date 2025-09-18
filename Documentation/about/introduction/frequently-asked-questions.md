@@ -1,8 +1,9 @@
 ---
 hidden: true
+icon: message-question
 ---
 
-# ❓ Frequently Asked Questions
+# Frequently Asked Questions
 
 {% hint style="info" %}
 **ShortURL | Playbook | Assistant**
@@ -18,3 +19,16 @@ Should you want to be notified once it's published, [**let us know**](https://ti
 ## About
 
 This section provides a list of Frequently Asked Questions concerning The IO Foundation.
+
+
+
+## What is it exactly that you do?
+
+
+
+
+
+
+
+
+
