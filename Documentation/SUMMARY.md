@@ -3,12 +3,12 @@
 ## About
 
 * [Introduction](README.md)
-  * [Page](about/readme/page.md)
-  * [🔠 Portfolio](about/readme/portfolio.md)
+  * [Landing Test](about/readme/landing-test.md)
   * [Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
 * [Organization Brief](about/organization-brief/README.md)
   * [Theory of Change](about/organization-brief/theory-of-change.md)
   * [Initiatives & Projects](about/organization-brief/initiatives-and-projects.md)
+  * [🔠 Portfolio](about/organization-brief/portfolio.md)
 * [Business Plan](about/business-plan.md)
 * [DCDR Principles](https://tiof.click/Principles)
 * [NextGen Rights Defenders](about/nextgen-rights-defenders.md)
