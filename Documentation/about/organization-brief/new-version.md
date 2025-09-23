@@ -1,30 +1,8 @@
 ---
-description: Organization Brief on The IO Foundation.
-icon: building-ngo
-cover: >-
-  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header
-  Organization Brief XXX v2.png
-coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
+hidden: true
 ---
 
-# Organization Brief
+# New Version
 
 {% tabs %}
 {% tab title="Quick Resources" %}
@@ -40,14 +18,34 @@ Use this QR Code to quickly share this page.
 {% endtab %}
 {% endtabs %}
 
+{% columns %}
+{% column width="58.333333333333336%" %}
 ## The organization
 
 The IO Foundation (TIOF) is a global for-impact NGO born from a fundamental concern about the state of technology in the world and advocating for [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy).
 
 TIOF aims to raise awareness of the importance of [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) in collaboration with stakeholders ranging from civil society, programmer communities, bodies of governance and corporate and work together to achieve the proclamation and adoption of a [Universal Declaration of Digital Rights](https://tiof.click/UDDRWeb).
 
-TIOF advances its [Data-Centric Digital Rights advocacy](https://tiof.click/DCDRAdvocacy) through the implementation of a number of [initiatives](./#initiatives).
+TIOF advances its [Data-Centric Digital Rights advocacy](https://tiof.click/DCDRAdvocacy) through the implementation of a number of [initiatives](new-version.md#initiatives).
+{% endcolumn %}
 
+{% column width="41.666666666666664%" %}
+
+{% endcolumn %}
+{% endcolumns %}
+
+{% hint style="info" %}
+As core stakeholders, technologists play a critical role as the [Next Generation of Rights Defenders](https://tiof.click/TIOFNextGen) and need to orient themselves through new design and implementation paradigms focused on protecting data. The [DCDR Principles](https://tiof.click/DCDRPrinciples) are concepts that help them navigate the intricacies of applying Human and Digital Rights in digital infrastructures, products and services.
+{% endhint %}
+
+
+
+{% columns %}
+{% column width="33.33333333333333%" %}
+
+{% endcolumn %}
+
+{% column width="66.66666666666667%" %}
 ## The observed problem(s)
 
 * The nature of data is largely misunderstood
@@ -60,6 +58,8 @@ TIOF advances its [Data-Centric Digital Rights advocacy](https://tiof.click/DCDR
   * Policy makers and civil society at large keeps ignoring that engineers require being spoken too in a language they understand: clear, precise and definable problems + algorithms.
 * Citizens should only be expected to be responsible citizens and not hackers
 * Governments are increasingly becoming irrelevant by not being able to protect their own citizens' data
+{% endcolumn %}
+{% endcolumns %}
 
 {% hint style="success" %}
 At The IO Foundation we regard technologists, and developers in particular, as the \
@@ -68,7 +68,41 @@ At The IO Foundation we regard technologists, and developers in particular, as t
 
 ## Initiatives
 
-### Diagram
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h2>Data-Centric Digital Rights</h2></td></tr><tr><td><h2>BHR in Tech</h2></td></tr><tr><td><h2>TechUp</h2></td></tr><tr><td><h2>Universal Declaration of Digital Rights</h2></td></tr><tr><td><h2>CrowdShape</h2></td></tr><tr><td><h2>Oversight</h2></td></tr></tbody></table>
+
+{% columns %}
+{% column width="41.66666666666667%" %}
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h2>Data-Centric Digital Rights</h2></td><td><a href="../../.gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr></tbody></table>
+{% endcolumn %}
+
+{% column width="58.33333333333333%" %}
+TIOF views the technology as currently non-correlated with all working understandings and practices as to how any public-consumption industry functions traditionally where a clear separation is made between:
+
+* Experts, who understand the complexities to design and build products that are compliant with applicable legislation and
+* Citizens, who are solely tasked for being responsible users of the product
+
+In essence, DCDR is a framework for technologists composed by Principles, Taxonomies and other technical tools. It enables them to develop a deeper understanding about the nature of data, the digital twins that emerge from it and make possible for them to embrace their role as [NextGen Rights Defenders](https://tiof.click/TIOFNextGen).
+
+{% hint style="success" %}
+By understanding that [_we are our data_](https://tiof.click/DCDRPrinciple1), technologists may architect Digital Spaces that aim at [_ending remedy_](https://tiof.click/DCDRPrinciple2) and build it so that they implement [_Rights by design_](https://tiof.click/DCDRPrinciple3).
+{% endhint %}
+
+### Objectives
+
+DCDR aims at encouraging a shift in the current technology paradigms by providing a [DCDR framework](https://tiof.click/DCDRFramework) comprised of, among others:
+
+* A set of[ DCDR Principles](https://tiof.click/DCDRPrinciples)
+* An oath [(the Sagan Oath)](https://tiof.click/DCDRSaganOath)
+* A set of taxonomies for
+  * [Digital Harms](https://tiof.click/DCDRDigitalHarms)
+  * [Digital Rights](https://tiof.click/DCDRDigitalRights)
+  * [Use Cases](https://tiof.click/DCDRUseCases)
+
+[More information](https://tiof.click/DCDRDocs)
+{% endcolumn %}
+{% endcolumns %}
+
+## Theory of Change
 
 The following diagram provides an overview on how each of the initiatives support each other to advance TIOF's [Mission](https://tiof.click/TIOFMission) in realizing its [Vision](https://tiof.click/TIOFVision).
 
@@ -80,10 +114,6 @@ TIOF views the technology as currently non-correlated with all working understan
 
 * Experts, who understand the complexities to design and build products that are compliant with applicable legislation and
 * Citizens, who are solely tasked for being responsible users of the product
-
-{% hint style="info" %}
-As core stakeholders, technologists play a critical role as the [Next Generation of Rights Defenders](https://tiof.click/TIOFNextGen) and need to orient themselves through new design and implementation paradigms focused on protecting data. The [DCDR Principles](https://tiof.click/DCDRPrinciples) are concepts that help them navigate the intricacies of applying Human and Digital Rights in digital infrastructures, products and services.
-{% endhint %}
 
 In essence, DCDR is a framework for technologists composed by Principles, Taxonomies and other technical tools. It enables them to develop a deeper understanding about the nature of data, the digital twins that emerge from it and make possible for them to embrace their role as [NextGen Rights Defenders](https://tiof.click/TIOFNextGen).
 
