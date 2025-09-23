@@ -3,7 +3,6 @@
 ## About
 
 * [Introduction](README.md)
-  * [Landing Test](about/introduction/landing-test.md)
   * [Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
 * [Organization Brief](about/organization-brief/README.md)
   * [Theory of Change](about/organization-brief/theory-of-change.md)
@@ -28,7 +27,8 @@
   * [🚧 Acknowledgments](about/support-us/partners-and-collaborators.md)
 * [Awards](about/awards.md)
 * [Media Archive](about/media-archive.md)
-* [Media Kit](about/media-kit.md)
+* [Media Kit](about/media-kit/README.md)
+  * [Landing Test](about/media-kit/landing-test.md)
 
 ## OUR WORK
 
