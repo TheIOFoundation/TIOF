@@ -23,7 +23,7 @@ layout:
     visible: false
 ---
 
-# Page
+# Landing Test
 
 {% tabs %}
 {% tab title="Now" %}
@@ -61,18 +61,23 @@ No guesswork, no complexity—just your first successful call, fast.
 {% endcolumn %}
 
 {% column %}
-{% code title="index.js" overflow="wrap" %}
+{% code title="The 3 DCDR Principles
+" overflow="wrap" %}
 ```markup
-// Import the SDK
-import ExampleAPI from "example-api";
+// Principle I: I am my data 
+function I_Am_My_Data()
+  /* Your data is your digital identity.
+     Own it, control it, make it yours! */
+  return "You == Data"// Principle II: End Remedy 
+function End_Remedy()
+  /* When things break, you get a fix—fast.
+     Fair solutions, no loops, just justice! */
+  return "Fix == Fairness"// Principle III: Rights by Design 
+function Rights_By_Design()
+  /* Privacy and control are built in from the start.
+     Your rights are the foundation, not an afterthought! */
+  return "Trust == Core"
 
-// Initialize the client
-const client = new ExampleAPI({ apiKey: "YOUR_API_KEY" });
-
-// Send your first message
-const response = await client.messages.send({
-  message: "Hello, world!"
-});
 
 ```
 {% endcode %}

@@ -3,7 +3,7 @@
 ## About
 
 * [Introduction](README.md)
-  * [Landing Test](about/readme/landing-test.md)
+  * [Landing Test](about/introduction/landing-test.md)
   * [Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
 * [Organization Brief](about/organization-brief/README.md)
   * [Theory of Change](about/organization-brief/theory-of-change.md)
