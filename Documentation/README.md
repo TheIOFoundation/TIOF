@@ -8,21 +8,6 @@ coverY: 0
 
 # Introduction
 
-{% hint style="info" %}
-[**ShortURL**](https://tiof.click/TIOFDocs) **| Playbook | Assistant**
-{% endhint %}
-
-{% hint style="warning" %}
-This website contains the **documentation** relative to The IO Foundation and its initiatives.
-
-You may be looking for:
-
-* [Official Website](https://tiof.click/TIOFWeb)
-* [TIOF Management](https://tiof.click/TIOFRepo)
-
-To learn how to navigate this documentation, please check the [HELP](https://tiof.click/TIOFDocsHelp) section.
-{% endhint %}
-
 {% embed url="https://tiof.click/TIOFPresentation" %}
 Introducing The IO Foundation
 {% endembed %}
@@ -76,3 +61,4 @@ You can support The IO Foundation by
 * [Join our team](https://tiof.click/TIOFJoinUs)
 * [Partner with us](https://tiof.click/TIOFPartnersSuggest)
 {% endhint %}
+
