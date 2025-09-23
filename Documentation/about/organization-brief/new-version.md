@@ -41,11 +41,7 @@ As core stakeholders, technologists play a critical role as the [Next Generation
 
 
 {% columns %}
-{% column width="33.33333333333333%" %}
-
-{% endcolumn %}
-
-{% column width="66.66666666666667%" %}
+{% column width="50%" %}
 ## The challenge
 
 * The nature of data is largely misunderstood
@@ -54,6 +50,11 @@ As core stakeholders, technologists play a critical role as the [Next Generation
   * Current regulations place too much burden on the citizens' shoulders.
 * Technology, and in particular software, does not have a way to prove compliance to data protection laws in an objective, standardized manner
   * In any properly regulated industry, companies only compete at value proposition level. In technology, they also compete at compliance level; enduring trust is not possible.&#x20;
+{% endcolumn %}
+
+{% column width="50%" %}
+##
+
 * Experts do not have the necessary tools to be at the forefront of architecting and implementing better and safer technology
   * Policy makers and civil society at large keeps ignoring that engineers require being spoken too in a language they understand: clear, precise and definable problems + algorithms.
 * Citizens should only be expected to be responsible citizens and not hackers
@@ -74,7 +75,7 @@ The IO Foundation organizes its work around a set of Initiatives, each of them d
 {% column %}
 <figure><img src="../../.gitbook/assets/hosted.jpg" alt=""><figcaption></figcaption></figure>
 
-### Data-Centric Digital Rights
+### <img src="../../.gitbook/assets/DCDR Icon-01.png" alt="" data-size="line"> Data-Centric Digital Rights
 
 TIOF views the technology as currently non-correlated with all working understandings and practices as to how any public-consumption industry functions traditionally where a clear separation is made between:
 
@@ -158,7 +159,7 @@ The BHR in Tech initiative aims at encouraging a shift towards the adoption and 
 {% endcolumn %}
 
 {% column %}
-### TechUp
+### <img src="../../.gitbook/assets/[TIOF TU] Comms [P] U Logo FC T HiRes XXX v1.0.png" alt="" data-size="line"> TechUp
 
 TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital by engaging technologists in a meaningful way.
 
@@ -172,7 +173,7 @@ Through its activities, TechUp strives to bring together the tech community to b
 
 {% columns %}
 {% column %}
-### Universal Declaration of Digital Rights
+### <img src="../../.gitbook/assets/[TIOF UDDR] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line"> Universal Declaration of Digital Rights
 
 The UDDR initiative is a multi-stakeholder initiative promoted by The IO Foundation to promote and achieve the proclamation of a Universal Declaration of Digital Rights.
 
@@ -223,7 +224,7 @@ The UDDR initiative aims at encouraging a shift in the current technology paradi
 {% endcolumn %}
 
 {% column %}
-### CrowdShape
+### <img src="../../.gitbook/assets/CrowdShape-01.png" alt="" data-size="line"> CrowdShape
 
 The CrowdShape (CS) initiative intends to be a model for crowd collaboration based on transparent processes and accountable management. It is aimed at enabling technologists to start and run their own tech NGOs by providing familiar tools to enable the collaboration and reward of participants, attracting talent and financial support.
 
