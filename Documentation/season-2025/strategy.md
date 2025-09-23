@@ -35,10 +35,10 @@ Following the establishment of the Global Digital Compact (GDC), the organizatio
 {% endcolumn %}
 
 {% column %}
-<i class="fa-circle-4">:circle-4:</i>  Building an educational platform\
+<i class="fa-circle-4">:circle-4:</i> **Building an educational platform**\
 The organization will establish the TechUp Academy, a platform dedicated to delivering technologists with the education and training in essential technological skills and to become proponents of the DCDR Framework.
 
-<i class="fa-circle-5">:circle-5:</i>  Enhance content generation\
+<i class="fa-circle-5">:circle-5:</i>  **Enhance content generation**\
 The organization will focus on expanding its content production, including articles, blogs, podcasts and other media, to engage a wider audience.
 {% endcolumn %}
 {% endcolumns %}
