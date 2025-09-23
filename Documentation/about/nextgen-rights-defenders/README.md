@@ -1,7 +1,7 @@
 ---
 icon: user-shield
 cover: >-
-  ../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header NextGen XXX
+  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header NextGen XXX
   v1.png
 coverY: 0
 layout:

@@ -3,7 +3,7 @@
 ## About
 
 * [Introduction](README.md)
-  * [Frequently Asked Questions](about/introduction/frequently-asked-questions.md)
+  * [Landing Test](about/introduction/landing-test.md)
 * [Organization Brief](about/organization-brief/README.md)
   * [New Version](about/organization-brief/new-version.md)
   * [Theory of Change](about/organization-brief/theory-of-change.md)
@@ -11,7 +11,8 @@
   * [🔠 Portfolio](about/organization-brief/portfolio.md)
 * [Business Plan](about/business-plan.md)
 * [DCDR Principles](https://tiof.click/Principles)
-* [NextGen Rights Defenders](about/nextgen-rights-defenders.md)
+* [NextGen Rights Defenders](about/nextgen-rights-defenders/README.md)
+  * [NextGen Rights Defenders](about/nextgen-rights-defenders/nextgen-rights-defenders.md)
 * [Sagan Oath](https://short.theiofoundation.org/TIOFDCDRSaganOath)
 * [Hey Big Tech! declaration](about/hey-big-tech-declaration.md)
 * [Directory](about/introduction/directory.md)
@@ -26,10 +27,11 @@
   * [🚧 Partners](about/join-us/partners.md)
 * [Support Us](about/support-us/README.md)
   * [🚧 Acknowledgments](about/support-us/partners-and-collaborators.md)
+  * [New Version](about/support-us/new-version.md)
 * [Awards](about/awards.md)
 * [Media Archive](about/media-archive.md)
-* [Media Kit](about/media-kit/README.md)
-  * [Landing Test](about/media-kit/landing-test.md)
+* [Frequently Asked Questions](about/frequently-asked-questions.md)
+* [Media Kit](about/media-kit.md)
 
 ## OUR WORK
 
