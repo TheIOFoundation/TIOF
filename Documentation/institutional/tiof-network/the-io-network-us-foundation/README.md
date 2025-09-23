@@ -44,9 +44,7 @@ You may use this information for invoicing purposes.
 
 The IO Network US's governance adheres to the following documents:
 
-| Document                         | Usage                                                              |
-| -------------------------------- | ------------------------------------------------------------------ |
-| [bylaws.md](bylaws.md "mention") | Legal incorporation and Governance provisions of the organization. |
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><a data-mention href="bylaws.md">bylaws.md</a></td><td>Legal incorporation and Governance provisions of the organization.</td></tr></tbody></table>
 
 ## Other Registrations & Certifications
 

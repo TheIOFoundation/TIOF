@@ -6,8 +6,6 @@ description: >-
 
 # 🇪🇪 The IO Foundation MTÜ
 
-
-
 {% tabs %}
 {% tab title="Quick Resources" %}
 {% hint style="info" %}
@@ -36,11 +34,7 @@ You may use this information for invoicing purposes.
 
 The IO Foundation's governance adheres to the following documents:
 
-| Document                                                               | Usage                                    |
-| ---------------------------------------------------------------------- | ---------------------------------------- |
-| [memorandum-of-association.md](memorandum-of-association.md "mention") | Legal incorporation of the organization. |
-| [articles-of-association.md](articles-of-association.md "mention")     | Basic Governance provisions.             |
-| [organization-statute.md](organization-statute.md "mention")           | Complete Governance provisions.          |
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><a data-mention href="memorandum-of-association.md">memorandum-of-association.md</a></td><td>Legal incorporation of the organization.</td></tr><tr><td><a data-mention href="articles-of-association.md">articles-of-association.md</a></td><td>Basic Governance provisions.</td></tr><tr><td><a data-mention href="organization-statute.md">organization-statute.md</a></td><td>Complete Governance provisions.</td></tr></tbody></table>
 
 ## Other Registrations & Certifications
 

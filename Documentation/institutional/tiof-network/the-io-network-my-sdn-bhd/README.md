@@ -34,7 +34,15 @@ You may use this information for invoicing purposes.
 
 The IO Network MY's governance adheres to the following documents:
 
-🚧 Work in progress
+{% hint style="info" %}
+## 🚧 Work in progress
+
+The following information is currently undergoing maintenance to update its content.\
+\
+We apologize for any inconvenience as we ensure that we finalized it in the shortest of times.\
+\
+THE IO FOUNDATION
+{% endhint %}
 
 ## Other Registrations & Certifications
 
