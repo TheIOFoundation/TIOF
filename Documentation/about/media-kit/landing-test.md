@@ -45,9 +45,9 @@ layout:
 {% endtab %}
 {% endtabs %}
 
-<h2 align="center">Technologist as the Next Generation of Rights Defenders</h2>
+<h2 align="center">Technologist are the Next Generation of Rights Defenders</h2>
 
-<p align="center">If you work in technology, you are an architect of civilization!</p>
+<p align="center"><strong>If you work in technology, you are an architect of civilization!</strong></p>
 
 <p align="center"><a href="http://app.gitbook.com/join" class="button primary">Join the Argos community</a>    <a href="http://app.gitbook.com/join" class="button secondary" data-icon="hand-sparkles">Plege the Sagan Oath!</a><br></p>
 
