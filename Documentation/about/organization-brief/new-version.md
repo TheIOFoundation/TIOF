@@ -243,3 +243,9 @@ The following Theory of Change diagram provides an overview on how each of the i
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Activities</td></tr><tr><td>Publications<br>For more information, <a href="https://tiof.click/TIOFPublications">see TIOF's publications</a>.</td></tr><tr><td>Products</td></tr><tr><td>Services</td></tr></tbody></table>
 
+## Our Commitment
+
+Do things as an NGO yet not business as usual.\
+We are committed to support the NGO sector to become more transparent and accountable.\
+\>> Hexogate
+

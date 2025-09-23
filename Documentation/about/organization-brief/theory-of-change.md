@@ -59,40 +59,9 @@ The IO Foundation proposes the following solutions to the observed problems thro
 
 This is the core initiative for The IO Foundation
 
-### BHR in Tech (BiT)
-
-
-
-### CrowdShape (CS)
-
-
-
-### TechUp (TU)
-
-
-
-### Project Lockdown (PLD)
-
-
-
-### Universal Declaration of Digital Rights (UDDR)
-
-
-
-\[Work in Progress]
-
 
 
 ### Others
 
 The IO Foundation is constantly exploring new initiatives to further its work towards making technology better and safer.
 
-
-
-
-
-## Theory of change
-
-The IO Foundation proposes the following Theory of Change to address the observed problems.
-
-\[Work in Progress]
