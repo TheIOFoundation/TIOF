@@ -8,10 +8,6 @@ coverY: 0
 
 # Introduction
 
-{% embed url="https://tiof.click/TIOFPresentation" %}
-Introducing The IO Foundation
-{% endembed %}
-
 ## The organization
 
 The IO Foundation (TIOF) is a global for-impact NGO born from a fundamental concern about the state of technology in the world and advocating for [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy).
@@ -62,3 +58,8 @@ You can support The IO Foundation by
 * [Partner with us](https://tiof.click/TIOFPartnersSuggest)
 {% endhint %}
 
+
+
+{% embed url="https://tiof.click/TIOFPresentation" %}
+Introducing The IO Foundation
+{% endembed %}
