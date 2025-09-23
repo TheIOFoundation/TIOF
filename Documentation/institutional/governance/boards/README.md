@@ -15,7 +15,7 @@ icon: users-rectangle
 {% tab title="Share this page" %}
 Use this QR Code to quickly share this page.
 
-<figure><img src="../../.gitbook/assets/TIOFOrganizationBoards_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/TIOFOrganizationBoards_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -31,23 +31,23 @@ The Board of Directors is responsible for the overall governance of the organiza
 
 Directors shall also represent TIOF in events and actively seek for support from local stakeholders.
 
-|                                                                                         |                 |             |
-| --------------------------------------------------------------------------------------- | --------------- | ----------- |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JFQ BW Circle.T XXX v1.0.png>) | Jean F. Queralt | France      |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JD BW Circle.T XXX v1.0.png>)  | John Duenas     | Philippines |
+|                                                                                            |                 |             |
+| ------------------------------------------------------------------------------------------ | --------------- | ----------- |
+| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JFQ BW Circle.T XXX v1.0.png>) | Jean F. Queralt | France      |
+| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JD BW Circle.T XXX v1.0.png>)  | John Duenas     | Philippines |
 
 ## Board of Advisers
 
 The Board of Advisers provides expert guidance and advice to The IO Foundation, offering insights and recommendations to inform strategic direction and operational effectiveness.
 
-|                                                                                        |                     |                          |
-| -------------------------------------------------------------------------------------- | ------------------- | ------------------------ |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic AA BW Circle.T XXX v1.0.png>) | Dr. Ahmad Azhar     | Telecom Ecosystem        |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic.DO BW Circle.T XXX v1.0.png>) | Denis Oakley        | Global Strategy          |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JR BW Circle.T XXX v1.0.png>) | Javier Ramirez      | Innovation & IP          |
-| ![](<../../.gitbook/assets/\[TIOF] Avatar-modified.png>)                               | Maya Vandenbroeck   | Organization Development |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic MZ BW Circle.T XXX v1.0.png>) | Maznuddin Zainuddin | Corporate Strategy (MYS) |
-| ![](<../../.gitbook/assets/\[TIOF] Avatar-modified (2).png>)                           | Tevanraj Elengoe    | Tech Ecosystem (MYS)     |
+|                                                                                           |                     |                          |
+| ----------------------------------------------------------------------------------------- | ------------------- | ------------------------ |
+| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic AA BW Circle.T XXX v1.0.png>) | Dr. Ahmad Azhar     | Telecom Ecosystem        |
+| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic.DO BW Circle.T XXX v1.0.png>) | Denis Oakley        | Global Strategy          |
+| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic JR BW Circle.T XXX v1.0.png>) | Javier Ramirez      | Innovation & IP          |
+| ![](<../../../.gitbook/assets/\[TIOF] Avatar-modified.png>)                               | Maya Vandenbroeck   | Organization Development |
+| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic MZ BW Circle.T XXX v1.0.png>) | Maznuddin Zainuddin | Corporate Strategy (MYS) |
+| ![](<../../../.gitbook/assets/\[TIOF] Avatar-modified (2).png>)                           | Tevanraj Elengoe    | Tech Ecosystem (MYS)     |
 
 ## Board of Consultants
 
@@ -57,10 +57,10 @@ The Board of Consultants consists of specialists who offer detailed, technical a
 
 The Board of Auditors is tasked with overseeing the financial practices and transparency of The IO Foundation, ensuring accuracy, compliance and integrity in financial reporting and management.
 
-|                                                                                        |            |                   |
-| -------------------------------------------------------------------------------------- | ---------- | ----------------- |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic LK BW Circle.T XXX v1.0.png>) | Lauri Kurs | Legal (Estonia)   |
-| ![](<../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic KR BW Circle.T XXX v1.0.png>) | Karin Rand | Finance (Estonia) |
+|                                                                                           |            |                   |
+| ----------------------------------------------------------------------------------------- | ---------- | ----------------- |
+| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic LK BW Circle.T XXX v1.0.png>) | Lauri Kurs | Legal (Estonia)   |
+| ![](<../../../.gitbook/assets/\[TIOF] Comms \[P] ProfilePic KR BW Circle.T XXX v1.0.png>) | Karin Rand | Finance (Estonia) |
 
 ### Rights and Responsibilities
 
