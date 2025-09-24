@@ -27,6 +27,20 @@ The IO Foundation (TIOF) is a global for-impact NGO born from a fundamental conc
 TIOF aims to raise awareness of the importance of [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) in collaboration with stakeholders ranging from civil society, programmer communities, bodies of governance and corporate and work together to achieve the proclamation and adoption of a [Universal Declaration of Digital Rights](https://tiof.click/UDDRWeb).
 
 TIOF advances its [Data-Centric Digital Rights advocacy](https://tiof.click/DCDRAdvocacy) through the implementation of a number of [initiatives](new-version.md#initiatives).
+
+
+
+
+
+The IO Foundation is a global for-impact NGO championing Data-Centric Digital Rights to strengthen user protection through technical standards. Our work focuses on supporting technologists, the architects of modern civilization, to safeguard human and digital rights by advocating for robust digital infrastructure.
+
+Actively engaged in Standard Developing Organizations, such as the IETF, the ITU and ICANN, we raise awareness of their critical role within the technical community both locally and globally. Recognizing technologists as the next generation of rights defenders, we equip them through workshops and fellowships with the tools and knowledge to shape secure, ethical digital systems.
+
+Our mission is driven by innovation and accountability, ensuring technology serves humanity’s progress.
+
+
+
+
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
