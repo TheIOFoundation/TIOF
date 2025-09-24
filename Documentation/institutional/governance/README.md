@@ -1,5 +1,26 @@
 ---
 icon: landmark
+cover: >-
+  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Governance
+  XXX v1.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Governance
@@ -18,22 +39,23 @@ Use this QR Code to quickly share this page.
 {% endtab %}
 {% endtabs %}
 
-{% hint style="warning" %}
-**NOTICE**
-
-This documentation page is under construction.\
-Should you want to be notified once it's published, [**let us know**](https://tiof.click/TIOFTarianUpdatesService).
-{% endhint %}
-
 ## About
 
-The governance structure of The IO Foundation outlines the roles, relationships, and responsibilities of various boards and its Executive Team, ensuring effective management, accountability, and alignment with the organization's mission and objectives.
+The governance structure of The IO Foundation outlines the roles, relationships and responsibilities of various boards and its Executive Team, ensuring effective management, accountability and alignment with the organization's mission and objectives.
+
+## Governing Structure
+
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Boards</strong></td><td>Check the different boards guiding and steering the work of The IO Foundation.</td></tr><tr><td><strong>Executive Team</strong></td><td>(Coming soon.)</td></tr></tbody></table>
 
 ## Organizational Chart
 
-{% embed url="https://tiof.click/TIOFOrgChart" %}
-The IO Foundation's Organizational Chart
-{% endembed %}
+{% hint style="danger" %}
+## DISCLAIMER
 
-
+Please note that this section is currently undergoing maintenance to update its content.\
+\
+We apologize for any inconvenience as we ensure that we finalized it in the shortest of times.\
+\
+THE IO FOUNDATION
+{% endhint %}
 

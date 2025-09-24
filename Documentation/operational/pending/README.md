@@ -24,3 +24,15 @@ The following Theory of Change diagram provides an overview on how each of the i
 
 {% embed url="https://modeler.camunda.io/share/ea8eb8f5-81ad-45b2-8c43-95f95170201c" %}
 
+
+
+
+
+ORGCHART
+
+{% embed url="https://tiof.click/TIOFOrgChart" %}
+The IO Foundation's Organizational Chart
+{% endembed %}
+
+
+
