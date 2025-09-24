@@ -11,7 +11,7 @@ icon: scroll
 {% tabs %}
 {% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://short.theiofoundation.org/TIOFPoliciesFinance) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
+[**ShortURL**](https://short.theiofoundation.org/TIOFPolicyFinance) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
 {% endtab %}
 
