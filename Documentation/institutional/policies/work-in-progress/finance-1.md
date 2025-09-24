@@ -1,9 +1,12 @@
 ---
 description: Version 1.0 | This Policy was approved on 01 March 2022.
+hidden: true
 icon: scroll
 ---
 
-# Finance
+# Finance Policy
+
+
 
 {% tabs %}
 {% tab title="Quick Resources" %}
@@ -15,7 +18,7 @@ icon: scroll
 {% tab title="Share this page" %}
 Use this QR Code to quickly share this page.
 
-<figure><img src="../../.gitbook/assets/TIOFTIOFPoliciesFinance_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/TIOFTIOFPoliciesFinance_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

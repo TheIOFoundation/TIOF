@@ -3,7 +3,25 @@ description: Version 1.0 | This Policy was approved on 15 April 2020.
 icon: scroll
 ---
 
-# Children Protection
+# Children Protection Policy
+
+
+
+{% tabs %}
+{% tab title="Quick Resources" %}
+{% hint style="info" %}
+[**ShortURL**](https://short.theiofoundation.org/TIOFOrgBoards) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
+{% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../../.gitbook/assets/[TIOF] Comms [P] TIOF Full Logo C T HiRes ENG v1.6.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFPolicyCP) **| Playbook | Assistant**
@@ -112,7 +130,7 @@ All TIOF Members and TIOF Collaborators working with children are required to ad
 
 * **Respect Boundaries:** Avoid any form of physical punishment, inappropriate physical contact or behavior that may harm or exploit a child.
 * **No Unsupervised Contact:** TIOF Member or TIOF Collaborator should be alone with a child without parental or guardian permission, unless it is part of a clearly defined and supervised activity (for which permission needs be equally provided).
-* **Reporting Suspicious Behavior:** Any suspicion or evidence of child abuse or exploitation must be immediately reported to the appropriate authority in accordance with the [reporting procedures set forth in this policy](children-protection.md#reporting-and-response-procedures).
+* **Reporting Suspicious Behavior:** Any suspicion or evidence of child abuse or exploitation must be immediately reported to the appropriate authority in accordance with the [reporting procedures set forth in this policy](children-protection-policy.md#reporting-and-response-procedures).
 
 **Online Safety**
 
@@ -126,7 +144,7 @@ Given that technology is central to our operations, the organization takes speci
 
 To ensure the effective implementation of this policy, The IO Foundation provides training and resources to all TIOF Members or TIOF Collaborators whenever necessary:
 
-* **Child Protection Training:** All individuals who work directly with children must complete mandatory child protection training. This includes recognizing signs of abuse, [reporting procedures set forth in this policy](children-protection.md#reporting-and-response-procedures) and understanding their legal obligations.
+* **Child Protection Training:** All individuals who work directly with children must complete mandatory child protection training. This includes recognizing signs of abuse, [reporting procedures set forth in this policy](children-protection-policy.md#reporting-and-response-procedures) and understanding their legal obligations.
 * **Technology-Specific Training:** TIOF Members involved in designing or implementing digital services that will be directed to children receive specific training on online safety and child data protection requirements.
 * **Regular Refresher Courses:** Periodic refresher training is provided to keep relevant TIOF Members or TIOF Collaborators up-to-date with the latest child protection protocols and legal requirements.
 

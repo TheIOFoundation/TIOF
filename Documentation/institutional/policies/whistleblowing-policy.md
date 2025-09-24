@@ -3,7 +3,25 @@ description: Version 1.0 | This Policy was approved on 01 March 2022.
 icon: scroll
 ---
 
-# Whistleblowing
+# Whistleblowing Policy
+
+
+
+{% tabs %}
+{% tab title="Quick Resources" %}
+{% hint style="info" %}
+[**ShortURL**](https://short.theiofoundation.org/TIOFOrgBoards) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
+{% endhint %}
+{% endtab %}
+
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
+
+<figure><img src="../../.gitbook/assets/[TIOF] Comms [P] TIOF Full Logo C T HiRes ENG v1.6.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
 
 {% hint style="info" %}
 [**ShortURL**](https://tiof.click/TIOFPolicyWhistleblowing) **| Playbook | Assistant**
@@ -101,7 +119,7 @@ We hope that Members will feel able to voice whistleblowing concerns openly unde
 
 The aim of this Policy is to provide an internal mechanism for reporting, investigating and remedying any wrongdoing in the workplace. In most cases you should not find it necessary to alert anyone externally.
 
-The law recognizes however that in some circumstances it may be appropriate for you to report your concerns to an external body such as a regulator. We strongly encourage you to seek advice before reporting a concern to anyone external. Some organizations specialize in such advice. You can find some [Contacts](whistleblowing.md#contacts) at the end of this Policy.
+The law recognizes however that in some circumstances it may be appropriate for you to report your concerns to an external body such as a regulator. We strongly encourage you to seek advice before reporting a concern to anyone external. Some organizations specialize in such advice. You can find some [Contacts](whistleblowing-policy.md#contacts) at the end of this Policy.
 
 ### Protection and support for whistleblowers
 
