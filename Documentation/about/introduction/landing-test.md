@@ -26,7 +26,7 @@ layout:
 # Landing Test
 
 {% tabs %}
-{% tab title="Now" %}
+{% tab title="NOW" %}
 ## Check what's happening right now @ The IO Foundation
 
 <div><figure><img src="../../.gitbook/assets/APrIFG 2025.png" alt=""><figcaption><p>APrIGF - Kathmandu, Nepal</p></figcaption></figure> <figure><img src="../../.gitbook/assets/APrIFG 2025 (1).png" alt=""><figcaption><p>IETF 124 | Montreal, Canada</p></figcaption></figure></div>
@@ -45,40 +45,38 @@ layout:
 {% endtab %}
 {% endtabs %}
 
-<h2 align="center">Technologist are the Next Generation of Rights Defenders</h2>
-
-<p align="center"><strong>If you work in technology, you are an architect of civilization!</strong></p>
-
-<p align="center"><a href="http://app.gitbook.com/join" class="button primary">Join the Argos community</a>    <a href="http://app.gitbook.com/join" class="button secondary" data-icon="hand-sparkles">Plege the Sagan Oath!</a><br></p>
-
 {% columns %}
 {% column width="58.333333333333336%" %}
 ### Get to know The IO Foundation
 
-Setting up your first API call should be the easiest part of getting started. With clear endpoints, copy-paste-ready examples, and quick authentication, you’ll be up and running in minutes—not hours.
+The IO Foundation is a global for-impact NGO championing Data-Centric Digital Rights to strengthen user protection through technical standards. Our work focuses on supporting technologists, _the architects of modern civilization_, to safeguard human and digital rights by advocating for robust digital infrastructure.
 
-No guesswork, no complexity—just your first successful call, fast.
+Actively engaged in Standard Developing Organizations, we raise awareness of their critical role within the technical community both locally and globally.
 
-<a href="https://template.gitbook.com/space-product-docs" class="button primary" data-icon="rocket-launch">Get started</a> <a href="https://template.gitbook.com/space-api-reference" class="button secondary" data-icon="terminal">API reference</a>
+Our mission is driven by innovation and accountability, ensuring technology serves humanity’s progress.
+
+<a href="../organization-brief/" class="button primary" data-icon="building-ngo">Discover The IO Foundation</a>   <a href="https://template.gitbook.com/space-api-reference" class="button secondary" data-icon="hand-holding-seedling">Support Us</a>   <a href="../join-us/" class="button primary" data-icon="hand-spock">Get Involved</a>
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/placeholder.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/JFQ Coop-SIG.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
 {% columns %}
-{% column width="41.66666666666667%" %}
-### Learn more our Data-Centric Digital Rights advocacy
+{% column width="50%" %}
+### Our advocacy: Data-Centric Digital Rights
 
-Read guides, watch tutorials, and learn more about working with the developer platform and integrating it with your own stack.
+Data-Centric Digital Rights (DCDR), is the advocacy works towards protecting citizens and their digital twins by transparently implementing protections in their in their daily technology.
 
-<a href="https://template.gitbook.com/space-help-center" class="button primary" data-icon="book-open">Guides</a> <a href="https://template.gitbook.com/space-product-docs" class="button secondary" data-icon="book">Documentation</a>
+
+
+<a href="https://app.gitbook.com/s/rG4xcNzldvEoKR9FS7Og/about/readme" class="button primary" data-icon="book-open">Learn about DCDR</a>    <a href="https://app.gitbook.com/s/anvxjAzkrMrH39Mt5Hnn/about/get-involved" class="button secondary" data-icon="hand-spock">Get Involved</a>
 
 
 {% endcolumn %}
 
-{% column width="58.33333333333333%" %}
+{% column width="50%" %}
 {% code title="The 3 DCDR Principles
 " overflow="wrap" %}
 ```javascript
@@ -102,6 +100,12 @@ function Rights_By_Design()
 {% endcode %}
 {% endcolumn %}
 {% endcolumns %}
+
+<h2 align="center">Technologist are the Next Generation of Rights Defenders</h2>
+
+<p align="center"><strong>If you work in technology, you are an architect of civilization!</strong></p>
+
+<p align="center"><a href="http://app.gitbook.com/join" class="button primary">Join the Argos community</a>    <a href="http://app.gitbook.com/join" class="button secondary" data-icon="hand-sparkles">Plege the Sagan Oath!</a><br></p>
 
 <h2 align="center">Discover Argos, our DCDR community</h2>
 

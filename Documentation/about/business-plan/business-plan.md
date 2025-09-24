@@ -1,5 +1,5 @@
 ---
-description: Version 1.0 | This Business Plan was approved on 22 September 2023.
+description: The IO Foundation's funding structure and strategy.
 icon: chart-mixed-up-circle-dollar
 cover: >-
   ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Business
@@ -44,15 +44,15 @@ Use this QR Code to quickly share this page.
 
 This section provides all the information about how The IO Foundation finances its advocacy and operations.
 
-The organization actively attempts to balance traditional means of funding (donations, grants) with offering its own products and services aligned with the DCDR advocacy.
+The organization actively attempts to balance traditional means of funding (donations, grants) with offering its own products and services aligned with its [Data-Centric Digital Rights (DCDR) advocacy](https://short.theiofoundation.org/TIOFDCDRDocs).
 
-{% hint style="info" %}
-This business plan is fully compliant with [The IO Foundation's policies](https://short.theiofoundation.org/TIOFPolicies).
+{% hint style="success" %}
+The IO Foundation's business plan is designed to be always fully compliant with [The IO Foundation's policies](https://short.theiofoundation.org/TIOFPolicies).
 {% endhint %}
 
 ## **Funding streams**
 
-In accordance to its Resource Mobilization and Allocation policy, The IO Foundation accepts resources from a variety of sources, categorized into streams, that are consistent with its Mission, Vision and values. The following are the recognized types of resource mobilization streams:
+In accordance to its [Resource Mobilization and Allocation policy](https://short.theiofoundation.org/TIOFPolicyRMA), The IO Foundation accepts resources from a variety of sources, categorized into streams, that are consistent with its Mission, Vision, Values and Guiding Principles. The following are the recognized types of resource mobilization streams:
 
 <table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><i class="fa-square-1">:square-1:</i>  <strong>Grants</strong></td><td>Financial support received from foundations, government entities or other organizations typically designated for specific projects or initiatives.</td></tr><tr><td><i class="fa-square-2">:square-2:</i>  <strong>Donations</strong></td><td>Monetary or in-kind contributions provided voluntarily by individuals, corporations or institutions without expectation of direct return.</td></tr><tr><td><i class="fa-square-3">:square-3:</i>  <strong>Crowdfunding</strong></td><td>Raising small amounts of money from a large number of people, typically via the Internet.</td></tr><tr><td><i class="fa-square-4">:square-4:</i>  <strong>Products &#x26; Services</strong> </td><td>Revenue generated from the provision of services and products that align with the organization's mission and expertise.</td></tr><tr><td><i class="fa-square-5">:square-5:</i>  <strong>Matching</strong></td><td>Funds matched by another party, often in response to funds raised through other means.</td></tr></tbody></table>
 
