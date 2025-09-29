@@ -35,13 +35,13 @@ layout:
 {% tab title="Activities" %}
 ## Explore upcoming activities
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>vxvxzcvxczvxzv</td><td><a href="../../.gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr><tr><td></td><td><a href="../../.gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>STS 2026</strong></td><td>Kuala Lumpur, Malaysia</td><td>School of Technical Standards<br></td><td><em>More information soon.</em></td><td><a href="../../.gitbook/assets/Gitbook Card (1).png">Gitbook Card (1).png</a></td></tr><tr><td><strong>APRICOT 2026</strong></td><td>Jakarta, Indonesia</td><td>Asia Pacific's premier Internet operations conference.</td><td><em>More information soon.</em></td><td><a href="../../.gitbook/assets/Gitbook Card.png">Gitbook Card.png</a></td></tr><tr><td><strong>IETF 125</strong></td><td>Shenzhen, China</td><td>Global standards forum for Internet engineering and protocols.</td><td><em>More information soon.</em></td><td><a href="../../.gitbook/assets/Gitbook Header (1920 x 1080 px).png">Gitbook Header (1920 x 1080 px).png</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Publications" %}
 ## Read other articles by The IO Foundation and guest writers
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>zxvxc</td><td data-object-fit="fill"><a href="../../.gitbook/assets/no-code.jpg">no-code.jpg</a></td></tr><tr><td>zxcvzxv</td><td data-object-fit="fill"><a href="../../.gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr><tr><td>zxcvxz</td><td data-object-fit="fill"><a href="../../.gitbook/assets/api-reference.jpg">api-reference.jpg</a></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>A PENNY FOR YOUR BYTES</strong></td><td>PART VII -<br>THE IMPENDING CS CRISIS</td><td><a href="../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card APFYB-07 XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card APFYB-07 XXX v1.0.png</a></td><td><a href="https://app.gitbook.com/s/AEPxsorb0vygAAlwZz3R/topics/a-penny-for-your-bytes/part-vii-the-impending-cs-crisis">Part VII - The impending CS crisis</a></td></tr><tr><td><strong>THE IO FOUNDATION</strong></td><td>WHAT'S IN A NAME?<br></td><td><a href="../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card What&#x27;s in Name ENG v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card What's in Name ENG v1.0.png</a></td><td><a href="https://app.gitbook.com/s/AEPxsorb0vygAAlwZz3R/topics/the-io-foundation/whats-in-a-name">What's in a name?</a></td></tr><tr><td><strong>DCDR</strong></td><td>LET'S TALK<br>DATA-CENTRIC DIGITAL RIGHTS<br></td><td><a href="../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Lets talk DCDR XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Lets talk DCDR XXX v1.0.png</a></td><td><a href="https://app.gitbook.com/s/AEPxsorb0vygAAlwZz3R/topics/data-centric-digital-rights/lets-talk-data-centric-digital-rights">Let's talk Data-Centric Digital Rights</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
@@ -107,19 +107,15 @@ function Rights_By_Design()
 {% endcolumn %}
 {% endcolumns %}
 
+<h2 align="center"></h2>
+
 <h2 align="center">Technologist are the Next Generation of Rights Defenders</h2>
 
 <p align="center"><strong>If you work in technology, you are an architect of civilization!</strong></p>
 
-<p align="center"><a href="http://app.gitbook.com/join" class="button primary">Join the Argos community</a>    <a href="http://app.gitbook.com/join" class="button secondary" data-icon="hand-sparkles">Plege the Sagan Oath!</a><br></p>
+<p align="center"><a href="../../" class="button primary">Coming soon: Join the Argos community!</a>    <a href="https://app.gitbook.com/s/rG4xcNzldvEoKR9FS7Og/about/the-sagan-oath" class="button secondary" data-icon="hand-sparkles">Plege the Sagan Oath!</a></p>
 
-<h2 align="center">Discover Argos, our DCDR community</h2>
-
-<p align="center">Join our Discord community or create your first PR in just a few steps.</p>
-
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-discord">:discord:</i></h4></td><td><strong>Discord community</strong></td><td>Join our Discord community to post questions, get help, and share resources with over 3,000 like-minded developers.</td><td><a href="https://www.gitbook.com/" class="button secondary">Join Discord</a></td><td></td></tr><tr><td><h4><i class="fa-github">:github:</i></h4></td><td><strong>GitHub</strong></td><td>Our product is 100% open source and built by developers just like you. Head to our GitHub repository to learn how to submit your first PR.</td><td><a href="https://www.gitbook.com/" class="button secondary">Submit a PR</a></td><td></td></tr></tbody></table>
-
-
+<p align="center"><br></p>
 
 ## Get involved in our projects
 
