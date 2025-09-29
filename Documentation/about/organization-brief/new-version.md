@@ -80,7 +80,7 @@ The ever-increasing complexity of technology does not allow users to be in full 
 
 The IO Foundation embraces the following values to drive its mission:
 
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><p><i class="fa-bolt">:bolt:</i>  <strong>INNOVATIVE</strong></p><p>      <strong>IMPACT</strong></p></td><td><p>Our work only makes sense if we help digital users worldwide.</p><p>Our <a href="https://tiof.click/TIOFInitiatives">initiatives</a> are designed and implemented only to serve the broader <a href="https://tiof.click/DCDRAdvocacy">DCDR advocacy</a> and to help, step by step, generate practical outcomes that make technology better and safer transparently for digital citizens.<br><br>/</p></td></tr><tr><td><i class="fa-eye">:eye:</i>  <strong>TRANSPARENCY</strong><br>       <strong>&#x26; ACCOUNTABILITY</strong></td><td>We recognize the critical importance of operating under procedures and methodologies that are transparent in order to generate the necessary trust in our <a href="https://tiof.click/DCDRPrinciples">DCDR Principles</a> and the advocacy at large.<br><br><a href="https://app.gitbook.com/s/JXbvNyVmZ8duv0pk4SxH/about/project-information" class="button primary" data-icon="hexagon-plus">Discover Hexogate</a></td></tr><tr><td><p><i class="fa-users-rectangle">:users-rectangle:</i>  <strong>SUPPORTING</strong></p><p>      <strong>COMMUNITY</strong></p></td><td><a href="https://tiof.click/DCDRAdvocacy">Data-Centric Digital Rights</a> is a global endeavor that requires the active participation of everyone, from policy makers to citizens, businesses and, most importantly technologists as architects and builders our digital societies.<br><br><a href="https://app.gitbook.com/s/uld9T2tTIUQIOL2sa5b6/about/spotlight" class="button primary" data-icon="hexagon-plus">Discover Argos</a></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><i class="fa-bolt">:bolt:</i>  <strong>INNOVATIVE</strong></p><p>      <strong>IMPACT</strong></p></td><td><p>Our work only makes sense if we help digital users worldwide.</p><p>Our <a href="https://tiof.click/TIOFInitiatives">initiatives</a> are designed and implemented only to serve the broader <a href="https://tiof.click/DCDRAdvocacy">DCDR advocacy</a> and to help, step by step, generate practical outcomes that make technology better and safer transparently for digital citizens.</p></td><td></td></tr><tr><td><i class="fa-eye">:eye:</i>  <strong>TRANSPARENCY</strong><br>       <strong>&#x26; ACCOUNTABILITY</strong></td><td>We recognize the critical importance of operating under procedures and methodologies that are transparent in order to generate the necessary trust in our <a href="https://tiof.click/DCDRPrinciples">DCDR Principles</a> and the advocacy at large.<br><br><a href="https://app.gitbook.com/s/JXbvNyVmZ8duv0pk4SxH/about/project-information" class="button primary" data-icon="hexagon-plus">Discover Hexogate</a></td><td></td></tr><tr><td><p><i class="fa-users-rectangle">:users-rectangle:</i>  <strong>SUPPORTING</strong></p><p>      <strong>COMMUNITY</strong></p></td><td><a href="https://tiof.click/DCDRAdvocacy">Data-Centric Digital Rights</a> is a global endeavor that requires the active participation of everyone, from policy makers to citizens, businesses and, most importantly technologists as architects and builders our digital societies.<br><br><a href="https://app.gitbook.com/s/uld9T2tTIUQIOL2sa5b6/about/spotlight" class="button primary" data-icon="hexagon-plus">Discover Argos</a></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 ## Our Guiding Principles
 
@@ -140,7 +140,7 @@ By understanding that [_we are our data_](https://tiof.click/DCDRPrinciple1), te
 {% column %}
 ##
 
-<figure><img src="../../.gitbook/assets/hosted.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Lets talk DCDR XXX v1.0.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Objectives
 
@@ -173,6 +173,8 @@ DCDR aims at encouraging a shift in the current technology paradigms by providin
 
 {% columns %}
 {% column %}
+### BHR in Tech
+
 The BHR in Tech initiative aims at encouraging a shift towards the adoption and implementation of the [United Nations' Guiding Principles in Business and Human Rights](https://tiof.click/BITUNGP) in the Tech sector by
 
 * designing and producing implementation guidelines and other research materials
@@ -185,9 +187,9 @@ The BHR in Tech initiative aims at encouraging a shift towards the adoption and 
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../.gitbook/assets/api-reference.jpg" alt=""><figcaption></figcaption></figure>
+###
 
-### BHR in Tech
+<figure><img src="../../.gitbook/assets/api-reference.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -199,6 +201,8 @@ The BHR in Tech initiative aims at encouraging a shift towards the adoption and 
 
 {% columns %}
 {% column %}
+###
+
 <figure><img src="../../.gitbook/assets/no-code.jpg" alt=""><figcaption></figcaption></figure>
 
 

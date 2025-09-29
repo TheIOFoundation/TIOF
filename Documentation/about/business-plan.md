@@ -2,8 +2,8 @@
 description: The IO Foundation's funding structure and strategy.
 icon: chart-mixed-up-circle-dollar
 cover: >-
-  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Business
-  Plan XXX v2.png
+  ../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Business Plan
+  XXX v2.png
 coverY: 0
 layout:
   width: default
@@ -36,7 +36,7 @@ layout:
 {% tab title="Share this page" %}
 Use this QR Code to quickly share this page.
 
-<figure><img src="../../.gitbook/assets/TIOFTIOFBusinessPlan_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/TIOFTIOFBusinessPlan_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

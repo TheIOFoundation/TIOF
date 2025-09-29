@@ -4,8 +4,7 @@
 
 * [Organization Brief](README.md)
   * [New Version](about/organization-brief/new-version.md)
-* [Business Plan](about/business-plan/README.md)
-  * [Business Plan](about/business-plan/business-plan.md)
+* [Business Plan](about/business-plan.md)
 * [DCDR Principles](https://tiof.click/Principles)
 * [NextGen Rights Defenders](about/nextgen-rights-defenders/README.md)
   * [NextGen Rights Defenders](about/nextgen-rights-defenders/nextgen-rights-defenders.md)
@@ -139,4 +138,5 @@
   * [Introduction](operational/old/introduction.md)
   * [Landing Test](operational/old/landing-test.md)
   * [Introduction](operational/old/introduction-1.md)
+  * [Business Plan](operational/old/business-plan.md)
 * [Reusable Blocks](operational/page.md)
