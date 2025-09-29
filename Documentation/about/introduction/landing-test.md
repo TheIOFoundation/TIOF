@@ -54,20 +54,18 @@ The IO Foundation is a global for-impact NGO championing Data-Centric Digital Ri
 Actively engaged in Standard Developing Organizations, we raise awareness of their critical role within the technical community both locally and globally.
 
 Our mission is driven by innovation and accountability, ensuring technology serves humanity’s progress.
+
+<a href="../organization-brief/" class="button primary" data-icon="building-ngo">Discover The IO Foundation</a> &#x20;
+
+
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
 <figure><img src="../../.gitbook/assets/0 - NAKED ARE YOU.jpg" alt=""><figcaption></figcaption></figure>
 
-<a href="../organization-brief/" class="button primary" data-icon="building-ngo">Discover The IO Foundation</a>  \
-\
-&#x20;<a href="https://template.gitbook.com/space-api-reference" class="button secondary" data-icon="hand-holding-seedling">Support Us</a> \
-\
-&#x20; <a href="../join-us/" class="button primary" data-icon="hand-spock">Get Involved</a>
 
 
-
-
+&#x20;<a href="https://template.gitbook.com/space-api-reference" class="button secondary" data-icon="hand-holding-seedling">Support Us</a>    <a href="../join-us/" class="button primary" data-icon="hand-spock">Get Involved</a>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -125,4 +123,4 @@ function Rights_By_Design()
 
 ## Get involved in our projects
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>DCDR Framework</strong></td><td>Get started with the developer platform in 5 minutes.</td><td><a href="https://template.gitbook.com/space-product-docs">https://template.gitbook.com/space-product-docs</a></td><td><a href="../../.gitbook/assets/no-code.jpg">no-code.jpg</a></td></tr><tr><td><h4><i class="fa-server">:server:</i></h4></td><td><strong>ProcotolWatch</strong></td><td>Learn more about hosting the developer platform.</td><td><a href="https://template.gitbook.com/space-product-docs">https://template.gitbook.com/space-product-docs</a></td><td><a href="../../.gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr><tr><td><h4><i class="fa-terminal">:terminal:</i></h4></td><td><strong>Open Tech Ecosystem Mapping</strong></td><td>Browse, test, and implement APIs.</td><td><a href="https://template.gitbook.com/space-api-reference">https://template.gitbook.com/space-api-reference</a></td><td><a href="../../.gitbook/assets/api-reference.jpg">api-reference.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>DCDR Framework</strong></td><td>Get started with the developer platform in 5 minutes.</td><td><a href="https://template.gitbook.com/space-product-docs">https://template.gitbook.com/space-product-docs</a></td><td><a href="../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Project DCDR Framework XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Project DCDR Framework XXX v1.0.png</a></td></tr><tr><td><h4><i class="fa-server">:server:</i></h4></td><td><strong>ProcotolWatch</strong></td><td>Learn more about hosting the developer platform.</td><td><a href="https://template.gitbook.com/space-product-docs">https://template.gitbook.com/space-product-docs</a></td><td><a href="../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Project ProtocolWatch XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Project ProtocolWatch XXX v1.0.png</a></td></tr><tr><td><h4><i class="fa-terminal">:terminal:</i></h4></td><td><strong>Open Tech Ecosystem Mapping</strong></td><td>Browse, test, and implement APIs.</td><td><a href="https://template.gitbook.com/space-api-reference">https://template.gitbook.com/space-api-reference</a></td><td><a href="../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card OTEM XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card OTEM XXX v1.0.png</a></td></tr></tbody></table>
