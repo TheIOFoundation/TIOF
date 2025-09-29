@@ -2,9 +2,7 @@
 
 ## About
 
-* [Landing Test](README.md)
-* [Introduction](about/introduction.md)
-* [Organization Brief](about/organization-brief/README.md)
+* [Organization Brief](README.md)
   * [New Version](about/organization-brief/new-version.md)
 * [Business Plan](about/business-plan/README.md)
   * [Business Plan](about/business-plan/business-plan.md)
@@ -139,4 +137,6 @@
   * [🔠 Portfolio](operational/pending/portfolio.md)
 * [Old](operational/old/README.md)
   * [Introduction](operational/old/introduction.md)
+  * [Landing Test](operational/old/landing-test.md)
+  * [Introduction](operational/old/introduction-1.md)
 * [Reusable Blocks](operational/page.md)

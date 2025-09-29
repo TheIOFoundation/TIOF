@@ -1,123 +1,166 @@
 ---
-hidden: true
+description: >-
+  Get to know The IO Foundation: its DCDR advocacy and its work to ensure
+  technology is safe by design.
+icon: building-ngo
 cover: >-
-  .gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header Introduction
-  XXX v1.0.png
+  .gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Organization
+  Brief XXX v2.png
 coverY: 0
 layout:
-  width: wide
+  width: default
   cover:
     visible: true
     size: hero
   title:
-    visible: false
+    visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: true
   metadata:
-    visible: false
+    visible: true
 ---
 
-# Landing Test
+# Organization Brief
+
+
 
 {% tabs %}
-{% tab title="NOW" %}
-## Check what's happening right now @ The IO Foundation
-
-<div><figure><img src=".gitbook/assets/APrIFG 2025.png" alt=""><figcaption><p>APrIGF - Kathmandu, Nepal</p></figcaption></figure> <figure><img src=".gitbook/assets/APrIFG 2025 (1).png" alt=""><figcaption><p>IETF 124 | Montreal, Canada</p></figcaption></figure></div>
+{% tab title="Quick Resources" %}
+{% hint style="info" %}
+[**ShortURL**](https://short.theiofoundation.org/TIOFDocsOrgBrief) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
+{% endhint %}
 {% endtab %}
 
-{% tab title="Activities" %}
-## Explore upcoming activities
+{% tab title="Share this page" %}
+Use this QR Code to quickly share this page.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>STS 2026</strong></td><td>Kuala Lumpur, Malaysia</td><td>School of Technical Standards<br></td><td><em>More information soon.</em></td><td><a href=".gitbook/assets/Gitbook Card (1).png">Gitbook Card (1).png</a></td></tr><tr><td><strong>APRICOT 2026</strong></td><td>Jakarta, Indonesia</td><td>Asia Pacific's premier Internet operations conference.</td><td><em>More information soon.</em></td><td><a href=".gitbook/assets/Gitbook Card.png">Gitbook Card.png</a></td></tr><tr><td><strong>IETF 125</strong></td><td>Shenzhen, China</td><td>Global standards forum for Internet engineering and protocols.</td><td><em>More information soon.</em></td><td><a href=".gitbook/assets/Gitbook Header (1920 x 1080 px).png">Gitbook Header (1920 x 1080 px).png</a></td></tr></tbody></table>
-{% endtab %}
-
-{% tab title="Publications" %}
-## Read other articles by The IO Foundation and guest writers
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>A PENNY FOR YOUR BYTES</strong></td><td>PART VII -<br>THE IMPENDING CS CRISIS</td><td><a href=".gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card APFYB-07 XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card APFYB-07 XXX v1.0.png</a></td><td><a href="https://app.gitbook.com/s/AEPxsorb0vygAAlwZz3R/topics/a-penny-for-your-bytes/part-vii-the-impending-cs-crisis">Part VII - The impending CS crisis</a></td></tr><tr><td><strong>THE IO FOUNDATION</strong></td><td>WHAT'S IN A NAME?<br></td><td><a href=".gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card What&#x27;s in Name ENG v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card What's in Name ENG v1.0.png</a></td><td><a href="https://app.gitbook.com/s/AEPxsorb0vygAAlwZz3R/topics/the-io-foundation/whats-in-a-name">What's in a name?</a></td></tr><tr><td><strong>DCDR</strong></td><td>LET'S TALK<br>DATA-CENTRIC DIGITAL RIGHTS<br></td><td><a href=".gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Lets talk DCDR XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Lets talk DCDR XXX v1.0.png</a></td><td><a href="https://app.gitbook.com/s/AEPxsorb0vygAAlwZz3R/topics/data-centric-digital-rights/lets-talk-data-centric-digital-rights">Let's talk Data-Centric Digital Rights</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<figure><img src=".gitbook/assets/TIOFDocsTIOFsBrief_4096x4096.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
-{% columns %}
-{% column width="58.333333333333336%" %}
-### Get to know The IO Foundation
+## The organization
 
-The IO Foundation is a global for-impact NGO championing Data-Centric Digital Rights to strengthen user protection through technical standards. Our work focuses on supporting technologists, _the architects of modern civilization_, to safeguard human and digital rights by advocating for robust digital infrastructure.
+The IO Foundation (TIOF) is a global for-impact NGO born from a fundamental concern about the state of technology in the world and advocating for [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy).
 
-Actively engaged in Standard Developing Organizations, we raise awareness of their critical role within the technical community both locally and globally.
+TIOF aims to raise awareness of the importance of [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) in collaboration with stakeholders ranging from civil society, programmer communities, bodies of governance and corporate and work together to achieve the proclamation and adoption of a [Universal Declaration of Digital Rights](https://tiof.click/UDDRWeb).
 
-Our mission is driven by innovation and accountability, ensuring technology serves humanity’s progress.
+TIOF advances its [Data-Centric Digital Rights advocacy](https://tiof.click/DCDRAdvocacy) through the implementation of a number of [initiatives](./#initiatives).
 
-<a href="about/organization-brief/" class="button primary" data-icon="building-ngo">Discover The IO Foundation</a> &#x20;
+## The observed problem(s)
 
+* The nature of data is largely misunderstood
+  * With currently 11 definitions of data worldwide, if we can't agree on that basic concept it will be virtually impossible to protect it effectively cross-borders.
+* Technology is too complex for citizens and doesn't protect them properly
+  * Current regulations place too much burden on the citizens' shoulders.
+* Technology, and in particular software, does not have a way to prove compliance to data protection laws in an objective, standardized manner
+  * In any properly regulated industry, companies only compete at value proposition level. In technology, they also compete at compliance level; enduring trust is not possible.&#x20;
+* Experts do not have the necessary tools to be at the forefront of architecting and implementing better and safer technology
+  * Policy makers and civil society at large keeps ignoring that engineers require being spoken too in a language they understand: clear, precise and definable problems + algorithms.
+* Citizens should only be expected to be responsible citizens and not hackers
+* Governments are increasingly becoming irrelevant by not being able to protect their own citizens' data
 
-{% endcolumn %}
+{% hint style="success" %}
+At The IO Foundation we regard technologists, and developers in particular, as the \
+&#xNAN;_&#x4E;ext Generation of Rights Defenders._
+{% endhint %}
 
-{% column width="41.666666666666664%" %}
-<figure><img src=".gitbook/assets/0 - NAKED ARE YOU.jpg" alt=""><figcaption></figcaption></figure>
+## Initiatives
 
+### Diagram
 
+The following diagram provides an overview on how each of the initiatives support each other to advance TIOF's [Mission](https://tiof.click/TIOFMission) in realizing its [Vision](https://tiof.click/TIOFVision).
 
-&#x20;<a href="https://template.gitbook.com/space-api-reference" class="button secondary" data-icon="hand-holding-seedling">Support Us</a>    <a href="about/join-us/" class="button primary" data-icon="hand-spock">Get Involved</a>
-{% endcolumn %}
-{% endcolumns %}
+{% embed url="https://modeler.camunda.io/share/ea8eb8f5-81ad-45b2-8c43-95f95170201c" %}
 
-{% columns %}
-{% column width="50%" %}
-### Our advocacy: Data-Centric Digital Rights
+## Data-Centric Digital Rights
 
-Data-Centric Digital Rights (DCDR), is the advocacy works towards protecting citizens and their digital twins by transparently implementing protections in their in their daily technology.
+TIOF views the technology as currently non-correlated with all working understandings and practices as to how any public-consumption industry functions traditionally where a clear separation is made between:
 
+* Experts, who understand the complexities to design and build products that are compliant with applicable legislation and
+* Citizens, who are solely tasked for being responsible users of the product
 
+{% hint style="info" %}
+As core stakeholders, technologists play a critical role as the [Next Generation of Rights Defenders](https://tiof.click/TIOFNextGen) and need to orient themselves through new design and implementation paradigms focused on protecting data. The [DCDR Principles](https://tiof.click/DCDRPrinciples) are concepts that help them navigate the intricacies of applying Human and Digital Rights in digital infrastructures, products and services.
+{% endhint %}
 
-<a href="https://app.gitbook.com/s/rG4xcNzldvEoKR9FS7Og/about/readme" class="button primary" data-icon="book-open">Learn about DCDR</a>    <a href="https://app.gitbook.com/s/anvxjAzkrMrH39Mt5Hnn/about/get-involved" class="button secondary" data-icon="hand-spock">Get Involved</a>
+In essence, DCDR is a framework for technologists composed by Principles, Taxonomies and other technical tools. It enables them to develop a deeper understanding about the nature of data, the digital twins that emerge from it and make possible for them to embrace their role as [NextGen Rights Defenders](https://tiof.click/TIOFNextGen).
 
+{% hint style="success" %}
+By understanding that [_we are our data_](https://tiof.click/DCDRPrinciple1), technologists may architect Digital Spaces that aim at [_ending remedy_](https://tiof.click/DCDRPrinciple2) and build it so that they implement [_Rights by design_](https://tiof.click/DCDRPrinciple3).
+{% endhint %}
 
-{% endcolumn %}
+### Objectives
 
-{% column width="50%" %}
-{% code title="The 3 DCDR Principles
-" overflow="wrap" %}
-```javascript
-// Principle I: I am my data 
-function I_Am_My_Data()
-  /* Your data is your digital identity.
-     Own it, control it, make it yours because it's you! */
-  return "You == Data"
+DCDR aims at encouraging a shift in the current technology paradigms by providing a [DCDR framework](https://tiof.click/DCDRFramework) comprised of, among others:
 
-// Principle II: End Remedy 
-function End_Remedy()
-  /* If can avoid a harm, do it right from the design phase. Proactive protections rulez! */
-  return "Harms == Null"
-  
-// Principle III: Rights by Design 
-function Rights_By_Design()
-  /* Privacy and control must built in from the start.
-     Your rights are the foundation, not an afterthought! */
-  return "Trust == Core"
-```
-{% endcode %}
-{% endcolumn %}
-{% endcolumns %}
+* A set of[ DCDR Principles](https://tiof.click/DCDRPrinciples)
+* An oath [(the Sagan Oath)](https://tiof.click/DCDRSaganOath)
+* A set of taxonomies for
+  * [Digital Harms](https://tiof.click/DCDRDigitalHarms)
+  * [Digital Rights](https://tiof.click/DCDRDigitalRights)
+  * [Use Cases](https://tiof.click/DCDRUseCases)
 
-<h2 align="center"></h2>
+[More information](https://tiof.click/DCDRDocs)
 
-<h2 align="center">Technologist are the Next Generation of Rights Defenders</h2>
+## BHR in Tech
 
-<p align="center"><strong>If you work in technology, you are an architect of civilization!</strong></p>
+The BHR in Tech initiative aims at encouraging a shift towards the adoption and implementation of the [United Nations' Guiding Principles in Business and Human Rights](https://tiof.click/BITUNGP) in the Tech sector by
 
-<p align="center"><a href="about/introduction.md" class="button primary">Coming soon: Join the Argos community!</a>    <a href="https://app.gitbook.com/s/rG4xcNzldvEoKR9FS7Og/about/the-sagan-oath" class="button secondary" data-icon="hand-sparkles">Plege the Sagan Oath!</a></p>
+* designing and producing implementation guidelines and other research materials
+* participating actively in the drafting of National Action Plans (NAPs) so that tech is considered as a thematic area or, to the very least, as a cross-cutting theme
+* increase the recognition of the importance of technology in different jurisdictions through their National Action Plans
+* reviewing existing National Action Plans (NAPs)&#x20;
+* increase awareness and adoption across tech companies
 
-<p align="center"><br></p>
+[More information](https://tiof.click/BiTDocs)
 
-## Get involved in our projects
+## TechUp
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>DCDR Framework</strong></td><td>Get started with the developer platform in 5 minutes.</td><td><a href="https://template.gitbook.com/space-product-docs">https://template.gitbook.com/space-product-docs</a></td><td><a href=".gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Project DCDR Framework XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Project DCDR Framework XXX v1.0.png</a></td></tr><tr><td><h4><i class="fa-server">:server:</i></h4></td><td><strong>ProcotolWatch</strong></td><td>Learn more about hosting the developer platform.</td><td><a href="https://template.gitbook.com/space-product-docs">https://template.gitbook.com/space-product-docs</a></td><td><a href=".gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Project ProtocolWatch XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card Project ProtocolWatch XXX v1.0.png</a></td></tr><tr><td><h4><i class="fa-terminal">:terminal:</i></h4></td><td><strong>Open Tech Ecosystem Mapping</strong></td><td>Browse, test, and implement APIs.</td><td><a href="https://template.gitbook.com/space-api-reference">https://template.gitbook.com/space-api-reference</a></td><td><a href=".gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card OTEM XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Gitbook Card OTEM XXX v1.0.png</a></td></tr></tbody></table>
+TechUp is a collaborative space uniting capacity building and social participation to build better and safer digital by engaging technologists in a meaningful way.
 
+Through its activities, TechUp strives to bring together the tech community to become the agents of change that digital societies need right now.
+
+[More information](https://tiof.click/TUDocs)
+
+## CrowdShape
+
+The CrowdShape (CS) initiative intends to be a model for crowd collaboration based on transparent processes and accountable management. It is aimed at enabling technologists to start and run their own tech NGOs by providing familiar tools to enable the collaboration and reward of participants, attracting talent and financial support.
+
+[More information](https://tiof.click/CSDocs)
+
+## Universal Declaration of Digital Rights
+
+The UDDR initiative is a multi-stakeholder initiative promoted by The IO Foundation to promote and achieve the proclamation of a Universal Declaration of Digital Rights.
+
+> _**Building trustworthy technology that protects your Data-Centric Digital Rights.**_
+
+{% hint style="info" %}
+As core stakeholders, technologists play a critical role as the [Next Generation of Rights Defenders](https://tiof.click/TIOFNextGen) and need to orient themselves through new design and implementation paradigms focused on protecting data. The [DCDR Principles](https://tiof.click/DCDRPrinciples) put forward by The IO Foundation are concepts that help them navigate the intricacies of applying Human and Digital Rights in digital infrastructures, products and services.
+{% endhint %}
+
+### Objectives
+
+The UDDR initiative aims at encouraging a shift in the current technology paradigms by providing
+
+* a Universal Declaration of Digital Rights comprising
+  * a Legal document (L)
+  * a Technical document (T)
+  * a Data-Centric Digital Rights SDK (DCDR SDK)
+* a DCDR Processing Index
+* a Global DCDR compliance database
+* a strategy for international & national adoption and legislation strategies
+* conversations on the different adoption strategies per stakeholder
+* a strategy for the implementation, adoption, deployment and maintenance phases by the tech sector
+* a roadmap for the above activities
+
+[More information](https://tiof.click/UDDRDocs)
+
+## Publications
+
+For more information, [see TIOF's publications](https://tiof.click/TIOFPublications).
