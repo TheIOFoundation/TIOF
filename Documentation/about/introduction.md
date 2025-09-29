@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: star
 cover: >-
   ../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header Introduction
