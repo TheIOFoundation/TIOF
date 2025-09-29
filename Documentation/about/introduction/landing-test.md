@@ -54,12 +54,20 @@ The IO Foundation is a global for-impact NGO championing Data-Centric Digital Ri
 Actively engaged in Standard Developing Organizations, we raise awareness of their critical role within the technical community both locally and globally.
 
 Our mission is driven by innovation and accountability, ensuring technology serves humanity’s progress.
-
-<a href="../organization-brief/" class="button primary" data-icon="building-ngo">Discover The IO Foundation</a>   <a href="https://template.gitbook.com/space-api-reference" class="button secondary" data-icon="hand-holding-seedling">Support Us</a>   <a href="../join-us/" class="button primary" data-icon="hand-spock">Get Involved</a>
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
-<figure><img src="../../.gitbook/assets/JFQ Coop-SIG.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0 - NAKED ARE YOU.jpg" alt=""><figcaption></figcaption></figure>
+
+<a href="../organization-brief/" class="button primary" data-icon="building-ngo">Discover The IO Foundation</a>  \
+\
+&#x20;<a href="https://template.gitbook.com/space-api-reference" class="button secondary" data-icon="hand-holding-seedling">Support Us</a> \
+\
+&#x20; <a href="../join-us/" class="button primary" data-icon="hand-spock">Get Involved</a>
+
+
+
+
 {% endcolumn %}
 {% endcolumns %}
 
