@@ -5,7 +5,7 @@ cover: >-
   XXX v1.0.png
 coverY: 0
 layout:
-  width: default
+  width: wide
   cover:
     visible: true
     size: hero
