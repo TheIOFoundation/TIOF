@@ -1,12 +1,28 @@
 ---
-icon: star
 cover: >-
   .gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header Introduction
   XXX v1.0.png
 coverY: 0
+layout:
+  width: wide
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: false
 ---
 
-# Introduction
+# Landing Test
 
 {% tabs %}
 {% tab title="NOW" %}
@@ -96,7 +112,7 @@ function Rights_By_Design()
 
 <p align="center"><strong>If you work in technology, you are an architect of civilization!</strong></p>
 
-<p align="center"><a href="./" class="button primary">Coming soon: Join the Argos community!</a>    <a href="https://app.gitbook.com/s/rG4xcNzldvEoKR9FS7Og/about/the-sagan-oath" class="button secondary" data-icon="hand-sparkles">Plege the Sagan Oath!</a></p>
+<p align="center"><a href="about/introduction.md" class="button primary">Coming soon: Join the Argos community!</a>    <a href="https://app.gitbook.com/s/rG4xcNzldvEoKR9FS7Og/about/the-sagan-oath" class="button secondary" data-icon="hand-sparkles">Plege the Sagan Oath!</a></p>
 
 <p align="center"><br></p>
 

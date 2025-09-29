@@ -2,8 +2,8 @@
 
 ## About
 
-* [Introduction](README.md)
-  * [Landing Test](about/introduction/landing-test.md)
+* [Landing Test](README.md)
+* [Introduction](about/introduction.md)
 * [Organization Brief](about/organization-brief/README.md)
   * [New Version](about/organization-brief/new-version.md)
 * [Business Plan](about/business-plan/README.md)
