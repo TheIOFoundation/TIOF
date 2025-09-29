@@ -137,4 +137,6 @@
 * [Pending](operational/pending/README.md)
   * [Theory of Change](operational/pending/theory-of-change.md)
   * [🔠 Portfolio](operational/pending/portfolio.md)
+* [Old](operational/old/README.md)
+  * [Introduction](operational/old/introduction.md)
 * [Reusable Blocks](operational/page.md)
