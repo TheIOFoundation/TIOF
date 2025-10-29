@@ -50,6 +50,22 @@ Our mission is driven by innovation, accountability and support to our community
 
 
 {% columns %}
+{% column %}
+## Our Mission
+
+`To promote, protect and provide solutions for Data-Centric Digital Rights.`
+{% endcolumn %}
+
+{% column %}
+## Our Vision
+
+`A world where Human Rights and Data-Centric Digital Rights are one and the same.`
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+{% columns %}
 {% column width="50%" %}
 ## The challenges
 

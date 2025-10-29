@@ -22,7 +22,7 @@ Use this QR Code to quickly share this page.
 
 {% columns %}
 {% column %}
-The IO Foundation is always looking for talented individuals wishing to make an impact in technology.
+The IO Foundation is always looking for talented individuals wishing to make an impact in technology and protect users by design.
 
 Do you share our [vision](https://tiof.click/TIOFVision)?
 
