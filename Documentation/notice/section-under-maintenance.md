@@ -1,4 +1,7 @@
 ---
+description: >-
+  Content is being updated | We apologize for the inconvenience and appreciate
+  your patience.
 icon: person-digging
 cover: ../.gitbook/assets/image (1).jpg
 coverY: 0
