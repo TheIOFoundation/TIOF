@@ -1,5 +1,5 @@
 ---
-description: Annual Reports of The IO Foundation.
+description: Discover the The IO Foundation's annual reports.
 icon: file-chart-column
 cover: >-
   ../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header Annual

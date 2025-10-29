@@ -1,4 +1,5 @@
 ---
+description: Explore the policies that guide The IO Foundation's advocacy and operations.
 icon: scroll-old
 cover: >-
   ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Governance

@@ -1,5 +1,7 @@
 ---
-description: Regulations, standards and other authoritative materials shaping our work.
+description: >-
+  Regulations, standards and other authoritative materials shaping The IO
+  Foundation's operations.
 icon: file-plus-minus
 ---
 
