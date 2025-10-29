@@ -1,4 +1,5 @@
 ---
+description: Discover what is The IO Foundation planning to work on for the next Season.
 hidden: true
 icon: leaf
 cover: >-

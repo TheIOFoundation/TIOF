@@ -1,5 +1,5 @@
 ---
-description: Version 1.0 | This Media Kit was approved on 01 February 2019.
+description: Discover all about The IO Foundation's branding | Version 1.0
 icon: palette
 ---
 
@@ -8,7 +8,7 @@ icon: palette
 {% tabs %}
 {% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://short.theiofoundation.org/TIOFDocsMediaKit) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~**&#x20;|** [**Slides Repository**](https://tiof.click/TIOFSlidesRepo)
+[**ShortURL**](https://short.theiofoundation.org/TIOFDocsMediaKit) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
 {% endtab %}
 

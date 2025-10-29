@@ -1,4 +1,5 @@
 ---
+description: Discover who are the architects of digital civilizations.
 hidden: true
 icon: user-shield
 cover: >-
@@ -25,6 +26,8 @@ layout:
 ---
 
 # NextGen Rights Defenders
+
+
 
 {% tabs %}
 {% tab title="Quick Resources" %}

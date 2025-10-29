@@ -1,3 +1,7 @@
+---
+description: Come be part of The IO Foundation!
+---
+
 # New Version
 
 {% tabs %}

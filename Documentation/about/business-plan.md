@@ -1,5 +1,5 @@
 ---
-description: The IO Foundation's funding structure and strategy.
+description: Know about The IO Foundation's funding structure and strategy.
 icon: chart-mixed-up-circle-dollar
 cover: >-
   ../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Business Plan

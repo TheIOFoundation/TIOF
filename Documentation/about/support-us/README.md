@@ -1,5 +1,5 @@
 ---
-description: Support The IO Foundation!
+description: Explore how to support The IO Foundation and our work!
 icon: hand-holding-seedling
 ---
 

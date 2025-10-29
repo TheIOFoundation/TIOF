@@ -1,4 +1,5 @@
 ---
+description: Discover what is The IO Foundation's work during this Season.
 icon: leaf
 cover: >-
   ../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Season XXX

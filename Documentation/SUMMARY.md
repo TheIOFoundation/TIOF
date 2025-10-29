@@ -50,7 +50,7 @@
 
 ## Institutional
 
-* [TIOF Network](institutional/tiof-network/README.md)
+* [The TIOF Network](institutional/tiof-network/README.md)
   * [🇪🇪 The IO Foundation MTÜ](institutional/tiof-network/the-io-foundation-mtue/README.md)
     * [Memorandum of Association](institutional/tiof-network/the-io-foundation-mtue/memorandum-of-association.md)
     * [Articles of Association](institutional/tiof-network/the-io-foundation-mtue/articles-of-association.md)

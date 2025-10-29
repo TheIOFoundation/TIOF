@@ -1,5 +1,5 @@
 ---
-description: Join The IO Foundation!
+description: Come be part of The IO Foundation!
 icon: hand-spock
 cover: >-
   ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header Join Us
