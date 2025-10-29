@@ -1,5 +1,5 @@
 ---
-description: This page contains all the basic information about The IO Foundation Network.
+description: Discover all about The IO Foundation's network of organizations.
 icon: chart-network
 cover: >-
   ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Governance

@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page contains all the basic institutional information about The IO
-  Foundation.
+  Discover all the basic institutional information about The IO Foundation
+  (Estonia).
 cover: >-
   ../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header
   Governance XXX v1.png

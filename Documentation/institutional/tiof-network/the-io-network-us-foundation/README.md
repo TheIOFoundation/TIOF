@@ -1,7 +1,5 @@
 ---
-description: >-
-  This page contains all the basic institutional information about The IO
-  Network US.
+description: Discover all the basic institutional information about The IO Network US.
 cover: >-
   ../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header
   Governance XXX v1.png

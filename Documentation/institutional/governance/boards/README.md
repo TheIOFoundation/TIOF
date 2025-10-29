@@ -1,5 +1,5 @@
 ---
-description: The IO Foundation's governance boards.
+description: Explore The IO Foundation's governance boards.
 icon: users-rectangle
 ---
 
@@ -15,7 +15,7 @@ icon: users-rectangle
 {% tab title="Share this page" %}
 Use this QR Code to quickly share this page.
 
-<figure><img src="../../../.gitbook/assets/TIOFOrganizationBoards_4096x4096.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/TIOFOrganizationBoards_4096x4096.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -24,10 +24,6 @@ Use this QR Code to quickly share this page.
 The different Boards participating in The IO Foundation play a crucial role in its governance as well as setting its strategic direction and policies to ensure the organization's mission and goals are effectively pursued.
 
 They provide oversight and guidance, making key decisions on budgeting, activities and long-term planning, while also serving as ambassadors to the broader stakeholder community to garner support and resources.
-
-
-
-**INSERT CTAS**
 
 ## Board of Directors
 
