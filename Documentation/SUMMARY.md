@@ -140,3 +140,7 @@
   * [Introduction](operational/old/introduction-1.md)
   * [Business Plan](operational/old/business-plan.md)
 * [Reusable Blocks](operational/page.md)
+
+## NOTICE
+
+* [Section Under Maintenance](notice/section-under-maintenance.md)
