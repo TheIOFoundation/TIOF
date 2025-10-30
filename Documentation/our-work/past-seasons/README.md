@@ -1,5 +1,5 @@
 ---
-description: Discover what has The IO Foundation worked during all previous Seasons.
+description: Discover what has The IO Foundation worked on during all previous Seasons.
 cover: >-
   ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Season XXX
   v1.4.png
