@@ -2,6 +2,7 @@
 description: >-
   Get to know The IO Foundation: its DCDR advocacy and its work to ensure
   technology is safe by design.
+hidden: true
 icon: building-ngo
 cover: >-
   ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header
