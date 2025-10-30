@@ -1,5 +1,6 @@
 ---
 description: Come be part of The IO Foundation!
+hidden: true
 ---
 
 # New Version

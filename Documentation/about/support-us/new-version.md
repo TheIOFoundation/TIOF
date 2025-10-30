@@ -1,5 +1,6 @@
 ---
 description: Explore how to support The IO Foundation and our work!
+hidden: true
 ---
 
 # New Version
