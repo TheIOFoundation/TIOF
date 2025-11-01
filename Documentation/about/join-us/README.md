@@ -55,4 +55,14 @@ Contributing in The IO Foundation and its initiatives is easy!
 
 By joining as a TIOF Member you will officially join one of the TIOF Teams, participate in organized tasks and have access to tools and other resources as well as training.
 
+{% hint style="info" %}
+More information on this section is coming soon.\
+Stay tuned!
+{% endhint %}
+
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Members of a Board</td></tr><tr><td>Employees</td></tr><tr><td>Associates</td></tr><tr><td>Interns</td></tr><tr><td>Volunteers</td></tr><tr><td>Contributors</td></tr></tbody></table>
+
+{% hint style="info" %}
+More information on this section is coming soon.\
+Stay tuned!
+{% endhint %}
