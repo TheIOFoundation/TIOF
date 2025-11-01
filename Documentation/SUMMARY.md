@@ -3,8 +3,6 @@
 ## About
 
 * [Organization Brief](README.md)
-  * [New Version](about/organization-brief/new-version.md)
-  * [OLD Version](about/organization-brief/organization-brief.md)
 * [Business Plan](about/business-plan.md)
 * [DCDR Principles](https://tiof.click/Principles)
 * [NextGen Rights Defenders](about/nextgen-rights-defenders/README.md)
