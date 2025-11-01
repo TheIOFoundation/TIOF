@@ -175,11 +175,3 @@ The CrowdShape (CS) initiative intends to be a model for crowd collaboration bas
 {% endcolumn %}
 {% endcolumns %}
 
-
-
-## What we produce
-
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><strong>Activities</strong></td></tr><tr><td align="center"><strong>Publications</strong><br>For more information, <a href="https://tiof.click/TIOFPublications">see TIOF's publications</a>.</td></tr><tr><td align="center"><strong>Products</strong></td></tr><tr><td align="center"><strong>Services</strong></td></tr></tbody></table>
-
-
-
