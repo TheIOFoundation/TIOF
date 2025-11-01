@@ -158,3 +158,12 @@ Agency means you own your data and applications, giving you control over your di
 The IO Foundation organizes its work around a set of Initiatives, each of them designed to bring about the changes in the tech ecosystem that shall protect the final user by design.
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h3>BHR in Tech</h3></td><td><a href=".gitbook/assets/[TIOF BiT] Comms [P] Logo FC T HiRes XXX v1.0.png">[TIOF BiT] Comms [P] Logo FC T HiRes XXX v1.0.png</a></td></tr><tr><td><h3>Data-Centric Digital Rights</h3></td><td><a href=".gitbook/assets/DCDR Icon-01.png">DCDR Icon-01.png</a></td></tr><tr><td><h3>TechUp</h3></td><td><a href=".gitbook/assets/[TIOF TU] Comms [P] U Logo FC T HiRes XXX v1.0.png">[TIOF TU] Comms [P] U Logo FC T HiRes XXX v1.0.png</a></td></tr><tr><td><h3>CrowdShape</h3></td><td><a href=".gitbook/assets/CrowdShape-01.png">CrowdShape-01.png</a></td></tr><tr><td><h3>Universal Declaration of Digital Rights</h3></td><td><a href=".gitbook/assets/[TIOF UDDR] Comms [P] Logo FC T HiRes XXX v1.0.png">[TIOF UDDR] Comms [P] Logo FC T HiRes XXX v1.0.png</a></td></tr><tr><td><h3>Oversight</h3></td><td></td></tr></tbody></table>
+
+## What we produce
+
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h3>Activities</h3></td><td><a href="https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/sRFrwDq11pmSbWoSLKjc/">Activities</a></td></tr><tr><td align="center"><h3>Publications</h3></td><td><a href="https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/AEPxsorb0vygAAlwZz3R/">Publications</a></td></tr><tr><td align="center"><h3>Products</h3></td><td><a href="https://app.gitbook.com/s/lAP05BG4nFkRsImJT0cS/about/introduction#products">Introduction #Products</a></td></tr><tr><td align="center"><h3>Services</h3></td><td><a href="https://app.gitbook.com/s/lAP05BG4nFkRsImJT0cS/about/introduction#services">Introduction #Services</a></td></tr></tbody></table>
+
+
+
+
+
