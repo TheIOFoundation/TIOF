@@ -5,6 +5,8 @@ icon: hand-holding-seedling
 
 # Support Us
 
+
+
 {% tabs %}
 {% tab title="Quick Resources" %}
 {% hint style="info" %}
@@ -19,32 +21,51 @@ Use this QR Code to quickly share this page.
 {% endtab %}
 {% endtabs %}
 
-![Support TIOF](<../../.gitbook/assets/\[TIOF] Comms \[P] TIOF Website Donate ENG v1.0.png>)
-
 ## Supporting TIOF
 
-The IO Foundation relies on funding support to advance its [DCDR advocacy](https://tiof.click/DCDRAdvocacy) and develop its [initiatives](https://tiof.click/TIOFInitiatives).
+{% columns %}
+{% column width="58.333333333333336%" %}
+The IO Foundation relies on funding support to advance its [DCDR advocacy](https://short.theiofoundation.org/TIOFDCDRDocs) and develop its [initiatives](https://short.theiofoundation.org/TIOFInitiatives).
 
 Your contribution goes straight to our work ensuring new technologies are architected and built to protect digital citizens.
 
 {% hint style="success" %}
 **We thank you for your support and for helping making possible a world where Human Rights and Data-Centric Digital Rights are one and the same.**
 {% endhint %}
+{% endcolumn %}
 
+{% column width="41.666666666666664%" %}
 {% hint style="warning" %}
 **IMPORTANT**
 
-As per The IO Foundation's [Funding Policy](https://tiof.click/TIOFPolicyFunding), please note that donations are made without strings attached.
+As per The IO Foundation's [Resource Mobilization and Allocation Policy](https://short.theiofoundation.org/TIOFPolicyRMA), please note that donations are made without strings attached.
 
 TIOF is an independent civil society organization and will remain so regardless of the contributions received and their origin.
 {% endhint %}
 
+
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
 ### Fiat currencies
 
-You can donate using fiat currencies.\
-(We are updating our donation platform - Thank you for your patience.)
+You can donate using fiat currencies.
 
+{% hint style="danger" %}
+We are updating our donation platform - Thank you for your patience.
+{% endhint %}
+{% endcolumn %}
+
+{% column %}
 ### Crypto currencies
 
-You can donate using crypto currencies.\
-(Coming soon)
+You can donate using crypto currencies.
+
+{% hint style="danger" %}
+We are updating our donation platform - Thank you for your patience.
+{% endhint %}
+{% endcolumn %}
+{% endcolumns %}
+
