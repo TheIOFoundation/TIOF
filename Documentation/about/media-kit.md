@@ -21,16 +21,7 @@ Use this QR Code to quickly share this page.
 
 ## Introduction
 
-### Definitions
-
-This document employs terms related to TIOF's [DCDR Advocacy](https://tiof.click/DCDRAdvocacy) that can be found in the [TIOF terminology](https://tiof.click/TIOFTerminology) as well as the [DCDR Terminology](https://tiof.click/DCDRTerminology).
-
-For a structure of The IO Foundation and its initiatives, please visit
-
-* The IO Foundation's [Organizational Chart](http://tiof.click/TIOFOrgChart)
-* The IO Foundation's [Organizational Taxonomy](https://tiof.click/OrgTaxonomy)
-
-### About this document
+### About
 
 This document describes all the elements that conform The IO Foundation's organization identity (aka Branding Guidelines) and their usage rules on any generated content, by either [TIOF Members](https://tiof.click/TIOFTerminology#members), [Contributors](https://tiof.click/TIOFTerminology#contributors) or any other third parties.
 
@@ -52,55 +43,58 @@ A document summarizing The IO Foundation's [Branding Guidelines](https://github.
 
 The following forms are authorized when referring to The IO Foundation:
 
-{% hint style="warning" %}
-Please note the capitalization
-{% endhint %}
-
+{% columns %}
+{% column width="33.33333333333333%" %}
 * The IO Foundation
 * TIOF
+{% endcolumn %}
 
+{% column width="66.66666666666667%" %}
 {% hint style="warning" %}
-**REMARK**
+## REMARKS
 
-The article "The" is not optional nor it is inseparable from the rest of the name.
-
-~~the IO Foundation~~ / ~~IO Foundation~~
+* Please note the capitalization
+* The article "The" is not optional nor it is inseparable from the rest of the name: ~~the IO Foundation~~ / ~~IO Foundation~~
 {% endhint %}
+{% endcolumn %}
+{% endcolumns %}
 
 ### Mission & Vision
 
 The following are the official formulations of The IO Foundation's Mission & Vision:
 
-> **Mission:** To promote, protect and provide solutions for Data-Centric Digital Rights.
+> **Mission:** `To promote, protect and provide solutions for Data-Centric Digital Rights.`
 
-> **Vision:** A world where Human Rights and Data-Centric Digital Rights are one and the same.
+> **Vision:** `A world where Human Rights and Data-Centric Digital Rights are one and the same.`
 
 ### Values
 
-The IO Foundation delivers its mission through the observance of the following values:
+The IO Foundation embraces the following values to drive its mission:
 
-> **Community:** [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) is a global endeavor that requires the active participation of everyone, from policy makers to citizens, businesses and, most importantly technologists as architects and builders our digital societies.
-
-> **Accountability:** We recognize the critical importance of operating under procedures and methodologies that are transparent in order to generate the necessary trust in our [DCDR Principles](https://tiof.click/DCDRPrinciples) and the advocacy at large.
-
-> **Impact:** Our [initiatives](https://tiof.click/TIOFInitiatives) are designed and implemented only to serve the broader [DCDR advocacy](https://tiof.click/DCDRAdvocacy) and to help, step by step, generate practical outcomes that make technology better and safer transparently for digital citizens.
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><p><i class="fa-bolt">:bolt:</i>  <strong>INNOVATIVE</strong></p><p>      <strong>IMPACT</strong></p></td><td><p>Our work only makes sense if we help digital users worldwide.</p><p>Our <a href="https://tiof.click/TIOFInitiatives">initiatives</a> are designed and implemented only to serve the broader <a href="https://tiof.click/DCDRAdvocacy">DCDR advocacy</a> and to help, step by step, generate practical outcomes that make technology better and safer transparently for digital citizens.</p></td></tr><tr><td><i class="fa-eye">:eye:</i>  <strong>TRANSPARENCY</strong><br>       <strong>&#x26; ACCOUNTABILITY</strong></td><td>We recognize the critical importance of operating under procedures and methodologies that are transparent in order to generate the necessary trust in our <a href="https://tiof.click/DCDRPrinciples">DCDR Principles</a> and the advocacy at large.<br></td></tr><tr><td><p><i class="fa-users-rectangle">:users-rectangle:</i>  <strong>SUPPORTING</strong></p><p>      <strong>COMMUNITY</strong></p></td><td><a href="https://tiof.click/DCDRAdvocacy">Data-Centric Digital Rights</a> is a global endeavor that requires the active participation of everyone, from policy makers to citizens, businesses and, most importantly technologists as architects and builders our digital societies.<br></td></tr></tbody></table>
 
 ### The advocacy
 
-The IO Foundation's advocacy is called [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy). The following forms are to be used internally in TIOF and highly encouraged when referring to the advocacy:
+The IO Foundation's advocacy is called [Data-Centric Digital Rights](https://short.theiofoundation.org/TIOFDCDRDocs). The following forms are to be used internally in TIOF and highly encouraged when referring to the advocacy:
 
-{% hint style="warning" %}
-Please note the capitalization
-{% endhint %}
-
+{% columns %}
+{% column %}
 * Data-Centric Digital Rights
 * DCDR
+{% endcolumn %}
+
+{% column %}
+{% hint style="warning" %}
+## REMARKS
+
+Please note the capitalization.
+{% endhint %}
+{% endcolumn %}
+{% endcolumns %}
 
 **About the DCDR advocacy**
 
-[Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy) advocates to establish the necessary technical standards to transparently protect citizen's [digital twins](https://tiof.click/DCDRTerminology#digital-twin) and enable technologists to create better and safer digital societies through embracing their role as [NextGen Rights Defenders](https://tiof.click/TIOFNextGen).
-
-The IO Foundation focuses its efforts towards programmers and in the proclamation of a [Universal Declaration of Digital Rights (UDDR)](https://tiof.click/UDDRWeb).
+[Data-Centric Digital Rights](https://short.theiofoundation.org/TIOFDCDRDocs) advocates to establish the necessary technical standards to transparently protect citizen's [digital twins](https://tiof.click/DCDRTerminology#digital-twin) and enable technologists to create better and safer digital societies through embracing their role as [NextGen Rights Defenders](https://tiof.click/TIOFNextGen).
 
 {% hint style="info" %}
 For more information on the DCDR advocacy, please refer to
@@ -179,7 +173,8 @@ For more information, please refer to [TIOF's Branding Guidelines](https://tiof.
 The official font for The IO Foundation content is Montserrat.
 
 {% hint style="warning" %}
-**REMARK**\
+## **REMARKS**
+
 Only in the event that the official font is not available (**and only if**), the following fonts can be used as alternatives and in this order
 
 1. Helvetica
@@ -199,7 +194,8 @@ The following are the official colors composing The IO Foundation's color palett
 <table data-header-hidden><thead><tr><th width="189.48194984202962"></th><th width="186.29844531826296"></th><th width="150"></th><th></th></tr></thead><tbody><tr><td><strong>Color</strong></td><td><strong>Light blue</strong></td><td><strong>Dark blue</strong></td><td></td></tr><tr><td><strong>Code</strong></td><td>LB</td><td>DB</td><td></td></tr><tr><td><strong>Sample</strong></td><td><img src="https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/[TIOF]%20Comms%20[P]%20Color%20Palette%20-%20Light%20blue%20XXX%20v1.0.png" alt="" data-size="line"></td><td><img src="https://github.com/TheIOFoundation/TIOF/raw/master/Project%20Identity/Color%20Palette/[TIOF]%20Comms%20[P]%20Color%20Palette%20-%20Dark%20blue%20XXX%20v1.0.png" alt="" data-size="line"></td><td></td></tr><tr><td><strong>RGB</strong></td><td>102, 181, 197</td><td>80, 145, 158</td><td></td></tr><tr><td><strong>HSL</strong></td><td>190, 45.0, 58.6</td><td>190, 32.8, 46.7</td><td></td></tr><tr><td><strong>Hex</strong></td><td>#66B5C5</td><td>#50919F</td><td></td></tr></tbody></table>
 
 {% hint style="warning" %}
-**Note**\
+## REMARKS
+
 Due to Google Calendar limitations, TIOF's [Public Event Calendar](https://tiof.click/EventsCal) uses their _Graphite_ color coding.
 {% endhint %}
 
@@ -210,8 +206,6 @@ For more information, please refer to [TIOF's Branding Guidelines](https://tiof.
 ### QR Codes
 
 The following are the official QR Codes to link The IO Foundation's online resources.
-
-
 
 |                                                                                |                                                                           |                                                                          |
 | :----------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
@@ -294,7 +288,7 @@ Only email received from these domains are to be considered originated by TIOF o
 
 The following are the official public email addresses used by The IO Foundation.
 
-<table data-header-hidden><thead><tr><th width="159.54054054054055"></th><th width="223.82547411160982"></th><th></th></tr></thead><tbody><tr><td><strong>Email</strong></td><td><a href="mailto://Contact@TheIOFoundation.org">Contact@TheIOFoundation.org</a></td><td><a href="mailto://Media@TheIOFoundation.org">Media@TheIOFoundation.org</a></td></tr><tr><td><strong>Usage</strong></td><td>Official communications and inquiries</td><td>Media related communications and inquiries</td></tr></tbody></table>
+<table><thead><tr><th width="285">Email</th><th>Usage</th></tr></thead><tbody><tr><td><a href="mailto://Contact@TheIOFoundation.org">Contact@TheIOFoundation.org</a></td><td>Official communications and inquiries</td></tr><tr><td><a href="mailto://Media@TheIOFoundation.org">Media@TheIOFoundation.org</a></td><td>Media related communications and inquiries</td></tr><tr><td><a href="mailto:Sales@TheIOFoundation.org">Sales@TheIOFoundation.org</a></td><td>Sales related communications and inquiries</td></tr></tbody></table>
 
 ### Social Media
 
@@ -306,14 +300,12 @@ The IO Foundation, in general, uses social media reluctantly.
 To learn more about TIOF's position on this matter, check our [Hey Big Tech! declaration.](https://tiof.click/HeyBigTech)
 {% endhint %}
 
-<table><thead><tr><th width="146">Channels</th><th width="164">@Handle</th><th>Full URL</th><th>ShortURL</th></tr></thead><tbody><tr><td>LinkedIn</td><td>@<a href="https://www.linkedin.com/company/the-io-foundation">the-io-foundation</a></td><td><a href="https://www.linkedin.com/company/the-io-foundation">https://www.linkedin.com/company/the-io-foundation/</a></td><td><a href="https://tiof.click/TIOFLinkedIn">https://TIOF.Click/TIOFLinkedIn</a></td></tr><tr><td>X <br>(former Twitter)</td><td>@<a href="https://twitter.com/TheIOFoundation">TheIOFoundation</a></td><td><a href="https://twitter.com/TheIOFoundation">https://twitter.com/TheIOFoundation/</a></td><td><a href="https://tiof.click/TIOFX">https://TIOF.Click/TIOFX</a></td></tr><tr><td>Facebook</td><td>@<a href="https://www.facebook.com/TheI0Foundation/">TheI0Foundation</a></td><td><a href="https://www.facebook.com/TheI0Foundation/">https://www.facebook.com/TheI0Foundation/</a></td><td><a href="https://tiof.click/TIOFFacebook">https://TIOF.Click/TIOFFacebook</a></td></tr><tr><td>Instagram</td><td>@<a href="https://www.instagram.com/theiofoundation/">theiofoundation</a></td><td><a href="https://www.instagram.com/theiofoundation/">https://www.instagram.com/theiofoundation/</a></td><td><a href="https://tiof.click/TIOFInstagram">https://TIOF.Click/TIOFInstagram</a></td></tr><tr><td>Youtube</td><td>@<a href="https://www.youtube.com/@TheIOFoundation/">TheIOFoundation</a></td><td><a href="https://www.youtube.com/@TheIOFoundation/">https://www.youtube.com/@TheIOFoundation/</a></td><td><a href="https://tiof.click/TIOFYoutube">https://TIOF.Click/TIOFYoutube</a></td></tr><tr><td>Rumble</td><td></td><td><a href="https://rumble.com/c/c-1383496">https://rumble.com/c/c-1383496</a></td><td><a href="https://tiof.click/TIOFRumble">https://TIOF.Click/TIOFRumble</a></td></tr><tr><td>GAB</td><td></td><td><a href="https://gab.com/TIOF">https://gab.com/TIOF</a></td><td><a href="https://tiof.click/TIOFGAB">https://TIOF.Click/TIOFGAB</a></td></tr><tr><td>Pinterest</td><td></td><td><a href="https://www.pinterest.com/TheIOFoundation/">https://www.pinterest.com/TheIOFoundation/</a></td><td><a href="https://tiof.click/TIOFPinterest">https://TIOF.Click/TIOFPinterest</a></td></tr></tbody></table>
-
-
+<table><thead><tr><th width="146">Channels</th><th width="164">@Handle</th><th>Full URL</th><th>ShortURL</th></tr></thead><tbody><tr><td>LinkedIn</td><td>@<a href="https://www.linkedin.com/company/the-io-foundation">the-io-foundation</a></td><td><a href="https://www.linkedin.com/company/the-io-foundation">https://www.linkedin.com/company/the-io-foundation/</a></td><td><a href="https://short.theiofoundation.org/TIOFChannelLinkedIn">https://Short.TheIOFoundation.org/TIOFChannelLinkedIn</a></td></tr><tr><td>X <br>(former Twitter)</td><td>@<a href="https://twitter.com/TheIOFoundation">TheIOFoundation</a></td><td><a href="https://twitter.com/TheIOFoundation">https://twitter.com/TheIOFoundation/</a></td><td><a href="https://short.theiofoundation.org/TIOFChannelX">https://Short.TheIOFoundation.org/TIOFChannelX</a></td></tr><tr><td>Facebook</td><td>@<a href="https://www.facebook.com/TheI0Foundation/">TheI0Foundation</a></td><td><a href="https://www.facebook.com/TheI0Foundation/">https://www.facebook.com/TheI0Foundation/</a></td><td><a href="https://short.theiofoundation.org/TIOFChannelFaceboook">https://Short.TheIOFoundation.org/TIOFChannelFaceboook</a></td></tr><tr><td>Instagram</td><td>@<a href="https://www.instagram.com/theiofoundation/">theiofoundation</a></td><td><a href="https://www.instagram.com/theiofoundation/">https://www.instagram.com/theiofoundation/</a></td><td><a href="https://short.theiofoundation.org/TIOFChannelInstagram">https://Short.TheIOFoundation.org/TIOFChannelInstagram</a></td></tr><tr><td>Youtube</td><td>@<a href="https://www.youtube.com/@TheIOFoundation/">TheIOFoundation</a></td><td><a href="https://www.youtube.com/@TheIOFoundation/">https://www.youtube.com/@TheIOFoundation/</a></td><td><a href="https://short.theiofoundation.org/TIOFChannelYoutube">https://Short.TheIOFoundation.org/TIOFChannelYoutube</a></td></tr><tr><td>Rumble</td><td></td><td><a href="https://rumble.com/c/c-1383496">https://rumble.com/c/c-1383496</a></td><td><a href="https://short.theiofoundation.org/TIOFChannelRumble">https://Short.TheIOFoundation.org/TIOFChannelRumble</a></td></tr></tbody></table>
 
 {% hint style="warning" %}
-The IO Foundation has profiles in other platforms, sometimes in preparation for its use, sometimes to avoid impersonation.
+## REMARKS
 
-You can find the full list of **Official** and **Reserved** channels in the [Channels Handbook](https://tiof.click/TIOFChannels).
+The IO Foundation has profiles in other platforms, sometimes in preparation for its use, sometimes to avoid impersonation.
 {% endhint %}
 
 ### Calendars
@@ -330,51 +322,12 @@ The following is the official calendar through which The IO Foundation publishes
 | **Content**   | Events calendar                                              |
 | **Usage**     | Public events calendar                                       |
 
-### Donations & Crowdfunding
-
-The following are the official platforms through which The IO Foundation may receive donations or perform crowdfunding campaigns.
-
-{% hint style="info" %}
-The IO Foundation accepts financial donations on both Fiat and Crypto currencies.
-{% endhint %}
-
-| **Platform**  | TIOF Donation Page                                                         | GitHub Sponsors                                                                    |
-| ------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| **Full URL**  | [https://TheIOFoundation.org/Donate/](https://theiofoundation.org/Donate/) | [https://GitHub.com/TheIOFoundation/TIOF](https://github.com/TheIOFoundation/TIOF) |
-| **Short URL** | [https://TIOF.Click/Donate](https://tiof.click/Donate)                     | [https://TIOF.Click/TIOFGHSponsors](https://tiof.click/TIOFGHSponsors)             |
-| **Usage**     | Direct Donations                                                           | Donation gateway                                                                   |
-
-| **Platform**  | Open Collective                                                                          | Patreon                                                                            |
-| ------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| **Full URL**  | [https://OpenCollective.com/TheIOFoundation](https://opencollective.com/TheIOFoundation) | [https://www.Patreon.com/TheIOFoundation](https://www.patreon.com/TheIOFoundation) |
-| **Short URL** | [https://TIOF.Click/TIOFOpenCollective](https://tiof.click/TIOFOpenCollective)           | [https://TIOF.Click/TIOFPatreon](https://tiof.click/TIOFPatreon)                   |
-| **Usage**     | Donation gateway                                                                         | Donation gateway                                                                   |
-
-{% hint style="danger" %}
-The IO Foundation cautions from providing donations directed to us through any platform not listed here.
-{% endhint %}
-
 ### Human Resources
 
 The following is the official recruitment platform through which The IO Foundation publishes its open positions.
 
-| **Platform**  | QPage                                                                |
-| ------------- | -------------------------------------------------------------------- |
-| **Full URL**  | [https://Join.TheIOFoundation.org](https://join.theiofoundation.org) |
-| **Short URL** | [https://TIOF.Click/TIOFJoinUs](https://tiof.click/TIOFJoinUs)       |
-| **Content**   | Posting of open positions for TIOF                                   |
-
-## TIOF Initiatives
-
-The following is a list of TIOF's initiatives and a quick link to their corresponding Media Kit.
-
-|                                                                                                                   |                   |                                              |
-| ----------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------- |
-| <img src="../.gitbook/assets/[TIOF] Comms [P] Hex Logo TIOF FC T HiRes XXX v1.6 (1).png" alt="" data-size="line"> | The IO Foundation | This document                                |
-| <img src="../.gitbook/assets/DCDR Icon-01.png" alt="" data-size="line">                                           | DCDR              | [Media Kit](https://tiof.click/DCDRMediaKit) |
-| <img src="../.gitbook/assets/[TIOF BiT] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">          | BHR in Tech       | [Media Kit](https://tiof.click/BiTMediaKit)  |
-| <img src="../.gitbook/assets/CrowdShape-01.png" alt="" data-size="line">                                          | CrowdShape        | [Media Kit](https://tiof.click/CSMediaKit)   |
-| <img src="../.gitbook/assets/[TIOF PLD] Comms [P] Lock Logo LM T HiRes XXX v1.0.png" alt="" data-size="line">     | Project Lockdown  | [Media Kit](https://tiof.click/PLDMediaKit)  |
-| <img src="../.gitbook/assets/[TIOF TU] Comms [P] U Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">         | TechUp            | [Media Kit](https://tiof.click/TUMediaKit)   |
-| <img src="../.gitbook/assets/[TIOF UDDR] Comms [P] Logo FC T HiRes XXX v1.0.png" alt="" data-size="line">         | UDDR              | [Media Kit](https://tiof.click/UDDRMediaKit) |
-
+| **Platform**  | Hirevire                                                                                     |
+| ------------- | -------------------------------------------------------------------------------------------- |
+| **Full URL**  | [https://Join.TheIOFoundation.org](https://join.theiofoundation.org)                         |
+| **Short URL** | [https://Short.TheIOFoundation.org/TIOFJoinUs](https://short.theiofoundation.org/TIOFJoinUs) |
+| **Content**   | Posting of open positions for TIOF                                                           |
