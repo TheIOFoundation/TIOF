@@ -68,7 +68,6 @@
   * [Boards](institutional/governance/boards.md)
   * [Executive Team](institutional/governance/executive-team.md)
 * [Policies](institutional/Policies/README.md)
-  * [Terminology](institutional/policies/terminology.md)
   * [Dhatham House Rule](institutional/Policies/dhatham-house-rule.md)
   * [Code of Conduct](institutional/policies/code-of-conduct.md)
   * [Anti corruption & Anti bribery Policy](institutional/policies/anti-corruption-and-anti-bribery-policy.md)
