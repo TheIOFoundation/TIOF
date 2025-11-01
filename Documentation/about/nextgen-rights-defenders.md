@@ -48,12 +48,16 @@ They are the people tasked to architect and build the technology everyone is so 
 
 {% columns %}
 {% column %}
-_`At The IO Foundation, we recognize technologists as the Next Generation of Rights Defenders.`_
+{% hint style="success" %}
+## STATEMENT
+
+_**At The IO Foundation, we recognize technologists as the Next Generation of Rights Defenders.**_
+{% endhint %}
 {% endcolumn %}
 
 {% column %}
-{% hint style="success" %}
-**Want to spread the word?**
+{% hint style="info" %}
+## **Want to spread the word?**
 
 Use these these hashtags in your posts:
 
@@ -61,8 +65,6 @@ Use these these hashtags in your posts:
 
 \#RightsTech
 {% endhint %}
-
-
 {% endcolumn %}
 {% endcolumns %}
 
