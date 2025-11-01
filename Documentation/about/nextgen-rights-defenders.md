@@ -1,9 +1,8 @@
 ---
 description: Discover who are the architects of digital civilizations.
-hidden: true
 icon: user-shield
 cover: >-
-  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header NextGen XXX
+  ../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header NextGen XXX
   v1.png
 coverY: 0
 layout:
@@ -27,25 +26,19 @@ layout:
 
 # NextGen Rights Defenders
 
-
-
 {% tabs %}
 {% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://short.theiofoundation.org/TIOFOrgBoards) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
+[**ShortURL**](https://short.theiofoundation.org/TIOFNextGen) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
 {% endtab %}
 
 {% tab title="Share this page" %}
 Use this QR Code to quickly share this page.
 
-<figure><img src="../../.gitbook/assets/[TIOF] Comms [P] TIOF Full Logo C T HiRes ENG v1.6.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/[TIOF] Comms [P] TIOF Full Logo C T HiRes ENG v1.6.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
-
-{% hint style="info" %}
-[**ShortURL**](http://tiof.click/TIOFNextGen) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
-{% endhint %}
 
 ## Engaging the correct stakeholders
 
@@ -53,17 +46,12 @@ In the efforts to ensure that technology is designed and build in ways that are 
 
 They are the people tasked to architect and build the technology everyone is so much concerned about and yet they occupy, on a practical level, a marginal space in the whole conversation.
 
-At The IO Foundation, _we recognize technologists, and most importantly programmers, as the Next Generation of Rights Defenders._
+{% columns %}
+{% column %}
+_`At The IO Foundation, we recognize technologists as the Next Generation of Rights Defenders.`_
+{% endcolumn %}
 
-{% hint style="info" %}
-**REMARK**
-
-While TIOF recognizes that all technologists play an equally important part in building better and safer digital spaces, we concentrate our efforts towards programmers.
-
-**Why?**\
-Because any technology always has a last layer of software through which citizens interact with it. Helping programmers accelerates the impact of the DCDR advocacy.
-{% endhint %}
-
+{% column %}
 {% hint style="success" %}
 **Want to spread the word?**
 
@@ -73,6 +61,10 @@ Use these these hashtags in your posts:
 
 \#RightsTech
 {% endhint %}
+
+
+{% endcolumn %}
+{% endcolumns %}
 
 ## Challenges
 
@@ -125,11 +117,9 @@ Why: Minimizing frictions for technologists will scale their adoption of their r
 {% endcolumn %}
 {% endcolumns %}
 
+## Supporting the NextGen Rights Defenders
 
-
-## Supporting the NextGen
-
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h3>DCDR Principles</h3><p>While the UDDR is still a work in progress, The IO Foundation has created the DCDR Principles to act upon <strong>Challenge 1</strong> and guide developers to update some of their paradigms and stepping up as NextGen Rights Defenders.</p><p>See more information in the <a data-mention href="https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/rG4xcNzldvEoKR9FS7Og/">DCDR Advocacy</a> documentation.</p></td></tr><tr><td><h3>TechUp</h3><p>Ensuring that DCDR Principles become part of the technologists' toolbox as well as provide them with a space to bootstrap their own Tech NGOs.</p><p>See more information in the <a data-mention href="https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M_K54SuAkrrbCKMqyze/">TechUp</a> documentation.</p></td></tr><tr><td><h3>CrowdShape</h3><p>This initiative aims at acting upon <strong>Challenge 3</strong> by providing tools to quickly and easily bootstrap a Tech NGO. It would also enable some solutions for Challenge 2 by encouraging donations through accountability and transparency by design.</p><p>See more information in the <a data-mention href="https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/MxkrsyQSraXtP8kYavv2/">CrowdShape</a> documentation.</p></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h3>DCDR Principles</h3><p>While the UDDR is still a work in progress, The IO Foundation has created the DCDR Principles to act upon <strong>Challenge 1</strong> and guide developers to update some of their paradigms and stepping up as NextGen Rights Defenders.</p><p><br></p></td><td>See more information in the <a data-mention href="https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/rG4xcNzldvEoKR9FS7Og/">DCDR Advocacy</a> documentation.</td></tr><tr><td><h3>TechUp</h3><p>Ensuring that the DCDR Principles become part of the technologists' toolbox as well as provide them with a space to bootstrap their own Tech NGOs is the objective of our TechUp initiative.</p><p></p><p><br></p></td><td>See more information in the <a data-mention href="https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/-M_K54SuAkrrbCKMqyze/">TechUp</a> documentation.</td></tr><tr><td><h3>CrowdShape</h3><p>This initiative aims at acting upon <strong>Challenge 3</strong> by providing tools to quickly and easily bootstrap a Tech NGO. It would also enable some solutions for Challenge 2 by encouraging donations through accountability and transparency by design.<br></p></td><td>See more information in the <a data-mention href="https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/MxkrsyQSraXtP8kYavv2/">CrowdShape</a> documentation.</td></tr></tbody></table>
 
 
 
