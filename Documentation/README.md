@@ -153,7 +153,7 @@ Agency means you own your data and applications, giving you control over your di
 
 
 
-## Initiatives
+## Our Initiatives
 
 The IO Foundation organizes its work around a set of Initiatives, each of them designed to bring about the changes in the tech ecosystem that shall protect the final user by design.
 
