@@ -155,15 +155,9 @@ Agency means you own your data and applications, giving you control over your di
 
 ## Our Network
 
-{% columns %}
-{% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td></td><td><a href=".gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png</a></td></tr></tbody></table>
-{% endcolumn %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Estonia (Nonprofit)</td><td>Since 2018</td><td>Registration:<br>RIK: 80549272</td><td><a href=".gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png</a></td></tr><tr><td>Malaysia (Sdn. Bhd.)</td><td>Since 2019</td><td>Registration:<br>SSM: 201901006042<br>(1315369-A)</td><td><a href=".gitbook/assets/[TION-MY] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png">[TION-MY] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png</a></td></tr><tr><td>United States (Nonprofit)</td><td>Since 2023</td><td><p>Registration:<br>Delaware: 7597974</p><p>IRS: 61-2106784</p><p><code>501(c)(3) awarded</code><br><br><br></p></td><td><a href=".gitbook/assets/[TION-US] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png">[TION-US] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png</a></td></tr></tbody></table>
 
-{% column %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td></td><td><a href=".gitbook/assets/[TION-MY] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png">[TION-MY] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png</a></td></tr><tr><td></td><td><a href=".gitbook/assets/[TION-US] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png">[TION-US] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png</a></td></tr></tbody></table>
-{% endcolumn %}
-{% endcolumns %}
+## Our Network
 
 ## Our Initiatives
 
