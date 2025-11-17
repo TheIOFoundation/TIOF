@@ -159,7 +159,7 @@ Agency means you own your data and applications, giving you control over your di
 
 ## Our Governance
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Staff</td></tr><tr><td>Board of Directors</td></tr><tr><td>Board of Advisers</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Staff</strong></td><td></td></tr><tr><td><strong>Board of Directors</strong></td><td><a href="institutional/governance/boards.md#board-of-directors">#board-of-directors</a></td></tr><tr><td><strong>Board of Advisers</strong></td><td><a href="institutional/governance/boards.md#board-of-advisers">#board-of-advisers</a></td></tr></tbody></table>
 
 ## Our Initiatives
 
