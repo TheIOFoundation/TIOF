@@ -157,6 +157,10 @@ Agency means you own your data and applications, giving you control over your di
 
 <table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td align="center">Estonia (Nonprofit)</td><td align="center">Since 2018</td><td align="center"><strong>Registration</strong><br>RIK: 80549272</td><td><a href=".gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png</a></td></tr><tr><td align="center">Malaysia (Sdn. Bhd.)</td><td align="center">Since 2019</td><td align="center"><strong>Registration</strong><br>SSM: 201901006042<br>(1315369-A)</td><td><a href=".gitbook/assets/[TION-MY] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png">[TION-MY] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png</a></td></tr><tr><td align="center">United States (Nonprofit)</td><td align="center">Since 2023</td><td align="center"><p><strong>Registration</strong><br>Delaware: 7597974</p><p>IRS: 61-2106784</p><p><code>501(c)(3) awarded</code><br><br><br></p></td><td><a href=".gitbook/assets/[TION-US] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png">[TION-US] Comms [P] 0000-00-00 TIOF Logo Gitbook Card ENG v1.0.png</a></td></tr></tbody></table>
 
+{% hint style="success" %}
+<p align="center"><strong>You can find all information related to our branding in our</strong> <a href="about/media-kit.md"><strong>Media Kit</strong></a><strong>.</strong></p>
+{% endhint %}
+
 ## Our Governance
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Staff</strong></td><td></td></tr><tr><td align="center"><strong>Board of Directors</strong></td><td><a href="institutional/governance/boards.md#board-of-directors">#board-of-directors</a></td></tr><tr><td align="center"><strong>Board of Advisers</strong></td><td><a href="institutional/governance/boards.md#board-of-advisers">#board-of-advisers</a></td></tr></tbody></table>
@@ -173,5 +177,8 @@ The IO Foundation organizes its work around a set of Initiatives, each of them d
 
 
 
+{% hint style="info" %}
+## CONTACT US
 
-
+For all general inquiries: Contact@TheIOFoundation.orgAnd&#x20;
+{% endhint %}
