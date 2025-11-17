@@ -175,6 +175,10 @@ The IO Foundation organizes its work around a set of Initiatives, each of them d
 
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h3>Activities</h3></td><td><a href="https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/sRFrwDq11pmSbWoSLKjc/">Activities</a></td></tr><tr><td align="center"><h3>Publications</h3></td><td><a href="https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/AEPxsorb0vygAAlwZz3R/">Publications</a></td></tr><tr><td align="center"><h3>Products</h3></td><td><a href="https://app.gitbook.com/s/lAP05BG4nFkRsImJT0cS/about/introduction#products">Introduction #Products</a></td></tr><tr><td align="center"><h3>Services</h3></td><td><a href="https://app.gitbook.com/s/lAP05BG4nFkRsImJT0cS/about/introduction#services">Introduction #Services</a></td></tr></tbody></table>
 
+## Our Partners
+
+Across the years, The IO Foundation has partnered and collaborated with global and regional organizations, ranging from government agencies, universities, standards developing organizations (SDOs) and other NGOs.
+
 
 
 {% hint style="info" %}
