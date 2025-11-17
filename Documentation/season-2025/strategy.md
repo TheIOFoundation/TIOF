@@ -14,7 +14,7 @@ icon: pagelines
 {% tab title="Share this page" %}
 Use this QR Code to quickly share this page.
 
-<figure><img src="../.gitbook/assets/[TIOF] Comms [P] TIOF Full Logo C T HiRes ENG v1.6.png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/[TIOF] Comms [P] TIOF Full Logo C T HiRes ENG v1.6 (1).png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
