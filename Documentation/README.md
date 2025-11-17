@@ -42,10 +42,10 @@ Use this QR Code to quickly share this page.
 {% endtab %}
 {% endtabs %}
 
-{% columns %}
-{% column width="58.333333333333336%" %}
 ## The organization
 
+{% columns %}
+{% column width="58.333333333333336%" %}
 The IO Foundation is a global for-impact NGO championing [Data-Centric Digital Rights](https://short.theiofoundation.org/TIOFDCDRDocs) to strengthen users' protection through technical standards. Our work focuses on supporting technologists, the architects of modern civilization, to safeguard human and digital rights by advocating for robust digital infrastructure.
 
 Actively engaged in Standard Developing Organizations, we raise awareness of their critical role within the technical community both locally and globally. Recognizing _technologists as the next generation of rights defenders_, we equip them through workshops and fellowships with the tools and knowledge to shape secure, trustworthy digital systems.
