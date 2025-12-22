@@ -4,9 +4,9 @@
 
 * [Organization Brief](README.md)
 * [Business Plan](about/business-plan.md)
-* [DCDR Principles](https://tiof.click/Principles)
+* [DCDR Principles](https://app.gitbook.com/s/rG4xcNzldvEoKR9FS7Og/about/dcdr-principles)
 * [NextGen Rights Defenders](about/nextgen-rights-defenders.md)
-* [Sagan Oath](https://short.theiofoundation.org/TIOFDCDRSaganOath)
+* [Sagan Oath](https://app.gitbook.com/s/rG4xcNzldvEoKR9FS7Og/about/the-sagan-oath)
 * [Hey Big Tech! declaration](about/hey-big-tech-declaration.md)
 * [Directory](about/introduction/directory.md)
 * [Join Us](https://app.gitbook.com/s/gOsqm6NMTX2qUBFLW7wp/about/spotlight)
