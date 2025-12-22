@@ -205,8 +205,7 @@ Per Diems & Cost of Accommodation shall be clearly stipulated in the Financial H
 
 Expenses shall be implemented based on the approved project budget.&#x20;
 
-\
-
+<br>
 
 
 

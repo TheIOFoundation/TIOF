@@ -88,8 +88,7 @@ The IO Foundation requires the coordinated efforts of TIOF Members who are locat
 
 To reduce the difficulties of finding mutually convenient meeting times TIOF shall implement a  scheduling platform that will simplify these processes no matter how many attendees there are or where they are located.
 
-\
-
+<br>
 
 
 

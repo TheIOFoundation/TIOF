@@ -107,8 +107,7 @@ The ever-increasing complexity of technology does not allow users to be in full 
 
 <i class="fa-hexagon-check">:hexagon-check:</i>  **Governments are increasingly becoming irrelevant by not being able to protect their own citizens' data.**\
 \
-\
-
+<br>
 {% endcolumn %}
 {% endcolumns %}
 

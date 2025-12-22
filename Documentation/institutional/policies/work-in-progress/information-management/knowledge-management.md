@@ -94,8 +94,7 @@ The use of Metadata, while not prohibited, is discouraged as certitude of compli
 
 As a result, the only universal, cross-platform nomenclature system is the file name.
 
-\
-
+<br>
 
 When reading a filename, a user must be able to easily know:
 

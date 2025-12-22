@@ -38,8 +38,7 @@ This document provides methods to verify the legal nonprofit status of The IO Ne
 **PLEASE NOTE**
 
 1. The nonprofit status of the organization
-2. The organization being _Exempt_ of taxation\
-
+2. The organization being _Exempt_ of taxation<br>
 {% endhint %}
 
 ### **Federal Registration - 501(c)3 status under IRS**
@@ -54,8 +53,7 @@ This document provides methods to verify the legal nonprofit status of The IO Ne
 **PLEASE NOTE**
 
 1. The nonprofit status of the organization
-2. The organization being _Exempt_ of taxation\
-
+2. The organization being _Exempt_ of taxation<br>
 {% endhint %}
 
 {% file src="../../../.gitbook/assets/[TION-US] Legal [I] 2024-07-10 IRS State Notice 501(c)(3) ENG v1.0.pdf" %}

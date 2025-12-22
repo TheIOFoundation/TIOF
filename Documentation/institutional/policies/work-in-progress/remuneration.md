@@ -201,8 +201,7 @@ Organizational staff are paid in full or partial from project funds. The percent
 
 TIOF staff is free to donate part of their salary back to the organization, at their sole discretion.
 
-\
-
+<br>
 
 
 
@@ -218,8 +217,7 @@ To ensure internal control in finances, each project must have:
 
 ## Honoraria
 
-All honoraria shall be paid once a month only and every 20th of the month. All payments shall be in US Dollars.\
-
+All honoraria shall be paid once a month only and every 20th of the month. All payments shall be in US Dollars.<br>
 
 
 

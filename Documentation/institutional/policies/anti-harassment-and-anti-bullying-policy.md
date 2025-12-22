@@ -146,7 +146,7 @@ Details of the investigation and the names of the person making the complaint an
 
 We will consider whether any steps are necessary to manage any ongoing relationship between you and the person accused during the investigation.
 
-Once the investigation is complete, we will inform you of our decision. If we consider you have been harassed or bullied by an employee the matter will be dealt with under the [Disciplinary Procedures](https://tiof.click/TIOFHBHR#disciplinary-procedures) as a case of possible misconduct or gross misconduct. If the perpetrator is a [Contributor](broken-reference) or any other third party, we will consider what action would be appropriate to deal with the problem.
+Once the investigation is complete, we will inform you of our decision. If we consider you have been harassed or bullied by an employee the matter will be dealt with under the [Disciplinary Procedures](https://tiof.click/TIOFHBHR#disciplinary-procedures) as a case of possible misconduct or gross misconduct. If the perpetrator is a [Contributor](/broken/pages/MoNjyQaQk6rF6gsxDcUp#contributors) or any other third party, we will consider what action would be appropriate to deal with the problem.
 
 Whether or not your complaint is upheld, we will consider how best to manage any ongoing working relationship between all the parties concerned.
 

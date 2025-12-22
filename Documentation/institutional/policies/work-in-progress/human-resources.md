@@ -126,7 +126,7 @@ Any changes in this taxonomy must follow the procedures laid out in [TIOF's Stat
 
 ### Teams
 
-The organization organizes its structure around a number of [Teams](broken-reference) that perform the necessary institutional and operational activities to further its [DCDR advocacy](https://tiof.click/DCDRAdvocacy) and the implementation of its [initiatives](https://tiof.click/TIOFInitiatives).
+The organization organizes its structure around a number of [Teams](/broken/pages/YpljP37A0MJKZcybBpou) that perform the necessary institutional and operational activities to further its [DCDR advocacy](https://tiof.click/DCDRAdvocacy) and the implementation of its [initiatives](https://tiof.click/TIOFInitiatives).
 
 TIOF Teams must be defined in the most comprehensive way as possible.
 

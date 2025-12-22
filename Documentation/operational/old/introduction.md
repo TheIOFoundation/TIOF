@@ -10,7 +10,7 @@ There remains, however, a limited international understanding of the true impact
 
 TIOF aims to raise awareness about the importance of protecting citizens and their data through the observance of [Data-Centric Digital Rights](https://tiof.click/DCDRAdvocacy). In collaboration with stakeholders ranging from technologists, civil society, academia, bodies of governance and corporate, it works towards achieving the proclamation and adoption of a [Universal Declaration of Digital Rights](https://tiof.click/UDDRWeb).
 
-The IO Foundation advances its [Data-Centric Digital Rights advocacy](https://tiof.click/DCDRAdvocacy) through the implementation of a number of [initiatives](broken-reference).
+The IO Foundation advances its [Data-Centric Digital Rights advocacy](https://tiof.click/DCDRAdvocacy) through the implementation of a number of [initiatives](/broken/pages/yUzn9LiQSspkx6vg480U).
 
 ### Mission
 

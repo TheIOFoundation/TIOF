@@ -174,6 +174,5 @@ Crypto:\
 Valuation based on the value of the coin vs EUR on the day of the donation.\
 Further fluctuations on the price shall not be considered.\
 [https://coinmarketcap.com/](https://coinmarketcap.com/) Reference\
-\>> Use Portfolio to record transactions.\
-
+\>> Use Portfolio to record transactions.<br>
 

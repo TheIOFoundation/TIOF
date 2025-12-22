@@ -87,110 +87,92 @@ This document serves as the foundational statute for TION MY, guiding its operat
 
 \*\*Statute of The IO Network MY Sdn. Bhd. (TION MY)\*\*
 
-\
-
+<br>
 
 \_Version 1.0\_
 
-\
-
+<br>
 
 \---
 
-\
-
+<br>
 
 \*\*Preamble\*\*
 
-\
-
+<br>
 
 This Statute outlines the foundational principles and operational guidelines for The IO Network MY Sdn. Bhd. (TION MY), a key component of The IO Foundation (TIOF) Network.
 
-\
-
+<br>
 
 \*\*Article 1: Affiliation with TIOF Network\*\*
 
-\
-
+<br>
 
 1.1 \*\*Integration into TIOF Network\*\*
 
 &#x20;  \- TION MY is an integral part of the TIOF Network, sharing its vision, mission, and objectives.
 
-\
-
+<br>
 
 \*\*Article 2: Corporate Registration and Governance\*\*
 
-\
-
+<br>
 
 2.1 \*\*Registration Under Companies Act 2016\*\*
 
 &#x20;  \- TION MY is registered under the Companies Act 2016 of Malaysia. In lieu of specific Articles of Association (M\&A) or a Constitution, this registration governs its corporate structure and compliance.
 
-\
-
+<br>
 
 2.2 \*\*Non-Adoption of Specific M\&A/Constitution\*\*
 
 &#x20;  \- Due to its registration under the Companies Act 2016, TION MY has not adopted specific Articles of Association (M\&A) or a Constitution.
 
-\
-
+<br>
 
 \*\*Article 3: Non-Profit Operation\*\*
 
-\
-
+<br>
 
 3.1 \*\*Non-Profit Status\*\*
 
 &#x20;  \- Despite its corporate registration, TION MY operates as a non-profit entity, adhering to the principles and ethos of non-profit organizations.
 
-\
-
+<br>
 
 3.2 \*\*Financial Conduct\*\*
 
 &#x20;  \- Financially, TION MY aligns with non-profit operational standards, ensuring that all financial activities support its non-profit objectives.
 
-\
-
+<br>
 
 \*\*Article 4: Project Implementation and Coordination\*\*
 
-\
-
+<br>
 
 4.1 \*\*Project Implementation\*\*
 
 &#x20;  \- TION MY exclusively engages in the implementation of projects that are coordinated and mandated by TIOF.
 
-\
-
+<br>
 
 \*\*Article 5: Organizational Policies and Legislation Compliance\*\*
 
-\
-
+<br>
 
 5.1 \*\*Adherence to TIOF Policies\*\*
 
 &#x20;  \- TION MY follows the organizational policies set by TIOF, ensuring consistency and alignment with the broader network.
 
-\
-
+<br>
 
 5.2 \*\*Exceptions for Local Legislation\*\*
 
 &#x20;  \- Exceptions to TIOF's policies are made when necessary to comply with specific local or national legislation applicable to TION MY.
 
 \
-\
-
+<br>
 
 ###
 

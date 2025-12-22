@@ -66,7 +66,7 @@ Our mission is driven by innovation and accountability, ensuring technology serv
 
 
 
-&#x20;<a href="https://template.gitbook.com/space-api-reference" class="button secondary" data-icon="hand-holding-seedling">Support Us</a>    <a href="../../about/join-us/" class="button primary" data-icon="hand-spock">Get Involved</a>
+&#x20;<a href="https://template.gitbook.com/space-api-reference" class="button secondary" data-icon="hand-holding-seedling">Support Us</a>    <a href="/broken/pages/47db6bOqXAZxXBN0tTOY" class="button primary" data-icon="hand-spock">Get Involved</a>
 {% endcolumn %}
 {% endcolumns %}
 

@@ -98,18 +98,15 @@ GUIDELINES IN CONDUCTING ACTIVITIES
 
 
 
-\
-
+<br>
 
 Note: Internal terminology, Activity refers to those organized by TIOF.
 
-\
-
+<br>
 
 Each activity conducted in the name of TIOF must be proposed in writing addressed to the CEO following the TIOF Activity Design Format. Only after respective deliberation, and when approved, shall the activity be implemented.&#x20;
 
-\
-
+<br>
 
 1. TIOF stands for quality. Every activity should reflect this distinguishing characteristic—from planning to implementation, monitoring and evaluation, as well as in liaising with other individuals/groups/institutions;
 2. Every activity should be responding to TIOF’s Operational Framework;&#x20;
@@ -119,18 +116,15 @@ Each activity conducted in the name of TIOF must be proposed in writing addresse
 6. Should a TIOF representative be needed in the activity, this shall be represented by its CEO or the respective personnel as delegated.
 
 \
-\
-
+<br>
 
 2. GUIDELINES IN ATTENDING EVENTS
 
-\
-
+<br>
 
 Note: Internal terminology, Events refers to those organized by 3rd parties.
 
-\
-
+<br>
 
 ***
 
@@ -218,20 +212,7 @@ Per person accommodation are to be in not more than 4-star hotels based on the f
 | Level 3 | 80             |
 
 \
-\
-
-
-Level 1: Washington DC, London, Geneva
-
-Level 2: Germany, Paris, etc
-
-Level 3: Global South
-
-\
-
-
-\
-
+<br>
 
 Level 1: Washington DC, London, Geneva
 
@@ -239,8 +220,17 @@ Level 2: Germany, Paris, etc
 
 Level 3: Global South
 
-\
+<br>
 
+<br>
+
+Level 1: Washington DC, London, Geneva
+
+Level 2: Germany, Paris, etc
+
+Level 3: Global South
+
+<br>
 
 
 

@@ -90,8 +90,7 @@ TIOF has identified the following challenges:
 
 {% columns %}
 {% column width="41.66666666666667%" %}
-**Challenge 1:** Lack of taxonomies\
-
+**Challenge 1:** Lack of taxonomies<br>
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
