@@ -19,7 +19,7 @@
 
 ## OUR WORK
 
-* [Activities](https://docs.theiofoundation.org/activities)
+* [Activities](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/sRFrwDq11pmSbWoSLKjc/)
 * [Season 2025](our-work/season-2025.md)
 * [Season 2026](our-work/season-2026.md)
 * [Past Seasons](our-work/past-seasons/README.md)
