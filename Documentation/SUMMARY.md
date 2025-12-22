@@ -34,7 +34,7 @@
 ## SEASON 2025
 
 * [Strategy](season-2025/strategy.md)
-* [Activities](https://docs.theiofoundation.org/activities)
+* [Activities](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/sRFrwDq11pmSbWoSLKjc/)
 * [Previous Seasons](season-2025/previous-seasons.md)
 
 ## Institutional
