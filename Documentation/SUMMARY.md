@@ -9,7 +9,7 @@
 * [Sagan Oath](https://short.theiofoundation.org/TIOFDCDRSaganOath)
 * [Hey Big Tech! declaration](about/hey-big-tech-declaration.md)
 * [Directory](about/introduction/directory.md)
-* [Join Us](https://short.theiofoundation.org/JoinUs)
+* [Join Us](https://app.gitbook.com/s/gOsqm6NMTX2qUBFLW7wp/about/spotlight)
 * [Support Us](about/support-us/README.md)
   * [🚧 Acknowledgments](about/support-us/partners-and-collaborators.md)
 * [Awards](about/awards.md)
