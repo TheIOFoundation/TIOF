@@ -183,5 +183,5 @@ Across the years, The IO Foundation has partnered and collaborated with global a
 {% hint style="info" %}
 ## CONTACT US
 
-For all general inquiries: Contact@TheIOFoundation.orgAnd&#x20;
+For all general inquiries: [Contact@TheIOFoundation.org](mailto:Contact@TheIOFoundation.org)
 {% endhint %}
