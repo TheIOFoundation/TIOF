@@ -2,7 +2,7 @@
 description: Discover what is The IO Foundation's work during this Season.
 icon: leaf
 cover: >-
-  ../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Season XXX
+  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Season XXX
   v1.4.png
 coverY: 0
 layout:
@@ -36,7 +36,7 @@ layout:
 {% tab title="Share this page" %}
 Use this QR Code to quickly share this page.
 
-<figure><img src="../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF QR Code Season 2025 XXX v1.0.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF QR Code Season 2025 XXX v1.0.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -54,16 +54,26 @@ Through education, research and practical solutions, The IO Foundation advocates
 
 For Season 2025, The IO Foundation will focus its resources in achieving the following Key Objectives:
 
-* Grow its revenue through alternative mechanisms \
-  Among other approaches, by designing, implementing and providing unique services and products that are aligned with the organization's advocacy.
-* Strengthen its participation in relevant Standard Developing Organizations (SDOs)\
-  While maintaining its participation in IETF, ITU-T and ICANN, the organization will explore how to participate in other core SDOs.
-* Increase engagement in Policy Developing Organizations (PDOs)\
-  Following the establishment of the Global Digital Compact (GDC), the organization will extend its participation in fora such as the Internet Governance Forum and the GDC itself.
-* Building an educational platform\
-  The organization will establish the TechUp Academy, a platform dedicated to delivering technologists with the education and training in essential technological skills and to become proponents of the DCDR Framework.
-* Enhance content generation\
-  The organization will focus on expanding its content production, including articles, blogs, podcasts and other media, to engage a wider audience.
+{% columns %}
+{% column %}
+<i class="fa-circle-1">:circle-1:</i>  **Grow its revenue through alternative mechanisms** \
+Among other approaches, by designing, implementing and providing unique services and products that are aligned with the organization's advocacy.
+
+<i class="fa-circle-2">:circle-2:</i>  **Strengthen its participation in relevant Standard Developing Organizations (SDOs)**\
+While maintaining its participation in IETF, ITU-T and ICANN, the organization will explore how to participate in other core SDOs.
+
+<i class="fa-circle-3">:circle-3:</i>  I**ncrease engagement in Policy Developing Organizations (PDOs)**\
+Following the establishment of the Global Digital Compact (GDC), the organization will extend its participation in fora such as the Internet Governance Forum and the GDC itself.
+{% endcolumn %}
+
+{% column %}
+<i class="fa-circle-4">:circle-4:</i> **Building an educational platform**\
+The organization will establish the TechUp Academy, a platform dedicated to delivering technologists with the education and training in essential technological skills and to become proponents of the DCDR Framework.
+
+<i class="fa-circle-5">:circle-5:</i>  **Enhance content generation**\
+The organization will focus on expanding its content production, including articles, blogs, podcasts and other media, to engage a wider audience.
+{% endcolumn %}
+{% endcolumns %}
 
 ## Initiatives & Projects
 

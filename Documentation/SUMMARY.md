@@ -20,9 +20,10 @@
 ## OUR WORK
 
 * [Activities](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/sRFrwDq11pmSbWoSLKjc/)
-* [Season 2025](our-work/season-2025.md)
 * [Season 2026](our-work/season-2026.md)
+* [Season 2027](our-work/season-2027.md)
 * [Past Seasons](our-work/past-seasons/README.md)
+  * [Season 2025](our-work/past-seasons/season-2025.md)
   * [Season 2024](our-work/past-seasons/2024.md)
   * [Season 2023](our-work/past-seasons/2023.md)
   * [Season 2022](our-work/past-seasons/2022.md)
@@ -34,8 +35,6 @@
 ## SEASON 2025
 
 * [Strategy](season-2025/strategy.md)
-* [Activities](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/sRFrwDq11pmSbWoSLKjc/)
-* [Previous Seasons](season-2025/previous-seasons.md)
 
 ## Institutional
 

@@ -1,5 +1,6 @@
 ---
 description: Discover what is The IO Foundation's work during this Season.
+noIndex: true
 icon: leaf
 cover: >-
   ../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Season XXX
@@ -24,7 +25,9 @@ layout:
     visible: true
 ---
 
-# Season 2026
+# Season 2027
+
+
 
 {% hint style="danger" %}
 ## DISCLAIMER

@@ -3,6 +3,7 @@ description: >-
   Discover all the people working with The IO Foundation to ensure that
   technology protects you by design.
 hidden: true
+noIndex: true
 icon: address-book
 ---
 

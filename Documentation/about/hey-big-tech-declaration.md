@@ -1,6 +1,7 @@
 ---
 description: Discover this declaration and support it!
 hidden: true
+noIndex: true
 icon: bullhorn
 ---
 

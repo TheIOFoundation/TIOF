@@ -1,5 +1,6 @@
 ---
 description: ⚡Brewing something new. Thanks for hanging in there!
+noIndex: true
 icon: person-digging
 cover: ../.gitbook/assets/image (1).jpg
 coverY: 0
