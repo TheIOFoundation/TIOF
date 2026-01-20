@@ -52,6 +52,7 @@
     * [Verification of NGO Status](institutional/tiof-network/the-io-network-us-foundation/verification-of-ngo-status.md)
     * [Billing](institutional/tiof-network/the-io-network-us-foundation/billing.md)
     * [Refunds](institutional/tiof-network/the-io-network-us-foundation/refunds.md)
+    * [Banking](institutional/tiof-network/the-io-network-us-foundation/banking.md)
   * [🇲🇾 The IO Network MY Sdn. Bhd.](institutional/tiof-network/the-io-network-my-sdn-bhd/README.md)
     * [🚧 Organization Statute](institutional/tiof-network/the-io-network-my-sdn-bhd/organization-statute.md)
     * [Applicable legislation](institutional/tiof-network/the-io-network-my-sdn-bhd/applicable-legislation.md)
