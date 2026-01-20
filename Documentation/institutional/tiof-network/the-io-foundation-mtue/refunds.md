@@ -1,5 +1,5 @@
 ---
-description: Refund procedure for The IO Foundation
+description: Billing details for The IO Foundation.
 hidden: true
 icon: money-bill-transfer
 cover: >-
@@ -8,25 +8,11 @@ cover: >-
 coverY: 0
 ---
 
-# Refunds
-
-{% tabs %}
-{% tab title="Quick Resources" %}
-{% hint style="info" %}
-[**ShortURL**](https://short.theiofoundation.org/TIOFRefunds-Info) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
-{% endhint %}
-{% endtab %}
-
-{% tab title="Share this page" %}
-Use this QR Code to quickly share this page.
-
-<figure><img src="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF QR Code Refund Information XXX v1.0.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+# Billing
 
 ## About
 
-The following are the instructions necessary to proceed with a refund for The IO Foundation.
+The following are the instructions necessary to bill The IO Foundation.
 
 {% hint style="info" %}
 ## Do you have questions?
@@ -34,18 +20,27 @@ The following are the instructions necessary to proceed with a refund for The IO
 Feel free to contact us at [Finance@TheIOFoundation.org](mailto:Finance@TheIOFoundation.org).
 {% endhint %}
 
-## Procedure
+## Details
 
-* Find in this page all the information you may need to proceed with the refund
-* Select the currency for the refund (EUR, USD) - See details below
-* In the transfer field, please indicate the reference of the invoice refunded
-* Forward the refund receipt to [Finance@TheIOFoundation.org](mailto:Finance@TheIOFoundation.org)
+Please indicate clearly the following information in your invoice:
 
-{% hint style="success" %}
-## Using Wise?
+* [x] Invoice number/code
+* [x] Date of issuance of the invoice
+* [x] Full amount to be paid
+* [x] Currency applicable for the payment
 
-If you are refunding via Wise, you can easily find The IO Foundation with the following Wisetag:\
-theiofoundation
+- The IO Foundation favors billing in the following order:
+  * EUR
+  * USD
+  * Other currencies as applicable
+
+* [x] Clear list of items subject to the invoice
+* [x] Terms and condition, if applicable, to the items subject to the invoice
+
+{% hint style="info" %}
+## INVOICING ADDRESS
+
+All invoices are to be sent to [Finance@TheIOFoundation.org](mailto:Finance@TheIOFoundation.org)
 {% endhint %}
 
 ## Organizational Information
@@ -81,161 +76,3 @@ Estonia
 {% endcolumns %}
 
 Should you need more information, please visit our [Institutional Information page](./).
-
-## Banking information
-
-### EURO
-
-The following are the EUR account details for The IO Foundation.
-
-{% columns %}
-{% column %}
-### Domestic Transfers
-
-{% code title="NAME" %}
-```
-The IO Foundation
-```
-{% endcode %}
-
-{% code title="IBAN" %}
-```
-BE91967037035976
-```
-{% endcode %}
-
-{% code title="BANK NAME & ADDRESS" %}
-```
-Wise,
-Rue du Trône 100, 3rd floor,
-Brussels, 1050, Belgium
-
-
-```
-{% endcode %}
-
-
-
-***
-{% endcolumn %}
-
-{% column %}
-### International Transfers
-
-{% code title="NAME" %}
-```
-The IO Foundation
-```
-{% endcode %}
-
-{% code title="ACCOUNT NUMBER" %}
-```
-BE91967037035976
-```
-{% endcode %}
-
-{% code title="SWIFT/BIC
-" %}
-```
-TRWIBEB1XXX
-```
-{% endcode %}
-
-{% code title="BANK NAME & ADDRESS" %}
-```
-Wise,
-Rue du Trône 100, 3rd floor,
-Brussels, 1050, Belgium
-
-
-```
-{% endcode %}
-
-
-
-***
-{% endcolumn %}
-{% endcolumns %}
-
-
-
-### US DOLLAR
-
-The following are the USD account details for The IO Foundation.
-
-{% columns %}
-{% column %}
-### Domestic Transfers
-
-{% code title="NAME" %}
-```
-The IO Foundation
-```
-{% endcode %}
-
-{% code title="ACCOUNT NUMBER (Checking)" %}
-```
-8310060238
-```
-{% endcode %}
-
-{% code title="ROUTING NUMBER (wire & ACH)" %}
-```
-026073150
-```
-{% endcode %}
-
-{% code title="BANK NAME & ADDRESS" %}
-```
-Community Federal Savings Bank,
-89-16 Jamaica Ave, Woodhaven,
-NY, 11421, United States
-
-
-```
-{% endcode %}
-
-
-
-***
-{% endcolumn %}
-
-{% column %}
-### International Transfers
-
-{% code title="NAME" %}
-```
-The IO Foundation
-```
-{% endcode %}
-
-{% code title="ACCOUNT NUMBER" %}
-```
-8310060238
-```
-{% endcode %}
-
-{% code title="SWIFT/BIC" %}
-```
-CMFGUS33
-```
-{% endcode %}
-
-{% code title="BANK NAME & ADDRESS" %}
-```
-Community Federal Savings Bank,
-89-16 Jamaica Ave, Woodhaven,
-NY, 11421, United States
-
-
-```
-{% endcode %}
-
-
-
-***
-
-
-{% endcolumn %}
-{% endcolumns %}
-
