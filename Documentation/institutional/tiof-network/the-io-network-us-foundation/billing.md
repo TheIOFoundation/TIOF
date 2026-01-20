@@ -1,5 +1,5 @@
 ---
-description: Billing details for The IO Foundation.
+description: Billing details for The IO Network US Foundation.
 hidden: true
 icon: money-bill-transfer
 cover: >-
@@ -12,7 +12,7 @@ coverY: 0
 
 ## About
 
-The following are the instructions necessary to bill The IO Foundation.
+The following are the instructions necessary to bill The IO Network US Foundation.
 
 {% hint style="info" %}
 ## Do you have questions?
@@ -29,13 +29,10 @@ Please indicate clearly the following information in your invoice:
 * [x] Full amount to be paid
 * [x] Currency applicable for the payment
 
--   The IO Foundation favors billing in the following order:
-
-    * EUR
-    * USD
-    * Other currencies as applicable
-
-    Note: TIOF will bear the FOREX cost unless otherwise specified.
+- The IO Foundation favors billing in the following order:
+  * USD
+  * EUR
+  * Other currencies as applicable
 
 * [x] Clear list of items subject to the invoice
 * [x] Terms and condition, if applicable, to the items subject to the invoice
@@ -52,25 +49,25 @@ All invoices are to be sent to [Finance@TheIOFoundation.org](mailto:Finance@TheI
 {% column %}
 {% code title="Official Name" %}
 ```
-The IO Foundation Mittetulundusühing
+The IO Network US Foundation
 ```
 {% endcode %}
 
 {% code title="Registration ID" %}
 ```
-80549272
+7597974
 ```
 {% endcode %}
 {% endcolumn %}
 
 {% column %}
-{% code title="TIOF ADDRESS" %}
+{% code title="TION-US ADDRESS" %}
 ```
-Rataskaevu tn 2
-Kesklinna linnaosa
-10123 Tallinn
-Harju maakond
-Estonia
+8 The Green, STE B
+Kent County
+Dover
+Delaware DE 19901
+United States
 ```
 {% endcode %}
 
@@ -78,4 +75,4 @@ Estonia
 {% endcolumn %}
 {% endcolumns %}
 
-Should you need more information, please visit our [Institutional Information page](./).
+Should you need more information, please visit our [Institutional Information page](../the-io-foundation-mtue/).
