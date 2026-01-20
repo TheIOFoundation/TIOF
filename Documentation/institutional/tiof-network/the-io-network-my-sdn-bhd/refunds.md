@@ -1,6 +1,7 @@
 ---
 description: Refund procedure for The IO Network MY Sdn. Bhd.
 hidden: true
+noIndex: true
 icon: money-bill-transfer
 cover: >-
   ../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header
