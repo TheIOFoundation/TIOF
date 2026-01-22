@@ -1,5 +1,6 @@
 ---
 description: Discover what is The IO Foundation's work during this Season.
+hidden: true
 noIndex: true
 icon: leaf
 cover: >-
