@@ -120,7 +120,7 @@
 * [Handbooks](operational/handbooks/README.md)
   * [Onboarding checklist](operational/handbooks/onboarding-checklist.md)
     * [Temp (To review and maybe delete)](operational/handbooks/onboarding-checklist/temp-to-review-and-maybe-delete.md)
-  * [New Argos Club Member Onboarding checklist](operational/handbooks/onboarding-checklist-1.md)
+  * [New Argos Club Member Onboarding checklist](operational/handbooks/new-argos-club-member-onboarding-checklist.md)
   * [TechUp Fellow: IETF Registration checklist (In-person)](operational/handbooks/ietf-registration-fellow-in-person-info.md)
   * [TechUp Fellow: IETF Registration checklist (Online)](operational/handbooks/ietf-registration-fellow-online-info/README.md)
     * [NOTES](operational/handbooks/ietf-registration-fellow-online-info/notes.md)

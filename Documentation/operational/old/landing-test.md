@@ -4,23 +4,6 @@ cover: >-
   ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header
   Introduction XXX v1.0.png
 coverY: 0
-layout:
-  width: wide
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
-  metadata:
-    visible: false
 ---
 
 # Landing Test
