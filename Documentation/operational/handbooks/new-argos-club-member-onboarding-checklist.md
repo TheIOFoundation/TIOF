@@ -12,46 +12,7 @@ This documentation page is under construction and will be soon incorporated into
 
 ## About
 
-This document will guide you in the steps you need to undertake for your Argos Club Member onboarding and access all the tools that the organization puts at your disposal.
-
-The onboarding procedure is divided into the following steps:
-
-<table><thead><tr><th width="203">Step</th><th>Actions by TIOF</th><th>Actions by You</th></tr></thead><tbody><tr><td><ol><li><a href="new-argos-club-member-onboarding-checklist.md#creation-of-your-basic-tiof-credentials">Creation of your basic TIOF Credentials</a></li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox">TIOF will create your basic organization account and sent your default credentials.</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox"><strong>Keep the credentials safe.</strong></li></ul></td></tr><tr><td><ol start="2"><li><a href="new-argos-club-member-onboarding-checklist.md#id-2.-preparation-for-onboarding-session">Preparation for Onboarding Session</a></li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox">TIOF will generate some internal credentials for the Onboarding Session.</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox"><p>Review the list of apps below:</p><ul class="contains-task-list"><li><input type="checkbox"><a href="new-argos-club-member-onboarding-checklist.md#mandatory-installs">Mandatory</a></li><li><input type="checkbox"><a href="new-argos-club-member-onboarding-checklist.md#recommended-installs">Recommended</a></li></ul></li></ul></td></tr><tr><td><ol start="3"><li><a href="new-argos-club-member-onboarding-checklist.md#id-3.-onboarding-session">Onboarding Session</a></li></ol></td><td><ul class="contains-task-list"><li><input type="checkbox">TIOF will guide you to the full set of steps needed to onboard you and grant you access to all the tools you will need.</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox"> Follow the instructions during the Onboarding Session.</li></ul></td></tr></tbody></table>
-
-## 1. Creation of your basic TIOF Credentials
-
-The first step in your onboarding process will be to be assigned basic credentials (TIOF Member Account) to access TIOF's tools.
-
-{% hint style="info" %}
-For the time being, The IO Foundation is using Google Workspace for Nonprofits.
-{% endhint %}
-
-{% hint style="success" %}
-## When does this Step happen?
-
-If you are reading this guide, you will have received an introduction email from The IO Foundation.
-
-**Your TIOF Credentials are already created. You can proceed to the next Step.**
-{% endhint %}
-
-TIOF will do the necessary to create your basic credentials. You will receive a new credentials email (titled "\[TIOF] Your new TIOF Member Account") once they are ready, which will lead you to this document.
-
-{% hint style="success" %}
-Your TIOF Member Account will be composed by:
-
-* Username
-* Default Password
-{% endhint %}
-
-## 2. Preparation for Onboarding Session
-
-{% hint style="success" %}
-## When does this Step happen?
-
-If you are reading this Step, you are ready to prepare for your Onboarding Session.
-
-**You can proceed to the installs detailed in this Step.**
-{% endhint %}
+This document will guide you in the steps you need to undertake for your Argos Club Member onboarding and access all the tools that the club puts at your disposal.
 
 ### Mandatory installs
 
@@ -63,9 +24,9 @@ The following are the software preparations you need to attend to prior to your 
 * Registrations: 30 minutes
 {% endhint %}
 
-<table><thead><tr><th width="165.33333333333331">Platform</th><th width="213">Actions by TIOF</th><th>Actions by You</th></tr></thead><tbody><tr><td>Brave browser</td><td><ul class="contains-task-list"><li><input type="checkbox">N/A</li></ul></td><td><p><strong>Install BRAVE browser and ditch whatever you are using now.</strong></p><ul class="contains-task-list"><li><input type="checkbox">Install the <a href="https://brave.com/download/">Brave browser client</a> on your laptop and/or desktop.</li><li><input type="checkbox"><p>Install the Brave browser app on your mobile.</p><ul class="contains-task-list"><li><input type="checkbox"><a href="https://brave.com/android/">Android</a></li><li><input type="checkbox"><a href="https://brave.com/ios/">iOS</a></li></ul></li></ul></td></tr><tr><td>Vaultwarden</td><td><ul class="contains-task-list"><li><input type="checkbox">We will send you an invite to your TIOF email to join the platform.</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox">Install the <a href="https://bitwarden.com/download/#downloads-web-browser">Bitwarden extension</a> in your browser.</li><li><input type="checkbox">Install the <a href="https://bitwarden.com/download/#downloads-mobile">Bitwarden app</a> on your mobile.</li><li><input type="checkbox">Install the <a href="https://bitwarden.com/download/#downloads-desktop">Bitwarden client</a> on your laptop and/or desktop.</li></ul></td></tr><tr><td>Google Drive<br>(Storage)</td><td><ul class="contains-task-list"><li><input type="checkbox">N/A</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox">Install the <a href="https://chromewebstore.google.com/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi">Google Docs Offline extension</a> in your browser.</li><li><input type="checkbox">Install the <a href="https://ipv4.google.com/intl/en_zm/drive/download/">Google Drive client</a> desktop on your laptop and/or desktop.</li><li><input type="checkbox">Install the <a href="https://ipv4.google.com/intl/en_zm/drive/download/">Google Drive app</a> on your mobile.</li></ul></td></tr><tr><td>Tailscale<br>(Security)</td><td><code>[Coming soon]</code></td><td><code>[Coming soon]</code></td></tr></tbody></table>
+<table><thead><tr><th width="165.33333333333331">Platform</th><th width="213">Actions by TIOF</th><th>Actions by You</th></tr></thead><tbody><tr><td>Brave browser</td><td><ul class="contains-task-list"><li><input type="checkbox">N/A</li></ul></td><td><p><strong>Install BRAVE browser and ditch whatever you are using now.</strong></p><ul class="contains-task-list"><li><input type="checkbox">Install the <a href="https://brave.com/download/">Brave browser client</a> on your laptop and/or desktop.</li><li><input type="checkbox"><p><em>Recommended</em>: Install the Brave browser app on your mobile.</p><ul class="contains-task-list"><li><input type="checkbox"><a href="https://brave.com/android/">Android</a></li><li><input type="checkbox"><a href="https://brave.com/ios/">iOS</a></li></ul></li></ul></td></tr><tr><td>Vaultwarden</td><td><ul class="contains-task-list"><li><input type="checkbox">We will send you an invite to your TIOF email to join the platform.</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox">Install the <a href="https://bitwarden.com/download/#downloads-web-browser">Bitwarden extension</a> in your Brave browser.</li><li><input type="checkbox">Install the <a href="https://bitwarden.com/download/#downloads-mobile">Bitwarden app</a> on your mobile.</li><li><input type="checkbox"><em>Recommended</em>: Install the <a href="https://bitwarden.com/download/#downloads-desktop">Bitwarden client</a> on your laptop and/or desktop.</li></ul></td></tr><tr><td>Google Drive<br>(Storage)</td><td><ul class="contains-task-list"><li><input type="checkbox">N/A</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox">Install the <a href="https://chromewebstore.google.com/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi">Google Docs Offline extension</a> in your Brave browser.</li><li><input type="checkbox"><em>Recommended</em>: Install the <a href="https://ipv4.google.com/intl/en_zm/drive/download/">Google Drive client</a> desktop on your laptop and/or desktop.</li><li><input type="checkbox"><em>Recommended</em>: Install the <a href="https://ipv4.google.com/intl/en_zm/drive/download/">Google Drive app</a> on your mobile.</li></ul></td></tr><tr><td>Tailscale<br>(Security)</td><td><ul class="contains-task-list"><li><input type="checkbox">N/A</li></ul></td><td><ul class="contains-task-list"><li><input type="checkbox">Install the <a href="https://tailscale.com/download">Tailscale desktop client</a></li></ul></td></tr></tbody></table>
 
-### Recommended installs
+### Other Recommended installs
 
 The following are recommended browser extensions that will do your daily tasks easier.
 
@@ -93,4 +54,4 @@ The following are the core steps that you'll undertake during your Onboarding Se
 | Secure TIOF's Account  | <ul class="contains-task-list"><li><input type="checkbox">N/A</li></ul>                                                                 | <ul class="contains-task-list"><li><input type="checkbox">Update Default password.</li><li><input type="checkbox">Activate MFA.</li></ul>                                                                                                                                                                                            |
 | Access Github account  | <ul class="contains-task-list"><li><input type="checkbox">We will send you an invite to your TIOF email to join the platform.</li></ul> | <ul class="contains-task-list"><li><input type="checkbox">Follow email instructions and finalize account creation.</li><li><input type="checkbox">Activate MFA.</li></ul>                                                                                                                                                            |
 | Configure Google Drive | <ul class="contains-task-list"><li><input type="checkbox"> Configure admin side for permissions.</li></ul>                              | <ul class="contains-task-list"><li><input type="checkbox">Configure account.</li><li><input type="checkbox">Familiarize yourself with the storage structure.</li></ul>                                                                                                                                                               |
-| Configure Tailscale    | `[Coming soon]`                                                                                                                         | `[Coming soon]`                                                                                                                                                                                                                                                                                                                      |
+| Configure Tailscale    | <ul class="contains-task-list"><li><input type="checkbox">N/A</li></ul>                                                                 | <ul class="contains-task-list"><li><input type="checkbox">Configure your access to the club's Tailnet. </li></ul>                                                                                                                                                                                                                    |
