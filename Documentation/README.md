@@ -11,6 +11,8 @@ coverY: 0
 
 # Organization Brief
 
+What would you like to know about us? <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question…</button>
+
 {% tabs %}
 {% tab title="Quick Resources" %}
 {% hint style="info" %}
