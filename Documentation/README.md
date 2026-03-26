@@ -13,6 +13,12 @@ coverY: 0
 
 What would you like to know about us? <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question…</button>
 
+{% hint style="info" %}
+## ALL ABOUT TIOF
+
+What would you like to know about us? <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question…</button>
+{% endhint %}
+
 {% tabs %}
 {% tab title="Quick Resources" %}
 {% hint style="info" %}
