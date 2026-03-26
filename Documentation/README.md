@@ -11,9 +11,7 @@ coverY: 0
 
 # Organization Brief
 
-What would you like to know about us? <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question…</button>
-
-{% hint style="info" %}
+{% hint style="success" icon="comment-question" %}
 ## ALL ABOUT TIOF
 
 What would you like to know about us? <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question…</button>
