@@ -134,6 +134,11 @@
   * [Business Plan](operational/old/business-plan.md)
 * [Reusable Blocks](operational/page.md)
 
+## COMING SOON
+
+* [Shop](coming-soon/shop.md)
+* [My Account](coming-soon/my-account.md)
+
 ## NOTICE
 
 * [Section Under Maintenance](notice/section-under-maintenance.md)
