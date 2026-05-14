@@ -54,4 +54,5 @@ The following is a list of other registrations and certifications for The IO Fou
 | [NCAGE](https://eportal.nspa.nato.int/Codification/Support/en/Products/NCAGE/)                                                                                 | [010BJ](https://eportal.nspa.nato.int/Codification/CageTool/cage-view/010BJ)               |
 | EU PADOR                                                                                                                                                       | `Registered`                                                                               |
 | EuropeAid ID                                                                                                                                                   | EE-2025-AXL-0412282723                                                                     |
+| USA NAICS                                                                                                                                                      | 813319                                                                                     |
 

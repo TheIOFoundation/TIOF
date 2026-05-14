@@ -60,4 +60,5 @@ The following is a list of other registrations and certifications for The IO Fou
 | DUNS                                                                                                                                                           | 11-940-1738                                                                                |
 | [NACE Code](https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_CLS_DLD\&StrNom=NACE_REV2\&StrLanguageCode=EN\&StrLayoutCode=HIERARCHIC) | [62.09](https://nacev2.com/en/search?q=62.09)                                              |
 | [NCAGE](https://eportal.nspa.nato.int/Codification/Support/en/Products/NCAGE/)                                                                                 | **`In Progress`**                                                                          |
+| USA NAICS                                                                                                                                                      | 813319                                                                                     |
 
