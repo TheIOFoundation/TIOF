@@ -48,6 +48,7 @@ This document specifies the minimum outbound network access required for an Argo
 | ----------------------- | ----- | ----- |
 | VPN Gateway MAC address |       |       |
 | Server MAC address      |       |       |
+| HO Network Point        |       |       |
 | Others                  | N/A   | N/A   |
 
 ### 1. Basic Connectivity
