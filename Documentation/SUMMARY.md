@@ -125,6 +125,7 @@
   * [TechUp Fellow: IETF Registration checklist (Online)](operational/handbooks/ietf-registration-fellow-online-info/README.md)
     * [NOTES](operational/handbooks/ietf-registration-fellow-online-info/notes.md)
 * [Access Denied](operational/access-denied.md)
+* [Network Access Requirements for PromptForge Server](operational/network-access-requirements-for-promptforge-server.md)
 * [Pending](operational/pending/README.md)
   * [Theory of Change](operational/pending/theory-of-change.md)
   * [🔠 Portfolio](operational/pending/portfolio.md)
