@@ -124,6 +124,7 @@
   * [TechUp Fellow: IETF Registration checklist (In-person)](operational/handbooks/ietf-registration-fellow-in-person-info.md)
   * [TechUp Fellow: IETF Registration checklist (Online)](operational/handbooks/ietf-registration-fellow-online-info/README.md)
     * [NOTES](operational/handbooks/ietf-registration-fellow-online-info/notes.md)
+  * [AP-110 trainer script (TEMP)](operational/handbooks/ap-110-trainer-script-temp.md)
 * [Pending](operational/pending/README.md)
   * [Theory of Change](operational/pending/theory-of-change.md)
   * [🔠 Portfolio](operational/pending/portfolio.md)
