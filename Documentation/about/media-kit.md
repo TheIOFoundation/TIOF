@@ -10,6 +10,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -25,6 +26,8 @@ layout:
   tags:
     visible: true
   actions:
+    visible: true
+  anchors:
     visible: true
 ---
 
@@ -190,7 +193,7 @@ For more information, please refer to [TIOF's Branding Guidelines](https://tiof.
 {% endhint %}
 
 {% hint style="success" %}
-**All logos are available for download in** [**TIOF's Media Package**](https://tiof.click/TIOFPackageMedia)**.**
+**All logos are available for download in** [**TIOF's Media Package**](https://tiof.raindrop.page/media-kit-28083641)**.**
 {% endhint %}
 
 ### Fonts (typeface)
