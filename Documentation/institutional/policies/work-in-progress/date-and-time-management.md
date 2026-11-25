@@ -1,106 +1,69 @@
 ---
-description: Version 1.0 | This Policy was approved on DD MMMM YYYY.
+description: Version 0.1 | This Policy has not been approved yet.
 ---
 
-# 🚧 Activities
-
-{% hint style="info" %}
-**ShortURL |** ~~Playbook~~ **|** ~~Assistant~~
-{% endhint %}
+# 🚧 Date and time management
 
 ## Introduction
 
-### Definitions
-
-This document employs terms related to the [DCDR Advocacy](https://tiof.click/DCDRAdvocacy) that can be found in the [TIOF terminology](https://tiof.click/TIOFTerminology).
-
-For a structure of The IO Foundation, please visit
-
-* The IO Foundation's [Organizational Chart](http://tiof.click/TIOFOrgChart)
-* The IO Foundation's [Organizational Taxonomy](https://tiof.click/OrgTaxonomy)
-
-### About this document
-
-This document, hereinafter the Policy, sets out the position maintained by TIOF in matters of **Anti-corruption and Anti-bribery** that you will need to be aware of while being a TIOF Member. You should familiarize yourself with it and comply with it at all times. Any questions you may have with regard to its contents or what you have to do to comply with it should be referred to your corresponding Team Human Resources Manager.
-
-Any Member who breaches this Policy will face disciplinary action, which could result in dismissal for gross misconduct. Any non-employee who breaches this Policy may have their contract (or equivalent official relationship with TIOF) terminated with immediate effect.
-
-{% hint style="info" %}
-This document complements [TIOF's Code of Conduct](https://tiof.click/TIOFPolicyCoC).
-{% endhint %}
-
-{% hint style="info" %}
-This document does not form part of any [Engagement Document](https://tiof.click/TIOFTerminology#engagement-document) and we may amend it at any time following the procedures described in [TIOF's Statute](https://tiof.click/TIOFStatute).
-{% endhint %}
-
-### Scope
-
-This document directly applies to:
-
-* All [TIOF Members](https://tiof.click/TIOFTerminology#members)
-
-This document indirectly applies to:
-
-* All [TIOF Contributors](https://tiof.click/TIOFTerminology#contributors)
-
-The policies set out in this document apply to all [TIOF Members](https://tiof.click/TIOFTerminology#members) unless otherwise indicated. They therefore apply to Members of the Boards ([Directors](https://tiof.click/TIOFTerminology#directors), [Advisers](https://tiof.click/TIOFTerminology#advisers), [Consultants](https://tiof.click/TIOFTerminology#consultants)), [Employees](https://tiof.click/TIOFTerminology#employees), [Volunteers](https://tiof.click/TIOFTerminology#volunteers) and [Interns](https://tiof.click/TIOFTerminology#interns); this is irrespective of their [engagement type](https://tiof.click/TIOFTerminology#engagement-type). They equally apply to all [Contributors](https://tiof.click/TIOFTerminology#contributors) and will be used as part of the selection criteria when engaging with them.
-
-This Policy applies within all [TIOF Spaces](https://tiof.click/TIOFTerminology#spaces), including (although not limited to) management activities, contributions or events; it and also applies when an individual is officially representing the organization in public spaces. Examples of representing the organization include (although not limited to) using an official e-mail address, posting via any official channel or acting as an appointed representative at an event.
-
-{% hint style="warning" %}
-**Review and Amendments**\
-This policy shall be reviewed regularly to ensure its continued relevance and effectiveness. Amendments may be made to adapt to new legal requirements, changing circumstances or to better serve the organization's Mission.
-{% endhint %}
+This Policy sets one way of writing time everywhere The IO Foundation structures data by time: GitBook, Google Drive, Canva, Calendars, ERPNext and the CRM. It applies to all TIOF Members.
 
 ## Policy details
 
-### Anti corruption and Anti bribery statement
+### 1. Time
 
-{% hint style="success" %}
-The IO Foundation is committed to conducting its advocacy and all of its initiatives in an honest and ethical manner. We take a zero-tolerance approach to bribery and corruption and are committed to acting professionally, transparently, fairly, with integrity and under the observance of the law in our advocacy, operations, financial management and relationships.
-{% endhint %}
+* Every stored time is UTC.
+* A calendar is local only when it is meant to follow the local day of its people (for example the Argos Club calendars of Indonesia use Asia/Jakarta).
 
-### DELETE AFTER CHECKING
+### 2. Seasons
 
-***
+* A Season is a natural calendar year in UTC. No Activity spans two Seasons.
+* A record belongs to the Season and the month of its start timestamp (UTC).
+* Seasons and Fiscal Years are different concepts that deliberately coincide.
+* A Season with no information is hidden from the sidebar and is unhidden when it gets its first Activity page.
 
+### 3. Names that people read (titles)
 
+* Seasons: `Season 2026`. Months: `11 - November` (zero-padded number, English long name).
+* Activities: `[#Tag] Full event name YYYY-MM-DD`, with the date after the name.
+* `00` means the whole period: `2026-02-00` is the whole month and `2026-00-00` the whole year.
+* A year inside an official or edition name (`APRICOT 2026`) is a name, not a date.
+* When the organizer's own name already identifies the event uniquely, we keep it.
+* Tag codes come from the CRM and are written with `#`. The legacy `[ADM]` prefix (administration) stays.
+* An Activity has an internal title and an audience Subtitle (for example "Discovering ICANN").
 
+### 4. Names that machines read (slugs and paths)
 
+* Paths are permanent: `calendar/all-seasons/season-YYYY/NN-month/...`.
+* A slug is generated from the same facts as the title (date, series, city) and always matches them. If the date or the name changes, the slug changes too; GitBook keeps the old address working.
 
+### 5. Files
 
+* `[TIOF] Team [X] YYYY-MM-DD Title LANG vX.Y`. The date slot is always present (`0000-00-00` when there is none).
+* The bracket letter `[X]` is the confidentiality level (levels to be defined).
+* Reports: `YYYY-MM-DD_HHMMSSz-<source id>.md` in `channels/<channel>/season-YYYY/MM-month/`.
+
+### 6. Calendars
+
+* Calendars are long-lived containers named by Team, Project, Habitat or Channel. A Season never appears in a calendar name.
+* Calendars made for one Activity or one person are archived (hidden and unshared) when the Activity ends.
+
+### 7. Pending information
+
+* `@@@PENDING` means pending information to arrange. It sits at the bottom of a Space's pages.
 
 ## Meetings
-
-
 
 ### Regular meetings
 
 All regular meetings need to be set latest 1 week before the beginning of a new month.
 
+### Scheduling meetings
 
+The IO Foundation requires the coordinated efforts of TIOF Members who are located in different countries around the world. In addition, several countries observe Daylight Saving Time (DST) when local times shift by one hour forward or back depending on the season. This adds more complexity to coordinating meetings. The total number of potential time zones means that setting meeting times agreed upon creates a complex problem.
 
+To reduce the difficulties of finding mutually convenient meeting times TIOF shall implement a scheduling platform that will simplify these processes no matter how many attendees there are or where they are located.
 
+## Review and Amendments
 
-### Schduling meetings
-
-The IO Foundation requires the coordinated efforts of TIOF Members who are located in different countries around the world. In addition, several countries observe Daylight Saving Time (DST) when local times shift by one hour forward or back depending on the season. This adds more complexity to coordinating meetings. The total number of potential time zones means that setting meeting times agreed upon creates a complex problem.&#x20;
-
-To reduce the difficulties of finding mutually convenient meeting times TIOF shall implement a  scheduling platform that will simplify these processes no matter how many attendees there are or where they are located.
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This policy shall be reviewed regularly to ensure its continued relevance and effectiveness. Amendments follow the procedures described in TIOF's Statute.

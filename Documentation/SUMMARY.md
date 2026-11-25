@@ -87,7 +87,7 @@
     * [Products & Services](institutional/policies/work-in-progress/products-and-services.md)
     * [Crowdfunding](institutional/policies/work-in-progress/crowdfunding.md)
     * [Grants](institutional/policies/work-in-progress/grants.md)
-    * [🚧 Activities](institutional/policies/work-in-progress/date-and-time-management.md)
+    * [🚧 Date and time management](institutional/policies/work-in-progress/date-and-time-management.md)
     * [Donations](institutional/policies/work-in-progress/donations.md)
     * [RMA: Additional text to review](institutional/policies/work-in-progress/rma-additional-text-to-review.md)
     * [🚧 Disciplinary and Capability](institutional/policies/work-in-progress/disciplinary-and-capability.md)
