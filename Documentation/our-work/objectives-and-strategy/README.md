@@ -1,6 +1,6 @@
 ---
 description: Discover what has The IO Foundation worked on during all previous Seasons.
-icon: trees
+icon: bullseye-pointer
 cover: >-
   ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Season XXX
   v1.4.png
@@ -31,7 +31,7 @@ layout:
     visible: true
 ---
 
-# All Seasons
+# Objectives & Strategy
 
 ## About
 

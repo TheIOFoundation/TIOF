@@ -20,22 +20,21 @@
 ## OUR WORK
 
 * [Activities](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/sRFrwDq11pmSbWoSLKjc/)
-* [Season 2026](our-work/all-seasons/season-2026.md)
-* [All Seasons](our-work/all-seasons/README.md)
-  * [Season 2027](our-work/all-seasons/season-2027.md)
-  * [Season 2026](our-work/all-seasons/season-2026.md)
-  * [Season 2025](our-work/all-seasons/season-2025.md)
-  * [Season 2024](our-work/all-seasons/2024.md)
-  * [Season 2023](our-work/all-seasons/2023.md)
-  * [Season 2022](our-work/all-seasons/2022.md)
-  * [Season 2021](our-work/all-seasons/2021.md)
-  * [Season 2020](our-work/all-seasons/2020.md)
-  * [Season 2019](our-work/all-seasons/2019.md)
-  * [Season 2018](our-work/all-seasons/2018.md)
-
-## SEASON 2025
-
-* [Strategy](season-2025/strategy.md)
+* [Season 2026](our-work/objectives-and-strategy/season-2026.md)
+* [Objectives & Strategy](our-work/objectives-and-strategy/README.md)
+  * [Season 2030](our-work/objectives-and-strategy/season-2030.md)
+  * [Season 2029](our-work/objectives-and-strategy/season-2029.md)
+  * [Season 2028](our-work/objectives-and-strategy/season-2028.md)
+  * [Season 2027](our-work/objectives-and-strategy/season-2027.md)
+  * [Season 2026](our-work/objectives-and-strategy/season-2026.md)
+  * [Season 2025](our-work/objectives-and-strategy/season-2025.md)
+  * [Season 2024](our-work/objectives-and-strategy/2024.md)
+  * [Season 2023](our-work/objectives-and-strategy/2023.md)
+  * [Season 2022](our-work/objectives-and-strategy/2022.md)
+  * [Season 2021](our-work/objectives-and-strategy/2021.md)
+  * [Season 2020](our-work/objectives-and-strategy/2020.md)
+  * [Season 2019](our-work/objectives-and-strategy/2019.md)
+  * [Season 2018](our-work/objectives-and-strategy/2018.md)
 
 ## Institutional
 

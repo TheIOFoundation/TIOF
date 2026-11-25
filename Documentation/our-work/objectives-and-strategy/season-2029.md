@@ -2,7 +2,7 @@
 description: Discover what is The IO Foundation's work during this Season.
 hidden: true
 noIndex: true
-icon: leaf
+icon: pagelines
 cover: >-
   ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Season XXX
   v1.4.png
@@ -33,7 +33,7 @@ layout:
     visible: true
 ---
 
-# Season 2027
+# Season 2029
 
 
 

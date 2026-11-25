@@ -1,31 +1,55 @@
 ---
-noIndex: true
+description: Discover what is The IO Foundation's work during this Season.
 icon: pagelines
+cover: >-
+  ../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Page Header Season XXX
+  v1.4.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
-# Strategy
+# Season 2025
 
 {% tabs %}
 {% tab title="Quick Resources" %}
 {% hint style="info" %}
-[**ShortURL**](https://short.theiofoundation.org/TIOFOrgBoards) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
+[**ShortURL**](https://short.theiofoundation.org/TIOFSeason2025) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
 {% endhint %}
 {% endtab %}
 
 {% tab title="Share this page" %}
 Use this QR Code to quickly share this page.
 
-<figure><img src="../.gitbook/assets/[TIOF] Comms [P] TIOF Full Logo C T HiRes ENG v1.6 (1).png" alt="" width="375"><figcaption><p>QR Code of this page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF QR Code Season 2025 XXX v1.0.png" alt="" width="188"><figcaption><p>QR Code of this page</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
-{% hint style="info" %}
-[**ShortURL**](https://tiof.click/Season2025) **|&#x20;**~~**Playbook**~~**&#x20;|&#x20;**~~**Assistant**~~
-{% endhint %}
-
 ## About
 
-This page contains describes the The IO Foundation's strategy corresponding for Season 2025.
+This page contains all The IO Foundation's strategy and reporting for Season 2025.
 
 ## Introduction
 
@@ -62,5 +86,10 @@ The organization will focus on expanding its content production, including artic
 
 For Season 2025, The IO Foundation will focus on the following Initiatives and Projects:
 
-<table><thead><tr><th width="283">Initiative</th><th width="328.9998779296875">Project</th><th>Notes</th></tr></thead><tbody><tr><td><a href="https://tiof.click/BiTDocs">Business and Human Rights in Technology<br>[BiT]</a></td><td>ProtocolWatch</td><td></td></tr><tr><td></td><td><del>Preventing Internet Fragmentation (PIF)</del></td><td></td></tr><tr><td><a href="https://tiof.click/DCDRDocs">Data-Centric Digital Rights<br>[DCDR]</a></td><td>DCDR Framework</td><td></td></tr><tr><td><a href="https://tiof.click/TUDocs">TechUp<br>[TU]</a></td><td>TechUp Academy</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="283">Initiative</th><th width="293">Project</th><th>Notes</th></tr></thead><tbody><tr><td><a href="https://tiof.click/BiTDocs">Business and Human Rights in Technology<br>[BiT]</a></td><td>ProtocolWatch</td><td></td></tr><tr><td><a href="https://tiof.click/BiTDocs">Business and Human Rights in Technology<br>[BiT]</a></td><td><del>Preventing Internet Fragmentation (PIF)</del></td><td>PROJECT WAS CANCELLED BY GRANTOR</td></tr><tr><td><a href="https://tiof.click/DCDRDocs">Data-Centric Digital Rights<br>[DCDR]</a></td><td>DCDR Framework</td><td></td></tr><tr><td><a href="https://tiof.click/TUDocs">TechUp<br>[TU]</a></td><td>TechUp Academy</td><td></td></tr></tbody></table>
 
+## Annual Reports
+
+{% hint style="info" %}
+The annual reports will be available in 2026.
+{% endhint %}
