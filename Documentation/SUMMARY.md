@@ -28,13 +28,13 @@
   * [Season 2027](our-work/objectives-and-strategy/season-2027.md)
   * [Season 2026](our-work/objectives-and-strategy/season-2026.md)
   * [Season 2025](our-work/objectives-and-strategy/season-2025.md)
-  * [Season 2024](our-work/objectives-and-strategy/2024.md)
-  * [Season 2023](our-work/objectives-and-strategy/2023.md)
-  * [Season 2022](our-work/objectives-and-strategy/2022.md)
-  * [Season 2021](our-work/objectives-and-strategy/2021.md)
-  * [Season 2020](our-work/objectives-and-strategy/2020.md)
-  * [Season 2019](our-work/objectives-and-strategy/2019.md)
-  * [Season 2018](our-work/objectives-and-strategy/2018.md)
+  * [Season 2024](our-work/objectives-and-strategy/season-2024.md)
+  * [Season 2023](our-work/objectives-and-strategy/season-2023.md)
+  * [Season 2022](our-work/objectives-and-strategy/season-2022.md)
+  * [Season 2021](our-work/objectives-and-strategy/season-2021.md)
+  * [Season 2020](our-work/objectives-and-strategy/season-2020.md)
+  * [Season 2019](our-work/objectives-and-strategy/season-2019.md)
+  * [Season 2018](our-work/objectives-and-strategy/season-2018.md)
 
 ## Institutional
 
