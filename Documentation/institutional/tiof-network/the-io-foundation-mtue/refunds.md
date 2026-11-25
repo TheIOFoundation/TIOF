@@ -12,6 +12,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -27,6 +28,8 @@ layout:
   tags:
     visible: true
   actions:
+    visible: true
+  anchors:
     visible: true
 ---
 
@@ -67,7 +70,7 @@ Feel free to contact us at [Finance@TheIOFoundation.org](mailto:Finance@TheIOFou
 ## Using Wise?
 
 If you are refunding via Wise, you can easily find The IO Foundation with the following Wisetag:\
-&#xNAN;**@theiofoundation**
+**@theiofoundation**
 {% endhint %}
 
 ## Organizational Information

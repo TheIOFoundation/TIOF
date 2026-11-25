@@ -9,6 +9,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: false
   description:
@@ -25,6 +26,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: false
 ---
 
 # Landing Test
